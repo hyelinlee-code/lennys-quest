@@ -96,7 +96,6 @@ export function DexScreen({ focusCardId }: { focusCardId?: string }) {
               veiled={selMastery === 0}
               overlay={{
                 expression: selected.keyPhrase.text,
-                meaning_ko: selected.keyPhrase.meaning_ko,
                 excerpt: shortExcerpt(selected.sentence, selected.keyPhrase.surface),
                 speaker: selSpeaker?.name,
               }}

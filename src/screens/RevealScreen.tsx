@@ -80,7 +80,6 @@ export function RevealScreen({
         bloom
         overlay={{
           expression: card.keyPhrase.text,
-          meaning_ko: card.keyPhrase.meaning_ko,
           excerpt: shortExcerpt(card.sentence, card.keyPhrase.surface),
           speaker: speaker?.name,
         }}

@@ -1,9 +1,10 @@
 import { useRef, type PointerEvent } from 'react';
 import type { Rarity } from '../types';
 
+/** Card text stays English-only — translations live in the side panel, so one
+ *  card art + overlay works for every future translation language. */
 export interface CardOverlay {
   expression: string;
-  meaning_ko?: string;
   excerpt?: string;
   speaker?: string;
 }
@@ -86,7 +87,6 @@ export function TiltCard({ imageSrc, rarity, veiled, bloom, overlay, onClick }: 
         <div className="fz fc-scroll">
           {showText && (
             <>
-              {overlay.meaning_ko && <div className="fc-mean">{overlay.meaning_ko}</div>}
               {overlay.excerpt && <div className="fc-exc">“{overlay.excerpt}”</div>}
               {overlay.speaker && <div className="fc-spk">— {overlay.speaker}</div>}
             </>
