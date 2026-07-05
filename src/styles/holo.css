@@ -1,5 +1,14 @@
 /* Ported verbatim-where-possible from lennys-dex/wizard_dex_full.html (verified prototype). */
 
+/* Crop the full card art to just the oval portrait window (HANDOFF crop box:
+   x 17%→83%, y 17%→66%) — one art per speaker, no separate profile image.
+   object-view-box in Chromium/Safari; older browsers fall back to the
+   object-position framing each call site already sets. */
+.portrait-window {
+  object-fit: cover;
+  object-view-box: inset(17% 17% 34% 17%);
+}
+
 /* ---------- dex grid cell ---------- */
 .dex-cell {
   perspective: 900px;

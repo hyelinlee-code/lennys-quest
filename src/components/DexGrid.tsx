@@ -31,7 +31,7 @@ export function DexGrid({ cards, speakers, save, onSelect }: DexGridProps) {
               onClick={() => onSelect(c)}
             >
               <img
-                className="por"
+                className="por portrait-window"
                 src={img}
                 alt=""
                 onError={(e) => {

@@ -44,7 +44,7 @@ export function AudienceScreen({ speakerId }: { speakerId: string }) {
         <img
           src={`${import.meta.env.BASE_URL}${speaker.portrait.replace(/^\//, '')}`}
           alt={speaker.name}
-          className="h-40 w-32 rounded-xl border-2 border-[#8a5e30] object-cover"
+          className="portrait-window h-36 w-36 rounded-full border-2 border-[#8a5e30] shadow-[0_8px_20px_rgba(0,0,0,0.5)]"
           style={{ objectPosition: '50% 22%' }}
           onError={(e) => {
             if (!e.currentTarget.src.endsWith('_placeholder.svg')) e.currentTarget.src = PLACEHOLDER;

@@ -59,7 +59,7 @@ export function MapScreen() {
                       <img
                         src={`${import.meta.env.BASE_URL}${sp.portrait.replace(/^\//, '')}`}
                         alt={sp.name}
-                        className="h-full w-full object-cover"
+                        className="portrait-window h-full w-full"
                         style={{ objectPosition: '50% 22%' }}
                         onError={(e) => {
                           if (!e.currentTarget.src.endsWith('_placeholder.svg')) e.currentTarget.src = PLACEHOLDER;
