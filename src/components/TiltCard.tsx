@@ -1,21 +1,43 @@
 import { useRef, type PointerEvent } from 'react';
+import type { Rarity } from '../types';
+
+export interface CardOverlay {
+  expression: string;
+  meaning_ko?: string;
+  excerpt?: string;
+  speaker?: string;
+}
 
 interface TiltCardProps {
   imageSrc: string;
-  rare: boolean;
+  rarity: Rarity;
   veiled?: boolean;
   bloom?: boolean;
-  /** Text for the top banner zone (expression) */
-  banner?: string;
-  /** Text for the bottom scroll zone (speaker) */
-  scroll?: string;
+  /** Text laid over the art's empty banner/scroll zones (wizard_card.html layout) */
+  overlay?: CardOverlay;
   onClick?: () => void;
 }
 
 const PLACEHOLDER = `${import.meta.env.BASE_URL}cards/_placeholder.svg`;
 
-/** Full-art 5:7 card with pointer-follow 3D tilt + holographic glare (ported from wizard_dex_full.html). */
-export function TiltCard({ imageSrc, rare, veiled, bloom, banner, scroll, onClick }: TiltCardProps) {
+/**
+ * Trim a long sentence to a scroll-sized excerpt, keeping the key phrase visible —
+ * reproduces the manual trimming convention from wizard_card.html
+ * ("…but it was the sizzle to the steak.").
+ */
+export function shortExcerpt(sentence: string, surface?: string): string {
+  if (sentence.length <= 60) return sentence;
+  const needle = surface?.toLowerCase();
+  const idx = needle ? sentence.toLowerCase().indexOf(needle) : -1;
+  if (idx < 0) return `${sentence.slice(0, 57).replace(/\s+\S*$/, '')}…`;
+  const start = Math.max(0, sentence.lastIndexOf(' ', Math.max(0, idx - 20)) + 1);
+  const tail = sentence.slice(start);
+  const clipped = tail.length > 80 ? `${tail.slice(0, 77).replace(/\s+\S*$/, '')}…` : tail;
+  return start > 0 ? `…${clipped}` : clipped;
+}
+
+/** Full-art 5:7 card with pointer-follow 3D tilt + holo sheen + text overlay (ported from wizard_card.html). */
+export function TiltCard({ imageSrc, rarity, veiled, bloom, overlay, onClick }: TiltCardProps) {
   const ref = useRef<HTMLDivElement>(null);
   const reduce =
     typeof window !== 'undefined' && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -39,11 +61,13 @@ export function TiltCard({ imageSrc, rare, veiled, bloom, banner, scroll, onClic
     el.style.setProperty('--my', '35%');
   }
 
+  const showText = !veiled && overlay;
+
   return (
     <div className="stage">
       <div
         ref={ref}
-        className={`fcard${rare ? ' rare' : ''}${veiled ? ' veiled' : ''}${bloom ? ' bloom' : ''}`}
+        className={`fcard ${rarity}${veiled ? ' veiled' : ''}${bloom ? ' bloom' : ''}`}
         onPointerMove={onMove}
         onPointerLeave={onLeave}
         onClick={onClick}
@@ -57,10 +81,16 @@ export function TiltCard({ imageSrc, rare, veiled, bloom, banner, scroll, onClic
         />
         <div className="mholo" />
         <div className="fz fc-banner">
-          <div className="fc-expr">{veiled ? '' : banner}</div>
+          <div className="fc-expr">{showText ? overlay.expression : ''}</div>
         </div>
         <div className="fz fc-scroll">
-          <div className="fc-spk">{veiled ? '' : scroll}</div>
+          {showText && (
+            <>
+              {overlay.meaning_ko && <div className="fc-mean">{overlay.meaning_ko}</div>}
+              {overlay.excerpt && <div className="fc-exc">“{overlay.excerpt}”</div>}
+              {overlay.speaker && <div className="fc-spk">— {overlay.speaker}</div>}
+            </>
+          )}
         </div>
       </div>
     </div>

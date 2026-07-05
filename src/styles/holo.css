@@ -208,19 +208,38 @@
   color: #3a2208;
   text-shadow: 0 1px 0 rgba(255, 246, 222, 0.55);
 }
+/* scroll zone: 3 stacked lines (meaning / excerpt / speaker) — wizard_card.html final */
 .fc-scroll {
   left: 18%;
   right: 18%;
-  top: 80%;
-  height: 11%;
+  top: 79.8%;
+  height: 11.5%;
+  flex-direction: column;
+  gap: 0.12em;
+  justify-content: center;
+}
+.fc-mean {
+  font-family: 'Noto Serif KR', serif;
+  font-weight: 600;
+  font-size: clamp(10px, 2.7vw, 15px);
+  line-height: 1.12;
+  color: #3a2208;
+  text-shadow: 0 1px 0 rgba(255, 246, 222, 0.5);
+}
+.fc-exc {
+  font-style: italic;
+  font-size: clamp(8.5px, 2.3vw, 12px);
+  line-height: 1.16;
+  color: #5b3d1c;
+  max-width: 96%;
 }
 .fc-spk {
   font-family: 'Cinzel', serif;
   text-transform: uppercase;
-  font-size: clamp(7px, 1.8vw, 10px);
-  letter-spacing: 1.6px;
-  color: #3a2208;
-  text-shadow: 0 1px 0 rgba(255, 246, 222, 0.55);
+  font-size: clamp(6.5px, 1.7vw, 9px);
+  letter-spacing: 1.4px;
+  color: #7a541d;
+  margin-top: 0.15em;
 }
 .mholo {
   position: absolute;
@@ -235,8 +254,44 @@
   background-size: auto, 220% 220%;
   background-position: center, var(--mx) var(--my);
 }
+/* diagonal light sweep on top of the holo layer — wizard_card.html final */
+.mholo::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 16px;
+  mix-blend-mode: overlay;
+  opacity: 0.5;
+  background: linear-gradient(115deg, transparent 30%, rgba(255, 255, 255, 0.65) 47%, transparent 64%);
+  background-size: 300% 300%;
+  animation: sweep 5.5s linear infinite;
+}
+@keyframes sweep {
+  0% {
+    background-position: 140% 0;
+  }
+  100% {
+    background-position: -40% 0;
+  }
+}
 .fcard.rare .mholo {
   opacity: 0.3;
+}
+.fcard.rare {
+  animation: float 6s ease-in-out infinite;
+}
+@keyframes float {
+  0%,
+  100% {
+    translate: 0 0;
+  }
+  50% {
+    translate: 0 -7px;
+  }
+}
+/* common = matte bronze treatment on the shared art */
+.fcard.common img {
+  filter: sepia(0.32) saturate(0.78) brightness(0.95) contrast(1.02);
 }
 .fcard.veiled img {
   filter: grayscale(0.9) brightness(0.42) contrast(0.95);
@@ -355,6 +410,12 @@
     transition: none;
   }
   .dex-card.rare .gholo {
+    animation: none;
+  }
+  .fcard.rare {
+    animation: none;
+  }
+  .mholo::after {
     animation: none;
   }
 }

@@ -58,7 +58,7 @@ export function QuizScreen({
       </div>
 
       <div className="flex flex-col items-center gap-7 md:flex-row md:items-start">
-        <TiltCard imageSrc={img} rare={card.rarity === 'rare'} veiled />
+        <TiltCard imageSrc={img} rarity={card.rarity} veiled />
 
         <div className="flex min-w-0 flex-1 flex-col gap-4">
           <div className="flex items-center gap-2.5">

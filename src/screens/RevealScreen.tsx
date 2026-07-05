@@ -1,7 +1,7 @@
 import { useMemo } from 'react';
 import { useGame } from '../game/GameProvider';
 import { useCards } from '../hooks/useCards';
-import { TiltCard } from '../components/TiltCard';
+import { TiltCard, shortExcerpt } from '../components/TiltCard';
 import { SpeechBubble } from '../components/vn/VnScene';
 import { CARD_EARNED_LINES, CARD_MASTERED_LINES, fill } from '../game/scenes';
 import { nextQuestStep } from '../game/quest';
@@ -76,10 +76,14 @@ export function RevealScreen({
 
       <TiltCard
         imageSrc={img}
-        rare={card.rarity === 'rare'}
+        rarity={card.rarity}
         bloom
-        banner={card.keyPhrase.text}
-        scroll={speaker?.name ?? ''}
+        overlay={{
+          expression: card.keyPhrase.text,
+          meaning_ko: card.keyPhrase.meaning_ko,
+          excerpt: shortExcerpt(card.sentence, card.keyPhrase.surface),
+          speaker: speaker?.name,
+        }}
       />
 
       <SpeechBubble name="Lenny" tail={false} className="w-full max-w-xl">

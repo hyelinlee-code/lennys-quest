@@ -14,34 +14,64 @@
    대괄호 안의 앵커 문장을 포함시킨다 → 전체 카드 스타일 통일.
 4. 결과물을 `public/cards/<speaker-slug>.png` 로 저장 (세로 5:7, 1000×1400 이상).
 
-## 템플릿
+## 템플릿 (Bret 카드를 만든 원본 프롬프트 — 검증됨, 변수 3곳만 교체)
+
+`{{HOUSE_COLOR}}` / `{{MOTIF}}` / RARITY 블록만 바꾸고 나머지 문구는 그대로 쓸 것.
 
 ```
-RESTYLE the attached caricature into an ornate antique "wizard card" full-art portrait.
+I'm attaching a reference caricature of a specific person (the official illustrated
+version used by a newsletter). RESTYLE this exact character into an ornate collectible
+"wizard card" for a card-collecting study app.
 
-[If anchor attached: Also attached is my anchor reference card — match its exact frame,
-palette, and rendering style. Change ONLY the character and the motif details.]
+IDENTITY — preserve from the attached reference: Keep the person clearly recognizable.
+Preserve their facial features, hairstyle, distinguishing traits, and overall likeness
+from the reference. This must still read as the SAME person — just redrawn in a new
+artistic style. Do not invent a different face.
 
-IDENTITY: Preserve the attached person's face, hair, and distinguishing features so they
-are clearly recognizable as the same person. Do not invent a different face.
+RESTYLE INTO THIS STYLE (lock exactly — identical on every card)
+Antique illuminated trading-card illustration. Painterly oil-portrait finish with fine
+engraved linework, the look of a vintage arcane collectible. Rich, museum-like, slightly
+aged. Dignified, not cartoonish. Reimagine the person as a learned alchemist-sage:
+composed, intelligent expression, holding a small glowing orb of light.
 
-STYLE (fixed): antique illuminated trading card, painterly oil-portrait, engraved
-linework, the subject reimagined as a wise alchemist-sage holding or near a glowing orb.
+FRAME & LAYOUT (lock exactly)
+Place the restyled head-and-shoulders portrait inside an arched oval window. Around it,
+an elaborate gilded baroque filigree frame on aged parchment, with ornate corner
+flourishes and faint mystical motifs (constellations, arcane sigils). Weave in a subtle
+modern "tech wizard" nod: thin circuitry traced into the gold filigree, plus {{MOTIF}}
+hidden among the sigils. Reserve TWO completely BLANK zones for later text overlay
+(no letters in them): a slim banner plaque across the TOP, and a blank scroll /
+cartouche across the BOTTOM THIRD.
 
-FRAME (fixed): arched oval portrait window, gilded baroque filigree on aged parchment,
-arcane sigils; subtle circuit-board patterns woven into the gold filigree.
-Leave TWO zones completely EMPTY: a banner plaque at the top and a scroll cartouche at
-the bottom (no text anywhere).
+PALETTE / LIGHT
+Candlelit chiaroscuro, warm gold-leaf accents, jewel tones.
+Dominant set color: {{HOUSE_COLOR}}.
 
-PALETTE: candlelit chiaroscuro with gold leaf accents.
-HOUSE COLOR: {{HOUSE_COLOR}} as the dominant accent in the robe and frame gems.
+RARITY — rare
+Gleaming gold-leaf frame, holographic prismatic sheen across the border, softly glowing
+sigils.
 
-PERSONAL MOTIF: {{MOTIF}} worked subtly into the background sigils.
+CONSTRAINTS
+Preserve the reference likeness. No readable text, letters, or numbers anywhere on the
+card. Keep the top banner and bottom scroll empty. No logos, no watermarks, no existing
+franchise or branded card design. Single character only.
 
-CONSTRAINTS: no text, numbers, logos, or watermarks; banner and scroll stay empty;
-single character only.
-FORMAT: vertical 5:7, rounded corners, high resolution.
+FORMAT
+Vertical trading card, 5:7 ratio, rounded corners, character centered, high resolution.
 ```
+
+### 변수 값
+
+- `{{HOUSE_COLOR}}`:
+  - founder → `deep slate navy (#1B2433) with warm gold (#E0A85E)` (Bret 원본 그대로)
+  - investor → `deep emerald green (#1B3325) with warm gold (#E0A85E)`
+  - operator → `royal plum purple (#2A1B33) with warm gold (#E0A85E)`
+- `{{MOTIF}}`: `pipeline/work/<slug>/03b-speaker.json`의 `motif` 값
+  (Bret 원본은 `a tiny map-pin and a small "like" heart`)
+- RARITY 블록: 그대로 **rare 버전으로 1장만 생성**하는 것을 권장 —
+  common 카드의 무광 브론즈 톤은 앱 CSS(`.fcard.common`)가 처리하므로 이미지 2장이 필요 없다.
+  (굳이 common 전용 이미지를 원하면: `RARITY — common / Aged bronze matte frame, quiet
+  magic, no holographic sheen.`으로 교체)
 
 ## 레니 스프라이트 (타이틀/홈/대화 씬 캐릭터)
 

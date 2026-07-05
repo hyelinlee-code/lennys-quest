@@ -3,7 +3,7 @@ import { useGame } from '../game/GameProvider';
 import { useCards } from '../hooks/useCards';
 import { DexGrid, cardMastery } from '../components/DexGrid';
 import { ProgressBars } from '../components/ProgressBars';
-import { TiltCard } from '../components/TiltCard';
+import { TiltCard, shortExcerpt } from '../components/TiltCard';
 import { HOUSES, type Card, type House } from '../types';
 
 type Tab = 'all' | House;
@@ -92,10 +92,14 @@ export function DexScreen({ focusCardId }: { focusCardId?: string }) {
                   ? `${import.meta.env.BASE_URL}${selSpeaker.portrait.replace(/^\//, '')}`
                   : `${import.meta.env.BASE_URL}cards/_placeholder.svg`
               }
-              rare={selected.rarity === 'rare'}
+              rarity={selected.rarity}
               veiled={selMastery === 0}
-              banner={selected.keyPhrase.text}
-              scroll={selSpeaker?.name ?? ''}
+              overlay={{
+                expression: selected.keyPhrase.text,
+                meaning_ko: selected.keyPhrase.meaning_ko,
+                excerpt: shortExcerpt(selected.sentence, selected.keyPhrase.surface),
+                speaker: selSpeaker?.name,
+              }}
             />
             <div className="flex min-w-0 flex-1 flex-col gap-3">
               <div className="flex items-center gap-2.5">
