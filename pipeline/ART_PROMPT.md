@@ -10,7 +10,7 @@
    - `{{HOUSE_COLOR}}`: founder = deep navy / investor = emerald green / operator = royal purple
    - `{{MOTIF}}`: `pipeline/work/<slug>/03b-speaker.json`의 `motif` 값
 3. ChatGPT에 캐리커처를 첨부하고 프롬프트를 붙여넣는다.
-   **두 번째 스피커부터는 Bret 앵커 카드(`public/cards/bret-taylor.jpeg`)도 함께 첨부**하고
+   **두 번째 스피커부터는 Bret 앵커 카드(`public/cards/bret-taylor.jpg`)도 함께 첨부**하고
    대괄호 안의 앵커 문장을 포함시킨다 → 전체 카드 스타일 통일.
 4. 결과물을 `public/cards/<speaker-slug>.png` 로 저장 (세로 5:7, 1000×1400 이상).
 
