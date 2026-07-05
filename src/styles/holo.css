@@ -1,0 +1,360 @@
+/* Ported verbatim-where-possible from lennys-dex/wizard_dex_full.html (verified prototype). */
+
+/* ---------- dex grid cell ---------- */
+.dex-cell {
+  perspective: 900px;
+}
+.dex-card {
+  position: relative;
+  aspect-ratio: 3/4;
+  cursor: pointer;
+  border-radius: 12px;
+  overflow: hidden;
+  border: 2px solid #8a5e30;
+  background: #120d18;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.5);
+  transition: transform 0.2s ease, box-shadow 0.25s ease;
+}
+.dex-card:hover {
+  transform: translateY(-4px);
+}
+.dex-card .por {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 50% 22%;
+}
+.dex-card .label {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 8px 8px 9px;
+  background: linear-gradient(to top, rgba(8, 6, 10, 0.94) 60%, rgba(8, 6, 10, 0));
+  font-family: 'Cinzel', serif;
+  font-weight: 600;
+  font-size: 11.5px;
+  line-height: 1.12;
+  text-align: center;
+  color: #ecdcb6;
+  text-transform: lowercase;
+}
+.dex-card .stars {
+  position: absolute;
+  top: 6px;
+  left: 7px;
+  font-size: 12px;
+  letter-spacing: 1px;
+  color: #ffd87a;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.8);
+  z-index: 3;
+}
+.dex-card .gem {
+  position: absolute;
+  top: 7px;
+  right: 7px;
+  z-index: 3;
+  font-family: 'Cinzel', serif;
+  font-size: 8.5px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  padding: 2px 6px;
+  border-radius: 99px;
+}
+.gem.common,
+.p-gem.common {
+  color: #d9b98a;
+  background: rgba(120, 80, 40, 0.6);
+  border: 1px solid #9c6b3a;
+}
+.gem.rare,
+.p-gem.rare {
+  color: #2a1d08;
+  background: linear-gradient(90deg, #f0d588, #caa24f);
+  border: 1px solid #ffe9a8;
+}
+.dex-card.rare {
+  border-color: #e7c071;
+  box-shadow: 0 0 0 1px rgba(255, 225, 150, 0.5), 0 10px 22px rgba(120, 80, 20, 0.45);
+}
+.gholo {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  mix-blend-mode: color-dodge;
+  opacity: 0;
+  background: conic-gradient(from 0deg, #ff2f9e22, #ffe35922, #33ffd422, #3b7bff22, #b14bff22, #ff2f9e22);
+  background-size: 200% 200%;
+}
+.dex-card.rare .gholo {
+  opacity: 0.5;
+  animation: hue 7s linear infinite;
+}
+@keyframes hue {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+.dex-card .seal {
+  position: absolute;
+  bottom: 34px;
+  right: 7px;
+  z-index: 4;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  font-size: 13px;
+  color: #ffe7b0;
+  background: radial-gradient(circle at 35% 30%, #c64a35, #7e1f14);
+  border: 2px solid #f0c46a;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
+  font-family: 'Cinzel', serif;
+  transform: rotate(-12deg);
+}
+.dex-card.locked {
+  border-color: #3a3344;
+  border-style: dashed;
+}
+.dex-card.locked .por {
+  filter: grayscale(1) brightness(0.28) contrast(0.9);
+}
+.dex-card.locked .label {
+  color: #5b5168;
+  letter-spacing: 4px;
+}
+.dex-card .lock {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  z-index: 2;
+  font-size: 40px;
+  color: rgba(170, 150, 120, 0.22);
+}
+/* "fading ink" — captured card that is due for review */
+.dex-card.fading .por {
+  filter: saturate(0.35) brightness(0.72);
+}
+.dex-card .fade-badge {
+  position: absolute;
+  top: 26px;
+  right: 7px;
+  z-index: 3;
+  font-size: 8.5px;
+  font-family: 'Noto Serif KR', serif;
+  color: #cbb7de;
+  background: rgba(70, 55, 100, 0.75);
+  border: 1px solid #7a6a9a;
+  padding: 2px 6px;
+  border-radius: 99px;
+  letter-spacing: 0.5px;
+}
+
+/* ---------- full-art tilt card ---------- */
+.stage {
+  perspective: 1100px;
+  flex: 0 0 auto;
+}
+.fcard {
+  position: relative;
+  width: min(72vw, 320px);
+  aspect-ratio: 720/1008;
+  border-radius: 16px;
+  transform-style: preserve-3d;
+  transition: transform 0.2s ease;
+  will-change: transform;
+  filter: drop-shadow(0 24px 40px rgba(0, 0, 0, 0.6));
+  cursor: pointer;
+  --mx: 50%;
+  --my: 35%;
+}
+.fcard img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 16px;
+}
+.fz {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  pointer-events: none;
+  transform: translateZ(26px);
+}
+.fc-banner {
+  left: 21%;
+  right: 21%;
+  top: 6.4%;
+  height: 6.4%;
+}
+.fc-expr {
+  font-family: 'Cinzel', serif;
+  font-weight: 600;
+  text-transform: lowercase;
+  font-size: clamp(9px, 2.4vw, 14px);
+  letter-spacing: 0.4px;
+  line-height: 1.05;
+  color: #3a2208;
+  text-shadow: 0 1px 0 rgba(255, 246, 222, 0.55);
+}
+.fc-scroll {
+  left: 18%;
+  right: 18%;
+  top: 80%;
+  height: 11%;
+}
+.fc-spk {
+  font-family: 'Cinzel', serif;
+  text-transform: uppercase;
+  font-size: clamp(7px, 1.8vw, 10px);
+  letter-spacing: 1.6px;
+  color: #3a2208;
+  text-shadow: 0 1px 0 rgba(255, 246, 222, 0.55);
+}
+.mholo {
+  position: absolute;
+  inset: 0;
+  border-radius: 16px;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.4s;
+  mix-blend-mode: color-dodge;
+  background: radial-gradient(60% 45% at var(--mx) var(--my), rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0) 55%),
+    conic-gradient(from 0deg, #ff2f9e33, #ffe35933, #33ffd433, #3b7bff33, #b14bff33, #ff2f9e33);
+  background-size: auto, 220% 220%;
+  background-position: center, var(--mx) var(--my);
+}
+.fcard.rare .mholo {
+  opacity: 0.3;
+}
+.fcard.veiled img {
+  filter: grayscale(0.9) brightness(0.42) contrast(0.95);
+}
+.fcard.bloom {
+  animation: bloom 0.9s ease;
+}
+@keyframes bloom {
+  0% {
+    filter: drop-shadow(0 0 0 rgba(255, 220, 130, 0));
+  }
+  30% {
+    filter: drop-shadow(0 0 28px rgba(255, 220, 130, 0.95));
+  }
+  100% {
+    filter: drop-shadow(0 24px 40px rgba(0, 0, 0, 0.6));
+  }
+}
+
+/* ---------- chip quiz ---------- */
+.cap-answer {
+  min-height: 52px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  padding: 10px 12px;
+  border-radius: 12px;
+  border: 1.5px dashed rgba(220, 200, 150, 0.35);
+  background: rgba(255, 255, 255, 0.03);
+}
+.cap-answer.shake {
+  animation: shk 0.4s;
+}
+@keyframes shk {
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(-5px);
+  }
+  75% {
+    transform: translateX(5px);
+  }
+}
+.chip {
+  font-family: 'Cinzel', serif;
+  font-size: 14px;
+  letter-spacing: 0.3px;
+  color: #ecdcb6;
+  background: linear-gradient(180deg, #2a2233, #1b1525);
+  border: 1px solid #6b573a;
+  border-radius: 10px;
+  padding: 8px 14px;
+  cursor: pointer;
+  transition: transform 0.12s ease, filter 0.2s;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.4);
+}
+.chip:hover {
+  transform: translateY(-2px);
+  filter: brightness(1.12);
+}
+.chip.placed {
+  color: #2a1d08;
+  background: linear-gradient(180deg, #f4dd93, #caa24f);
+  border-color: #ffe9a8;
+}
+
+/* ---------- progress bars ---------- */
+.track {
+  height: 7px;
+  border-radius: 99px;
+  background: rgba(255, 255, 255, 0.07);
+  overflow: hidden;
+  border: 1px solid rgba(220, 200, 150, 0.12);
+}
+.fill {
+  height: 100%;
+  border-radius: 99px;
+  transition: width 0.5s ease;
+}
+.fill.cap {
+  background: linear-gradient(90deg, #caa24f, #f0d588);
+}
+.fill.mas {
+  background: linear-gradient(90deg, #b8472f, #f0a85e, #ffd98a);
+}
+
+/* ---------- toast ---------- */
+.toast {
+  position: fixed;
+  top: 34px;
+  left: 50%;
+  transform: translateX(-50%) translateY(-12px);
+  z-index: 60;
+  font-family: 'Cinzel', serif;
+  letter-spacing: 1.5px;
+  font-size: 14px;
+  color: #2a1d08;
+  background: linear-gradient(90deg, #f0d588, #e0a85e);
+  padding: 11px 22px;
+  border-radius: 99px;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.5);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s, transform 0.3s;
+}
+.toast.show {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fcard {
+    transition: none;
+  }
+  .dex-card.rare .gholo {
+    animation: none;
+  }
+}

@@ -1,0 +1,456 @@
+[
+  {
+    "id": "bret-taylor-001",
+    "speakerId": "bret-taylor",
+    "sentence": "I like the fact I've worn different hats.",
+    "keyPhrase": {
+      "text": "wear different hats",
+      "surface": "worn different hats",
+      "meaning_ko": "여러 역할을 두루 맡다",
+      "usageTip": "Use it when one person covers several roles or job titles — a staple of early-stage startup introductions.",
+      "chips": ["wear", "different", "hats"],
+      "distractorChips": ["caps", "same"]
+    },
+    "context": "Reflecting on his career, Bret says his strength comes from having moved through wildly different roles — engineer, founder, CTO, and co-CEO.",
+    "vocabulary": [],
+    "topics": ["Career Development"],
+    "difficulty": "beginner",
+    "rarity": "common",
+    "legacy": true
+  },
+  {
+    "id": "bret-taylor-002",
+    "speakerId": "bret-taylor",
+    "sentence": "It's so hard to sell productivity software, which I learned the hard way.",
+    "keyPhrase": {
+      "text": "learn the hard way",
+      "surface": "learned the hard way",
+      "meaning_ko": "호되게 직접 겪으며 깨닫다",
+      "usageTip": "Use it to admit you gained a lesson through failure or trial and error — it sounds humble and genuine.",
+      "chips": ["learn", "the", "hard", "way"],
+      "distractorChips": ["easy", "soft"]
+    },
+    "context": "Bret is talking about Quip, the collaborative-docs startup he founded. Even with a great product, he discovered as a founder just how hard productivity software is to sell.",
+    "vocabulary": [
+      {
+        "word": "productivity software",
+        "meaning": "software for documents, collaboration, and getting work done",
+        "synonyms": ["collaboration tools"]
+      }
+    ],
+    "topics": ["Starting a Company"],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "legacy": true
+  },
+  {
+    "id": "bret-taylor-003",
+    "speakerId": "bret-taylor",
+    "sentence": "Just putting a database in the cloud was hard and that alone was a technical moat.",
+    "keyPhrase": {
+      "text": "a technical moat",
+      "meaning_ko": "기술로 쌓은 진입장벽(경쟁우위). moat = 성을 둘러싼 해자",
+      "usageTip": "Use it for a defensible advantage competitors can't easily copy. \"What's your moat?\" is a staple investor question.",
+      "chips": ["a", "technical", "moat"],
+      "distractorChips": ["wall", "castle"]
+    },
+    "context": "Recalling the early cloud era, Bret explains that even now-obvious technology was so hard to build back then that engineering skill alone created a competitive advantage.",
+    "vocabulary": [
+      {
+        "word": "moat",
+        "meaning": "a castle's defensive ditch; figuratively, a barrier competitors can't cross",
+        "note": "Popularized as a business term by Warren Buffett",
+        "synonyms": ["barrier", "edge"]
+      }
+    ],
+    "topics": ["Strategy & Planning"],
+    "difficulty": "intermediate",
+    "rarity": "rare",
+    "legacy": true
+  },
+  {
+    "id": "bret-taylor-004",
+    "speakerId": "bret-taylor",
+    "sentence": "It honestly wasn't the most important part of Google Maps, but it was the sizzle to the steak.",
+    "keyPhrase": {
+      "text": "the sizzle, not the steak",
+      "surface": "the sizzle to the steak",
+      "meaning_ko": "실속(본질)은 아니지만 사람을 끌어당기는 매력 포인트",
+      "usageTip": "Use it to separate the \"wow factor\" from the core value in a product demo or marketing discussion. From the adage \"Sell the sizzle, not the steak.\"",
+      "chips": ["the", "sizzle", "not", "the", "steak"],
+      "distractorChips": ["smoke", "sauce"]
+    },
+    "context": "Bret is talking about the draggable map he built in Google Maps' early days. It wasn't the most important technology, but it was the part users fell in love with — the sizzle, as opposed to the steak.",
+    "vocabulary": [
+      {
+        "word": "sizzle",
+        "meaning": "the sound of a steak on the grill; figuratively, surface-level appeal",
+        "note": "The idea: the sizzle (appeal), not the steak (substance), is what draws the customer in",
+        "synonyms": ["appeal", "flash"]
+      }
+    ],
+    "topics": ["Product Management"],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "legacy": true
+  },
+  {
+    "id": "bret-taylor-005",
+    "speakerId": "bret-taylor",
+    "sentence": "They interacted with me as, for lack of a better word, a suit, the boss.",
+    "keyPhrase": {
+      "text": "for lack of a better word",
+      "meaning_ko": "더 적당한 말이 없어서; 말하자면",
+      "usageTip": "A softener you put before an imperfect or blunt word choice when nothing better comes to mind.",
+      "chips": ["for", "lack", "of", "a", "better", "word"],
+      "distractorChips": ["term", "worse"]
+    },
+    "context": "Bret describes the distance he felt as Salesforce co-CEO: employees treated him not as a fellow builder but as \"a suit\" — upper management.",
+    "vocabulary": [
+      {
+        "word": "a suit",
+        "meaning": "(slang) an executive in a suit, out of touch with the front line",
+        "note": "Carries a mildly cynical tone"
+      }
+    ],
+    "topics": ["Leadership & Management"],
+    "difficulty": "intermediate",
+    "rarity": "rare",
+    "legacy": true
+  },
+  {
+    "id": "bret-taylor-006",
+    "speakerId": "bret-taylor",
+    "sentence": "I went home that night and I was stewing on it and not very happy.",
+    "keyPhrase": {
+      "text": "stew on it",
+      "surface": "stewing on it",
+      "meaning_ko": "(속으로) 곱씹다, 끙끙 앓다",
+      "usageTip": "Use it for turning uncomfortable feedback or a decision over and over in your mind. The image is literal: a slow simmer.",
+      "chips": ["stew", "on", "it"],
+      "distractorChips": ["chew", "over"]
+    },
+    "context": "After receiving painful feedback one day, Bret admits he brushed it off outwardly — but at home that night it kept simmering in his head.",
+    "vocabulary": [],
+    "topics": ["Learning & Growth"],
+    "difficulty": "intermediate",
+    "rarity": "rare",
+    "legacy": true
+  },
+  {
+    "id": "bret-taylor-007",
+    "speakerId": "bret-taylor",
+    "sentence": "What was my plan to manage them out of the company?",
+    "keyPhrase": {
+      "text": "manage them out",
+      "meaning_ko": "(직원을) 완곡하게 내보내다, 퇴출시키다",
+      "usageTip": "A softer HR phrase than \"fire\" — moving someone out through the performance-management process.",
+      "chips": ["manage", "them", "out"],
+      "distractorChips": ["push", "off"]
+    },
+    "context": "On handling underperformers, Bret's point is that a leader needs a concrete plan for a struggling team member — not vague waiting.",
+    "vocabulary": [],
+    "topics": ["Leadership & Management"],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "legacy": true
+  },
+  {
+    "id": "bret-taylor-008",
+    "speakerId": "bret-taylor",
+    "sentence": "You're probably going to bring to bear a lot of things.",
+    "keyPhrase": {
+      "text": "bring to bear",
+      "meaning_ko": "(역량·자원을) 총동원해 활용하다",
+      "usageTip": "A formal expression for deploying your resources — experience, skills, network — against a problem.",
+      "chips": ["bring", "to", "bear"],
+      "distractorChips": ["bare", "carry"]
+    },
+    "context": "Advice for starting something new: your accumulated experience and skills all get mobilized when you face a new problem.",
+    "vocabulary": [
+      {
+        "word": "bear",
+        "meaning": "here: to bring force or resources into action",
+        "note": "Easily confused with \"bare\" — same pronunciation"
+      }
+    ],
+    "topics": ["Career Development"],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "legacy": true
+  },
+  {
+    "id": "bret-taylor-009",
+    "speakerId": "bret-taylor",
+    "sentence": "Yeah, try out Sierra. I'm a single issue voter.",
+    "keyPhrase": {
+      "text": "a single-issue voter",
+      "surface": "a single issue voter",
+      "meaning_ko": "딱 한 가지만 보고 미는 사람 (여기선 'Sierra만 민다'는 농담)",
+      "usageTip": "Originally a politics term for voters who decide on one issue alone; repurposed as a joke meaning \"I only care about this one thing.\"",
+      "chips": ["a", "single", "issue", "voter"],
+      "distractorChips": ["double", "party"]
+    },
+    "context": "At the episode's plug time, asked what he wants listeners to remember, Bret jokes he'll only push one thing — his company Sierra — twisting a political term.",
+    "vocabulary": [],
+    "topics": ["Communication Skills"],
+    "difficulty": "intermediate",
+    "rarity": "rare",
+    "legacy": true
+  },
+  {
+    "id": "wes-kao-001",
+    "speakerId": "wes-kao",
+    "sentence": "And so I thought, all right, I'm going to toss my hat in the ring and not overthink it.",
+    "keyPhrase": {
+      "text": "toss one's hat in the ring",
+      "surface": "toss my hat in the ring",
+      "meaning_ko": "도전장을 내밀다. 겁먹지 않고 일단 뛰어들다",
+      "usageTip": "Use this when announcing you're entering a competitive process — a job application, a pitch contest, or a leadership role — to signal boldness without sounding arrogant.",
+      "chips": ["toss", "one's", "hat", "in", "the", "ring"],
+      "distractorChips": ["throw", "drop"]
+    },
+    "context": "Wes Kao is describing her decision to pursue an opportunity she was uncertain about. Rather than letting self-doubt paralyze her, she chose to simply put herself forward and stop overanalyzing whether she was ready.",
+    "vocabulary": [
+      {
+        "word": "overthink",
+        "meaning": "to think about something excessively, often causing paralysis instead of action",
+        "note": "Common in business contexts where analysis paralysis is a risk",
+        "synonyms": ["overanalyze", "ruminate"]
+      }
+    ],
+    "topics": ["Career Development", "Decision Making"],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "07:57"
+  },
+  {
+    "id": "wes-kao-002",
+    "speakerId": "wes-kao",
+    "sentence": "But my lesson there is don't take yourself out of the running before you get rejected.",
+    "keyPhrase": {
+      "text": "take oneself out of the running",
+      "surface": "take yourself out of the running",
+      "meaning_ko": "(거절당하기도 전에) 스스로 경쟁에서 발을 빼다",
+      "usageTip": "Use this as a coaching reminder when someone is hesitating to apply for a role or pitch an idea because they assume they'll be rejected.",
+      "chips": ["take", "oneself", "out", "of", "the", "running"],
+      "distractorChips": ["race", "game"]
+    },
+    "context": "Wes Kao is sharing a career lesson about self-sabotage: many people disqualify themselves mentally and stop applying for roles or opportunities before anyone has actually turned them down, which guarantees failure.",
+    "vocabulary": [
+      {
+        "word": "rejected",
+        "meaning": "formally turned down or not selected by someone else",
+        "note": "Key distinction: rejection by others vs. self-elimination",
+        "synonyms": ["turned down", "declined"]
+      }
+    ],
+    "topics": ["Career Development", "Learning & Growth"],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "09:24"
+  },
+  {
+    "id": "wes-kao-003",
+    "speakerId": "wes-kao",
+    "sentence": "I think externally, he can sometimes be a little bit of a vague Buddha, if you will.",
+    "keyPhrase": {
+      "text": "vague Buddha",
+      "meaning_ko": "심오해 보이지만 실체 없는 말만 늘어놓는 사람. '선문답형 리더'",
+      "usageTip": "Use this phrase (with tact) to describe a leader or communicator whose public statements feel lofty and inspirational but lack specificity that others can act on.",
+      "chips": ["vague", "Buddha"],
+      "distractorChips": ["clear", "precise"]
+    },
+    "context": "Wes Kao is characterizing a specific leadership communication style where someone uses philosophical or ambiguous language in public settings, creating an aura of wisdom without committing to clear, actionable statements.",
+    "vocabulary": [
+      {
+        "word": "vague",
+        "meaning": "not clearly expressed or defined; intentionally or unintentionally ambiguous",
+        "note": "Here used as a descriptor modifying a proper noun to coin a figurative character type",
+        "synonyms": ["ambiguous", "nebulous", "unclear"]
+      }
+    ],
+    "topics": ["Leadership & Management", "Communication Skills"],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "09:57"
+  },
+  {
+    "id": "wes-kao-004",
+    "speakerId": "wes-kao",
+    "sentence": "but that's the idea of start right before you get eaten by the bear is cut out all that backstory scope creep.",
+    "keyPhrase": {
+      "text": "backstory scope creep",
+      "meaning_ko": "본론 전 배경 설명이 끝없이 늘어지는 현상",
+      "usageTip": "Use this when coaching someone on a presentation or written proposal that buries the main point under too much setup — tell them to cut the backstory scope creep.",
+      "chips": ["backstory", "scope", "creep"],
+      "distractorChips": ["expansion", "overflow"]
+    },
+    "context": "Wes Kao is explaining a storytelling principle for business communication: presenters often bury their key insight under layers of unnecessary history and context — called 'backstory scope creep' — which loses the audience before the real point lands.",
+    "vocabulary": [
+      {
+        "word": "scope creep",
+        "meaning": "the gradual, uncontrolled expansion of a project or piece of content beyond its original intent",
+        "note": "Borrowed from project management; here applied to storytelling and narrative structure",
+        "synonyms": ["feature creep", "overextension"]
+      }
+    ],
+    "topics": ["Communication Skills", "Strategy & Planning"],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "17:48"
+  },
+  {
+    "id": "wes-kao-005",
+    "speakerId": "wes-kao",
+    "sentence": "With Twitter at least, it's 280 characters. It's something short that you're saying that's a little bit of a mic drop.",
+    "keyPhrase": {
+      "text": "mic drop",
+      "meaning_ko": "말 한마디로 분위기를 끊어버리는 결정타. mic drop = 공연 뒤 마이크를 던지는 제스처",
+      "usageTip": "Use this to describe the ideal ending of a pitch, presentation, or social post — a single line that lands so well it needs no follow-up.",
+      "chips": ["mic", "drop"],
+      "distractorChips": ["speaker", "stand"]
+    },
+    "context": "Wes Kao is discussing how short-form platforms like Twitter reward sharp, memorable statements. She argues that a great tweet functions like a mic drop — a punchy, self-contained line that stops conversation in its tracks.",
+    "vocabulary": [
+      {
+        "word": "characters",
+        "meaning": "individual letters, numbers, spaces, or symbols; used to measure the length of text on platforms like Twitter",
+        "note": "Platform-specific usage; '280 characters' is Twitter/X's post limit",
+        "synonyms": ["letters", "symbols"]
+      }
+    ],
+    "topics": ["Communication Skills", "Growth & Marketing"],
+    "difficulty": "beginner",
+    "rarity": "common",
+    "timestamp": "18:49"
+  },
+  {
+    "id": "wes-kao-006",
+    "speakerId": "wes-kao",
+    "sentence": "what was worrying their bosses, what was keeping them up at night so that they could take that off their plate.",
+    "keyPhrase": {
+      "text": "take something off someone's plate",
+      "surface": "take that off their plate",
+      "meaning_ko": "(상대방이 떠안은 일·걱정을) 대신 해결해 주다",
+      "usageTip": "Use this when offering to handle a colleague's or manager's responsibility — it signals empathy and initiative in professional settings.",
+      "chips": ["take", "something", "off", "someone's", "plate"],
+      "distractorChips": ["desk", "table"]
+    },
+    "context": "Wes Kao is describing what high-performing employees do proactively: they identify the problems that are stressing out their managers and make it their mission to solve them, removing the burden from their boss's to-do list.",
+    "vocabulary": [
+      {
+        "word": "worrying",
+        "meaning": "causing anxiety or concern; here used as a participle meaning 'what was causing stress'",
+        "synonyms": ["troubling", "concerning", "stressing"]
+      }
+    ],
+    "topics": ["Leadership & Management", "Career Development"],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "31:58"
+  },
+  {
+    "id": "wes-kao-007",
+    "speakerId": "wes-kao",
+    "sentence": "They're great at keeping their bosses in the loop on what's happening so their bosses, aren't constantly having to ask and pepper them with questions every day",
+    "keyPhrase": {
+      "text": "keep someone in the loop",
+      "surface": "keeping their bosses in the loop",
+      "meaning_ko": "(상황 변화를) 빠짐없이 공유해 상대가 흐름에서 끊기지 않게 하다",
+      "usageTip": "Use this phrase when explaining why proactive communication matters — keeping stakeholders in the loop reduces unnecessary meetings and micromanagement.",
+      "chips": ["keep", "someone", "in", "the", "loop"],
+      "distractorChips": ["circle", "chain"]
+    },
+    "context": "Wes Kao is explaining a habit of effective employees: by proactively sharing status updates with their managers, they prevent a dynamic where the manager must constantly chase them for information.",
+    "vocabulary": [
+      {
+        "word": "pepper",
+        "meaning": "to direct a rapid series of questions or requests at someone",
+        "note": "Informal verb; 'pepper someone with questions' means to bombard them repeatedly",
+        "synonyms": ["bombard", "barrage"]
+      }
+    ],
+    "topics": ["Communication Skills", "Leadership & Management"],
+    "difficulty": "beginner",
+    "rarity": "common",
+    "timestamp": "32:29"
+  },
+  {
+    "id": "wes-kao-008",
+    "speakerId": "wes-kao",
+    "sentence": "I find especially in remote work too erring on the side of over communicating is just, it ends up being the right level of communication.",
+    "keyPhrase": {
+      "text": "err on the side of",
+      "surface": "erring on the side of",
+      "meaning_ko": "불확실할 때 더 안전한 쪽으로 기울다",
+      "usageTip": "Use this when recommending a cautious default in ambiguous situations — 'err on the side of transparency,' 'err on the side of over-preparing,' etc.",
+      "chips": ["err", "on", "the", "side", "of"],
+      "distractorChips": ["fall", "lean"]
+    },
+    "context": "Wes Kao is giving advice about remote-work communication norms. When you're unsure how much to share with teammates or managers, defaulting to more communication consistently turns out to be the right choice.",
+    "vocabulary": [
+      {
+        "word": "erring",
+        "meaning": "making a slight mistake or deviation; here used idiomatically to mean 'choosing to lean toward'",
+        "note": "From the verb 'to err'; in this idiom it means a deliberate, safe choice, not a mistake",
+        "synonyms": ["defaulting", "leaning"]
+      }
+    ],
+    "topics": ["Communication Skills", "Career Development"],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "35:51"
+  },
+  {
+    "id": "wes-kao-009",
+    "speakerId": "wes-kao",
+    "sentence": "Yeah. Saying no does not come naturally for me either as a recovering people pleaser.",
+    "keyPhrase": {
+      "text": "recovering people pleaser",
+      "meaning_ko": "남의 눈치를 지나치게 보던 버릇을 고치는 중인 사람",
+      "usageTip": "Use this self-deprecating phrase when acknowledging that saying no is difficult for you — it shows self-awareness and signals you're working on boundaries.",
+      "chips": ["recovering", "people", "pleaser"],
+      "distractorChips": ["giver", "helper"]
+    },
+    "context": "Wes Kao is being candid about a personal growth challenge: her default is to say yes to avoid conflict, and she frames herself as 'recovering' — as if from a habit — to show she's actively working against the pattern.",
+    "vocabulary": [
+      {
+        "word": "naturally",
+        "meaning": "without effort or resistance; as an instinctive default response",
+        "note": "'Does not come naturally' means the behavior requires conscious effort, not instinct",
+        "synonyms": ["instinctively", "effortlessly"]
+      }
+    ],
+    "topics": ["Career Development", "Learning & Growth"],
+    "difficulty": "intermediate",
+    "rarity": "rare",
+    "timestamp": "44:28"
+  },
+  {
+    "id": "wes-kao-010",
+    "speakerId": "wes-kao",
+    "sentence": "I would ask him like, \"Hey, can you design this for me? Can you design that? And, oh, here's another thing I'm going to throw over the wall to you.\"",
+    "keyPhrase": {
+      "text": "throw something over the wall",
+      "surface": "throw over the wall",
+      "meaning_ko": "맥락도 설명도 없이 일을 상대편에 던져 넘기다",
+      "usageTip": "Use this as a warning against lazy handoffs — when work is thrown over the wall, the recipient lacks context, causing rework and friction between teams.",
+      "chips": ["throw", "something", "over", "the", "wall"],
+      "distractorChips": ["pass", "send"]
+    },
+    "context": "Wes Kao is sharing a past mistake she made when working with a designer: she repeatedly sent ad-hoc design requests without proper briefs or context, treating the collaboration like a one-way handoff rather than a partnership.",
+    "vocabulary": [
+      {
+        "word": "design",
+        "meaning": "here used as a verb: to create a visual or product artifact according to functional and aesthetic requirements",
+        "note": "Context-dependent — 'design this' means produce a deliverable, not just think about it",
+        "synonyms": ["create", "produce", "build"]
+      }
+    ],
+    "topics": ["Leadership & Management", "Communication Skills"],
+    "difficulty": "intermediate",
+    "rarity": "rare",
+    "timestamp": "45:27"
+  }
+]

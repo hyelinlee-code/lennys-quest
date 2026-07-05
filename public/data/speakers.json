@@ -1,0 +1,30 @@
+[
+  {
+    "id": "bret-taylor",
+    "name": "Bret Taylor",
+    "title": "Co-founder & CEO, Sierra",
+    "titleHistory": "Former co-CEO of Salesforce · CTO of Meta · Chair of the OpenAI board",
+    "house": "founder",
+    "epithet": "The Architect Sage",
+    "motif": "a glowing map-pin and a heart-shaped like sigil",
+    "introLine": "I drew the maps, raised the castles, and set out again. Now — what would you ask of me?",
+    "sealLine": "You have inscribed all my teachings. Take my seal, apprentice.",
+    "portrait": "/cards/bret-taylor.jpeg",
+    "episode": "Bret Taylor on Lenny's Podcast",
+    "cardCount": 9
+  },
+  {
+    "id": "wes-kao",
+    "name": "Wes Kao",
+    "title": "Co-founder, Maven",
+    "titleHistory": "Co-founded altMBA with Seth Godin · Co-founder of Maven",
+    "house": "operator",
+    "epithet": "The Sage of Delivery",
+    "motif": "a shimmering quill with crystalline words spiraling around it and a seal carved from organizational charts",
+    "introLine": "Words move companies. Master the subtle craft of delivery, and rooms will move for you.",
+    "sealLine": "You've mastered the craft of delivery. Now go — lead with your words.",
+    "portrait": "/cards/wes-kao.png",
+    "episode": "Wes Kao on Lenny's Podcast",
+    "cardCount": 10
+  }
+]

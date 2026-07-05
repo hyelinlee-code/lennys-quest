@@ -1,0 +1,430 @@
+{
+  "cards": [
+    {
+      "id": "wes-kao-001",
+      "speakerId": "wes-kao",
+      "sentence": "And so I thought, all right, I'm going to toss my hat in the ring and not overthink it.",
+      "sentence_ko": "그래서 저는 그냥 도전해 봐야겠다고 생각했고, 너무 지레짐작하지 않기로 했어요.",
+      "keyPhrase": {
+        "text": "toss one's hat in the ring",
+        "surface": "toss my hat in the ring",
+        "meaning_ko": "경쟁에 뛰어들거나 도전할 의지를 나타내다",
+        "usageTip_ko": "직업 지원, 피칭 대회, 리더십 역할 등 경쟁 과정에 참여한다고 발표할 때 사용하면 오만하지 않게 대담함을 드러낼 수 있습니다.",
+        "chips": [
+          "toss",
+          "one's",
+          "hat",
+          "in",
+          "the",
+          "ring"
+        ],
+        "distractorChips": [
+          "throw",
+          "drop"
+        ]
+      },
+      "context_ko": "웨스 카오가 자신이 확실하지 않던 기회를 추구하기로 결심한 상황을 설명합니다. 자기 의심에 마비되지 않고 자신을 내세우고 준비되었는지를 지나치게 분석하지 않기로 한 것입니다.",
+      "vocabulary": [
+        {
+          "word": "overthink",
+          "meaning_ko": "무언가에 대해 지나치게 많이 생각하다. 보통 행동 대신 마비를 초래합니다",
+          "note_ko": "분석 마비가 위험한 비즈니스 상황에서 자주 쓰입니다",
+          "synonyms": [
+            "overanalyze",
+            "ruminate"
+          ]
+        }
+      ],
+      "topics": [
+        "Career Development",
+        "Decision Making"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "07:57"
+    },
+    {
+      "id": "wes-kao-002",
+      "speakerId": "wes-kao",
+      "sentence": "But my lesson there is don't take yourself out of the running before you get rejected.",
+      "sentence_ko": "하지만 제 교훈은 거절당하기 전에 자신을 경쟁에서 물러내지 말라는 거예요.",
+      "keyPhrase": {
+        "text": "take oneself out of the running",
+        "surface": "take yourself out of the running",
+        "meaning_ko": "공식적으로 탈락하기 전에 경쟁이나 기회에서 자신을 물러내다",
+        "usageTip_ko": "누군가가 거절당할 거라고 가정하고 직책 지원이나 아이디어 제시를 꺼릴 때 코칭 상기로 사용하세요.",
+        "chips": [
+          "take",
+          "oneself",
+          "out",
+          "of",
+          "the",
+          "running"
+        ],
+        "distractorChips": [
+          "race",
+          "game"
+        ]
+      },
+      "context_ko": "웨스 카오가 자기 파괴에 관한 진로 교훈을 나누고 있습니다. 많은 사람이 실제로 거절당하기 전에 정신적으로 자신을 박탈하고 지원을 멈추는데, 이는 실패를 보장합니다.",
+      "vocabulary": [
+        {
+          "word": "rejected",
+          "meaning_ko": "정식으로 거절당하거나 다른 사람에게 선택되지 않다",
+          "note_ko": "핵심은 남의 거절과 자기 제거의 차이입니다",
+          "synonyms": [
+            "turned down",
+            "declined"
+          ]
+        }
+      ],
+      "topics": [
+        "Career Development",
+        "Learning & Growth"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "09:24"
+    },
+    {
+      "id": "wes-kao-003",
+      "speakerId": "wes-kao",
+      "sentence": "I think externally, he can sometimes be a little bit of a vague Buddha, if you will.",
+      "sentence_ko": "저는 그 사람이 대외적으로는 좀 애매한 부처, 그렇게 말할 수 있을 것 같아요.",
+      "keyPhrase": {
+        "text": "vague Buddha",
+        "meaning_ko": "의도적으로 추상적이거나 신비로운 말투로 깊어 보이지만 구체적인 지침을 주지 않는 사람",
+        "usageTip_ko": "(조심스럽게) 대중 발언이 고상하고 영감을 주지만 다른 사람이 행동할 구체성이 부족한 리더나 소통가를 묘사할 때 사용하세요.",
+        "chips": [
+          "vague",
+          "Buddha"
+        ],
+        "distractorChips": [
+          "clear",
+          "precise"
+        ]
+      },
+      "context_ko": "웨스 카오가 특정 리더십 소통 방식을 묘사합니다. 누군가 공개 석상에서 철학적이거나 모호한 언어를 사용하여 명확한 실행 가능한 진술 없이 지혜의 분위기를 만듭니다.",
+      "vocabulary": [
+        {
+          "word": "vague",
+          "meaning_ko": "명확하게 표현되거나 정의되지 않음. 의도적이거나 무의도적으로 모호함",
+          "note_ko": "여기서는 고유명사를 수식하여 비유적 인물 유형을 만드는 데 사용됨",
+          "synonyms": [
+            "ambiguous",
+            "nebulous",
+            "unclear"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Communication Skills"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "09:57"
+    },
+    {
+      "id": "wes-kao-004",
+      "speakerId": "wes-kao",
+      "sentence": "but that's the idea of start right before you get eaten by the bear is cut out all that backstory scope creep.",
+      "sentence_ko": "곰에게 잡아먹히기 전에 시작한다는 것은 모든 배경 범위 확대를 잘라낸다는 아이디어죠.",
+      "keyPhrase": {
+        "text": "backstory scope creep",
+        "meaning_ko": "이야기나 피칭의 핵심에 도달하기 전에 과도한 배경 맥락과 설정을 포함하려는 경향",
+        "usageTip_ko": "누군가의 발표나 제안서가 너무 많은 설정 아래 핵심 요점을 묻을 때 코칭할 때 사용하세요. 배경 범위 확대를 줄이라고 말하세요.",
+        "chips": [
+          "backstory",
+          "scope",
+          "creep"
+        ],
+        "distractorChips": [
+          "expansion",
+          "overflow"
+        ]
+      },
+      "context_ko": "웨스 카오가 비즈니스 소통의 스토리텔링 원칙을 설명합니다. 발표자들은 종종 주요 인사이트를 불필요한 역사와 맥락의 층 아래 묻는데, 이를 '배경 범위 확대'라고 하며, 실제 요점이 전달되기 전에 청중을 잃게 됩니다.",
+      "vocabulary": [
+        {
+          "word": "scope creep",
+          "meaning_ko": "프로젝트나 콘텐츠가 원래 의도를 넘어 점진적이고 통제 불가능하게 확장되는 것",
+          "note_ko": "프로젝트 관리에서 차용되었으며, 여기서는 스토리텔링과 서사 구조에 적용됨",
+          "synonyms": [
+            "feature creep",
+            "overextension"
+          ]
+        }
+      ],
+      "topics": [
+        "Communication Skills",
+        "Strategy & Planning"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "17:48"
+    },
+    {
+      "id": "wes-kao-005",
+      "speakerId": "wes-kao",
+      "sentence": "With Twitter at least, it's 280 characters. It's something short that you're saying that's a little bit of a mic drop.",
+      "sentence_ko": "Twitter는 최소 280자인데, 짧은 말인데 좀 마이크 드롭 같은 거예요.",
+      "keyPhrase": {
+        "text": "mic drop",
+        "meaning_ko": "누군가가 더 이상 댓글이 필요 없을 정도로 임팩트 있거나 결정적인 말을 하는 순간",
+        "usageTip_ko": "피칭, 발표, 또는 소셜 포스트의 이상적인 엔딩을 설명할 때 사용하세요. 후속이 필요 없을 정도로 잘 전달되는 한 줄입니다.",
+        "chips": [
+          "mic",
+          "drop"
+        ],
+        "distractorChips": [
+          "speaker",
+          "stand"
+        ]
+      },
+      "context_ko": "웨스 카오가 Twitter 같은 단문형 플랫폼이 날카롭고 기억에 남는 진술을 어떻게 보상하는지 논의합니다. 훌륭한 트윗은 마이크 드롭처럼 작동한다고 주장합니다. 필요한 모든 것을 말하므로 대화를 멈추게 하는 간결하고 자족적인 문장입니다.",
+      "vocabulary": [
+        {
+          "word": "characters",
+          "meaning_ko": "개별 문자, 숫자, 공백 또는 기호. Twitter 같은 플랫폼에서 텍스트의 길이를 측정하는 데 사용됨",
+          "note_ko": "플랫폼별 사용법. '280자'는 Twitter/X의 포스트 제한입니다",
+          "synonyms": [
+            "letters",
+            "symbols"
+          ]
+        }
+      ],
+      "topics": [
+        "Communication Skills",
+        "Growth & Marketing"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "18:49"
+    },
+    {
+      "id": "wes-kao-006",
+      "speakerId": "wes-kao",
+      "sentence": "what was worrying their bosses, what was keeping them up at night so that they could take that off their plate.",
+      "sentence_ko": "상사를 걱정시키는 게 뭔지, 밤새도록 신경 쓰게 하는 게 뭔지 알아서 그것을 그들의 할 일에서 빼낼 수 있도록 하는 거죠.",
+      "keyPhrase": {
+        "text": "take something off someone's plate",
+        "surface": "take that off their plate",
+        "meaning_ko": "누군가가 책임진 업무나 걱정을 덜어주어 업무량이나 스트레스를 줄여주다",
+        "usageTip_ko": "동료나 관리자의 책임을 처리하겠다고 제의할 때 사용하세요. 직업 환경에서 공감과 주도성을 나타냅니다.",
+        "chips": [
+          "take",
+          "something",
+          "off",
+          "someone's",
+          "plate"
+        ],
+        "distractorChips": [
+          "desk",
+          "table"
+        ]
+      },
+      "context_ko": "웨스 카오가 고성과 직원들이 적극적으로 하는 일을 설명합니다. 상사를 스트레스 주는 문제를 파악하고 그 문제를 해결하는 것을 자신의 임무로 삼아서 상사의 할 일 목록에서 부담을 덜어냅니다.",
+      "vocabulary": [
+        {
+          "word": "worrying",
+          "meaning_ko": "불안이나 우려를 야기함. 여기서는 분사로 '스트레스를 유발하는 것'이라는 뜻",
+          "note_ko": "맥락에 따라 다름. 명사를 수식하는 분사로 사용됨",
+          "synonyms": [
+            "troubling",
+            "concerning",
+            "stressing"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Career Development"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "31:58"
+    },
+    {
+      "id": "wes-kao-007",
+      "speakerId": "wes-kao",
+      "sentence": "They're great at keeping their bosses in the loop on what's happening so their bosses, aren't constantly having to ask and pepper them with questions every day",
+      "sentence_ko": "그들은 자신의 상사들을 진행 상황에 대해 계속 알려주는 데 능숙해서, 상사들이 매일 계속 물어보고 질문으로 괴롭혀야 할 필요가 없어요.",
+      "keyPhrase": {
+        "text": "keep someone in the loop",
+        "surface": "keeping their bosses in the loop",
+        "meaning_ko": "누군가를 정기적으로 업데이트하여 진행 중인 개발 상황을 계속 알도록 하다",
+        "usageTip_ko": "적극적인 소통이 중요한 이유를 설명할 때 이 문구를 사용하세요. 이해관계자를 루프 안에 유지하면 불필요한 회의와 미시 관리가 줄어듭니다.",
+        "chips": [
+          "keep",
+          "someone",
+          "in",
+          "the",
+          "loop"
+        ],
+        "distractorChips": [
+          "circle",
+          "chain"
+        ]
+      },
+      "context_ko": "웨스 카오가 효과적인 직원의 습관을 설명합니다. 상태 업데이트를 주도적으로 관리자와 공유함으로써 관리자가 정보를 계속 추구해야 하는 동향을 방지합니다. 이것은 양쪽을 좌절시킵니다.",
+      "vocabulary": [
+        {
+          "word": "pepper",
+          "meaning_ko": "누군가에게 빠르고 연속적인 질문이나 요청을 퍼붓다",
+          "note_ko": "비공식 동사. '누군가에게 질문으로 괴롭히다'는 반복적으로 폭주하다는 뜻입니다",
+          "synonyms": [
+            "bombard",
+            "barrage"
+          ]
+        }
+      ],
+      "topics": [
+        "Communication Skills",
+        "Leadership & Management"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "32:29"
+    },
+    {
+      "id": "wes-kao-008",
+      "speakerId": "wes-kao",
+      "sentence": "I find especially in remote work too erring on the side of over communicating is just, it ends up being the right level of communication.",
+      "sentence_ko": "특히 원격 업무에서도 과도하게 소통하는 쪽으로 넘어가는 것이, 결국 적절한 수준의 소통이 되는 것 같아요.",
+      "keyPhrase": {
+        "text": "err on the side of",
+        "surface": "erring on the side of",
+        "meaning_ko": "불확실할 때 더 안전하거나 더 신중한 옵션을 선택하여 더 나쁜 결과를 피하기 위해 약간의 초과를 수용하다",
+        "usageTip_ko": "모호한 상황에서 신중한 기본값을 권장할 때 사용하세요. '투명성 쪽으로 넘어가다', '과도하게 준비하는 쪽으로 넘어가다' 등입니다.",
+        "chips": [
+          "err",
+          "on",
+          "the",
+          "side",
+          "of"
+        ],
+        "distractorChips": [
+          "fall",
+          "lean"
+        ]
+      },
+      "context_ko": "웨스 카오가 원격 업무 소통 규범에 대한 조언을 합니다. 팀원이나 관리자와 얼마나 많이 공유할지 불확실할 때, 더 적은 소통이 아니라 더 많은 소통으로 기본 설정하는 것이 일관되게 적절한 선택이 된다고 주장합니다.",
+      "vocabulary": [
+        {
+          "word": "erring",
+          "meaning_ko": "약간의 실수나 편차를 만드는 것. 여기서는 관용적으로 '~쪽으로 기울어지기'를 의미합니다",
+          "note_ko": "'실수하다'라는 동사에서 나옴. 이 관용구에서는 실수가 아니라 의도적이고 안전한 선택을 의미합니다",
+          "synonyms": [
+            "defaulting",
+            "leaning"
+          ]
+        }
+      ],
+      "topics": [
+        "Communication Skills",
+        "Career Development"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "35:51"
+    },
+    {
+      "id": "wes-kao-009",
+      "speakerId": "wes-kao",
+      "sentence": "Yeah. Saying no does not come naturally for me either as a recovering people pleaser.",
+      "sentence_ko": "네. 저도 회복 중인 사람 기쁘게 해주려는 사람으로서 거절을 자연스럽게 말하지 못합니다.",
+      "keyPhrase": {
+        "text": "recovering people pleaser",
+        "meaning_ko": "과거에는 자신의 필요보다 다른 사람의 승인을 강박적으로 우선시했지만 지금은 그 패턴을 바꾸기 위해 적극적으로 노력하는 사람",
+        "usageTip_ko": "자신이 거절을 말하기 어렵다는 것을 인정할 때 이 자조적 표현을 사용하세요. 자기 인식을 보여주고 더 나은 경계를 설정하기 위해 일하고 있음을 나타냅니다.",
+        "chips": [
+          "recovering",
+          "people",
+          "pleaser"
+        ],
+        "distractorChips": [
+          "giver",
+          "helper"
+        ]
+      },
+      "context_ko": "웨스 카오가 개인 성장 과제에 대해 솔직하게 말합니다. 갈등이나 불만을 피하기 위해 요청에 예 하려는 것이 기본 경향인데, 이를 문제 패턴으로 인식합니다. 자신이 '회복'하고 있다고 표현하여(습관으로부터 회복되듯이) 이에 적극적으로 대항하고 있음을 보여줍니다.",
+      "vocabulary": [
+        {
+          "word": "naturally",
+          "meaning_ko": "노력이나 저항 없이. 본능적 기본 반응으로",
+          "note_ko": "'자연스럽지 않게'는 그 행동이 본능이 아니라 의식적 노력이 필요하다는 뜻입니다",
+          "synonyms": [
+            "instinctively",
+            "effortlessly"
+          ]
+        }
+      ],
+      "topics": [
+        "Career Development",
+        "Learning & Growth"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "44:28"
+    },
+    {
+      "id": "wes-kao-010",
+      "speakerId": "wes-kao",
+      "sentence": "I would ask him like, \"Hey, can you design this for me? Can you design that? And, oh, here's another thing I'm going to throw over the wall to you.\"",
+      "sentence_ko": "저는 \"이거 디자인해 줄 수 있어? 저것도 디자인해 줄 수 있어? 아, 여기 내가 너한테 담장 너머로 던질 다른 거 하나 있어\"라고 했어요.",
+      "keyPhrase": {
+        "text": "throw something over the wall",
+        "surface": "throw over the wall",
+        "meaning_ko": "충분한 맥락이나 협업 없이 누군가에게 업무나 요청을 갑자기 떠넘기다",
+        "usageTip_ko": "게으른 이양에 대한 경고로 사용하세요. 업무가 담장을 넘어 떠넘겨지면 수령인이 맥락을 잃어 팀 간 재작업과 마찰을 초래합니다.",
+        "chips": [
+          "throw",
+          "something",
+          "over",
+          "the",
+          "wall"
+        ],
+        "distractorChips": [
+          "pass",
+          "send"
+        ]
+      },
+      "context_ko": "웨스 카오가 디자이너와 함께 일할 때 저질렀던 과거의 실수를 나눕니다. 적절한 브리프나 맥락을 제공하지 않고 반복적으로 즉흥적인 디자인 요청을 보냈으며, 실제 파트너십이 아니라 일방적 이양처럼 협업을 대했습니다.",
+      "vocabulary": [
+        {
+          "word": "design",
+          "meaning_ko": "여기서 동사로 사용됨. 기능적·미학적 요구 사항에 따라 시각적 또는 제품 산출물을 만들다",
+          "note_ko": "맥락에 따라 다름. '이것을 디자인하다'는 생각하는 것이 아니라 산출물을 생산한다는 뜻입니다",
+          "synonyms": [
+            "create",
+            "produce",
+            "build"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Communication Skills"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "45:27"
+    }
+  ],
+  "speaker": {
+    "id": "wes-kao",
+    "name": "Wes Kao",
+    "name_ko": "웨스 카오",
+    "title": "Co-founder, Maven",
+    "titleHistory_ko": "전 altMBA 공동 설립자 · Maven 공동 창업자",
+    "house": "operator",
+    "epithet_ko": "전달의 현자",
+    "motif": "a shimmering quill with crystalline words spiraling around it and a seal carved from organizational charts",
+    "introLine_ko": "말로써 비즈니스를 움직이는 이들을 보며, 나는 그 미묘한 기술의 근원을 깨달았네.",
+    "sealLine_ko": "그대가 전달의 이치를 터득하였으니, 이제 그대도 무리를 이끌 수 있으리라.",
+    "portrait": "/cards/wes-kao.png",
+    "episode": "Wes Kao on Lenny's Podcast",
+    "cardCount": 10
+  }
+}

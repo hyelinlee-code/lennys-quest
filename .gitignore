@@ -1,0 +1,18 @@
+node_modules/
+dist/
+*.local
+
+# pipeline workspace: stage outputs are regenerable checkpoints; keep validated results
+pipeline/work/*/0[123]*.json
+pipeline/work/*/meanings-*.json
+pipeline/work/*/validation-report.json
+
+# third-party transcript copies (Lenny's Podcast) — keep out of the public repo
+pipeline/transcripts/
+
+# original chroma-key art sources (processed versions are committed)
+public/portraits/*-with-green.png
+
+.DS_Store
+Thumbs.db
+desktop.ini

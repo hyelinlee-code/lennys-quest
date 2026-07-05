@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 380">
+  <!-- Placeholder Lenny innkeeper sprite — replace with generated art at public/portraits/lenny.png -->
+  <defs>
+    <linearGradient id="robe" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#4a3b63"/>
+      <stop offset="100%" stop-color="#2a2233"/>
+    </linearGradient>
+  </defs>
+  <!-- robe -->
+  <path d="M60 380 Q70 240 110 210 L190 210 Q230 240 240 380 Z" fill="url(#robe)" stroke="#6b573a" stroke-width="3"/>
+  <!-- scarf -->
+  <path d="M105 215 Q150 245 195 215 L188 240 Q150 265 112 240 Z" fill="#caa24f"/>
+  <!-- head -->
+  <circle cx="150" cy="150" r="62" fill="#e8c9a0" stroke="#6b573a" stroke-width="3"/>
+  <!-- beard -->
+  <path d="M100 165 Q150 250 200 165 Q200 205 150 218 Q100 205 100 165" fill="#8a7a68"/>
+  <!-- smile -->
+  <path d="M128 172 Q150 190 172 172" fill="none" stroke="#5a4632" stroke-width="4" stroke-linecap="round"/>
+  <!-- eyes -->
+  <circle cx="128" cy="140" r="6" fill="#3a2c1e"/>
+  <circle cx="172" cy="140" r="6" fill="#3a2c1e"/>
+  <!-- glasses -->
+  <circle cx="128" cy="140" r="14" fill="none" stroke="#3a2c1e" stroke-width="3"/>
+  <circle cx="172" cy="140" r="14" fill="none" stroke="#3a2c1e" stroke-width="3"/>
+  <line x1="142" y1="140" x2="158" y2="140" stroke="#3a2c1e" stroke-width="3"/>
+  <!-- hat -->
+  <path d="M85 118 Q150 20 215 118 Q150 95 85 118" fill="#4a3b63" stroke="#6b573a" stroke-width="3"/>
+  <path d="M150 38 Q160 60 150 78 Q140 60 150 38" fill="#f0d588"/>
+  <!-- lantern in hand -->
+  <rect x="228" y="255" width="34" height="46" rx="8" fill="#1b1525" stroke="#caa24f" stroke-width="3"/>
+  <circle cx="245" cy="278" r="10" fill="#ffd87a">
+    <animate attributeName="opacity" values="1;.6;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <line x1="245" y1="255" x2="245" y2="240" stroke="#caa24f" stroke-width="3"/>
+</svg>
