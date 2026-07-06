@@ -1,0 +1,383 @@
+{
+  "cards": [
+    {
+      "id": "marc-benioff-001",
+      "speakerId": "marc-benioff",
+      "sentence": "I'm throwing everything against the wall. I'm looking at what's going to stick. I am looking to try to find the winning tactic and turn it into a winning strategy.",
+      "keyPhrase": {
+        "text": "throw everything against the wall",
+        "surface": "throwing everything against the wall",
+        "meaning_ko": "될 때까지 닥치는 대로 다 시도해 보다. '안 되면 말고' 식으로 여러 방법을 동시에 던져보는 것",
+        "usageTip": "Use this phrase when describing a rapid, multi-pronged approach to a launch, campaign, or sales push where the team hasn't yet identified the single winning method.",
+        "chips": [
+          "throw",
+          "everything",
+          "against",
+          "the",
+          "wall"
+        ],
+        "distractorChips": [
+          "something",
+          "sticky"
+        ]
+      },
+      "context": "Marc Benioff is describing his aggressive, experimental go-to-market approach when launching Agentforce — Salesforce's AI agent platform. Rather than committing to a single strategy upfront, he tests many tactics simultaneously to discover what resonates with customers.",
+      "vocabulary": [
+        {
+          "word": "tactic",
+          "meaning": "a specific action or method used to achieve a short-term goal",
+          "note": "Distinguished from 'strategy,' which is the broader plan; tactics are the individual moves within that plan.",
+          "synonyms": [
+            "maneuver",
+            "technique"
+          ]
+        }
+      ],
+      "topics": [
+        "Strategy & Planning",
+        "Growth & Marketing"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:09"
+    },
+    {
+      "id": "marc-benioff-002",
+      "speakerId": "marc-benioff",
+      "sentence": "I introduced it at our Dreamforce Conference, and that was one way to break through, which was I took our conference and said, \"It's just going to be about Agentforce.\"",
+      "keyPhrase": {
+        "text": "break through",
+        "meaning_ko": "소음 속에서 치고 나가 대중의 주목을 확실히 사로잡다",
+        "usageTip": "Use this phrase when describing a pivotal moment — a launch event, announcement, or campaign — that finally gave a product or idea the visibility it needed.",
+        "chips": [
+          "break",
+          "through"
+        ],
+        "distractorChips": [
+          "blend",
+          "conform"
+        ]
+      },
+      "context": "Marc Benioff is explaining how he used Salesforce's annual Dreamforce conference as a platform to generate massive awareness for Agentforce, the company's new AI product. By dedicating the entire event to a single product, he found a way to stand out in a crowded market.",
+      "vocabulary": [],
+      "topics": [
+        "Growth & Marketing",
+        "Communication Skills"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "18:42"
+    },
+    {
+      "id": "marc-benioff-003",
+      "speakerId": "marc-benioff",
+      "sentence": "I'm trying to think about, \"What are all the things I need to do to get my company 100% on Agentforce, my customers, everyone?\" because I know I have a window of opportunity here.",
+      "keyPhrase": {
+        "text": "window of opportunity",
+        "meaning_ko": "지금만 열려 있는 기회의 창. 놓치면 닫혀버리는 호기(好機)",
+        "usageTip": "Use this phrase in pitches, strategy discussions, or board updates to convey that a competitive advantage or market timing is real but time-limited.",
+        "chips": [
+          "window",
+          "of",
+          "opportunity"
+        ],
+        "distractorChips": [
+          "moment",
+          "gap"
+        ]
+      },
+      "context": "Marc Benioff is describing the urgency he feels around adopting AI agents across Salesforce. He believes the company is in a defining moment where early, all-in commitment to the technology will determine who wins the next era of enterprise software.",
+      "vocabulary": [],
+      "topics": [
+        "Strategy & Planning",
+        "Decision Making"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "18:42"
+    },
+    {
+      "id": "marc-benioff-004",
+      "speakerId": "marc-benioff",
+      "sentence": "I am looking to try to find the winning tactic and turn it into a winning strategy.",
+      "keyPhrase": {
+        "text": "turn a tactic into a strategy",
+        "surface": "find the winning tactic and turn it into a winning strategy",
+        "meaning_ko": "효과가 증명된 단발 전술 하나를 골라 반복 가능한 전략 체계로 키워내다",
+        "usageTip": "Use this phrase in strategy or post-mortem discussions when the team has found early proof of something working and needs to shift from experimentation to systematic execution.",
+        "chips": [
+          "turn",
+          "a",
+          "tactic",
+          "into",
+          "a",
+          "strategy"
+        ],
+        "distractorChips": [
+          "fail",
+          "improvise"
+        ]
+      },
+      "context": "Marc Benioff is discussing his product-launch philosophy for Agentforce: he intentionally experiments with many individual moves — events, messaging angles, partnerships — to find the one that gets traction, then builds the entire go-to-market motion around it.",
+      "vocabulary": [
+        {
+          "word": "tactic",
+          "meaning": "a specific action or method used to achieve a short-term goal",
+          "note": "Contrasted here with 'strategy,' the broader repeatable plan built from proven tactics.",
+          "synonyms": [
+            "maneuver",
+            "move"
+          ]
+        }
+      ],
+      "topics": [
+        "Strategy & Planning",
+        "Product Management"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "20:58"
+    },
+    {
+      "id": "marc-benioff-005",
+      "speakerId": "marc-benioff",
+      "sentence": "I have a pretty deep meditation practice for three, four decades which is we have to be cultivating our beginner's mind.",
+      "keyPhrase": {
+        "text": "cultivate a beginner's mind",
+        "surface": "cultivating our beginner's mind",
+        "meaning_ko": "기존의 고정관념과 경험을 의도적으로 비워, 처음 맞닥뜨리는 사람처럼 열린 자세를 갖추다. '초심(初心)을 기르다'",
+        "usageTip": "Use this phrase in leadership, innovation, or coaching conversations to encourage a team to set aside entrenched assumptions and approach a problem with fresh eyes.",
+        "chips": [
+          "cultivate",
+          "a",
+          "beginner's",
+          "mind"
+        ],
+        "distractorChips": [
+          "expert",
+          "closed"
+        ]
+      },
+      "context": "Marc Benioff is sharing the mental discipline he draws from decades of meditation practice. He argues that leaders must actively unlearn assumptions and approach fast-changing situations — like the AI revolution — without being anchored to past playbooks.",
+      "vocabulary": [
+        {
+          "word": "cultivating",
+          "meaning": "deliberately developing or nurturing a quality over time through consistent practice",
+          "synonyms": [
+            "fostering",
+            "developing"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Learning & Growth"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "23:15"
+    },
+    {
+      "id": "marc-benioff-006",
+      "speakerId": "marc-benioff",
+      "sentence": "You want to be playing the whole symphony, and you want to get everyone running. That symphony is sales, service, marketing, product.",
+      "keyPhrase": {
+        "text": "play the whole symphony",
+        "surface": "playing the whole symphony",
+        "meaning_ko": "회사의 모든 기능(영업·마케팅·제품 등)을 빠짐없이 한 박자로 움직이게 조율하다",
+        "usageTip": "Use this metaphor in all-hands meetings, QBRs, or strategy sessions to emphasize cross-functional alignment and warn against siloed execution.",
+        "chips": [
+          "play",
+          "the",
+          "whole",
+          "symphony"
+        ],
+        "distractorChips": [
+          "solo",
+          "tune"
+        ]
+      },
+      "context": "Marc Benioff is advising founders not to over-index on one function — such as product or sales — but to align every part of the company simultaneously. He uses the metaphor of a symphony orchestra to illustrate that every instrument (department) must play in concert for the company to perform at its best.",
+      "vocabulary": [
+        {
+          "word": "symphony",
+          "meaning": "an elaborate musical composition for a full orchestra; here used metaphorically for a complex, coordinated business effort",
+          "synonyms": [
+            "orchestration",
+            "ensemble"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Strategy & Planning"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "45:20"
+    },
+    {
+      "id": "marc-benioff-007",
+      "speakerId": "marc-benioff",
+      "sentence": "If you're going to narrowcast yourself, you're doing a disservice not just to yourself, but to everybody else as well.",
+      "keyPhrase": {
+        "text": "narrowcast yourself",
+        "meaning_ko": "리더로서의 역할을 한 영역에만 가둬 스스로 영향력을 좁혀버리다",
+        "usageTip": "Use this term to challenge leaders who are overindexing on one area (e.g., only product, only sales) and avoiding the full scope of their responsibilities.",
+        "chips": [
+          "narrowcast",
+          "yourself"
+        ],
+        "distractorChips": [
+          "broadcast",
+          "amplify"
+        ]
+      },
+      "context": "Marc Benioff is warning founders and executives against becoming specialists who only manage one domain. In his view, a CEO who focuses exclusively on product — or any single function — fails both their team and the company by neglecting the full system of leadership.",
+      "vocabulary": [
+        {
+          "word": "narrowcast",
+          "meaning": "to transmit or direct something to a small, specific audience; here adapted metaphorically to mean constraining one's leadership reach",
+          "note": "Originally a media term (opposite of 'broadcast'); Benioff uses it as a leadership metaphor.",
+          "synonyms": [
+            "restrict",
+            "limit"
+          ]
+        },
+        {
+          "word": "disservice",
+          "meaning": "an action that harms or fails someone who deserved better",
+          "synonyms": [
+            "injustice",
+            "harm"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Communication Skills"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "45:20"
+    },
+    {
+      "id": "marc-benioff-008",
+      "speakerId": "marc-benioff",
+      "sentence": "Then, when we did the layoff, then I'm trying to overcommunicate. I'm having all employee meetings. It's a complete dumpster fire.",
+      "keyPhrase": {
+        "text": "dumpster fire",
+        "meaning_ko": "손 쓸 수 없을 만큼 완전히 엉망이 된 상황. 재앙에 가까운 혼돈",
+        "usageTip": "Use this informal phrase in candid retrospectives or post-mortems to describe a period when multiple things went wrong at once and the situation felt unmanageable.",
+        "chips": [
+          "dumpster",
+          "fire"
+        ],
+        "distractorChips": [
+          "campfire",
+          "burnout"
+        ]
+      },
+      "context": "Marc Benioff is recounting the turbulent period at Salesforce following major layoffs. Despite his efforts to communicate openly with employees through all-hands meetings, the internal atmosphere was one of overwhelming disorder and morale collapse.",
+      "vocabulary": [
+        {
+          "word": "overcommunicate",
+          "meaning": "to communicate far more frequently and thoroughly than might feel necessary, often to prevent confusion during a crisis",
+          "synonyms": [
+            "over-explain",
+            "repeat consistently"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Communication Skills"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "47:58"
+    },
+    {
+      "id": "marc-benioff-009",
+      "speakerId": "marc-benioff",
+      "sentence": "There's no up-and-to-the-right perfect chart where it's just one line. I don't care who you are. Apple doesn't have one. No one has one.",
+      "keyPhrase": {
+        "text": "up and to the right",
+        "surface": "up-and-to-the-right",
+        "meaning_ko": "끊김 없이 우상향하는 완벽한 성장 곡선. 현실에선 누구도 갖지 못하는 이상적 그래프",
+        "usageTip": "Use this phrase in investor updates, team retrospectives, or leadership talks to reset expectations and normalize the non-linear reality of building a company.",
+        "chips": [
+          "up",
+          "and",
+          "to",
+          "the",
+          "right"
+        ],
+        "distractorChips": [
+          "flat",
+          "sideways"
+        ]
+      },
+      "context": "Marc Benioff is pushing back against the myth of flawless, linear company growth. He argues that every company — even Apple — experiences downturns, pivots, and setbacks, and that expecting a perfectly smooth growth curve is an unrealistic and unhealthy standard.",
+      "vocabulary": [],
+      "topics": [
+        "Starting a Company",
+        "Decision Making"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "49:39"
+    },
+    {
+      "id": "marc-benioff-010",
+      "speakerId": "marc-benioff",
+      "sentence": "the entrepreneurial life is a rock-and-roll roller coaster, and you get ready because it's going to be pounding you all the time.",
+      "keyPhrase": {
+        "text": "rock-and-roll roller coaster",
+        "meaning_ko": "창업의 여정은 극단적인 부침이 쉼 없이 몰아치는 롤러코스터라는 것. 쾌감과 고통이 번갈아 강타한다",
+        "usageTip": "Use this phrase in founder talks, investor pitches, or mentorship conversations to honestly frame the emotional and operational intensity of building a company.",
+        "chips": [
+          "rock-and-roll",
+          "roller",
+          "coaster"
+        ],
+        "distractorChips": [
+          "smooth",
+          "cruise"
+        ]
+      },
+      "context": "Marc Benioff is offering a candid reality check to aspiring founders: entrepreneurship is not a steady climb but a relentless, exhilarating, and often brutal ride. He draws on his own decades at Salesforce to frame volatility and pressure as inherent features of the path, not signs of failure.",
+      "vocabulary": [
+        {
+          "word": "entrepreneurial",
+          "meaning": "relating to the activity of setting up and running a business, accepting financial risk in the hope of profit",
+          "synonyms": [
+            "founder-driven",
+            "startup"
+          ]
+        }
+      ],
+      "topics": [
+        "Starting a Company",
+        "Leadership & Management"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "49:39"
+    }
+  ],
+  "speaker": {
+    "id": "marc-benioff",
+    "name": "Marc Benioff",
+    "title": "Co-founder & CEO, Salesforce",
+    "titleHistory": "Co-founder & CEO of Salesforce",
+    "house": "founder",
+    "epithet": "The Sage of Agile Conquest",
+    "motif": "a spinning mandala overlaid with interlocking gears, each rotating at different speeds yet creating harmonious motion",
+    "introLine": "Welcome, seeker. I have built mountains from dreams, and I have razed them down again. Through meditation and chaos alike, I learned that the true art is orchestrating the whole symphony—knowing when to throw boldly and when to listen deeply to what sticks.",
+    "sealLine": "Remember: the entrepreneurial path is never a perfect line upward, but a rock-and-roll journey. Master the beginner's mind, and you will turn each tactic into timeless strategy.",
+    "portrait": "/cards/marc-benioff.png",
+    "episode": "Marc Benioff on Lenny's Podcast",
+    "cardCount": 10
+  }
+}

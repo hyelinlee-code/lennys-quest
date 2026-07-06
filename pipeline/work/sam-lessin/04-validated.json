@@ -1,0 +1,397 @@
+{
+  "cards": [
+    {
+      "id": "sam-lessin-001",
+      "speakerId": "sam-lessin",
+      "sentence": "it's very hard to cut through the noise these days. So you need humor is a great way to cut through it, but humor just for the sake of being funny is not that useful.",
+      "keyPhrase": {
+        "text": "cut through the noise",
+        "meaning_ko": "정보가 넘쳐나는 환경에서 메시지를 돋보이게 해 주목을 끌어내다",
+        "usageTip": "Use this when describing the challenge of standing out in a competitive market or getting your pitch, product, or message noticed amid endless alternatives.",
+        "chips": [
+          "cut",
+          "through",
+          "the",
+          "noise"
+        ],
+        "distractorChips": [
+          "remove",
+          "filter"
+        ]
+      },
+      "context": "Sam Lessin is discussing how founders can communicate effectively in an era of information overload. He argues that getting your message noticed requires more than just good content — you need deliberate strategies like humor, but only when it serves a real purpose.",
+      "vocabulary": [],
+      "topics": [
+        "Communication Skills",
+        "Starting a Company"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:05:01"
+    },
+    {
+      "id": "sam-lessin-002",
+      "speakerId": "sam-lessin",
+      "sentence": "There's a rule, you always want to just double down in life. And so I'd say why etiquette? Look, there's a serious real narrative to why etiquette matters in 2025 for founders, almost 2026.",
+      "keyPhrase": {
+        "text": "double down",
+        "meaning_ko": "의심을 받더라도 기존 방향에 더 강하게 베팅하다. '판돈을 두 배로 올리다'",
+        "usageTip": "Use this in business or strategy discussions when you or your team decide to invest more resources or commitment into a course of action rather than pulling back.",
+        "chips": [
+          "double",
+          "down"
+        ],
+        "distractorChips": [
+          "retreat",
+          "reconsider"
+        ]
+      },
+      "context": "Sam Lessin is explaining his personal philosophy of leaning harder into decisions rather than hedging. He uses this principle to justify his unconventional focus on etiquette as a serious topic for modern founders.",
+      "vocabulary": [
+        {
+          "word": "narrative",
+          "meaning": "the story or reasoning used to explain and justify a position or strategy",
+          "note": "In business, 'narrative' often refers to the compelling story a founder tells about why their company or idea matters.",
+          "synonyms": [
+            "story",
+            "rationale",
+            "framing"
+          ]
+        }
+      ],
+      "topics": [
+        "Decision Making",
+        "Leadership & Management"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:05:42"
+    },
+    {
+      "id": "sam-lessin-003",
+      "speakerId": "sam-lessin",
+      "sentence": "Understanding how to meet people, where they're at, build trust, mirror kind of expected behaviors. These are all tools.",
+      "keyPhrase": {
+        "text": "meet people where they're at",
+        "surface": "meet people, where they're at",
+        "meaning_ko": "상대의 현재 상황·감정·관점에 맞춰 내 방식을 조율하다. 내 기준을 강요하지 않고 상대 눈높이로 내려가다",
+        "usageTip": "Use this when discussing stakeholder management, sales, or leadership — it signals empathy and adaptability, showing you tailor your communication style to your audience.",
+        "chips": [
+          "meet",
+          "people",
+          "where",
+          "they're",
+          "at"
+        ],
+        "distractorChips": [
+          "challenge",
+          "confront"
+        ]
+      },
+      "context": "Sam Lessin is making the case that social and interpersonal skills are practical tools for founders. He frames meeting people where they are — adapting to their perspective rather than imposing your own — as a core competency in building trust and influencing others.",
+      "vocabulary": [
+        {
+          "word": "mirror",
+          "meaning": "to subtly reflect or match another person's communication style, tone, or behavior to build rapport",
+          "note": "In negotiation and leadership contexts, mirroring is a deliberate technique to make others feel understood.",
+          "synonyms": [
+            "reflect",
+            "match",
+            "emulate"
+          ]
+        }
+      ],
+      "topics": [
+        "Communication Skills",
+        "Leadership & Management"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:06:06"
+    },
+    {
+      "id": "sam-lessin-004",
+      "speakerId": "sam-lessin",
+      "sentence": "there's a bunch of people around and the more you can be inclusive and low heart rate, it's not a scarcity mindset, it's an abundance mindset.",
+      "keyPhrase": {
+        "text": "scarcity mindset",
+        "meaning_ko": "기회와 성공이 한정돼 있다는 결핍 믿음. 나눠주면 내 몫이 줄어든다는 제로섬 심리",
+        "usageTip": "Use this in leadership or culture discussions to describe behavior driven by fear of losing out; pair it with 'abundance mindset' to frame the healthier alternative.",
+        "chips": [
+          "scarcity",
+          "mindset"
+        ],
+        "distractorChips": [
+          "surplus",
+          "generous"
+        ]
+      },
+      "context": "Sam Lessin is contrasting two fundamental ways founders approach relationships and opportunities. He argues that staying calm and inclusive signals confidence, while anxious or exclusive behavior reflects a scarcity mindset — the belief that there is not enough to go around.",
+      "vocabulary": [
+        {
+          "word": "inclusive",
+          "meaning": "deliberately welcoming and making room for a wide range of people or perspectives",
+          "synonyms": [
+            "open",
+            "welcoming"
+          ]
+        },
+        {
+          "word": "abundance",
+          "meaning": "the belief that there is more than enough opportunity or success for everyone, enabling a generous and collaborative approach",
+          "synonyms": [
+            "plenty",
+            "generosity"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Decision Making"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:16:25"
+    },
+    {
+      "id": "sam-lessin-005",
+      "speakerId": "sam-lessin",
+      "sentence": "Yeah, I think you're creating an unnecessary uphill battery for yourself. I'd also say that, look, this goes back to technical differentiation where things are at.",
+      "keyPhrase": {
+        "text": "uphill battle",
+        "surface": "uphill battery",
+        "meaning_ko": "애초에 피할 수 있었던 장애물 때문에 훨씬 더 힘든 싸움을 하게 되다. 스스로 불리한 판을 만들다",
+        "usageTip": "Use this when explaining to a team or investor why a current approach is inefficient or unnecessarily difficult, and you are advocating for a smarter path.",
+        "chips": [
+          "uphill",
+          "battle"
+        ],
+        "distractorChips": [
+          "smooth",
+          "downhill"
+        ]
+      },
+      "context": "Sam Lessin is advising founders not to make their path to success harder than necessary. He warns that ignoring fundamentals like social skills or positioning creates avoidable obstacles — an uphill battle that drains energy better spent elsewhere.",
+      "vocabulary": [
+        {
+          "word": "differentiation",
+          "meaning": "the features or qualities that make a product, company, or approach meaningfully distinct from competitors",
+          "synonyms": [
+            "distinction",
+            "edge",
+            "uniqueness"
+          ]
+        }
+      ],
+      "topics": [
+        "Starting a Company",
+        "Strategy & Planning"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:08:39"
+    },
+    {
+      "id": "sam-lessin-006",
+      "speakerId": "sam-lessin",
+      "sentence": "I do think there's, again, leave them wanting more, I think is important. And that is partially about knowing when to excuse yourself gracefully as much as it is about when to enter.",
+      "keyPhrase": {
+        "text": "leave them wanting more",
+        "meaning_ko": "상대가 완전히 만족하기 전에 자리를 마무리해 다음 만남을 기대하게 만들다. '더 보고 싶다'는 여운을 남기다",
+        "usageTip": "Use this in sales, pitching, or networking contexts to describe the deliberate choice to end a meeting or presentation before exhausting your audience's interest.",
+        "chips": [
+          "leave",
+          "them",
+          "wanting",
+          "more"
+        ],
+        "distractorChips": [
+          "satisfy",
+          "bore"
+        ]
+      },
+      "context": "Sam Lessin is sharing etiquette advice for founders navigating social and professional events. He argues that knowing when to exit a conversation is just as strategically important as knowing how to enter one — ending on a high note makes people eager for the next interaction.",
+      "vocabulary": [
+        {
+          "word": "gracefully",
+          "meaning": "in a smooth, poised, and socially skillful manner, without causing awkwardness or offense",
+          "synonyms": [
+            "elegantly",
+            "tactfully"
+          ]
+        }
+      ],
+      "topics": [
+        "Communication Skills",
+        "Strategy & Planning"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:19:25"
+    },
+    {
+      "id": "sam-lessin-007",
+      "speakerId": "sam-lessin",
+      "sentence": "there are lots of scenarios where I think an Irish goodbye is the best goodbye where you just kind of disappear.",
+      "keyPhrase": {
+        "text": "Irish goodbye",
+        "meaning_ko": "파티나 모임에서 인사 없이 조용히 사라지다. 작별 인사를 생략하고 자연스럽게 자리를 뜨다",
+        "usageTip": "Use this in casual conversation to describe a strategic or discreet exit from a social or professional situation; it lightens the mood while conveying deliberate social awareness.",
+        "chips": [
+          "Irish",
+          "goodbye"
+        ],
+        "distractorChips": [
+          "entrance",
+          "announcement"
+        ]
+      },
+      "context": "Sam Lessin is giving tactical advice on how to exit conversations and events gracefully. He makes the counterintuitive argument that sometimes the cleanest social move is a silent departure — the Irish goodbye — rather than a drawn-out farewell that creates awkwardness.",
+      "vocabulary": [],
+      "topics": [
+        "Communication Skills",
+        "Decision Making"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "01:07:03"
+    },
+    {
+      "id": "sam-lessin-008",
+      "speakerId": "sam-lessin",
+      "sentence": "the key is to give them plausible deniability to themselves and the community effectively that we've wound down this conversation. So you have to look for the signs.",
+      "keyPhrase": {
+        "text": "plausible deniability",
+        "meaning_ko": "상대가 체면을 잃지 않고 물러설 수 있는 그럴듯한 명분을 만들어주다. '부인할 수 있는 여지'를 남겨 퇴로를 열어주다",
+        "usageTip": "Use this in negotiation, conflict resolution, or organizational contexts when describing how to give someone a face-saving way to change their position or exit a situation without losing credibility.",
+        "chips": [
+          "plausible",
+          "deniability"
+        ],
+        "distractorChips": [
+          "accountability",
+          "confession"
+        ]
+      },
+      "context": "Sam Lessin is teaching the social skill of gracefully ending conversations. He argues that simply walking away is not enough — a skilled communicator creates an off-ramp that lets the other person feel the conversation ended naturally, protecting their reputation and ego in the process.",
+      "vocabulary": [
+        {
+          "word": "plausible",
+          "meaning": "seeming reasonable and believable, even if not fully verified",
+          "synonyms": [
+            "credible",
+            "convincing",
+            "believable"
+          ]
+        },
+        {
+          "word": "wound down",
+          "meaning": "gradually brought to a close or conclusion in a calm, natural way",
+          "synonyms": [
+            "wrapped up",
+            "concluded",
+            "tapered off"
+          ]
+        }
+      ],
+      "topics": [
+        "Communication Skills",
+        "Leadership & Management"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:48:55"
+    },
+    {
+      "id": "sam-lessin-009",
+      "speakerId": "sam-lessin",
+      "sentence": "It's like they're too capital. If they work, they're too capital intensive. Seed investing does not work in highly capital intensive businesses, so that's not going to happen.",
+      "keyPhrase": {
+        "text": "capital intensive",
+        "meaning_ko": "성과를 내기 전에 막대한 초기 자금이 필요한. 자본 소모가 큰",
+        "usageTip": "Use this in fundraising or strategy discussions to flag that a business model requires substantial upfront financial resources, which affects what kind of investors or funding structures are appropriate.",
+        "chips": [
+          "capital",
+          "intensive"
+        ],
+        "distractorChips": [
+          "lean",
+          "bootstrapped"
+        ]
+      },
+      "context": "Sam Lessin is explaining why certain technology categories are poorly suited for seed-stage investing. He argues that even if the business model works in theory, the sheer amount of capital required before a startup can prove itself makes it a bad match for early-stage funds.",
+      "vocabulary": [
+        {
+          "word": "seed investing",
+          "meaning": "providing early-stage funding to startups, typically before they have a fully proven product or revenue, in exchange for equity",
+          "note": "Seed investors take on the highest risk and typically invest smaller amounts than later-stage venture funds.",
+          "synonyms": [
+            "early-stage investment",
+            "pre-series A funding"
+          ]
+        }
+      ],
+      "topics": [
+        "Fundraising",
+        "Starting a Company"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "01:13:31"
+    },
+    {
+      "id": "sam-lessin-010",
+      "speakerId": "sam-lessin",
+      "sentence": "you're going to win because of something else, and AI is going to be a propellant to it.",
+      "keyPhrase": {
+        "text": "be a propellant",
+        "surface": "a propellant",
+        "meaning_ko": "이미 갖고 있는 강점을 더 빠르고 강하게 밀어붙이는 추진제. 로켓 연료처럼 기존 우위를 폭발적으로 가속하는 요소",
+        "usageTip": "Use this as a vivid metaphor when describing how a technology, trend, or resource multiplies an existing strength rather than being the core strategy itself.",
+        "chips": [
+          "be",
+          "a",
+          "propellant"
+        ],
+        "distractorChips": [
+          "anchor",
+          "barrier"
+        ]
+      },
+      "context": "Sam Lessin is sharing his view on AI's role in startup success. He argues that AI alone is not a sustainable competitive advantage — instead, founders win based on unique insights, relationships, or distribution, and AI simply accelerates whatever edge they already have.",
+      "vocabulary": [
+        {
+          "word": "propellant",
+          "meaning": "something that drives rapid forward movement; here used metaphorically to mean a powerful accelerant for business growth",
+          "note": "Literally, a propellant is the fuel in a rocket engine. The metaphor positions AI as rocket fuel for a startup's existing competitive advantage.",
+          "synonyms": [
+            "accelerant",
+            "catalyst",
+            "multiplier"
+          ]
+        }
+      ],
+      "topics": [
+        "Strategy & Planning",
+        "Starting a Company"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "01:15:52"
+    }
+  ],
+  "speaker": {
+    "id": "sam-lessin",
+    "name": "Sam Lessin",
+    "title": "General Partner, Slow Ventures",
+    "titleHistory": "VP of Product at Facebook · Two-time founder · General Partner, Slow Ventures",
+    "house": "investor",
+    "epithet": "The Sage of Social Capital",
+    "motif": "a slowburning lantern and an open palm sigil",
+    "introLine": "Every room you enter is a negotiation — the question is whether you know it.",
+    "sealLine": "Go forth with a low heart rate, and the room will come to you.",
+    "portrait": "/cards/sam-lessin.png",
+    "episode": "Sam Lessin on Lenny's Podcast",
+    "cardCount": 10
+  }
+}

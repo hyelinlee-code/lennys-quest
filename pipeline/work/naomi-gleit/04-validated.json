@@ -1,0 +1,372 @@
+{
+  "cards": [
+    {
+      "id": "naomi-gleit-001",
+      "speakerId": "naomi-gleit",
+      "sentence": "Mark got on board or saw the value in it and was a huge proponent of it, but I'm not sure it necessarily originated with him.",
+      "keyPhrase": {
+        "text": "get on board",
+        "surface": "got on board",
+        "meaning_ko": "(처음엔 미온적이던 사람이) 편에 서서 지지하게 되다",
+        "usageTip": "Use 'get on board' when describing a stakeholder, executive, or colleague who was initially neutral or skeptical but ultimately aligned with and supported your initiative.",
+        "chips": [
+          "get",
+          "on",
+          "board"
+        ],
+        "distractorChips": [
+          "aside",
+          "along"
+        ]
+      },
+      "context": "Naomi Gleit is describing how Facebook's growth team came to be and how CEO Mark Zuckerberg ultimately embraced the initiative. She explains that leadership buy-in was not always where new ideas started — sometimes teams built proof first and executives came around later.",
+      "vocabulary": [
+        {
+          "word": "proponent",
+          "meaning": "a person who actively supports or advocates for something",
+          "note": "Stronger than 'supporter' — implies vocal, ongoing advocacy.",
+          "synonyms": [
+            "advocate",
+            "champion",
+            "backer"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Product Management"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:25:00"
+    },
+    {
+      "id": "naomi-gleit-002",
+      "speakerId": "naomi-gleit",
+      "sentence": "And so I think small group is characterized by a lot of disagreeable givers and I think that's really important for an organization.",
+      "keyPhrase": {
+        "text": "disagreeable giver",
+        "surface": "disagreeable givers",
+        "meaning_ko": "조직에 진심으로 헌신하면서도 듣기 싫은 말을 서슴없이 하는 사람. '쓴소리 기여자'",
+        "usageTip": "Use 'disagreeable giver' when discussing team composition, hiring values, or performance reviews to highlight someone who prioritizes organizational health over social comfort.",
+        "chips": [
+          "disagreeable",
+          "giver"
+        ],
+        "distractorChips": [
+          "taker",
+          "pleaser"
+        ]
+      },
+      "context": "Naomi Gleit is explaining what kinds of people are most valuable inside a large organization like Meta. She draws on Adam Grant's giver/taker framework to argue that the rarest and most prized employee type is someone who combines genuine helpfulness with the courage to push back and voice disagreement.",
+      "vocabulary": [
+        {
+          "word": "disagreeable",
+          "meaning": "willing to disagree or challenge others, even when it causes friction",
+          "note": "Used here in a positive, technical sense borrowed from organizational psychology — not simply 'unpleasant.'",
+          "synonyms": [
+            "contrarian",
+            "challenging"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Career Development"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:21:52"
+    },
+    {
+      "id": "naomi-gleit-003",
+      "speakerId": "naomi-gleit",
+      "sentence": "I've been in a lot of situations where people are using the same or different words to describe the same or different things, which results in talking past each other.",
+      "keyPhrase": {
+        "text": "talk past each other",
+        "surface": "talking past each other",
+        "meaning_ko": "서로 다른 얘기를 하면서 대화가 엇나가다. 겉으론 소통하는 것 같지만 실은 각자의 벽에 대고 말하는 상태",
+        "usageTip": "Use 'talk past each other' to name the dynamic in a meeting where two parties seem to be arguing but are actually addressing different questions — it signals the need to align on definitions before continuing.",
+        "chips": [
+          "talk",
+          "past",
+          "each",
+          "other"
+        ],
+        "distractorChips": [
+          "around",
+          "over"
+        ]
+      },
+      "context": "Naomi Gleit is discussing a common breakdown in cross-functional or strategic conversations at large companies like Meta. She points out that misalignment often stems not from bad intentions but from undefined terms — people assume they share a definition when they do not.",
+      "vocabulary": [],
+      "topics": [
+        "Communication Skills",
+        "Strategy & Planning"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:50:07"
+    },
+    {
+      "id": "naomi-gleit-004",
+      "speakerId": "naomi-gleit",
+      "sentence": "So at every step, and I talked about the growth team, the projects that we were working on were really at a high level around removing barriers.",
+      "keyPhrase": {
+        "text": "remove barriers",
+        "surface": "removing barriers",
+        "meaning_ko": "사용자가 막히는 지점을 없애다. 진입과 전환을 가로막는 걸림돌을 제거하다",
+        "usageTip": "Use 'remove barriers' in product or growth discussions to describe work that reduces friction in the user journey — onboarding flows, signup steps, permission prompts, and similar conversion blockers.",
+        "chips": [
+          "remove",
+          "barriers"
+        ],
+        "distractorChips": [
+          "walls",
+          "limits"
+        ]
+      },
+      "context": "Naomi Gleit is summarizing the core mission of Meta's early growth team, which she helped build. She explains that regardless of the specific project, the team's unifying principle was reducing friction so that new users could experience the product's value as quickly and easily as possible.",
+      "vocabulary": [],
+      "topics": [
+        "Growth & Marketing",
+        "Product Management"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:39:23"
+    },
+    {
+      "id": "naomi-gleit-005",
+      "speakerId": "naomi-gleit",
+      "sentence": "I think it's very important to have a single-threaded owner. We used to call this a directly responsible individual or a throat to choke. We obviously don't say that anymore.",
+      "keyPhrase": {
+        "text": "single-threaded owner",
+        "meaning_ko": "다른 업무와 나눠 갖지 않고 한 프로젝트에만 전적으로 책임지는 단독 오너",
+        "usageTip": "Use 'single-threaded owner' when advocating for clear accountability on a project — especially when a committee structure or shared ownership is causing slow decisions or diffused responsibility.",
+        "chips": [
+          "single-threaded",
+          "owner"
+        ],
+        "distractorChips": [
+          "shared",
+          "delegated"
+        ]
+      },
+      "context": "Naomi Gleit is making the case for clear ownership structures inside large organizations. She traces the concept through multiple names it has carried at different companies — including the now-retired 'throat to choke' — to illustrate that the underlying principle (one owner, full accountability) remains constant even as the language evolves.",
+      "vocabulary": [
+        {
+          "word": "single-threaded",
+          "meaning": "focused on one task or responsibility without splitting attention across multiple demands",
+          "note": "Borrowed from computing, where a single-threaded process handles one task at a time. In business, it means one person owns the initiative exclusively.",
+          "synonyms": [
+            "dedicated",
+            "undivided"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Decision Making"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:54:05"
+    },
+    {
+      "id": "naomi-gleit-006",
+      "speakerId": "naomi-gleit",
+      "sentence": "I sometimes think that maybe some of our efforts were really more on the margin of a bigger trend around product-market fit.",
+      "keyPhrase": {
+        "text": "on the margin",
+        "meaning_ko": "큰 흐름의 주된 원인이 아니라 미미한 부가 효과에 그치다. 변방의 작은 기여에 불과하다",
+        "usageTip": "Use 'on the margin' in retrospectives or strategy discussions when distinguishing between a factor that had a small incremental effect versus a structural force that drove the bulk of an outcome.",
+        "chips": [
+          "on",
+          "the",
+          "margin"
+        ],
+        "distractorChips": [
+          "core",
+          "center"
+        ]
+      },
+      "context": "Naomi Gleit is reflecting honestly on the actual impact of Meta's early growth work. Even after years of high-profile growth experiments, she acknowledges that the biggest gains may have come from Facebook achieving genuine product-market fit rather than from the team's tactical optimizations — a candid, intellectually humble assessment.",
+      "vocabulary": [
+        {
+          "word": "product-market fit",
+          "meaning": "the degree to which a product satisfies strong market demand, making growth feel organic and self-sustaining",
+          "note": "A foundational concept in startup strategy, popularized by Marc Andreessen. Achieving it is typically the single biggest driver of early growth.",
+          "synonyms": [
+            "PMF"
+          ]
+        }
+      ],
+      "topics": [
+        "Growth & Marketing",
+        "Strategy & Planning"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:42:27"
+    },
+    {
+      "id": "naomi-gleit-007",
+      "speakerId": "naomi-gleit",
+      "sentence": "And so oftentimes I'm just really trying to lead from behind and help them be as successful as possible.",
+      "keyPhrase": {
+        "text": "lead from behind",
+        "meaning_ko": "앞에서 지시하는 대신 뒤에서 받쳐주며 팀원이 빛나도록 이끌다. 서번트 리더십",
+        "usageTip": "Use 'lead from behind' to describe a servant-leadership approach where a manager's role is to enable expert contributors rather than to dictate decisions — especially effective with senior or specialized teams.",
+        "chips": [
+          "lead",
+          "from",
+          "behind"
+        ],
+        "distractorChips": [
+          "above",
+          "forward"
+        ]
+      },
+      "context": "Naomi Gleit is describing her leadership philosophy when working with domain experts on her team at Meta. Because her direct reports often know their specific area more deeply than she does, she deliberately steps back from telling them what to do and instead focuses on removing obstacles and amplifying their work.",
+      "vocabulary": [],
+      "topics": [
+        "Leadership & Management",
+        "Career Development"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "01:18:39"
+    },
+    {
+      "id": "naomi-gleit-008",
+      "speakerId": "naomi-gleit",
+      "sentence": "In terms of how I prioritize it, it's a non-negotiable or table stakes, every morning I have to work out.",
+      "keyPhrase": {
+        "text": "table stakes",
+        "meaning_ko": "게임에 끼려면 반드시 갖춰야 할 최소 조건. 타협의 여지 없는 기본 전제",
+        "usageTip": "Use 'table stakes' in product, business, or personal productivity conversations to describe a feature, behavior, or condition that is the absolute baseline — without it, you are not even in the game.",
+        "chips": [
+          "table",
+          "stakes"
+        ],
+        "distractorChips": [
+          "optional",
+          "bonus"
+        ]
+      },
+      "context": "Naomi Gleit is discussing how she protects her morning workout habit despite a demanding schedule at Meta. She frames daily exercise not as a nice-to-have preference but as an unconditional baseline — the same way a poker player must put chips on the table just to be dealt in.",
+      "vocabulary": [
+        {
+          "word": "non-negotiable",
+          "meaning": "an item or condition that cannot be compromised or traded away under any circumstances",
+          "synonyms": [
+            "mandatory",
+            "must-have",
+            "absolute"
+          ]
+        }
+      ],
+      "topics": [
+        "Decision Making",
+        "Communication Skills"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "01:13:28"
+    },
+    {
+      "id": "naomi-gleit-009",
+      "speakerId": "naomi-gleit",
+      "sentence": "Instead, the best thing that you can actually do in that situation is stand up into your fear, is to ride the wave. That is the safest thing you can do.",
+      "keyPhrase": {
+        "text": "stand up into your fear",
+        "meaning_ko": "두려움에서 도망치지 않고 정면으로 파고들다. 물결을 거스르지 않고 올라타듯 공포 속으로 몸을 세우다",
+        "usageTip": "Use 'stand up into your fear' in coaching, mentorship, or motivational contexts when encouraging someone to engage directly with a difficult conversation, a stretch assignment, or a high-stakes decision instead of avoiding it.",
+        "chips": [
+          "stand",
+          "up",
+          "into",
+          "your",
+          "fear"
+        ],
+        "distractorChips": [
+          "avoid",
+          "retreat"
+        ]
+      },
+      "context": "Naomi Gleit is offering advice about how to handle moments of anxiety or uncertainty, using an extended metaphor of ocean swimming. She argues that the instinct to pull back or escape from fear is counterproductive — engaging directly with the challenge, like a surfer riding a wave rather than fighting it, is both safer and more effective.",
+      "vocabulary": [
+        {
+          "word": "ride the wave",
+          "meaning": "to move with a situation's momentum rather than resisting it, allowing the force to carry you through",
+          "note": "A surfing metaphor used here to contrast with the impulse to fight or flee a difficult situation.",
+          "synonyms": [
+            "go with the flow",
+            "lean in"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Learning & Growth"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "01:34:58"
+    },
+    {
+      "id": "naomi-gleit-010",
+      "speakerId": "naomi-gleit",
+      "sentence": "They can also be scheduling my chief of staff and my head of data to bounce ideas off of as a sounding board because that is the process that I know best for me",
+      "keyPhrase": {
+        "text": "bounce ideas off",
+        "surface": "bounce ideas off of",
+        "meaning_ko": "아직 정제되지 않은 아이디어를 상대에게 던져 반응을 보며 생각을 다듬다",
+        "usageTip": "Use 'bounce ideas off' when describing an informal consultation with a colleague where the goal is not a decision but a reality check — it signals collaborative thinking rather than seeking approval.",
+        "chips": [
+          "bounce",
+          "ideas",
+          "off"
+        ],
+        "distractorChips": [
+          "pitch",
+          "present"
+        ]
+      },
+      "context": "Naomi Gleit is explaining her personal decision-making and thinking process as an executive at Meta. Rather than relying solely on her own analysis, she deliberately schedules time with trusted colleagues — her chief of staff and head of data — to test half-formed ideas and sharpen her perspective before committing to a direction.",
+      "vocabulary": [
+        {
+          "word": "sounding board",
+          "meaning": "a person used as a test audience for ideas, whose reactions help the speaker think more clearly",
+          "note": "Metaphor from acoustics: a surface that reflects and amplifies sound. Here it means a trusted person who reflects your thinking back at you.",
+          "synonyms": [
+            "thought partner",
+            "advisor"
+          ]
+        }
+      ],
+      "topics": [
+        "Communication Skills",
+        "Decision Making"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "01:23:28"
+    }
+  ],
+  "speaker": {
+    "id": "naomi-gleit",
+    "name": "Naomi Gleit",
+    "title": "Head of Product, Meta",
+    "titleHistory": "Head of Product, Meta · Early employee (employee #29)",
+    "house": "operator",
+    "epithet": "The Sage of Alignment",
+    "motif": "a compass rose glowing with interconnected threads, binding disparate paths into one true direction",
+    "introLine": "Greetings, young scholar. In my years building the largest platforms on earth, I learned that most struggles are not of strategy, but of clarity—when teams speak past each other, the mightiest vision crumbles.",
+    "sealLine": "You have studied the art of unity and truth-telling. May you lead with the courage to stand into your fear, and the wisdom to know when your organization has truly begun to speak as one.",
+    "portrait": "/cards/naomi-gleit.png",
+    "episode": "Naomi Gleit on Lenny's Podcast",
+    "cardCount": 10
+  }
+}

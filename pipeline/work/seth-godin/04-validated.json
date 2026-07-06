@@ -1,0 +1,367 @@
+{
+  "cards": [
+    {
+      "id": "seth-godin-001",
+      "speakerId": "seth-godin",
+      "sentence": "For a product person, these are the critical choices and you probably have glossed over them.",
+      "keyPhrase": {
+        "text": "gloss over",
+        "surface": "glossed over",
+        "meaning_ko": "중요한 사안을 대충 훑고 그냥 넘어가다",
+        "usageTip": "Use this when calling out that someone skipped over important details in a plan, proposal, or strategy — e.g., 'We glossed over the distribution model in the last meeting.'",
+        "chips": [
+          "gloss",
+          "over"
+        ],
+        "distractorChips": [
+          "skipped",
+          "ignored"
+        ]
+      },
+      "context": "Seth Godin is discussing the strategic decisions that define a product — choices like pricing, audience, and positioning. He warns product managers that the most consequential decisions are often the ones they rush past without deliberate thought.",
+      "vocabulary": [
+        {
+          "word": "critical",
+          "meaning": "extremely important; decisive",
+          "note": "In business, 'critical choices' are the ones that determine success or failure — not merely difficult ones.",
+          "synonyms": [
+            "pivotal",
+            "crucial"
+          ]
+        }
+      ],
+      "topics": [
+        "Product Management",
+        "Decision Making"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "23:31"
+    },
+    {
+      "id": "seth-godin-002",
+      "speakerId": "seth-godin",
+      "sentence": "people, whether they're jazz musicians or fabric designers are seen as having good taste when they bring something to the world that the world didn't necessarily expect but is glad to see.",
+      "keyPhrase": {
+        "text": "bring something to the world",
+        "meaning_ko": "세상이 미처 기대하지 못했지만 반기게 될 무언가를 세상에 내놓다",
+        "usageTip": "Use this in pitches or vision statements to describe the aspiration of launching something that adds new value — e.g., 'Our goal is to bring something to the world that simplifies how teams collaborate.'",
+        "chips": [
+          "bring",
+          "something",
+          "to",
+          "the",
+          "world"
+        ],
+        "distractorChips": [
+          "offer",
+          "present"
+        ]
+      },
+      "context": "Seth Godin is explaining what distinguishes creators who are considered to have 'good taste' — they contribute something surprising yet welcome, whether in art, design, or products. He uses jazz musicians and fabric designers as examples to show that taste is about delighting people beyond their expectations.",
+      "vocabulary": [
+        {
+          "word": "necessarily",
+          "meaning": "as an unavoidable result; inevitably",
+          "note": "Here used in the negative — 'didn't necessarily expect' means the audience had no specific prior demand for it.",
+          "synonyms": [
+            "inevitably",
+            "inherently"
+          ]
+        }
+      ],
+      "topics": [
+        "Strategy & Planning",
+        "Product Management"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "05:54"
+    },
+    {
+      "id": "seth-godin-003",
+      "speakerId": "seth-godin",
+      "sentence": "Quality means meeting spec, and if you meet spec, you're done. If you don't think the spec is good enough, make a better spec.",
+      "keyPhrase": {
+        "text": "meet spec",
+        "meaning_ko": "정해진 사양(spec)을 충족하다. 품질이란 막연한 완벽함이 아니라 약속한 기준을 정확히 채우는 것",
+        "usageTip": "Use this in engineering or product conversations to anchor quality discussions to concrete requirements — e.g., 'The feature meets spec as written; if this isn't good enough, we need to revise the spec first.'",
+        "chips": [
+          "meet",
+          "spec"
+        ],
+        "distractorChips": [
+          "exceed",
+          "ignore"
+        ]
+      },
+      "context": "Seth Godin is redefining what 'quality' really means for product builders. He argues that quality is not a vague pursuit of perfection — it is the precise act of fulfilling the specification you committed to. If the outcome feels inadequate, the real problem is an insufficient spec, not a quality failure.",
+      "vocabulary": [
+        {
+          "word": "spec",
+          "meaning": "short for specification; a detailed description of requirements a product or feature must satisfy",
+          "note": "In product and engineering contexts, 'spec' is a binding document — meeting it means the work is complete by definition.",
+          "synonyms": [
+            "specification",
+            "requirement",
+            "standard"
+          ]
+        }
+      ],
+      "topics": [
+        "Product Management",
+        "Strategy & Planning"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "06:46"
+    },
+    {
+      "id": "seth-godin-004",
+      "speakerId": "seth-godin",
+      "sentence": "Maybe I got seven, but I'll try to do them off the top of my head.",
+      "keyPhrase": {
+        "text": "off the top of one's head",
+        "surface": "off the top of my head",
+        "meaning_ko": "메모나 준비 없이 즉석에서 기억을 더듬어",
+        "usageTip": "Use this to signal a spontaneous but informed response in meetings — e.g., 'Off the top of my head, I can think of three reasons why that would fail.'",
+        "chips": [
+          "off",
+          "the",
+          "top",
+          "of",
+          "one's",
+          "head"
+        ],
+        "distractorChips": [
+          "roughly",
+          "written"
+        ]
+      },
+      "context": "Seth Godin is about to list several strategic dimensions of product design from memory during a podcast conversation. He uses this phrase to signal that his forthcoming list is drawn from deep internalized knowledge rather than a prepared script.",
+      "vocabulary": [],
+      "topics": [
+        "Communication Skills"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "14:26"
+    },
+    {
+      "id": "seth-godin-005",
+      "speakerId": "seth-godin",
+      "sentence": "if you don't build the network effect into what you are making, you are almost certainly going to fail.",
+      "keyPhrase": {
+        "text": "build a network effect into",
+        "surface": "build the network effect into",
+        "meaning_ko": "제품 설계 단계부터 네트워크 효과를 구조 안에 심다. 나중에 기능으로 얹는 게 아니라 처음부터 설계에 내장하는 것",
+        "usageTip": "Use this when evaluating product strategy or startup viability — e.g., 'We need to build the network effect into the core loop before we scale, not after.'",
+        "chips": [
+          "build",
+          "a",
+          "network",
+          "effect",
+          "into"
+        ],
+        "distractorChips": [
+          "viral",
+          "launch"
+        ]
+      },
+      "context": "Seth Godin is explaining one of the core product strategy dimensions that founders and PMs must deliberately plan from the start. He argues that without engineering network effects into the product's structure — not adding them later as a feature — the product is almost certain to lose out to competitors who do.",
+      "vocabulary": [
+        {
+          "word": "network effect",
+          "meaning": "a phenomenon where a product or service gains additional value as more people use it",
+          "note": "Classic examples include telephone networks, social platforms, and marketplaces — each new user makes the product more useful for all existing users.",
+          "synonyms": [
+            "demand-side scale",
+            "viral loop"
+          ]
+        }
+      ],
+      "topics": [
+        "Product Management",
+        "Growth & Marketing"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "15:14"
+    },
+    {
+      "id": "seth-godin-006",
+      "speakerId": "seth-godin",
+      "sentence": "if you want to build a brand, you got to stand for something and you got to say what you don't do.",
+      "keyPhrase": {
+        "text": "stand for something",
+        "meaning_ko": "뚜렷한 가치관이나 신념을 대표하다. 브랜드에서는 '우리가 하지 않는 것'을 선언하는 것도 포함",
+        "usageTip": "Use this in brand strategy and positioning discussions — e.g., 'Our company needs to stand for something specific, or we'll be invisible in a crowded market.'",
+        "chips": [
+          "stand",
+          "for",
+          "something"
+        ],
+        "distractorChips": [
+          "compete",
+          "sell"
+        ]
+      },
+      "context": "Seth Godin is explaining the foundation of building a durable brand. He argues that a brand must have a defined identity — not just a list of features — and that just as important as stating what you stand for is explicitly naming what you refuse to do, which creates trust and clarity with your audience.",
+      "vocabulary": [],
+      "topics": [
+        "Growth & Marketing",
+        "Strategy & Planning"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "16:26"
+    },
+    {
+      "id": "seth-godin-007",
+      "speakerId": "seth-godin",
+      "sentence": "ChatGPT's reputation with me is not good because it regularly over promises and under delivers and it does it without kindness or humility.",
+      "keyPhrase": {
+        "text": "overpromise and underdeliver",
+        "surface": "over promises and under delivers",
+        "meaning_ko": "장담은 크게 해 놓고 결과는 못 따라가다. 기대치를 부풀려 신뢰를 갉아먹는 패턴",
+        "usageTip": "Use this as a warning in product or sales contexts — e.g., 'We have to be careful not to overpromise and underdeliver in the beta launch messaging.'",
+        "chips": [
+          "overpromise",
+          "and",
+          "underdeliver"
+        ],
+        "distractorChips": [
+          "mislead",
+          "boast"
+        ]
+      },
+      "context": "Seth Godin is critiquing AI tools — specifically ChatGPT — for a recurring pattern that damages trust: setting high expectations through confident outputs, then falling short, all without acknowledging the gap. He frames it as a reputational failure rooted in a lack of humility.",
+      "vocabulary": [
+        {
+          "word": "humility",
+          "meaning": "the quality of being modest and not overstating one's abilities or certainty",
+          "note": "In product and business contexts, humility means acknowledging limitations openly rather than projecting false confidence.",
+          "synonyms": [
+            "modesty",
+            "candor"
+          ]
+        }
+      ],
+      "topics": [
+        "Communication Skills",
+        "Growth & Marketing"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "18:15"
+    },
+    {
+      "id": "seth-godin-008",
+      "speakerId": "seth-godin",
+      "sentence": "You can cross the chasm if you're someone like Tesla. And instead, they decide to pull a stunt, and that's not okay.",
+      "keyPhrase": {
+        "text": "cross the chasm",
+        "meaning_ko": "얼리어답터 틈새를 넘어 대중 시장으로 진입하다. Geoffrey Moore의 캐즘 이론에서 온 표현",
+        "usageTip": "Use this in go-to-market or growth strategy conversations — e.g., 'We've nailed the early adopter segment; the real challenge now is figuring out how to cross the chasm.'",
+        "chips": [
+          "cross",
+          "the",
+          "chasm"
+        ],
+        "distractorChips": [
+          "bridge",
+          "jump"
+        ]
+      },
+      "context": "Seth Godin is discussing the classic product diffusion challenge — the gap between winning over enthusiastic early adopters and reaching the larger mainstream market. He suggests that a brand with Tesla's credibility and track record had the standing to make that leap, making it all the more disappointing when they chose a gimmicky move instead.",
+      "vocabulary": [
+        {
+          "word": "chasm",
+          "meaning": "a deep gap or divide; in product strategy, the difficult transition between niche early adopters and the mass market",
+          "note": "Popularized by Geoffrey Moore's 'Crossing the Chasm' — a foundational text in startup and product strategy.",
+          "synonyms": [
+            "gap",
+            "divide"
+          ]
+        }
+      ],
+      "topics": [
+        "Growth & Marketing",
+        "Strategy & Planning"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "41:56"
+    },
+    {
+      "id": "seth-godin-009",
+      "speakerId": "seth-godin",
+      "sentence": "You can cross the chasm if you're someone like Tesla. And instead, they decide to pull a stunt, and that's not okay.",
+      "keyPhrase": {
+        "text": "pull a stunt",
+        "meaning_ko": "실속 없이 눈길만 끌려고 요란한 짓을 벌이다. 쌓아 온 신뢰를 소비하는 퍼포먼스성 행동",
+        "usageTip": "Use this critically in leadership or communications contexts — e.g., 'Announcing a half-baked feature just to make headlines is pulling a stunt, not building trust.'",
+        "chips": [
+          "pull",
+          "a",
+          "stunt"
+        ],
+        "distractorChips": [
+          "gamble",
+          "trick"
+        ]
+      },
+      "context": "Seth Godin is criticizing a move by Tesla — a brand with enough credibility to earn mainstream market trust — for choosing a showy, gimmicky action rather than taking a principled step forward. In his view, pulling a stunt means wasting hard-earned brand equity and signals a lack of integrity.",
+      "vocabulary": [],
+      "topics": [
+        "Leadership & Management",
+        "Communication Skills"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "41:56"
+    },
+    {
+      "id": "seth-godin-010",
+      "speakerId": "seth-godin",
+      "sentence": "What we can do is be of service. We can open the door to help people get to where they always wanted to go.",
+      "keyPhrase": {
+        "text": "be of service",
+        "meaning_ko": "상대가 이미 가고 싶었던 곳에 다다를 수 있도록 진심으로 돕다. 자기 의제가 아닌 상대의 목적에 복무하는 것",
+        "usageTip": "Use this in mission, values, or leadership conversations to articulate a service-oriented mindset — e.g., 'Our job is to be of service to our users, not to optimize for engagement metrics.'",
+        "chips": [
+          "be",
+          "of",
+          "service"
+        ],
+        "distractorChips": [
+          "helpful",
+          "useful"
+        ]
+      },
+      "context": "Seth Godin is reflecting on the deeper purpose of building products, brands, or businesses. Rather than focusing on extraction or self-promotion, he argues that the most powerful thing creators can do is genuinely serve their audience — helping people reach goals they already had, without imposing a new agenda.",
+      "vocabulary": [],
+      "topics": [
+        "Leadership & Management",
+        "Career Development"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "43:25"
+    }
+  ],
+  "speaker": {
+    "id": "seth-godin",
+    "name": "Seth Godin",
+    "title": "Author, founder of altMBA",
+    "titleHistory": "Author and founder of altMBA · Pioneering voice on marketing and product design",
+    "house": "operator",
+    "epithet": "The Sage of Resonance",
+    "motif": "a quill inscribing a ripple through water, surrounded by a brand-mark sigil",
+    "introLine": "Welcome, apprentice. In a world of noise, those who craft something the world didn't expect—yet is glad to see—become the makers of meaning.",
+    "sealLine": "You have learned the art of bringing something true into the world. Go forth, and let your work be of service.",
+    "portrait": "/cards/seth-godin.png",
+    "episode": "Seth Godin on Lenny's Podcast",
+    "cardCount": 10
+  }
+}

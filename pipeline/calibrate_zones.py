@@ -119,7 +119,49 @@ def draw_debug(path, banner, scroll, out):
     im.save(out)
 
 
+# Fixed-frame system: zones are HAND-TUNED once per house frame (frames never change).
+# --frames stamps these onto every speaker; --frames --debug renders check rects.
+HOUSE_ZONES = {
+    "founder": {
+        "banner": {"left": 22.0, "right": 22.0, "top": 6.3, "height": 5.6},
+        "scroll": {"left": 18.0, "right": 18.0, "top": 86.0, "height": 8.0},
+    },
+    "investor": {
+        "banner": {"left": 21.5, "right": 21.5, "top": 6.0, "height": 5.8},
+        "scroll": {"left": 18.0, "right": 18.0, "top": 86.0, "height": 8.0},
+    },
+    "operator": {
+        "banner": {"left": 21.0, "right": 21.0, "top": 6.2, "height": 6.0},
+        "scroll": {"left": 17.0, "right": 17.0, "top": 85.5, "height": 8.5},
+    },
+}
+
+
+def calibrate_frames(debug=False):
+    if debug:
+        DEBUG_DIR.mkdir(parents=True, exist_ok=True)
+        samples = {"founder": "dylan-field", "investor": "sarah-tavel", "operator": "marty-cagan"}
+        for house, slug in samples.items():
+            img = CARDS / f"{slug}.png"
+            if img.exists():
+                z = HOUSE_ZONES[house]
+                draw_debug(img, z["banner"], z["scroll"], DEBUG_DIR / f"frame-{house}.jpg")
+                print(f"{house}: debug -> {DEBUG_DIR / ('frame-' + house + '.jpg')}")
+        return
+    speakers = json.loads(SPEAKERS.read_text(encoding="utf-8"))
+    for sp in speakers:
+        if sp.get("house") in HOUSE_ZONES:
+            sp["overlayZones"] = HOUSE_ZONES[sp["house"]]
+    SPEAKERS.write_text(
+        json.dumps(speakers, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
+    print(f"stamped house-standard zones onto {len(speakers)} speakers")
+
+
 def main():
+    if "--frames" in sys.argv:
+        calibrate_frames(debug="--debug" in sys.argv)
+        return
     debug = "--debug" in sys.argv
     speakers = json.loads(SPEAKERS.read_text(encoding="utf-8"))
     if debug:

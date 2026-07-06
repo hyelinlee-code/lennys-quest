@@ -1,0 +1,369 @@
+{
+  "cards": [
+    {
+      "id": "dharmesh-shah-001",
+      "speakerId": "dharmesh-shah",
+      "sentence": "One of the kind of tricks of the trade in humor, and you learned this particularly in stand-up comedy, but just any comedy.",
+      "keyPhrase": {
+        "text": "tricks of the trade",
+        "meaning_ko": "그 분야 고수만 아는 실전 비법. trade = 직업·업계",
+        "usageTip": "Use this phrase when sharing an insider method or shortcut that only experienced practitioners know — especially in mentorship, training sessions, or onboarding conversations.",
+        "chips": [
+          "tricks",
+          "of",
+          "the",
+          "trade"
+        ],
+        "distractorChips": [
+          "secrets",
+          "skills"
+        ]
+      },
+      "context": "Dharmesh Shah is discussing how certain professional skills transfer across domains, using humor and stand-up comedy as an example. He is explaining that seasoned practitioners develop insider techniques that are rarely written down but prove highly effective in practice.",
+      "vocabulary": [],
+      "topics": [
+        "Communication Skills",
+        "Learning & Growth"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:11:56"
+    },
+    {
+      "id": "dharmesh-shah-002",
+      "speakerId": "dharmesh-shah",
+      "sentence": "I had promised her that I would not do start... I had to hang up the proverbial entrepreneurial hat. Best laid plans and all that.",
+      "keyPhrase": {
+        "text": "hang up the hat",
+        "surface": "hang up the proverbial entrepreneurial hat",
+        "meaning_ko": "(특히 오랜 역할이나 커리어에서) 완전히 손을 떼다. 모자를 벗어 걸어두는 이미지",
+        "usageTip": "Use this phrase when someone is formally stepping back from a role or stopping a major activity — often with a sense of finality or nostalgia, in conversations about career transitions.",
+        "chips": [
+          "hang",
+          "up",
+          "the",
+          "hat"
+        ],
+        "distractorChips": [
+          "remove",
+          "lift"
+        ]
+      },
+      "context": "Dharmesh Shah is recounting a promise he made to his wife to step away from founding startups, describing how personal commitments can shape a founder's career decisions. He adds \"best laid plans and all that\" as a wry acknowledgment that things didn't go quite as promised.",
+      "vocabulary": [
+        {
+          "word": "proverbial",
+          "meaning": "so well known that it is referenced like a proverb; used to signal a phrase is figurative",
+          "note": "Signals the speaker knows the phrase is a cliché but is using it deliberately",
+          "synonyms": [
+            "figurative",
+            "so-called"
+          ]
+        }
+      ],
+      "topics": [
+        "Starting a Company",
+        "Career Development"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "00:06:05"
+    },
+    {
+      "id": "dharmesh-shah-003",
+      "speakerId": "dharmesh-shah",
+      "sentence": "So what I think of is high conviction, low consensus bets. So high conviction is, \"We really, really believe this,\" and low consensus is that most other people don't.",
+      "keyPhrase": {
+        "text": "high conviction, low consensus",
+        "meaning_ko": "우리는 강하게 믿지만 시장 다수는 아직 동의하지 않는 역발상 베팅",
+        "usageTip": "Use this phrase in strategy meetings or investor conversations to describe a contrarian decision where you have done the research and are betting against prevailing market opinion.",
+        "chips": [
+          "high",
+          "conviction",
+          "low",
+          "consensus"
+        ],
+        "distractorChips": [
+          "moderate",
+          "popular"
+        ]
+      },
+      "context": "Dharmesh Shah is explaining how HubSpot decides which big strategic moves to make, arguing that the most valuable opportunities are ones where your team has strong internal belief but the broader market has not yet converged on the same view. He defines both terms explicitly so the listener can apply the framework immediately.",
+      "vocabulary": [
+        {
+          "word": "conviction",
+          "meaning": "a firmly held belief or opinion, strong enough to act on",
+          "synonyms": [
+            "certainty",
+            "confidence"
+          ]
+        },
+        {
+          "word": "consensus",
+          "meaning": "general agreement among a group of people",
+          "synonyms": [
+            "agreement",
+            "alignment"
+          ]
+        }
+      ],
+      "topics": [
+        "Strategy & Planning",
+        "Decision Making"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:28:23"
+    },
+    {
+      "id": "dharmesh-shah-004",
+      "speakerId": "dharmesh-shah",
+      "sentence": "we fall in love with the solution instead of falling in love with the actual problem, and you need to fall in love with the problem",
+      "keyPhrase": {
+        "text": "fall in love with the problem",
+        "surface": "fall in love with the solution instead of falling in love with the actual problem",
+        "meaning_ko": "솔루션이 아니라 문제 자체에 집착하다. 고객의 진짜 고통을 끝까지 놓지 않는 태도",
+        "usageTip": "Use this phrase during product reviews or customer discovery discussions to redirect the team away from premature solution bias and back toward understanding the root problem.",
+        "chips": [
+          "fall",
+          "in",
+          "love",
+          "with",
+          "the",
+          "problem"
+        ],
+        "distractorChips": [
+          "fixated",
+          "attached"
+        ]
+      },
+      "context": "Dharmesh Shah is describing one of the most common mistakes product builders make — becoming so invested in their own solution that they stop questioning whether it actually addresses the real problem. He is urging founders and PMs to keep the customer's core pain front and center throughout the building process.",
+      "vocabulary": [],
+      "topics": [
+        "Product Management",
+        "Starting a Company"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:54:37"
+    },
+    {
+      "id": "dharmesh-shah-005",
+      "speakerId": "dharmesh-shah",
+      "sentence": "And because of this reverse gravity, almost every company winds up being, every successful software company, ends up being an enterprise software company over the full list of time.",
+      "keyPhrase": {
+        "text": "reverse gravity",
+        "meaning_ko": "성장할수록 의도와 무관하게 엔터프라이즈 시장으로 끌려 올라가는 구조적 인력(引力)",
+        "usageTip": "Use this term in go-to-market or pricing discussions to name the market dynamic that pushes growing SaaS companies toward enterprise sales — helpful for anticipating organizational and pricing changes before they become crises.",
+        "chips": [
+          "reverse",
+          "gravity"
+        ],
+        "distractorChips": [
+          "momentum",
+          "friction"
+        ]
+      },
+      "context": "Dharmesh Shah is explaining a structural pattern he has observed in the software industry: as companies grow and revenue pressure increases, they are pulled toward larger contracts and enterprise deals regardless of where they originally intended to focus. He calls this force \"reverse gravity\" because it acts against the founders' initial downmarket or consumer instincts.",
+      "vocabulary": [
+        {
+          "word": "winds up",
+          "meaning": "ends up in a particular state or situation, often unintentionally",
+          "synonyms": [
+            "ends up",
+            "turns out"
+          ]
+        }
+      ],
+      "topics": [
+        "Strategy & Planning",
+        "Growth & Marketing"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:49:27"
+    },
+    {
+      "id": "dharmesh-shah-006",
+      "speakerId": "dharmesh-shah",
+      "sentence": "And the biggest mistake, and we used to make this much more than we make now, is, and Amazon has stated this really well, theirs is called disagree and commit.",
+      "keyPhrase": {
+        "text": "disagree and commit",
+        "meaning_ko": "반대 의견을 명확히 말한 뒤, 결정이 내려지면 뒤에서 딴짓 없이 전력으로 따르다",
+        "usageTip": "Use this phrase to establish a healthy meeting culture — after debate, expect everyone to either raise a final objection or commit fully, eliminating silent non-compliance.",
+        "chips": [
+          "disagree",
+          "and",
+          "commit"
+        ],
+        "distractorChips": [
+          "oppose",
+          "resist"
+        ]
+      },
+      "context": "Dharmesh Shah is discussing one of the most damaging organizational failure modes he has seen: team members who stay silent during a decision, then undermine it later. He credits Amazon for naming this principle explicitly and shares that HubSpot had to learn the same lesson through hard experience.",
+      "vocabulary": [],
+      "topics": [
+        "Leadership & Management",
+        "Decision Making"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "01:03:41"
+    },
+    {
+      "id": "dharmesh-shah-007",
+      "speakerId": "dharmesh-shah",
+      "sentence": "And we have a thing that are part of our culture and guiding principles around what I call \"fight for simplicity.\" It's literally those three words.",
+      "keyPhrase": {
+        "text": "fight for simplicity",
+        "meaning_ko": "단순함은 저절로 오지 않는다. 복잡해지려는 관성에 맞서 능동적으로 싸워내다",
+        "usageTip": "Use this phrase when pushing back on feature bloat, complicated processes, or convoluted communication — it frames simplicity as an active discipline, not a passive state.",
+        "chips": [
+          "fight",
+          "for",
+          "simplicity"
+        ],
+        "distractorChips": [
+          "embrace",
+          "accept"
+        ]
+      },
+      "context": "Dharmesh Shah is describing a core cultural value at HubSpot — treating simplicity not as a default outcome but as something that requires deliberate, continuous effort to preserve. He emphasizes that the phrase is enshrined verbatim in HubSpot's guiding principles because simplicity tends to erode unless people actively protect it.",
+      "vocabulary": [
+        {
+          "word": "guiding principles",
+          "meaning": "a set of foundational beliefs that direct an organization's decisions and behavior",
+          "synonyms": [
+            "core values",
+            "operating principles"
+          ]
+        }
+      ],
+      "topics": [
+        "Product Management",
+        "Leadership & Management"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "00:39:38"
+    },
+    {
+      "id": "dharmesh-shah-008",
+      "speakerId": "dharmesh-shah",
+      "sentence": "The third thing is what I think of is either passion or proximity. Do you care about this actual thing that you can actually bring to bear?",
+      "keyPhrase": {
+        "text": "bring to bear",
+        "meaning_ko": "자신의 기술·경험·자원을 특정 상황에 효과적으로 집중 투입하다",
+        "usageTip": "Use this phrase in leadership or strategy contexts when talking about applying existing strengths, relationships, or expertise to a new challenge — slightly more formal than \"use\" or \"apply.\"",
+        "chips": [
+          "bring",
+          "to",
+          "bear"
+        ],
+        "distractorChips": [
+          "present",
+          "offer"
+        ]
+      },
+      "context": "Dharmesh Shah is outlining his framework for evaluating whether a founder has the right fit for their specific startup idea, listing passion and proximity as the two key lenses. Here, \"bring to bear\" refers to whether a founder can actually deploy their unique knowledge or experience in a way that gives them an advantage.",
+      "vocabulary": [
+        {
+          "word": "proximity",
+          "meaning": "closeness to something, here meaning direct experience with or deep knowledge of a problem",
+          "synonyms": [
+            "closeness",
+            "familiarity"
+          ]
+        }
+      ],
+      "topics": [
+        "Starting a Company",
+        "Career Development"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "01:12:22"
+    },
+    {
+      "id": "dharmesh-shah-009",
+      "speakerId": "dharmesh-shah",
+      "sentence": "culture is a product, period, and that every company builds two products, one is the product they build for their customers, and the other is a product they build for their team.",
+      "keyPhrase": {
+        "text": "culture is a product",
+        "meaning_ko": "조직 문화도 제품처럼 의도적으로 설계하고, 측정하고, 반복 개선해야 한다는 관점",
+        "usageTip": "Use this phrase when advocating for a systematic, data-informed approach to company culture — it reframes HR and culture work as product work, which resonates strongly with engineering and product-minded leaders.",
+        "chips": [
+          "culture",
+          "is",
+          "a",
+          "product"
+        ],
+        "distractorChips": [
+          "asset",
+          "policy"
+        ]
+      },
+      "context": "Dharmesh Shah is sharing one of the rare frameworks he considers genuinely original, arguing that most companies treat culture as an accidental byproduct of hiring decisions. His claim is that founders who apply product-thinking — defining outcomes, collecting feedback, shipping updates — build far more durable and intentional cultures.",
+      "vocabulary": [],
+      "topics": [
+        "Leadership & Management",
+        "Starting a Company"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "01:21:17"
+    },
+    {
+      "id": "dharmesh-shah-010",
+      "speakerId": "dharmesh-shah",
+      "sentence": "It's like yeah, but then one of the other lessons is cultures over time become self-fulfilling prophecies.",
+      "keyPhrase": {
+        "text": "self-fulfilling prophecy",
+        "surface": "self-fulfilling prophecies",
+        "meaning_ko": "믿음이 행동을 바꾸고, 그 행동이 믿음을 실제로 현실로 만드는 자기강화 고리",
+        "usageTip": "Use this phrase in discussions about culture, reputation, or team dynamics to describe a reinforcing feedback loop — where an expectation or belief shapes behavior in a way that makes the expectation come true.",
+        "chips": [
+          "self-fulfilling",
+          "prophecy"
+        ],
+        "distractorChips": [
+          "outcome",
+          "paradox"
+        ]
+      },
+      "context": "Dharmesh Shah is explaining how company cultures compound over time: the norms and behaviors a culture establishes begin attracting people who match those norms, which in turn reinforces the culture further. He uses this phrase to show why early cultural choices have disproportionate long-term consequences.",
+      "vocabulary": [
+        {
+          "word": "prophecies",
+          "meaning": "plural of prophecy; predictions or beliefs about what will happen in the future",
+          "synonyms": [
+            "predictions",
+            "forecasts"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Learning & Growth"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "01:28:04"
+    }
+  ],
+  "speaker": {
+    "id": "dharmesh-shah",
+    "name": "Dharmesh Shah",
+    "title": "Co-founder & CTO, HubSpot",
+    "titleHistory": "Co-founder & CTO, HubSpot",
+    "house": "founder",
+    "epithet": "The Builder's Sage",
+    "motif": "a glowing blueprint intertwined with a sprouting seed, casting both clarity and growth",
+    "introLine": "The truest magic lies not in what you build, but in how you build it—culture is the foundation upon which empires of simplicity are raised.",
+    "sealLine": "Go forth knowing that every high-conviction bet, every refusal to love the wrong problem, and every culture you nurture becomes a self-fulfilling prophecy of your own making.",
+    "portrait": "/cards/dharmesh-shah.png",
+    "episode": "Dharmesh Shah on Lenny's Podcast",
+    "cardCount": 10
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "cards": [
+    {
+      "id": "scott-belsky-001",
+      "speakerId": "scott-belsky",
+      "sentence": "And for those people, I'm like, \"You know what? You're just in the messy middle. Stick with it. This is par for the course.\"",
+      "keyPhrase": {
+        "text": "par for the course",
+        "meaning_ko": "이 상황에서 으레 겪게 되는, 지극히 정상적인 일",
+        "usageTip": "Use this phrase to normalize setbacks or difficulties, signaling to a team or colleague that what they are experiencing is a predictable and expected part of the process.",
+        "chips": [
+          "par",
+          "for",
+          "the",
+          "course"
+        ],
+        "distractorChips": [
+          "standard",
+          "unusual"
+        ]
+      },
+      "context": "Scott Belsky is reassuring founders who are feeling overwhelmed in the difficult middle stages of building a company. He explains that the chaos and uncertainty they feel is not a sign of failure — it is simply what this stage of the journey looks like for everyone.",
+      "vocabulary": [
+        {
+          "word": "messy middle",
+          "meaning": "the difficult, unglamorous stretch between a project's exciting start and its eventual success",
+          "note": "A term Scott Belsky popularized in his book 'The Messy Middle' to describe the sustained grind of building.",
+          "synonyms": [
+            "the hard slog",
+            "the long haul"
+          ]
+        }
+      ],
+      "topics": [
+        "Starting a Company",
+        "Leadership & Management"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:00:31"
+    },
+    {
+      "id": "scott-belsky-002",
+      "speakerId": "scott-belsky",
+      "sentence": "Well, the most humbling moments for me as a product leader have always been shoulder to shoulder to customers.",
+      "keyPhrase": {
+        "text": "shoulder to shoulder",
+        "meaning_ko": "나란히 붙어 함께 일하다; 현장에서 직접 맞대며 협력하다",
+        "usageTip": "Use this phrase to emphasize hands-on collaboration or direct proximity with another group, particularly when contrasting it with a more distant or data-mediated relationship.",
+        "chips": [
+          "shoulder",
+          "to",
+          "shoulder"
+        ],
+        "distractorChips": [
+          "remote",
+          "distant"
+        ]
+      },
+      "context": "Scott Belsky is reflecting on what has kept him grounded as a product leader throughout his career. He describes the experience of working directly with customers — not through reports or data, but in close, in-person contact — as consistently the most humbling and clarifying moments in his work.",
+      "vocabulary": [
+        {
+          "word": "humbling",
+          "meaning": "causing a reduction in one's sense of importance or overconfidence, in a revealing and instructive way",
+          "note": "Used here positively — the humility gained from direct customer contact is framed as a strength, not a weakness.",
+          "synonyms": [
+            "sobering",
+            "grounding"
+          ]
+        }
+      ],
+      "topics": [
+        "Product Management",
+        "Leadership & Management"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:13:41"
+    },
+    {
+      "id": "scott-belsky-003",
+      "speakerId": "scott-belsky",
+      "sentence": "I'm very long the experience economy because I think that there will be some people liberated to focus more on the non-scalable things that really move the needle for experiences for customers.",
+      "keyPhrase": {
+        "text": "move the needle",
+        "meaning_ko": "눈에 띄는 변화를 만들어내다; 지표를 실질적으로 움직이다",
+        "usageTip": "Use this phrase in business discussions when distinguishing between activities that produce real, measurable impact versus those that are busy work or marginal in effect.",
+        "chips": [
+          "move",
+          "the",
+          "needle"
+        ],
+        "distractorChips": [
+          "shift",
+          "drop"
+        ]
+      },
+      "context": "Scott Belsky is arguing that as AI handles more scalable, automated tasks, humans will become more valuable for delivering high-touch, non-scalable experiences. He believes investing in the experience economy is smart precisely because it is the human-driven, hard-to-replicate work that produces the most meaningful results for customers.",
+      "vocabulary": [
+        {
+          "word": "non-scalable",
+          "meaning": "describing activities or approaches that cannot be easily expanded or automated to serve more people without proportionally more effort or cost",
+          "synonyms": [
+            "labor-intensive",
+            "high-touch"
+          ]
+        },
+        {
+          "word": "experience economy",
+          "meaning": "a business environment in which companies compete by delivering memorable, personalized experiences rather than just goods or services",
+          "note": "A concept popularized by Pine and Gilmore (1999) and increasingly relevant in an AI-augmented world."
+        }
+      ],
+      "topics": [
+        "Strategy & Planning",
+        "Product Management"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:28:38"
+    },
+    {
+      "id": "scott-belsky-004",
+      "speakerId": "scott-belsky",
+      "sentence": "I feel like this is where the best teams are going to build that muscle, that are going to go the distance.",
+      "keyPhrase": {
+        "text": "go the distance",
+        "meaning_ko": "끝까지 버티며 완주하다; 긴 싸움에서 끝내 살아남다",
+        "usageTip": "Use this phrase when discussing long-term commitment or stamina in a project or competitive context, especially to praise or motivate a team facing a prolonged challenge.",
+        "chips": [
+          "go",
+          "the",
+          "distance"
+        ],
+        "distractorChips": [
+          "sprint",
+          "quit"
+        ]
+      },
+      "context": "Scott Belsky is making the case that teams who develop the capacity to respond resourcefully to crises — rather than relying purely on abundant resources — are the ones who will endure and ultimately win. He frames this resilience as a competitive muscle that separates teams capable of long-term success from those that are not.",
+      "vocabulary": [
+        {
+          "word": "muscle",
+          "meaning": "a capability or strength developed through repeated practice and deliberate effort",
+          "note": "Used metaphorically here — 'build that muscle' means to deliberately develop a skill or organizational capacity over time.",
+          "synonyms": [
+            "capability",
+            "resilience"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Starting a Company"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:51:11"
+    },
+    {
+      "id": "scott-belsky-005",
+      "speakerId": "scott-belsky",
+      "sentence": "happen. But in terms of the half, the half-half, I learned this the hard way.",
+      "keyPhrase": {
+        "text": "learn the hard way",
+        "surface": "learned this the hard way",
+        "meaning_ko": "호되게 직접 겪으며 깨닫다",
+        "usageTip": "Use this phrase when sharing a hard-won personal insight to lend credibility and signal that the lesson comes from direct experience, not just theoretical knowledge.",
+        "chips": [
+          "learn",
+          "the",
+          "hard",
+          "way"
+        ],
+        "distractorChips": [
+          "easily",
+          "quickly"
+        ]
+      },
+      "context": "Scott Belsky is sharing a lesson about how to allocate a team's time between shipping new features and improving existing product quality. He acknowledges that the right balance — roughly splitting effort between the two — was not something he understood from the start, but rather a truth he had to discover through his own costly mistakes as a product leader.",
+      "vocabulary": [],
+      "topics": [
+        "Learning & Growth",
+        "Product Management"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:22:16"
+    },
+    {
+      "id": "scott-belsky-006",
+      "speakerId": "scott-belsky",
+      "sentence": "And so there's a lot of research around progress, be getting progress and how progress is a source of motivation. And so as product leaders, we have to merchandise progress.",
+      "keyPhrase": {
+        "text": "merchandise progress",
+        "meaning_ko": "진척 상황을 팀과 이해관계자에게 적극적으로 가시화해 동기를 부여하다. merchandise = 상품을 진열·홍보하다에서 온 표현",
+        "usageTip": "Use this phrase when discussing internal communications, team morale, or stakeholder updates — especially to argue for making intermediate milestones visible rather than only celebrating final launches.",
+        "chips": [
+          "merchandise",
+          "progress"
+        ],
+        "distractorChips": [
+          "hide",
+          "delay"
+        ]
+      },
+      "context": "Scott Belsky is drawing on research showing that the perception of progress is itself a powerful motivator. He argues that product leaders must go beyond simply making progress — they have a responsibility to present and highlight that progress clearly to their teams, because people need to feel momentum to stay engaged during long development cycles.",
+      "vocabulary": [
+        {
+          "word": "merchandise",
+          "meaning": "to actively promote and make something visible in order to maximize its perceived value — here used as a verb to mean strategically showcasing progress",
+          "note": "An unconventional use of the word: borrowed from retail (to 'merchandise' a product means to display it attractively), applied here to abstract internal communication.",
+          "synonyms": [
+            "showcase",
+            "surface",
+            "highlight"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Product Management"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:43:39"
+    },
+    {
+      "id": "scott-belsky-007",
+      "speakerId": "scott-belsky",
+      "sentence": "And so, we basically went on a killing spree. And we just started killing things.",
+      "keyPhrase": {
+        "text": "go on a killing spree",
+        "surface": "went on a killing spree",
+        "meaning_ko": "기능이나 프로젝트를 거침없이 대거 쳐내다; 망설임 없이 연달아 잘라버리다",
+        "usageTip": "Use this vivid phrase in informal or startup contexts to describe a rapid, decisive wave of cuts — whether eliminating product features, reducing a roadmap, or cutting low-value meetings and processes.",
+        "chips": [
+          "go",
+          "on",
+          "a",
+          "killing",
+          "spree"
+        ],
+        "distractorChips": [
+          "launching",
+          "building"
+        ]
+      },
+      "context": "Scott Belsky is describing a decisive period of ruthless product pruning at a company. Faced with an overgrown feature set that was dragging down the product, the team made an aggressive decision to rapidly cut a large number of things at once rather than incrementally trimming — treating the act of elimination as a bold, coordinated effort.",
+      "vocabulary": [
+        {
+          "word": "spree",
+          "meaning": "a period of unrestrained, rapid activity of a particular kind, usually done in quick succession",
+          "note": "Originally used in contexts like 'shopping spree' or 'crime spree'; here repurposed darkly-humorously to describe aggressive product simplification.",
+          "synonyms": [
+            "binge",
+            "wave",
+            "streak"
+          ]
+        }
+      ],
+      "topics": [
+        "Product Management",
+        "Decision Making"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:23:33"
+    },
+    {
+      "id": "scott-belsky-008",
+      "speakerId": "scott-belsky",
+      "sentence": "So my point number one is capitalize on the crisis, everyone. If resources are carbs, resourcefulness is like muscle.",
+      "keyPhrase": {
+        "text": "capitalize on the crisis",
+        "meaning_ko": "위기를 기회로 전환해 이득을 취하다; 어려운 상황을 역으로 이용해 도약하다",
+        "usageTip": "Use this phrase when making the case that a setback, funding cut, or market downturn can be reframed as a forcing function for innovation and efficiency, especially when addressing a leadership team or investors.",
+        "chips": [
+          "capitalize",
+          "on",
+          "the",
+          "crisis"
+        ],
+        "distractorChips": [
+          "surrender",
+          "avoid"
+        ]
+      },
+      "context": "Scott Belsky is sharing his first key piece of advice for teams navigating a period of scarcity or constraint. He argues that crises, rather than being purely negative, force teams to develop genuine resourcefulness — and that this resourcefulness, built under pressure, becomes a lasting competitive strength.",
+      "vocabulary": [
+        {
+          "word": "resourcefulness",
+          "meaning": "the ability to find creative, effective solutions with limited or constrained resources",
+          "note": "Belsky contrasts it with 'resources' (external inputs like money) using an extended metaphor: resources are carbs (quick fuel) while resourcefulness is muscle (built strength).",
+          "synonyms": [
+            "ingenuity",
+            "adaptability"
+          ]
+        }
+      ],
+      "topics": [
+        "Strategy & Planning",
+        "Starting a Company"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:51:33"
+    },
+    {
+      "id": "scott-belsky-009",
+      "speakerId": "scott-belsky",
+      "sentence": "In fact, that's probably been the cheat code of my career as a product leader, has just been disproportionately empowering design throughout the process.",
+      "keyPhrase": {
+        "text": "cheat code",
+        "meaning_ko": "남들이 모르는 결정적 비기(秘技); 적은 노력으로 압도적인 결과를 내는 숨겨진 공략법. 비디오게임의 치트 코드에서 온 표현",
+        "usageTip": "Use this phrase informally to describe an insight, habit, or practice that gives you an asymmetric edge — it signals both insider knowledge and a slightly playful tone, making it effective in pitch decks, conference talks, or team kick-offs.",
+        "chips": [
+          "cheat",
+          "code"
+        ],
+        "distractorChips": [
+          "obstacle",
+          "burden"
+        ]
+      },
+      "context": "Scott Belsky is explaining what he considers his single most effective career lever as a product leader. He argues that giving design a disproportionately influential role — beyond what most organizations do — has been the strategic move that has consistently unlocked better product outcomes than any other approach he has used.",
+      "vocabulary": [
+        {
+          "word": "disproportionately",
+          "meaning": "to a degree that is significantly greater than what is typical or expected relative to the whole",
+          "note": "Key word here: Belsky is not just saying he values design, but that he invests in it at a level that is deliberately out of proportion to the norm.",
+          "synonyms": [
+            "inordinately",
+            "far more than usual"
+          ]
+        }
+      ],
+      "topics": [
+        "Product Management",
+        "Career Development"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "00:35:57"
+    },
+    {
+      "id": "scott-belsky-010",
+      "speakerId": "scott-belsky",
+      "sentence": "I think experienced product thinkers with that golden gut of, \"Oh my gosh. Wait, reduction of cognitive load.\"",
+      "keyPhrase": {
+        "text": "golden gut",
+        "meaning_ko": "수년의 경험으로 단련된, 데이터 없이도 정확히 맞아떨어지는 황금 직관",
+        "usageTip": "Use this phrase to acknowledge or praise the earned intuition of a senior colleague, or to argue for the irreplaceable value of experienced judgment in product and design decisions — especially in contrast to purely data-driven approaches.",
+        "chips": [
+          "golden",
+          "gut"
+        ],
+        "distractorChips": [
+          "instinct",
+          "logic"
+        ]
+      },
+      "context": "Scott Belsky is arguing that experienced product thinkers possess a form of intuition that AI cannot easily replicate. He uses the phrase 'golden gut' to describe the deep, pattern-recognition-based instinct that allows a veteran product leader to instantly recognize — without needing data — when a design is adding too much cognitive load on a user.",
+      "vocabulary": [
+        {
+          "word": "cognitive load",
+          "meaning": "the total amount of mental effort required to process information or complete a task",
+          "note": "A core concept in UX design: reducing cognitive load means making a product easier to understand and use without overwhelming the user's attention.",
+          "synonyms": [
+            "mental effort",
+            "mental overhead"
+          ]
+        }
+      ],
+      "topics": [
+        "Product Management",
+        "Decision Making"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:37:39"
+    }
+  ],
+  "speaker": {
+    "id": "scott-belsky",
+    "name": "Scott Belsky",
+    "title": "Founder of Behance, former Adobe CPO, investor",
+    "titleHistory": "Founder of Behance · Former Chief Product Officer at Adobe · Investor",
+    "house": "investor",
+    "epithet": "The Sage of Design Intent",
+    "motif": "a glowing design grid with a spark igniting at its center, radiating outward into flowing brushstrokes",
+    "introLine": "Design is not merely decoration—it is the bridge between vision and action, and those who master this craft shape markets.",
+    "sealLine": "You have learned that true product leadership flows from empowering design as a strategic force, not an afterthought.",
+    "portrait": "/cards/scott-belsky.png",
+    "episode": "Scott Belsky on Lenny's Podcast",
+    "cardCount": 10
+  }
+}

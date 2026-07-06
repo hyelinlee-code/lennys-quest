@@ -1,5 +1,23 @@
-import { useRef, type CSSProperties, type PointerEvent } from 'react';
+import { useLayoutEffect, useRef, type CSSProperties, type PointerEvent } from 'react';
 import type { Rarity, Zone } from '../types';
+
+/** Shrink the banner text until it fits its zone width (expressions vary in length). */
+function useFitText(text: string | undefined) {
+  const ref = useRef<HTMLDivElement>(null);
+  useLayoutEffect(() => {
+    const el = ref.current;
+    if (!el || !text) return;
+    el.style.fontSize = '';
+    const parent = el.parentElement;
+    if (!parent) return;
+    let size = parseFloat(getComputedStyle(el).fontSize);
+    while (el.scrollWidth > parent.clientWidth && size > 7) {
+      size -= 0.5;
+      el.style.fontSize = `${size}px`;
+    }
+  }, [text]);
+  return ref;
+}
 
 /** Card text stays English-only — translations live in the side panel, so one
  *  card art + overlay works for every future translation language. */
@@ -70,6 +88,7 @@ export function TiltCard({ imageSrc, rarity, veiled, bloom, overlay, zones, onCl
   }
 
   const showText = !veiled && overlay;
+  const bannerRef = useFitText(showText ? overlay.expression : undefined);
 
   return (
     <div className="stage">
@@ -89,7 +108,9 @@ export function TiltCard({ imageSrc, rarity, veiled, bloom, overlay, zones, onCl
         />
         <div className="mholo" />
         <div className="fz fc-banner" style={zoneStyle(zones?.banner)}>
-          <div className="fc-expr">{showText ? overlay.expression : ''}</div>
+          <div className="fc-expr" ref={bannerRef}>
+            {showText ? overlay.expression : ''}
+          </div>
         </div>
         <div className="fz fc-scroll" style={zoneStyle(zones?.scroll)}>
           {showText && (

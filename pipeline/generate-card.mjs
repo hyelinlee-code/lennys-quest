@@ -10,9 +10,10 @@
 //   pipeline/work/<slug>/01-extracted.json        — house
 //   pipeline/work/<slug>/03b-speaker.json         — motif
 // Output: public/cards/<slug>.png (1024x1536, ~$0.19-0.25/image at high quality)
-import { readFileSync, writeFileSync, existsSync, readdirSync } from 'node:fs';
+import { readFileSync, writeFileSync, existsSync, readdirSync, mkdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { spawnSync } from 'node:child_process';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const REFS = join(ROOT, 'pipeline', 'art-refs');
@@ -80,35 +81,38 @@ function buildPrompt(houseColor, motif, slug) {
   const pose = hashPick(slug, POSES, 7);
   const garment = hashPick(slug, GARMENTS, 13);
   const backdrop = hashPick(slug, BACKDROPS, 29);
-  return `The FIRST attached image is a reference caricature of a specific person (the official illustrated version used by a newsletter). The SECOND attached image is my anchor reference card — match its exact frame construction, palette treatment, and rendering style; change ONLY the character, the set color, and the motif details.
+  return buildInteriorPrompt(houseColor, motif, pose, garment, backdrop);
+}
 
-RESTYLE the person from the first image into an ornate collectible "wizard card" for a card-collecting study app.
+// Fixed-frame system: the API paints ONLY the oval interior portrait; the ornate
+// frame is a per-house template composited by pipeline/compose_card.py.
+function buildInteriorPrompt(houseColor, motif, pose, garment, backdrop) {
+  return `The FIRST attached image is a reference caricature of a specific person (the official illustrated version used by a newsletter). The SECOND attached image is a style reference — match its painterly rendering style, lighting, and mood ONLY; completely ignore its ornate frame, plaques, and borders.
 
-IDENTITY — preserve from the first attached reference: Keep the person clearly recognizable. Preserve their facial features, hairstyle, distinguishing traits, and overall likeness from the reference. This must still read as the SAME person — just redrawn in a new artistic style. Do not invent a different face.
+Paint the person from the first image as an OVAL PORTRAIT INTERIOR for a collectible wizard card (the ornate frame will be added separately by software — do NOT paint any frame).
 
-RESTYLE INTO THIS STYLE (lock exactly — identical on every card)
-Antique illuminated trading-card illustration. Painterly oil-portrait finish with fine engraved linework, the look of a vintage arcane collectible. Rich, museum-like, slightly aged. Dignified, not cartoonish. Reimagine the person as a learned alchemist-sage with a composed, intelligent expression.
+IDENTITY — preserve from the first attached reference: Keep the person clearly recognizable. Preserve their facial features, hairstyle, distinguishing traits, and overall likeness from the reference. Preserve the person's apparent AGE from the reference — youthful subjects must stay youthful; do NOT age them up, no added wrinkles or gray hair. This must still read as the SAME person — just redrawn in a new artistic style. Do not invent a different face.
+
+STYLE (lock exactly — identical on every card)
+Antique illuminated portrait illustration. Painterly oil-portrait finish with fine engraved linework, the look of a vintage arcane collectible. Rich, museum-like. Dignified, not cartoonish. Reimagine the person as an alchemist-sage with a composed, intelligent expression.
 
 THIS CARD'S UNIQUE STAGING (varies per card — this is what makes each sage distinct)
 The sage's signature conjured artifact, rendered as a small luminous magical manifestation: ${motif}. NOT a generic glowing orb — the artifact's shape must clearly express this description.
 Pose: ${pose}.
 Attire: ${garment}, in the dominant set color with gold trim.
-Behind the subject inside the oval: ${backdrop}, softly lit and atmospheric.
+Backdrop behind the subject: ${backdrop}, softly lit and atmospheric, with faint glowing constellations.
 
-FRAME & LAYOUT (lock exactly — match the anchor card's ornate density)
-Place the restyled head-and-shoulders portrait inside an arched oval window. Around it, an ELABORATE, DENSELY LAYERED gilded baroque filigree frame — thick sculpted gold scrollwork with multiple nested border bands, exactly as rich and dimensional as the second attached anchor card. Ornate corner flourishes, two small round side medallions at mid-height, and abundant mystical detail (constellations, arcane sigils, fine engraved starfields) filling the space between borders. Weave in a subtle modern "tech wizard" nod: thin circuitry traced into the gold filigree, plus a miniature emblem of the sage's artifact worked into the two side medallions. Reserve TWO completely BLANK zones for later text overlay (no letters in them): a slim banner plaque across the TOP, and a blank scroll / cartouche across the BOTTOM THIRD.
+COMPOSITION
+Head-and-shoulders to waist-up portrait, subject centered, head in the upper third with clear space above the hair. All four EDGES and CORNERS of the image fade into deep dark atmosphere (near-black vignette in the dominant set color) — no bright content touching any edge, because the outer area will be masked to an oval.
 
 PALETTE / LIGHT
 Candlelit chiaroscuro, warm gold-leaf accents, jewel tones. Dominant set color: ${houseColor}.
 
-RARITY — rare (match the anchor card's treatment)
-Gleaming gold-leaf frame, an iridescent rainbow holographic prismatic sheen running along the outermost border edge exactly like the anchor card, softly glowing sigils throughout.
-
 CONSTRAINTS
-Preserve the reference likeness. No readable text, letters, or numbers anywhere on the card. Keep the top banner and bottom scroll empty. No logos, no watermarks, no existing franchise or branded card design. Single character only.
+Preserve the reference likeness. NO frame, NO border, NO plaques, NO banners. No readable text, letters, or numbers anywhere. No logos, no watermarks. Single character only.
 
 FORMAT
-Vertical trading card, 5:7 ratio, rounded corners, character centered, high resolution.`;
+Vertical portrait, high resolution.`;
 }
 
 async function generate(slug, apiKey, force) {
@@ -164,8 +168,18 @@ async function generate(slug, apiKey, force) {
     console.error(`❌ ${slug}: no image in response`);
     return 'error';
   }
-  writeFileSync(out, Buffer.from(b64, 'base64'));
-  console.log(`✅ ${slug} → public/cards/${slug}.png`);
+  const interiorDir = join(ROOT, 'pipeline', 'interiors');
+  mkdirSync(interiorDir, { recursive: true });
+  writeFileSync(join(interiorDir, `${slug}.png`), Buffer.from(b64, 'base64'));
+
+  const py = spawnSync('python', [join(ROOT, 'pipeline', 'compose_card.py'), slug, house], {
+    encoding: 'utf8',
+  });
+  if (py.status !== 0) {
+    console.error(`❌ ${slug}: compose failed — ${py.stderr?.slice(0, 300)}`);
+    return 'error';
+  }
+  console.log(`✅ ${slug} → interior + composed public/cards/${slug}.png`);
   return 'ok';
 }
 

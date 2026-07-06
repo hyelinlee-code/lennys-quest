@@ -216,6 +216,8 @@
   line-height: 1.05;
   color: #3a2208;
   text-shadow: 0 1px 0 rgba(255, 246, 222, 0.55);
+  /* single line — useFitText shrinks long expressions to the zone width */
+  white-space: nowrap;
 }
 /* scroll zone: 3 stacked lines (meaning / excerpt / speaker) — wizard_card.html final */
 .fc-scroll {

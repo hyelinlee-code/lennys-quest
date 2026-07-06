@@ -1,0 +1,383 @@
+{
+  "cards": [
+    {
+      "id": "amjad-masad-001",
+      "speakerId": "amjad-masad",
+      "sentence": "Typically, you're bottlenecked where your ideas are not fitting in because they need to be made and they need to be made quickly.",
+      "keyPhrase": {
+        "text": "be bottlenecked by",
+        "surface": "bottlenecked where",
+        "meaning_ko": "특정 지점에서 막혀 전체 흐름이 지체되다",
+        "usageTip": "Use this in product or engineering discussions to identify where a team's throughput is being constrained — e.g., 'We're bottlenecked by our QA cycle, not our engineers.'",
+        "chips": [
+          "be",
+          "bottlenecked",
+          "by"
+        ],
+        "distractorChips": [
+          "blocked",
+          "slowed"
+        ]
+      },
+      "context": "Amjad Masad, CEO of Replit, is explaining why most builders struggle to ship their ideas: the constraint isn't creativity but execution speed. He argues that when ideas can't be built fast enough, the creative process itself stalls.",
+      "vocabulary": [
+        {
+          "word": "bottlenecked",
+          "meaning": "restricted or slowed at a particular point in a process",
+          "note": "Derived from the narrow neck of a bottle that limits flow; commonly used in operations and engineering contexts.",
+          "synonyms": [
+            "constrained",
+            "throttled"
+          ]
+        }
+      ],
+      "topics": [
+        "Product Management",
+        "Decision Making"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:00:27"
+    },
+    {
+      "id": "amjad-masad-002",
+      "speakerId": "amjad-masad",
+      "sentence": "because the activation energy is lower than going to hire developer, whether Upwork or other places, I'm building a lot more ideas that otherwise I wouldn't have built.",
+      "keyPhrase": {
+        "text": "activation energy",
+        "meaning_ko": "무언가를 시작하는 데 필요한 최소한의 노력·비용·허들. 화학의 활성화 에너지에서 온 비즈니스 표현",
+        "usageTip": "Use this in startup or product strategy conversations to describe how removing barriers (cost, complexity, time) encourages more experimentation — e.g., 'Lowering the activation energy for sign-up increased our conversion rate.'",
+        "chips": [
+          "activation",
+          "energy"
+        ],
+        "distractorChips": [
+          "momentum",
+          "threshold"
+        ]
+      },
+      "context": "Amjad Masad is discussing how AI coding tools like Replit have dramatically reduced the cost of starting a software project. He borrowed the chemistry term 'activation energy' — the minimum energy needed to start a reaction — to describe how lower friction unlocks more ideas being built.",
+      "vocabulary": [
+        {
+          "word": "activation energy",
+          "meaning": "borrowed from chemistry: the minimum effort or cost required to initiate a process or action",
+          "note": "In chemistry, it is the energy needed to start a reaction; in business, it metaphorically means the friction that must be overcome to begin a task.",
+          "synonyms": [
+            "barrier to entry",
+            "friction"
+          ]
+        }
+      ],
+      "topics": [
+        "Starting a Company",
+        "Product Management"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:23:17"
+    },
+    {
+      "id": "amjad-masad-003",
+      "speakerId": "amjad-masad",
+      "sentence": "Let's go actually put it on the roadmap and build it into the actual product.",
+      "keyPhrase": {
+        "text": "put it on the roadmap",
+        "meaning_ko": "아이디어를 공식 개발 계획에 올려 정식 우선순위로 확정하다",
+        "usageTip": "Use this in product meetings to signal that an idea has been approved and will be officially planned — e.g., 'The team loved the concept, so we decided to put it on the roadmap for Q3.'",
+        "chips": [
+          "put",
+          "it",
+          "on",
+          "the",
+          "roadmap"
+        ],
+        "distractorChips": [
+          "backlog",
+          "schedule"
+        ]
+      },
+      "context": "Amjad Masad is recounting how an internal prototype or idea was validated and then officially committed to as part of Replit's product plan. The phrase captures the moment a concept moves from exploration to a committed development priority.",
+      "vocabulary": [],
+      "topics": [
+        "Product Management",
+        "Strategy & Planning"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:26:35"
+    },
+    {
+      "id": "amjad-masad-004",
+      "speakerId": "amjad-masad",
+      "sentence": "I said it's going to be society of models, like products will be made of a lot of different models, and it's quite a heavy engineering project.",
+      "keyPhrase": {
+        "text": "society of models",
+        "meaning_ko": "하나의 거대 모델 대신 역할별로 특화된 여러 AI 모델이 협업하는 제품 구조",
+        "usageTip": "Use this in AI product or engineering discussions to describe multi-model architectures — e.g., 'We're moving toward a society of models where routing, retrieval, and generation are handled by separate specialized models.'",
+        "chips": [
+          "society",
+          "of",
+          "models"
+        ],
+        "distractorChips": [
+          "ensemble",
+          "network"
+        ]
+      },
+      "context": "Amjad Masad is sharing an early prediction he made about how AI-powered software products would be structured. Rather than relying on a single large language model, he foresaw that complex products would need to orchestrate many purpose-built models, each handling different tasks — an architecture he called a 'society of models.'",
+      "vocabulary": [
+        {
+          "word": "engineering",
+          "meaning": "the discipline of designing, building, and managing complex systems or software",
+          "note": "Amjad uses 'heavy engineering project' to signal that orchestrating many AI models is technically demanding work, not just a product decision.",
+          "synonyms": [
+            "architecture",
+            "implementation"
+          ]
+        }
+      ],
+      "topics": [
+        "Product Management",
+        "Strategy & Planning"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:32:51"
+    },
+    {
+      "id": "amjad-masad-005",
+      "speakerId": "amjad-masad",
+      "sentence": "And everyone feels that pain of, we have low bandwidth communication, which is language and then text on Slack and Zoom calls.",
+      "keyPhrase": {
+        "text": "low-bandwidth communication",
+        "surface": "low bandwidth communication",
+        "meaning_ko": "한 번의 교환으로 전달할 수 있는 정보량이 적은 소통 방식. Slack 문자나 Zoom 통화처럼 맥락과 뉘앙스가 많이 소실되는 채널",
+        "usageTip": "Use this in discussions about collaboration or team productivity to contrast high-context tools (shared documents, demos, code) with low-context ones (emails, chats) — e.g., 'Async video demos are higher-bandwidth than long Slack threads.'",
+        "chips": [
+          "low-bandwidth",
+          "communication"
+        ],
+        "distractorChips": [
+          "narrow",
+          "limited"
+        ]
+      },
+      "context": "Amjad Masad is arguing that language-based tools like Slack messages and Zoom calls are inefficient compared to working directly in code. He uses the networking term 'bandwidth' — the amount of data that can be transmitted — to highlight how much context and nuance is lost when collaborators can only communicate through text and speech instead of shared artifacts like code.",
+      "vocabulary": [
+        {
+          "word": "bandwidth",
+          "meaning": "the capacity of a channel to transmit information; in business, it also refers to a person's available time and attention",
+          "note": "Originally a networking term; widely adopted in business to describe both communication richness and personal capacity.",
+          "synonyms": [
+            "capacity",
+            "throughput"
+          ]
+        }
+      ],
+      "topics": [
+        "Communication Skills",
+        "Leadership & Management"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:41:08"
+    },
+    {
+      "id": "amjad-masad-006",
+      "speakerId": "amjad-masad",
+      "sentence": "Ultimately in software tech companies, everything that we're talking about need to eventually flush out in terms of code.",
+      "keyPhrase": {
+        "text": "flush out in terms of",
+        "surface": "flush out in terms of code",
+        "meaning_ko": "추상적인 논의나 계획이 결국 구체적인 결과물로 완전히 구현되다",
+        "usageTip": "Use this to push discussions toward tangible outputs — e.g., 'This strategy needs to flush out in terms of a feature spec and timeline before we can commit resources.'",
+        "chips": [
+          "flush",
+          "out",
+          "in",
+          "terms",
+          "of"
+        ],
+        "distractorChips": [
+          "wash",
+          "clarify"
+        ]
+      },
+      "context": "Amjad Masad is making the point that in software companies, abstract ideas and conversations only have real impact when they are translated into working code. He argues that regardless of how much you plan or discuss, the ultimate test is whether those ideas can be implemented.",
+      "vocabulary": [],
+      "topics": [
+        "Product Management",
+        "Communication Skills"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:42:30"
+    },
+    {
+      "id": "amjad-masad-007",
+      "speakerId": "amjad-masad",
+      "sentence": "being generative, being more generative, being able to generate new ideas quickly, because you can think about it as a factory line.",
+      "keyPhrase": {
+        "text": "be generative",
+        "surface": "being generative",
+        "meaning_ko": "새로운 아이디어를 빠르고 풍부하게 쏟아내는 능력을 갖추다. AI 시대에 더욱 희귀해지는 인간 역량",
+        "usageTip": "Use this in career or leadership conversations to describe a key creative capability — e.g., 'The best PMs I've worked with are incredibly generative; they never walk into a meeting without three fresh angles to explore.'",
+        "chips": [
+          "be",
+          "generative"
+        ],
+        "distractorChips": [
+          "productive",
+          "creative"
+        ]
+      },
+      "context": "Amjad Masad is discussing the skills that matter most as AI takes over more execution tasks. He argues that being generative — consistently producing a large quantity of novel ideas — is a skill that becomes more valuable, not less, in an AI-assisted world, because humans still need to supply the creative direction.",
+      "vocabulary": [
+        {
+          "word": "generative",
+          "meaning": "capable of producing a large quantity of new ideas, solutions, or creative output",
+          "note": "Distinct from 'generative AI' — here it describes a human cognitive trait: the ability to originate ideas freely and prolifically.",
+          "synonyms": [
+            "inventive",
+            "prolific"
+          ]
+        }
+      ],
+      "topics": [
+        "Learning & Growth",
+        "Career Development"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:44:25"
+    },
+    {
+      "id": "amjad-masad-008",
+      "speakerId": "amjad-masad",
+      "sentence": "And I have this that's been called not by me, dubbed as Amjad's Law, which is the return on investment for learn to code is doubling every six months.",
+      "keyPhrase": {
+        "text": "return on investment",
+        "meaning_ko": "투입한 비용·노력 대비 얻은 이익의 비율. 줄여서 ROI",
+        "usageTip": "Use ROI to justify initiatives by quantifying value gained versus resources spent — e.g., 'The return on investment for developer tooling improvements is hard to measure but shows up clearly in shipping velocity.'",
+        "chips": [
+          "return",
+          "on",
+          "investment"
+        ],
+        "distractorChips": [
+          "payback",
+          "profit"
+        ]
+      },
+      "context": "Amjad Masad is explaining a principle he observed, later nicknamed 'Amjad's Law' by others: that the payoff from knowing how to code is increasing at an exponential rate as AI tools amplify what a single developer can build. He frames learning to code as an investment whose returns are compounding.",
+      "vocabulary": [
+        {
+          "word": "dubbed",
+          "meaning": "informally named or nicknamed",
+          "note": "Used when a label is coined by others rather than officially assigned.",
+          "synonyms": [
+            "nicknamed",
+            "christened"
+          ]
+        }
+      ],
+      "topics": [
+        "Career Development",
+        "Learning & Growth"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:47:09"
+    },
+    {
+      "id": "amjad-masad-009",
+      "speakerId": "amjad-masad",
+      "sentence": "If my law is directionally correct, even if the months are not, I'm not exactly right that the duration is correct, you're going to see a compounding effect of the power.",
+      "keyPhrase": {
+        "text": "compounding effect",
+        "meaning_ko": "이전 성과가 다음 성과의 토대가 되어 시간이 갈수록 성장이 가속되는 복리 효과",
+        "usageTip": "Use this to make the case for long-term investments in skills, systems, or habits — e.g., 'The compounding effect of consistent content publishing means your tenth post gets ten times more reach than your first.'",
+        "chips": [
+          "compounding",
+          "effect"
+        ],
+        "distractorChips": [
+          "multiplying",
+          "cascading"
+        ]
+      },
+      "context": "Amjad Masad is defending his prediction that the value of coding skills will grow exponentially with AI. Even if his specific timeline is off, he argues the direction is correct: each improvement in AI amplifies the one before it, creating a compounding effect that makes the skill increasingly powerful.",
+      "vocabulary": [
+        {
+          "word": "directionally",
+          "meaning": "correct in terms of overall trend or trajectory, even if not precise in specific details",
+          "note": "Common in forecasting and strategy discussions to acknowledge approximate rather than exact accuracy.",
+          "synonyms": [
+            "broadly",
+            "roughly"
+          ]
+        }
+      ],
+      "topics": [
+        "Learning & Growth",
+        "Strategy & Planning"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:51:06"
+    },
+    {
+      "id": "amjad-masad-010",
+      "speakerId": "amjad-masad",
+      "sentence": "And so when the Anthropic drop the computer use set of capability, we slaughtered our roadmap because we don't really have an explicit roadmap.",
+      "keyPhrase": {
+        "text": "slaughter the roadmap",
+        "surface": "slaughtered our roadmap",
+        "meaning_ko": "외부의 판도 변화에 맞서 기존 로드맵을 가차 없이 통째로 폐기하다",
+        "usageTip": "Use this to describe a bold, reactive pivot where a team discards its existing plan entirely in response to a market shift — e.g., 'When GPT-4 launched, we effectively slaughtered our roadmap and rebuilt our feature set around AI integration.'",
+        "chips": [
+          "slaughter",
+          "the",
+          "roadmap"
+        ],
+        "distractorChips": [
+          "revised",
+          "shelved"
+        ]
+      },
+      "context": "Amjad Masad is describing how Replit responded when Anthropic released its computer-use AI capabilities — a development so significant that it made their existing plans obsolete. He uses the vivid phrase 'slaughtered our roadmap' to convey how decisively and completely they scrapped their prior priorities to pursue the new opportunity.",
+      "vocabulary": [
+        {
+          "word": "explicit",
+          "meaning": "clearly and directly stated or defined, leaving nothing implied",
+          "note": "Amjad uses it to note that Replit's roadmap was informal — making it easier to discard when circumstances changed.",
+          "synonyms": [
+            "defined",
+            "formal"
+          ]
+        }
+      ],
+      "topics": [
+        "Strategy & Planning",
+        "Decision Making"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:56:43"
+    }
+  ],
+  "speaker": {
+    "id": "amjad-masad",
+    "name": "Amjad Masad",
+    "title": "Co-founder & CEO, Replit",
+    "titleHistory": "Co-founder & CEO of Replit",
+    "house": "founder",
+    "epithet": "The Sage of Activation",
+    "motif": "a glowing infinity symbol intertwined with cascading code blocks",
+    "introLine": "I have learned that the true art of creation lies not in talent alone, but in the activation energy you provide—lower the barriers, and a thousand builders will emerge.",
+    "sealLine": "Remember: the compounding effect of access will reshape what humanity can build.",
+    "portrait": "/cards/amjad-masad.png",
+    "episode": "Amjad Masad on Lenny's Podcast",
+    "cardCount": 10
+  }
+}

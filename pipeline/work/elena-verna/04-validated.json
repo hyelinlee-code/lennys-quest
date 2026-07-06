@@ -1,0 +1,396 @@
+{
+  "cards": [
+    {
+      "id": "elena-verna-001",
+      "speakerId": "elena-verna",
+      "sentence": "It's their hobby. They love to work. They have fire in their belly. This is not a paycheck for them, they want to do this for some ulterior reason.",
+      "keyPhrase": {
+        "text": "fire in their belly",
+        "meaning_ko": "뱃속에서 타오르는 열정과 강렬한 내적 동기를 지니다",
+        "usageTip": "Use this phrase when praising a candidate's or team member's relentless enthusiasm — especially in a pitch or hiring conversation where you want to signal someone is self-driven, not just competent.",
+        "chips": [
+          "fire",
+          "in",
+          "their",
+          "belly"
+        ],
+        "distractorChips": [
+          "spark",
+          "heart"
+        ]
+      },
+      "context": "Elena Verna is describing the mindset of people who are uniquely suited to work at an early-stage AI startup. She explains that for these individuals, work is not merely a job but a deep personal calling fueled by intrinsic motivation.",
+      "vocabulary": [
+        {
+          "word": "ulterior",
+          "meaning": "existing beyond what is openly stated; hidden or secondary",
+          "note": "Here used positively — the 'ulterior reason' is a deeper personal mission, not a deceptive motive.",
+          "synonyms": [
+            "underlying",
+            "deeper"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Career Development"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:38:59"
+    },
+    {
+      "id": "elena-verna-002",
+      "speakerId": "elena-verna",
+      "sentence": "The only way to create a word of mouth loop is just to blow their socks off when they actually experience your product.",
+      "keyPhrase": {
+        "text": "blow someone's socks off",
+        "surface": "blow their socks off",
+        "meaning_ko": "완전히 압도하여 넋을 잃게 만들다. 만족을 넘어 열광하게 하다",
+        "usageTip": "Use this in a growth or product review meeting to emphasize that the benchmark for success is not satisfaction but genuine delight — the kind that makes customers spontaneously recommend you.",
+        "chips": [
+          "blow",
+          "someone's",
+          "socks",
+          "off"
+        ],
+        "distractorChips": [
+          "knock",
+          "amaze"
+        ]
+      },
+      "context": "Elena Verna is explaining how organic word-of-mouth growth is earned at the product level. She argues that no amount of marketing can substitute for a product experience so outstanding that users are compelled to tell others about it.",
+      "vocabulary": [
+        {
+          "word": "loop",
+          "meaning": "a self-reinforcing cycle where an output feeds back into the input",
+          "note": "In growth, a 'word of mouth loop' means happy users recruit new users, who can become happy users, and so on.",
+          "synonyms": [
+            "cycle",
+            "flywheel"
+          ]
+        }
+      ],
+      "topics": [
+        "Growth & Marketing",
+        "Product Management"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:33:01"
+    },
+    {
+      "id": "elena-verna-003",
+      "speakerId": "elena-verna",
+      "sentence": "And to be ahead of them is not optimization of the problem, it's reinvention of the solution.",
+      "keyPhrase": {
+        "text": "reinvention of the solution",
+        "meaning_ko": "기존 방식을 개선하는 대신 해결책 자체를 근본부터 다시 발명하다",
+        "usageTip": "Use this phrase in a strategy or roadmap meeting to challenge a team that is stuck in incremental thinking — it signals the need to step back and question core assumptions about how the problem is being solved.",
+        "chips": [
+          "reinvention",
+          "of",
+          "the",
+          "solution"
+        ],
+        "distractorChips": [
+          "improvement",
+          "evolution"
+        ]
+      },
+      "context": "Elena Verna is discussing how AI-era companies can stay ahead of competitors. She draws a sharp distinction between iterating on an existing solution — which competitors can copy — and rethinking the solution from the ground up in a way that renders the old approach obsolete.",
+      "vocabulary": [
+        {
+          "word": "optimization",
+          "meaning": "the process of making something as effective or functional as possible within existing constraints",
+          "note": "Contrasted here with 'reinvention' to highlight the difference between incremental improvement and transformational change.",
+          "synonyms": [
+            "refinement",
+            "improvement"
+          ]
+        }
+      ],
+      "topics": [
+        "Strategy & Planning",
+        "Product Management"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:19:54"
+    },
+    {
+      "id": "elena-verna-004",
+      "speakerId": "elena-verna",
+      "sentence": "we're also in really fast moving waters, and the demand that is coming to us, we need to capture it mostly, we don't need to generate a lot of it yet.",
+      "keyPhrase": {
+        "text": "fast moving waters",
+        "meaning_ko": "급변하고 예측 불가능한 시장 환경. 빠른 물살처럼 흘러가는 상황",
+        "usageTip": "Use this metaphor in leadership or investor conversations to acknowledge market volatility while framing it as an opportunity — it signals strategic awareness without catastrophizing.",
+        "chips": [
+          "fast",
+          "moving",
+          "waters"
+        ],
+        "distractorChips": [
+          "turbulent",
+          "shifting"
+        ]
+      },
+      "context": "Elena Verna is describing the current state of the AI market and what it means for growth strategy at Lovable. She argues that because demand for AI products is already surging, the company's primary job is to convert inbound interest efficiently rather than spending heavily on demand generation.",
+      "vocabulary": [
+        {
+          "word": "capture",
+          "meaning": "to successfully attract and convert existing demand into customers or revenue",
+          "note": "Distinct from 'generate' — capturing demand means harvesting interest that already exists rather than creating new awareness.",
+          "synonyms": [
+            "convert",
+            "harvest"
+          ]
+        }
+      ],
+      "topics": [
+        "Strategy & Planning",
+        "Growth & Marketing"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "00:17:16"
+    },
+    {
+      "id": "elena-verna-005",
+      "speakerId": "elena-verna",
+      "sentence": "You fundamentally have to flip the script and say, \"I need to expose to people of what is possible and I need to remove the monetization friction out of it.\"",
+      "keyPhrase": {
+        "text": "flip the script",
+        "meaning_ko": "기존의 공식을 완전히 뒤집어 정반대로 접근하다",
+        "usageTip": "Use this phrase to signal a bold strategic pivot in a leadership or product meeting — it conveys that the team is not tweaking tactics but reconsidering the foundational logic of a strategy.",
+        "chips": [
+          "flip",
+          "the",
+          "script"
+        ],
+        "distractorChips": [
+          "change",
+          "rewrite"
+        ]
+      },
+      "context": "Elena Verna is challenging the traditional freemium model and arguing that AI products require a different monetization philosophy. She contends that rather than restricting access to drive conversions, companies should first maximize exposure to what the product can do — then remove barriers to payment.",
+      "vocabulary": [
+        {
+          "word": "monetization",
+          "meaning": "the process of converting a product or audience into a revenue stream",
+          "note": "'Monetization friction' refers to any obstacle — paywalls, sign-up gates, limited trial windows — that slows a user's path to paying.",
+          "synonyms": [
+            "revenue generation",
+            "commercialization"
+          ]
+        }
+      ],
+      "topics": [
+        "Strategy & Planning",
+        "Growth & Marketing"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "01:00:09"
+    },
+    {
+      "id": "elena-verna-006",
+      "speakerId": "elena-verna",
+      "sentence": "Now, I think every AI company is on this product-market fit treadmill. Hopefully that treadmill speed slows down.",
+      "keyPhrase": {
+        "text": "product-market fit treadmill",
+        "meaning_ko": "멈추는 순간 뒤처지는 러닝머신 위에 올라탄 것처럼, PMF를 계속 다시 증명해야 하는 상황",
+        "usageTip": "Use this phrase in a board or all-hands to articulate why the team can't coast on a past win — it reframes exhausting constant iteration as a structural market reality rather than internal dysfunction.",
+        "chips": [
+          "product-market",
+          "fit",
+          "treadmill"
+        ],
+        "distractorChips": [
+          "escalator",
+          "cycle"
+        ]
+      },
+      "context": "Elena Verna is reflecting on the unique challenge facing AI companies in 2024–2025, where model breakthroughs arrive so frequently that what counts as a great product changes every few months. She likens this to a treadmill: companies must keep running just to stay in place, because standing still means falling behind.",
+      "vocabulary": [
+        {
+          "word": "treadmill",
+          "meaning": "here used figuratively: a situation requiring constant effort just to maintain the current position, with no forward progress unless you run faster",
+          "note": "The treadmill metaphor emphasizes that stopping — i.e., not iterating — means losing ground, not merely pausing.",
+          "synonyms": [
+            "rat race",
+            "hamster wheel"
+          ]
+        }
+      ],
+      "topics": [
+        "Product Management",
+        "Strategy & Planning"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "01:04:26"
+    },
+    {
+      "id": "elena-verna-007",
+      "speakerId": "elena-verna",
+      "sentence": "So that we have a cheat code to it, because we have... Most of the time when we reach out to somebody, they say, \"Yeah, I would love to explore.\"",
+      "keyPhrase": {
+        "text": "cheat code",
+        "meaning_ko": "남들보다 훨씬 쉽게 앞서갈 수 있는 불공평할 정도의 구조적 이점",
+        "usageTip": "Use this phrase informally in team or investor conversations to highlight a genuine competitive moat — it signals confidence without sounding boastful, framing the advantage as an earned asset.",
+        "chips": [
+          "cheat",
+          "code"
+        ],
+        "distractorChips": [
+          "shortcut",
+          "hack"
+        ]
+      },
+      "context": "Elena Verna is explaining how Lovable's strong brand and community reputation make enterprise outreach significantly easier. Because the company is well-known in its niche, cold outreach converts at a higher rate than average — giving the sales motion an inherent structural advantage.",
+      "vocabulary": [],
+      "topics": [
+        "Growth & Marketing",
+        "Starting a Company"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:41:10"
+    },
+    {
+      "id": "elena-verna-008",
+      "speakerId": "elena-verna",
+      "sentence": "is to maintain noise in the market. And that noise in the market happens by us shipping every day, every other day, multiple times per day and just talking about it constantly.",
+      "keyPhrase": {
+        "text": "maintain noise in the market",
+        "meaning_ko": "시장에서 끊임없이 존재감을 드러내 경쟁자와 잠재 고객이 항상 인지하게 하다",
+        "usageTip": "Use this phrase in a marketing or comms strategy discussion to argue for shipping velocity over polished launch events — it positions frequent releases as a deliberate awareness strategy, not just an engineering habit.",
+        "chips": [
+          "maintain",
+          "noise",
+          "in",
+          "the",
+          "market"
+        ],
+        "distractorChips": [
+          "buzz",
+          "signal"
+        ]
+      },
+      "context": "Elena Verna is describing Lovable's growth-through-shipping philosophy. She argues that in a crowded AI market, continuous public product releases serve a dual purpose: they signal momentum to potential customers and they crowd out competitors in the attention economy.",
+      "vocabulary": [
+        {
+          "word": "shipping",
+          "meaning": "releasing new product features, updates, or improvements to users",
+          "note": "In tech, 'shipping' is the act of making a change publicly available — used as a near-synonym for 'launching' or 'deploying.'",
+          "synonyms": [
+            "releasing",
+            "launching",
+            "deploying"
+          ]
+        }
+      ],
+      "topics": [
+        "Growth & Marketing",
+        "Strategy & Planning"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "00:25:40"
+    },
+    {
+      "id": "elena-verna-009",
+      "speakerId": "elena-verna",
+      "sentence": "they fundamentally create a step function change in that product market fit as a whole. And that is a retention strategy I can get behind any day and all day.",
+      "keyPhrase": {
+        "text": "step function change",
+        "meaning_ko": "점진적 개선이 아닌, 성능이나 역량이 단번에 불연속적으로 도약하는 변화",
+        "usageTip": "Use this in a roadmap or investor update when describing a planned initiative expected to produce a qualitative, non-linear improvement — it sets expectations that the goal is a category shift, not marginal gains.",
+        "chips": [
+          "step",
+          "function",
+          "change"
+        ],
+        "distractorChips": [
+          "gradual",
+          "incremental"
+        ]
+      },
+      "context": "Elena Verna is previewing an upcoming product initiative at Lovable that the team believes will substantially shift who the product serves and how well it fits that audience. She frames it not as an incremental update but as a discontinuous breakthrough — borrowed from mathematics, where a step function jumps abruptly to a new value.",
+      "vocabulary": [
+        {
+          "word": "step function",
+          "meaning": "a mathematical concept describing a function that changes abruptly from one constant value to another; used in business to mean a sudden, non-linear jump in performance",
+          "note": "The term is borrowed from mathematics and signal processing; in business contexts it emphasizes discontinuity — there is no smooth ramp, just a jump.",
+          "synonyms": [
+            "quantum leap",
+            "inflection point"
+          ]
+        }
+      ],
+      "topics": [
+        "Product Management",
+        "Strategy & Planning"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:26:03"
+    },
+    {
+      "id": "elena-verna-010",
+      "speakerId": "elena-verna",
+      "sentence": "in that messy middle and really comfortable of converting chaos into clarity for you and those around you, then yeah, AI company is a wonderful place for you",
+      "keyPhrase": {
+        "text": "convert chaos into clarity",
+        "surface": "converting chaos into clarity",
+        "meaning_ko": "뒤죽박죽인 혼돈 속에서 구조와 방향을 잡아내다",
+        "usageTip": "Use this in a hiring interview or leadership discussion to articulate what kind of problem-solving mindset you value — it signals that you prize structured thinking under pressure over comfort with process.",
+        "chips": [
+          "convert",
+          "chaos",
+          "into",
+          "clarity"
+        ],
+        "distractorChips": [
+          "order",
+          "structure"
+        ]
+      },
+      "context": "Elena Verna is advising listeners on who thrives at an AI startup versus who struggles. She describes 'the messy middle' — the period between initial excitement and stable product — as one that rewards people who can make sense of ambiguity and help their teams navigate it rather than waiting for direction from above.",
+      "vocabulary": [
+        {
+          "word": "messy middle",
+          "meaning": "the difficult, uncertain phase of a project or company between early momentum and eventual stability",
+          "note": "A common startup idiom — the 'messy middle' is where most companies struggle or fail because the initial energy fades before sustainable systems are in place.",
+          "synonyms": [
+            "uncertain phase",
+            "ambiguous period"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Career Development"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "01:09:13"
+    }
+  ],
+  "speaker": {
+    "id": "elena-verna",
+    "name": "Elena Verna",
+    "title": "Head of Growth, Lovable",
+    "titleHistory": "Head of Growth at Lovable · Former growth leader at Dropbox, Amplitude, and SurveyMonkey",
+    "house": "operator",
+    "epithet": "The Sage of Growth",
+    "motif": "a rising tide within an hourglass, with golden channels of momentum flowing outward",
+    "introLine": "Growth is the art of turning friction into momentum—expose possibility, remove barriers, and watch the river flow where it wishes to go.",
+    "sealLine": "You have learned that growth lives not in the hustle, but in the clarity born from chaos and the discipline to keep the signal steady.",
+    "portrait": "/cards/elena-verna.png",
+    "episode": "Elena Verna on Lenny's Podcast",
+    "cardCount": 10
+  }
+}
