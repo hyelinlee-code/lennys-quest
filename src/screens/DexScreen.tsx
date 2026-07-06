@@ -94,6 +94,7 @@ export function DexScreen({ focusCardId }: { focusCardId?: string }) {
               }
               rarity={selected.rarity}
               veiled={selMastery === 0}
+              zones={selSpeaker?.overlayZones}
               overlay={{
                 expression: selected.keyPhrase.text,
                 excerpt: shortExcerpt(selected.sentence, selected.keyPhrase.surface),

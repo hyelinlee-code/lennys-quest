@@ -42,6 +42,14 @@ export interface Card {
   legacy?: boolean;
 }
 
+/** Percent geometry of a blank text zone on the card art (from pipeline/calibrate_zones.py) */
+export interface Zone {
+  left: number;
+  right: number;
+  top: number;
+  height: number;
+}
+
 export interface Speaker {
   id: string;
   name: string;
@@ -55,6 +63,8 @@ export interface Speaker {
   portrait: string;
   episode: string;
   cardCount: number;
+  /** Per-image plaque positions; falls back to the default CSS zones when absent */
+  overlayZones?: { banner: Zone; scroll: Zone };
 }
 
 // ---------- Runtime save state (localStorage only) ----------

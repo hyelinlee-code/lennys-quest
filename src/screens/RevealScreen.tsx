@@ -78,6 +78,7 @@ export function RevealScreen({
         imageSrc={img}
         rarity={card.rarity}
         bloom
+        zones={speaker?.overlayZones}
         overlay={{
           expression: card.keyPhrase.text,
           excerpt: shortExcerpt(card.sentence, card.keyPhrase.surface),

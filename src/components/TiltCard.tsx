@@ -1,5 +1,5 @@
-import { useRef, type PointerEvent } from 'react';
-import type { Rarity } from '../types';
+import { useRef, type CSSProperties, type PointerEvent } from 'react';
+import type { Rarity, Zone } from '../types';
 
 /** Card text stays English-only — translations live in the side panel, so one
  *  card art + overlay works for every future translation language. */
@@ -16,7 +16,14 @@ interface TiltCardProps {
   bloom?: boolean;
   /** Text laid over the art's empty banner/scroll zones (wizard_card.html layout) */
   overlay?: CardOverlay;
+  /** Per-image plaque geometry (speaker.overlayZones); defaults to the CSS zones */
+  zones?: { banner: Zone; scroll: Zone };
   onClick?: () => void;
+}
+
+function zoneStyle(z?: Zone): CSSProperties | undefined {
+  if (!z) return undefined;
+  return { left: `${z.left}%`, right: `${z.right}%`, top: `${z.top}%`, height: `${z.height}%` };
 }
 
 const PLACEHOLDER = `${import.meta.env.BASE_URL}cards/_placeholder.svg`;
@@ -38,7 +45,7 @@ export function shortExcerpt(sentence: string, surface?: string): string {
 }
 
 /** Full-art 5:7 card with pointer-follow 3D tilt + holo sheen + text overlay (ported from wizard_card.html). */
-export function TiltCard({ imageSrc, rarity, veiled, bloom, overlay, onClick }: TiltCardProps) {
+export function TiltCard({ imageSrc, rarity, veiled, bloom, overlay, zones, onClick }: TiltCardProps) {
   const ref = useRef<HTMLDivElement>(null);
   const reduce =
     typeof window !== 'undefined' && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -81,10 +88,10 @@ export function TiltCard({ imageSrc, rarity, veiled, bloom, overlay, onClick }: 
           }}
         />
         <div className="mholo" />
-        <div className="fz fc-banner">
+        <div className="fz fc-banner" style={zoneStyle(zones?.banner)}>
           <div className="fc-expr">{showText ? overlay.expression : ''}</div>
         </div>
-        <div className="fz fc-scroll">
+        <div className="fz fc-scroll" style={zoneStyle(zones?.scroll)}>
           {showText && (
             <>
               {overlay.excerpt && <div className="fc-exc">“{overlay.excerpt}”</div>}

@@ -251,8 +251,23 @@
   opacity: 0;
   transition: opacity 0.4s;
   mix-blend-mode: color-dodge;
-  background: radial-gradient(60% 45% at var(--mx) var(--my), rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0) 55%),
+  background: radial-gradient(60% 45% at var(--mx) var(--my), rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0) 55%),
     conic-gradient(from 0deg, #ff2f9e33, #ffe35933, #33ffd433, #3b7bff33, #b14bff33, #ff2f9e33);
+  background-size: auto, 220% 220%;
+  background-position: center, var(--mx) var(--my);
+}
+/* screen-blend rainbow pass: color-dodge dies on dark borders (API-generated cards
+   have no baked-in bright holo edge like Bret's), screen stays visible on dark pixels */
+.mholo::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 16px;
+  mix-blend-mode: screen;
+  opacity: 0.55;
+  background: radial-gradient(75% 60% at var(--mx) var(--my),
+      rgba(255, 255, 255, 0.14), rgba(255, 255, 255, 0) 60%),
+    conic-gradient(from 0deg, #ff2f9e2e, #ffe3592e, #33ffd42e, #3b7bff2e, #b14bff2e, #ff2f9e2e);
   background-size: auto, 220% 220%;
   background-position: center, var(--mx) var(--my);
 }
@@ -277,7 +292,7 @@
   }
 }
 .fcard.rare .mholo {
-  opacity: 0.3;
+  opacity: 0.42;
 }
 .fcard.rare {
   animation: float 6s ease-in-out infinite;
