@@ -95,15 +95,20 @@ export function StudyScreen({ cardId, from }: { cardId: string; from: 'audience'
           {card.timestamp ? ` · ${card.timestamp}` : ''}
         </span>
         {speaker?.youtubeId && card.timestamp && (
-          <a
-            className="btn-ghost px-3 py-1.5 normal-case tracking-normal no-underline"
-            href={`https://www.youtube.com/watch?v=${speaker.youtubeId}&t=${toSeconds(card.timestamp)}s`}
-            target="_blank"
-            rel="noreferrer"
-            title="May be off by a few seconds (episode intros/ads)"
-          >
-            ▶ Listen on YouTube
-          </a>
+          <span className="flex items-center gap-2 normal-case tracking-normal">
+            <a
+              className="btn-ghost px-3 py-1.5 no-underline"
+              href={`https://www.youtube.com/watch?v=${speaker.youtubeId}&t=${Math.max(0, toSeconds(card.timestamp) - 10)}s`}
+              target="_blank"
+              rel="noreferrer"
+              title="Travels to the real conversation on YouTube — the moment arrives a few seconds in."
+            >
+              🔮 Hear the Sage speak ↗
+            </a>
+            <span className="hidden text-[11px] italic text-[#6f6450] sm:inline">
+              the portal opens a few breaths early — listen for the words to arrive
+            </span>
+          </span>
         )}
       </div>
 
