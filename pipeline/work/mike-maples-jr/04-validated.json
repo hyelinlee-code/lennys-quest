@@ -1,0 +1,398 @@
+{
+  "cards": [
+    {
+      "id": "mike-maples-jr-001",
+      "speakerId": "mike-maples-jr",
+      "sentence": "Business is never a fair fight. What inflections let the founder do is wage asymmetric warfare on the present.",
+      "keyPhrase": {
+        "text": "wage asymmetric warfare",
+        "surface": "wage asymmetric warfare on the present",
+        "meaning_ko": "정면 대결 대신 구조적 비대칭 우위를 활용해 싸우다. 기존 강자의 규칙 자체를 무력화하는 방식으로 경쟁하다",
+        "usageTip": "Use this in strategy discussions when you're arguing that a team or company should exploit a structural advantage rather than compete head-to-head with a larger rival.",
+        "chips": [
+          "wage",
+          "asymmetric",
+          "warfare"
+        ],
+        "distractorChips": [
+          "symmetric",
+          "peaceful"
+        ]
+      },
+      "context": "Mike Maples Jr., a venture investor, is explaining how technology inflection points give startup founders an edge. He argues that founders who identify these shifts can compete on entirely different terms than established players — not by matching them, but by making the old rules irrelevant.",
+      "vocabulary": [
+        {
+          "word": "inflections",
+          "meaning": "major technological or market shifts that change the rules of competition",
+          "note": "In startup investing, an 'inflection' is a wave-like change — e.g., mobile, AI — that a new entrant can ride while incumbents are slow to adapt.",
+          "synonyms": [
+            "disruptions",
+            "turning points"
+          ]
+        },
+        {
+          "word": "asymmetric",
+          "meaning": "unequal or imbalanced in a way that favors one side",
+          "note": "Borrowed from military strategy; in business it means winning by playing a different game, not a fairer one.",
+          "synonyms": [
+            "disproportionate",
+            "lopsided"
+          ]
+        }
+      ],
+      "topics": [
+        "Strategy & Planning",
+        "Starting a Company"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:00:04"
+    },
+    {
+      "id": "mike-maples-jr-002",
+      "speakerId": "mike-maples-jr",
+      "sentence": "The way inventions happen is people get their hands dirty, being awake to the possibility that secrets are there.",
+      "keyPhrase": {
+        "text": "get one's hands dirty",
+        "surface": "get their hands dirty",
+        "meaning_ko": "번거롭고 지저분한 실무를 직접 발 벗고 나서서 하다",
+        "usageTip": "Use this to encourage a team to move beyond slide decks and actually prototype, talk to customers, or test assumptions themselves.",
+        "chips": [
+          "get",
+          "one's",
+          "hands",
+          "dirty"
+        ],
+        "distractorChips": [
+          "clean",
+          "distant"
+        ]
+      },
+      "context": "Mike Maples Jr. is describing how breakthrough discoveries actually come about. He argues that innovators find hidden insights not through abstract thinking but by rolling up their sleeves and doing the messy, exploratory work that others avoid.",
+      "vocabulary": [],
+      "topics": [
+        "Learning & Growth",
+        "Starting a Company"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:00:18"
+    },
+    {
+      "id": "mike-maples-jr-003",
+      "speakerId": "mike-maples-jr",
+      "sentence": "It was kind of an outgrowth of an accident and a outgrowth of being down a certain rabbit hole.",
+      "keyPhrase": {
+        "text": "go down a rabbit hole",
+        "surface": "down a certain rabbit hole",
+        "meaning_ko": "어떤 주제에 빠져들어 시간 가는 줄 모르고 깊이 파고들다",
+        "usageTip": "Use this to explain how deep, exploratory research — even if it starts as idle curiosity — can lead to unexpected competitive insights.",
+        "chips": [
+          "go",
+          "down",
+          "a",
+          "rabbit",
+          "hole"
+        ],
+        "distractorChips": [
+          "surface",
+          "planned"
+        ]
+      },
+      "context": "Mike Maples Jr. is recounting how one of his investment theses emerged unexpectedly. He explains that the insight wasn't planned — it grew out of obsessively following a niche area of curiosity far beyond what was practical or immediately useful.",
+      "vocabulary": [
+        {
+          "word": "outgrowth",
+          "meaning": "something that develops naturally from something else",
+          "synonyms": [
+            "byproduct",
+            "result"
+          ]
+        }
+      ],
+      "topics": [
+        "Learning & Growth",
+        "Decision Making"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:03:19"
+    },
+    {
+      "id": "mike-maples-jr-004",
+      "speakerId": "mike-maples-jr",
+      "sentence": "The way startups win is by being radically different. A startup wins by avoiding the comparison trap entirely.",
+      "keyPhrase": {
+        "text": "avoid the comparison trap",
+        "surface": "avoiding the comparison trap entirely",
+        "meaning_ko": "경쟁자가 정해놓은 기준으로 비교당하는 구도 자체를 거부하다",
+        "usageTip": "Use this when coaching a founder or product team not to define themselves as a cheaper or faster version of an existing product — instead, own a new category.",
+        "chips": [
+          "avoid",
+          "the",
+          "comparison",
+          "trap"
+        ],
+        "distractorChips": [
+          "embrace",
+          "similarity"
+        ]
+      },
+      "context": "Mike Maples Jr. is explaining the core strategic mistake that kills startups. When a new company lets customers or investors compare it directly to an established player, it almost always loses — so the winning move is to reframe the game entirely and make direct comparison irrelevant.",
+      "vocabulary": [
+        {
+          "word": "radically",
+          "meaning": "in a thorough, fundamental, and far-reaching way",
+          "synonyms": [
+            "fundamentally",
+            "dramatically"
+          ]
+        }
+      ],
+      "topics": [
+        "Strategy & Planning",
+        "Starting a Company"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "00:12:53"
+    },
+    {
+      "id": "mike-maples-jr-005",
+      "speakerId": "mike-maples-jr",
+      "sentence": "So the insight needs to leverage inflections, but this is the subtle part, it needs to be non-consensus and right, not just right.",
+      "keyPhrase": {
+        "text": "non-consensus and right",
+        "meaning_ko": "대다수가 틀렸다고 여기지만 실제로는 맞는 통찰. 시장이 아직 동의하지 않아야 진짜 기회가 있다",
+        "usageTip": "Use this framework when evaluating a bold strategic bet: ask whether the view is merely contrarian (non-consensus but wrong) or genuinely ahead of the market (non-consensus and right).",
+        "chips": [
+          "non-consensus",
+          "and",
+          "right"
+        ],
+        "distractorChips": [
+          "obvious",
+          "popular"
+        ]
+      },
+      "context": "Mike Maples Jr. is explaining what separates breakthrough startup bets from ordinary good ideas. Being correct isn't enough — if the market already agrees with you, there's no asymmetric opportunity left. The insights that create enormous value are the ones that sound wrong to most experts at the time.",
+      "vocabulary": [
+        {
+          "word": "leverage",
+          "meaning": "to use something to maximum advantage",
+          "synonyms": [
+            "exploit",
+            "capitalize on"
+          ]
+        },
+        {
+          "word": "inflections",
+          "meaning": "major technological or market shifts that change competitive dynamics",
+          "synonyms": [
+            "disruptions",
+            "turning points"
+          ]
+        }
+      ],
+      "topics": [
+        "Decision Making",
+        "Fundraising"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:29:15"
+    },
+    {
+      "id": "mike-maples-jr-006",
+      "speakerId": "mike-maples-jr",
+      "sentence": "And so, they earn the secret by going down this rabbit hole of exploring something at the cutting edge for its own sake.",
+      "keyPhrase": {
+        "text": "earn a secret",
+        "surface": "earn the secret",
+        "meaning_ko": "남들이 엄두도 못 낼 만큼 깊이 파고들어 숨겨진 비(非)상식적 통찰을 스스로 획득하다",
+        "usageTip": "Use this to explain why genuine intellectual curiosity and deep domain expertise matter more than market research when identifying white-space opportunities.",
+        "chips": [
+          "earn",
+          "a",
+          "secret"
+        ],
+        "distractorChips": [
+          "steal",
+          "borrow"
+        ]
+      },
+      "context": "Mike Maples Jr. is describing how the most valuable startup insights are found. He argues that the founders who discover hidden truths about the future don't stumble upon them — they work their way to them by obsessively exploring an emerging technology or phenomenon for the love of it, long before there's a business reason to do so.",
+      "vocabulary": [
+        {
+          "word": "cutting edge",
+          "meaning": "the most advanced and innovative stage of a field",
+          "synonyms": [
+            "frontier",
+            "forefront"
+          ]
+        }
+      ],
+      "topics": [
+        "Learning & Growth",
+        "Starting a Company"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:41:15"
+    },
+    {
+      "id": "mike-maples-jr-007",
+      "speakerId": "mike-maples-jr",
+      "sentence": "If you're living in the future and you notice what's missing, your intuition about what to build is far more likely to be right.",
+      "keyPhrase": {
+        "text": "live in the future",
+        "surface": "living in the future",
+        "meaning_ko": "아직 오지 않은 세상 속에 먼저 살며, 남들이 아직 느끼지 못한 결핍을 몸소 감지하다",
+        "usageTip": "Use this to push founders or product leaders to spend serious time using and building with emerging tools before deciding what to build next.",
+        "chips": [
+          "live",
+          "in",
+          "the",
+          "future"
+        ],
+        "distractorChips": [
+          "present",
+          "past"
+        ]
+      },
+      "context": "Mike Maples Jr. is explaining the mindset that produces the best product instincts. He argues that founders who operate at the frontier of a new technology develop an almost predictive sense of what the world will need — not from market research, but from direct lived experience in that future state.",
+      "vocabulary": [
+        {
+          "word": "intuition",
+          "meaning": "the ability to understand something instinctively, without the need for conscious reasoning",
+          "synonyms": [
+            "instinct",
+            "gut sense"
+          ]
+        }
+      ],
+      "topics": [
+        "Product Management",
+        "Starting a Company"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:51:25"
+    },
+    {
+      "id": "mike-maples-jr-008",
+      "speakerId": "mike-maples-jr",
+      "sentence": "So McCracken had a term for it that I've always liked lighthouse customers. And so the lighthouse has this light that shines out and obscures the fog.",
+      "keyPhrase": {
+        "text": "lighthouse customer",
+        "surface": "lighthouse customers",
+        "meaning_ko": "그 이름 하나만으로 시장의 의심을 걷어내는 초기 고객. 등대처럼 다음 고객들을 끌어당기는 레퍼런스",
+        "usageTip": "Use this when prioritizing which early customers to pursue: favor the one whose name alone will make the next ten customers say yes.",
+        "chips": [
+          "lighthouse",
+          "customer"
+        ],
+        "distractorChips": [
+          "anchor",
+          "shadow"
+        ]
+      },
+      "context": "Mike Maples Jr. is sharing a framework for early customer strategy, crediting entrepreneur Grant McCracken for the term. A lighthouse customer is not just any early adopter — it's a reference customer so respected in its category that its decision to use your product cuts through market skepticism and draws others in.",
+      "vocabulary": [
+        {
+          "word": "obscures",
+          "meaning": "makes something unclear or difficult to see",
+          "note": "Used metaphorically here — the lighthouse's light cuts through the fog of market uncertainty.",
+          "synonyms": [
+            "clears",
+            "pierces"
+          ]
+        }
+      ],
+      "topics": [
+        "Growth & Marketing",
+        "Starting a Company"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "00:58:35"
+    },
+    {
+      "id": "mike-maples-jr-009",
+      "speakerId": "mike-maples-jr",
+      "sentence": "And so I like to say, \"You want to force a choice and not a comparison.\" If everybody's selling apples, I can't be a 10 times better Apple.",
+      "keyPhrase": {
+        "text": "force a choice, not a comparison",
+        "surface": "force a choice and not a comparison",
+        "meaning_ko": "고객이 같은 범주 안에서 더 나은 것을 고르게 하지 말고, 전혀 다른 두 가지 중 하나를 선택하도록 판을 짜다",
+        "usageTip": "Use this in pitch or positioning discussions to stress that radical differentiation matters more than incremental improvement when competing against an entrenched player.",
+        "chips": [
+          "force",
+          "a",
+          "choice",
+          "not",
+          "a",
+          "comparison"
+        ],
+        "distractorChips": [
+          "imitate",
+          "similarity"
+        ]
+      },
+      "context": "Mike Maples Jr. is explaining how winning startups frame their market positioning. He argues that if you let the conversation become a feature-by-feature comparison with an established competitor, you've already lost — the only way to win is to redefine the choice so the incumbent isn't even in the same category.",
+      "vocabulary": [],
+      "topics": [
+        "Strategy & Planning",
+        "Product Management"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "01:01:47"
+    },
+    {
+      "id": "mike-maples-jr-010",
+      "speakerId": "mike-maples-jr",
+      "sentence": "A friend of mine, Robin Roberts, once said, \"Make your mess your message.\" It's so true.",
+      "keyPhrase": {
+        "text": "make one's mess one's message",
+        "surface": "Make your mess your message",
+        "meaning_ko": "실패와 상처, 혼란스러운 과거를 숨기지 않고 오히려 메시지의 핵심으로 삼다. 약점이 곧 신뢰의 근거가 된다",
+        "usageTip": "Use this to encourage founders or leaders to share setbacks honestly in pitches, talks, or team communication, because vulnerability builds trust more effectively than a polished success narrative.",
+        "chips": [
+          "make",
+          "one's",
+          "mess",
+          "one's",
+          "message"
+        ],
+        "distractorChips": [
+          "hide",
+          "polish"
+        ]
+      },
+      "context": "Mike Maples Jr. is reflecting on authenticity in leadership and storytelling, quoting journalist Robin Roberts. The idea is that the painful or chaotic chapters of your life aren't things to hide — they are the very experiences that give your message resonance and make others trust you.",
+      "vocabulary": [],
+      "topics": [
+        "Communication Skills",
+        "Leadership & Management"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "01:31:46"
+    }
+  ],
+  "speaker": {
+    "id": "mike-maples-jr",
+    "name": "Mike Maples, Jr.",
+    "title": "Co-founder, Floodgate",
+    "titleHistory": "Co-founder, Floodgate",
+    "house": "investor",
+    "epithet": "The Sage of Asymmetric Advantage",
+    "motif": "a glowing magnifying glass revealing hidden pathways, set against a dimly-lit landscape",
+    "introLine": "Most investors chase consensus, but the greatest fortunes belong to those who see what others cannot—and act when the world still doubts.",
+    "sealLine": "You have learned that every inflection toward the future begins with a secret the crowd has yet to discover.",
+    "portrait": "/cards/mike-maples-jr.png",
+    "episode": "Mike Maples Jr. on Lenny's Podcast",
+    "cardCount": 10
+  }
+}

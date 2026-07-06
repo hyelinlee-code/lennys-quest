@@ -1,0 +1,394 @@
+{
+  "cards": [
+    {
+      "id": "sarah-tavel-001",
+      "speakerId": "sarah-tavel",
+      "sentence": "it became like a pebble in my shoe. I started just to go through that process that you've gone through many times before of writing and distilling it,",
+      "keyPhrase": {
+        "text": "pebble in one's shoe",
+        "surface": "pebble in my shoe",
+        "meaning_ko": "무시하려 해도 자꾸 신경 쓰이는 작은 불편이 결국 행동을 이끌어내다",
+        "usageTip": "Use this when a small recurring frustration — a flawed process, an unanswered question — is quietly compelling you to act or speak up.",
+        "chips": [
+          "pebble",
+          "in",
+          "one's",
+          "shoe"
+        ],
+        "distractorChips": [
+          "stone",
+          "thorn"
+        ]
+      },
+      "context": "Sarah Tavel describes the moment a nagging feeling about investing philosophy grew into something she could no longer ignore. The discomfort of leaving an idea unresolved finally pushed her to sit down and write it out.",
+      "vocabulary": [
+        {
+          "word": "distilling",
+          "meaning": "extracting the essential meaning from something complex",
+          "note": "Often used in business writing to mean refining ideas to their clearest, most concise form.",
+          "synonyms": [
+            "refining",
+            "crystallizing"
+          ]
+        }
+      ],
+      "topics": [
+        "Decision Making",
+        "Learning & Growth"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "00:05:45"
+    },
+    {
+      "id": "sarah-tavel-002",
+      "speakerId": "sarah-tavel",
+      "sentence": "you would see all these founders coming in, and they all had these up and to the right graphs, whether it was sign-ups, or downloads, or MAUs.",
+      "keyPhrase": {
+        "text": "up and to the right",
+        "meaning_ko": "지표가 꾸준히 우상향하다. 성장 그래프를 가리키는 투자자·제품 용어",
+        "usageTip": "Use this shorthand in investor or product meetings to describe a metric that shows steady growth, especially when questioning whether the growth reflects real user value.",
+        "chips": [
+          "up",
+          "and",
+          "to",
+          "the",
+          "right"
+        ],
+        "distractorChips": [
+          "flat",
+          "sideways"
+        ]
+      },
+      "context": "Sarah Tavel is explaining a common pattern she observed as an investor: founders would pitch with charts showing strong headline growth numbers. She's setting up a critique — that vanity metrics can mask whether users are truly engaged.",
+      "vocabulary": [
+        {
+          "word": "MAUs",
+          "meaning": "Monthly Active Users — a standard product metric counting unique users active in a given month",
+          "note": "Commonly used alongside DAU (Daily Active Users) to measure engagement at scale."
+        }
+      ],
+      "topics": [
+        "Growth & Marketing",
+        "Fundraising"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:04:48"
+    },
+    {
+      "id": "sarah-tavel-003",
+      "speakerId": "sarah-tavel",
+      "sentence": "Obviously, if they do the core action once or twice, and then they run out of steam, you're going to be in a really challenged position to build something that endures.",
+      "keyPhrase": {
+        "text": "run out of steam",
+        "meaning_ko": "처음의 기세가 사그라들어 더 이상 앞으로 나아가지 못하다",
+        "usageTip": "Use this to describe a project, team, or product that started strong but is losing energy and forward progress.",
+        "chips": [
+          "run",
+          "out",
+          "of",
+          "steam"
+        ],
+        "distractorChips": [
+          "fuel",
+          "speed"
+        ]
+      },
+      "context": "Sarah Tavel is explaining her framework for evaluating whether a product has genuine retention. If users try the product's core action only a few times before disengaging, the business has no foundation for long-term growth.",
+      "vocabulary": [
+        {
+          "word": "endures",
+          "meaning": "continues to exist or succeed over a long period of time",
+          "note": "In a startup context, 'endures' implies surviving market shifts and sustaining user loyalty.",
+          "synonyms": [
+            "persists",
+            "lasts",
+            "sustains"
+          ]
+        }
+      ],
+      "topics": [
+        "Product Management",
+        "Growth & Marketing"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:10:32"
+    },
+    {
+      "id": "sarah-tavel-004",
+      "speakerId": "sarah-tavel",
+      "sentence": "DoorDash focusing initially on the suburbs, much smaller opportunity, but one that they could really knock the cover off the ball on. They had no competition.",
+      "keyPhrase": {
+        "text": "knock the cover off the ball",
+        "meaning_ko": "기대를 훨씬 뛰어넘는 탁월한 성과를 내다. 야구에서 공의 커버가 벗겨질 정도로 세게 치다에서 유래",
+        "usageTip": "Use this to praise a team or strategy that delivered outstanding results, especially by picking the right battle rather than the most obvious one.",
+        "chips": [
+          "knock",
+          "the",
+          "cover",
+          "off",
+          "the",
+          "ball"
+        ],
+        "distractorChips": [
+          "miss",
+          "fumble"
+        ]
+      },
+      "context": "Sarah Tavel is using DoorDash as a case study in smart early-stage focus. By targeting the underserved suburban restaurant market — rather than competing head-to-head in dense cities — DoorDash found a space where they could dominate completely.",
+      "vocabulary": [],
+      "topics": [
+        "Strategy & Planning",
+        "Starting a Company"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "01:12:09"
+    },
+    {
+      "id": "sarah-tavel-005",
+      "speakerId": "sarah-tavel",
+      "sentence": "what the the best, ambitious founders do is they focus that ambition like a laser beam on a small market, the thimble.",
+      "keyPhrase": {
+        "text": "focus like a laser beam",
+        "surface": "focus that ambition like a laser beam",
+        "meaning_ko": "에너지와 자원을 분산하지 않고 단 하나의 목표에 레이저처럼 예리하게 집중하다",
+        "usageTip": "Use this when coaching a team or founder to stop spreading effort across multiple priorities and commit fully to one clearly scoped goal.",
+        "chips": [
+          "focus",
+          "like",
+          "a",
+          "laser",
+          "beam"
+        ],
+        "distractorChips": [
+          "scatter",
+          "broadly"
+        ]
+      },
+      "context": "Sarah Tavel is describing the counterintuitive habit of the best founders: rather than spreading ambition across a large addressable market, they channel it with pinpoint precision into one small, winnable niche — what she calls 'the thimble.'",
+      "vocabulary": [
+        {
+          "word": "thimble",
+          "meaning": "a very small container — used here metaphorically for a tiny, precisely defined market niche",
+          "note": "Sarah Tavel coins this term to contrast with the large 'TAM' founders usually pitch; the thimble is small enough to own completely."
+        }
+      ],
+      "topics": [
+        "Strategy & Planning",
+        "Starting a Company"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:47:05"
+    },
+    {
+      "id": "sarah-tavel-006",
+      "speakerId": "sarah-tavel",
+      "sentence": "You always want to put more wood behind fewer arrows. The more scale that you have, the more cities or categories where you have the flywheel starting to spin and",
+      "keyPhrase": {
+        "text": "put more wood behind fewer arrows",
+        "meaning_ko": "여러 곳에 얇게 퍼붓지 말고 소수의 핵심에 자원을 몰아 확실한 탄력을 만들다",
+        "usageTip": "Use this in planning or portfolio-review discussions when arguing that the team should cut scope and direct energy into a smaller set of high-priority initiatives.",
+        "chips": [
+          "put",
+          "more",
+          "wood",
+          "behind",
+          "fewer",
+          "arrows"
+        ],
+        "distractorChips": [
+          "spread",
+          "diffuse"
+        ]
+      },
+      "context": "Sarah Tavel is advising on resource allocation for marketplace companies that are expanding. Rather than spreading budget and attention thinly across many cities or categories simultaneously, she argues that companies should double down on fewer bets to generate real momentum.",
+      "vocabulary": [
+        {
+          "word": "flywheel",
+          "meaning": "a self-reinforcing growth loop where each success feeds the next cycle of growth",
+          "note": "Popularized by Jim Collins; in marketplace contexts it often refers to supply-demand feedback that compounds over time.",
+          "synonyms": [
+            "virtuous cycle",
+            "momentum loop"
+          ]
+        }
+      ],
+      "topics": [
+        "Strategy & Planning",
+        "Leadership & Management"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "01:24:00"
+    },
+    {
+      "id": "sarah-tavel-007",
+      "speakerId": "sarah-tavel",
+      "sentence": "You've kind of pushed the boulder up the hill and it starts to slide down. And what you notice first, I think, is you start to see it on a micro level",
+      "keyPhrase": {
+        "text": "push the boulder up the hill",
+        "surface": "pushed the boulder up the hill",
+        "meaning_ko": "엄청난 저항을 뚫고 힘겹게 이뤄낸 성과가 다시 무너지기 시작하다. 시지프스의 바위처럼",
+        "usageTip": "Use this to describe a sustained effort that is failing to hold its gains — signaling that the underlying approach needs to change, not just more effort.",
+        "chips": [
+          "push",
+          "the",
+          "boulder",
+          "up",
+          "the",
+          "hill"
+        ],
+        "distractorChips": [
+          "glide",
+          "coast"
+        ]
+      },
+      "context": "Sarah Tavel is describing the warning signs of a marketplace that has lost its competitive edge. After years of difficult growth, the company suddenly finds engagement slipping — a signal that the flywheel has stalled and the work is unraveling.",
+      "vocabulary": [],
+      "topics": [
+        "Strategy & Planning",
+        "Product Management"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:59:33"
+    },
+    {
+      "id": "sarah-tavel-008",
+      "speakerId": "sarah-tavel",
+      "sentence": "you can never rest on your laurels when you're building a marketplace. The history of places is one in which you have a marketplace that feels dominant and then gets disrupted by a competitor.",
+      "keyPhrase": {
+        "text": "rest on one's laurels",
+        "surface": "rest on your laurels",
+        "meaning_ko": "과거의 성공에 안주하여 더 이상 발전하려 하지 않다. laurels = 고대 그리스·로마의 월계관",
+        "usageTip": "Use this to remind a team that past success doesn't guarantee future results — especially in fast-moving markets where competitors are watching your every move.",
+        "chips": [
+          "rest",
+          "on",
+          "one's",
+          "laurels"
+        ],
+        "distractorChips": [
+          "celebrate",
+          "settle"
+        ]
+      },
+      "context": "Sarah Tavel is warning marketplace founders about the danger of complacency. Even when a platform appears dominant, history shows that entrenched marketplaces can be dethroned by new competitors who offer a better experience.",
+      "vocabulary": [
+        {
+          "word": "disrupted",
+          "meaning": "radically displaced by a newer competitor or technology that delivers superior value",
+          "note": "A term popularized by Clayton Christensen's 'disruptive innovation' theory; in startup circles it describes incumbents being overtaken by challengers.",
+          "synonyms": [
+            "displaced",
+            "upended",
+            "dethroned"
+          ]
+        }
+      ],
+      "topics": [
+        "Strategy & Planning",
+        "Leadership & Management"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "01:20:01"
+    },
+    {
+      "id": "sarah-tavel-009",
+      "speakerId": "sarah-tavel",
+      "sentence": "you go from this moment of the hard high cost of sales, pounding the pavement, to getting a list on a silver platter of restaurants to onboard.",
+      "keyPhrase": {
+        "text": "on a silver platter",
+        "meaning_ko": "아무 수고 없이 원하는 것이 고스란히 차려져 오다. 은쟁반에 담겨 오듯 손쉽게",
+        "usageTip": "Use this to describe a situation where prior hard work or scale has made acquiring customers, partners, or leads dramatically easier than it used to be.",
+        "chips": [
+          "on",
+          "a",
+          "silver",
+          "platter"
+        ],
+        "distractorChips": [
+          "rough",
+          "grind"
+        ]
+      },
+      "context": "Sarah Tavel is describing a pivotal inflection point in a marketplace's growth: once the platform achieves enough scale, restaurants actively seek to join instead of needing to be recruited. The sales process that once required relentless outreach suddenly becomes effortless.",
+      "vocabulary": [
+        {
+          "word": "pounding the pavement",
+          "meaning": "making relentless in-person sales calls and outreach, often door-to-door",
+          "note": "A common idiom for early-stage hustle; contrasted here with the ease that comes after achieving marketplace scale.",
+          "synonyms": [
+            "cold outreach",
+            "door-to-door sales",
+            "hustle"
+          ]
+        }
+      ],
+      "topics": [
+        "Growth & Marketing",
+        "Starting a Company"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "01:02:12"
+    },
+    {
+      "id": "sarah-tavel-010",
+      "speakerId": "sarah-tavel",
+      "sentence": "there's that earned secret, where they see a market opportunity that other people are overlooking, that hasn't been addressed.",
+      "keyPhrase": {
+        "text": "earned secret",
+        "meaning_ko": "오랜 현장 경험이나 깊은 탐구 끝에만 얻을 수 있는, 남들이 아직 보지 못한 시장 통찰",
+        "usageTip": "Use this when evaluating a founder's thesis or your own startup idea — ask whether the insight is genuinely 'earned' through experience, or merely a surface-level observation anyone could make.",
+        "chips": [
+          "earned",
+          "secret"
+        ],
+        "distractorChips": [
+          "obvious",
+          "given"
+        ]
+      },
+      "context": "Sarah Tavel is articulating what separates the most compelling founders from the rest: their insight into an opportunity isn't luck or guesswork, but the result of lived experience, deep research, or domain expertise that others lack.",
+      "vocabulary": [
+        {
+          "word": "overlooking",
+          "meaning": "failing to notice or consider something that is present but not obvious",
+          "note": "In venture contexts, an 'overlooked' opportunity is one that is real but not yet crowded by competitors.",
+          "synonyms": [
+            "missing",
+            "ignoring",
+            "underestimating"
+          ]
+        }
+      ],
+      "topics": [
+        "Fundraising",
+        "Starting a Company"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "01:33:59"
+    }
+  ],
+  "speaker": {
+    "id": "sarah-tavel",
+    "name": "Sarah Tavel",
+    "title": "General Partner, Benchmark",
+    "titleHistory": "General Partner, Benchmark",
+    "house": "investor",
+    "epithet": "The Sage of Ambition",
+    "motif": "a glowing laser beam striking a small target within concentric circles, with threads of gold radiating outward",
+    "introLine": "The ambitious founder's eye is sharpened by the market they choose—focus that ambition like a laser beam on what others overlook, and the path to enduring growth reveals itself.",
+    "sealLine": "You have learned the secrets that separate the builders from the dreamers: focus, patience, and the wisdom to know which battles to win.",
+    "portrait": "/cards/sarah-tavel.png",
+    "episode": "Sarah Tavel on Lenny's Podcast",
+    "cardCount": 10
+  }
+}

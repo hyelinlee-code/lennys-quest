@@ -1,0 +1,385 @@
+{
+  "cards": [
+    {
+      "id": "tobi-lutke-001",
+      "speakerId": "tobi-lutke",
+      "sentence": "I have learned something very quickly about hey, I need to update my priors, or cool, let's do it differently.",
+      "keyPhrase": {
+        "text": "update one's priors",
+        "surface": "update my priors",
+        "meaning_ko": "새로운 증거를 보고 기존에 갖고 있던 믿음이나 가설을 수정하다. prior = 사전 확률(Bayes 통계 용어)",
+        "usageTip": "Use this in business conversations when you want to signal intellectual honesty — that new data or results are causing you to rethink a strategy or forecast.",
+        "chips": [
+          "update",
+          "one's",
+          "priors"
+        ],
+        "distractorChips": [
+          "ignore",
+          "confirm"
+        ]
+      },
+      "context": "Tobi Lütke is discussing how he approaches learning from experience as Shopify's CEO. He describes the mental habit of quickly recognizing when new information should change a previously held assumption, rather than clinging to what he believed before.",
+      "vocabulary": [
+        {
+          "word": "priors",
+          "meaning": "pre-existing beliefs or assumptions one holds before encountering new evidence",
+          "note": "Borrowed from Bayesian statistics, where a 'prior' is a probability estimate before observing new data.",
+          "synonyms": [
+            "assumptions",
+            "preconceptions",
+            "beliefs"
+          ]
+        }
+      ],
+      "topics": [
+        "Decision Making",
+        "Learning & Growth"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:05:08"
+    },
+    {
+      "id": "tobi-lutke-002",
+      "speakerId": "tobi-lutke",
+      "sentence": "I think I have way more potential than what I bring to bear and I hate that so I'm trying to cultivate the skills that I need for tomorrow and constantly challenge myself.",
+      "keyPhrase": {
+        "text": "bring to bear",
+        "meaning_ko": "자신의 역량·자원·영향력을 온전히 끌어내어 발휘하다",
+        "usageTip": "Use this when describing how fully you or your team are applying skills, experience, or resources to a problem — especially in leadership or performance reviews.",
+        "chips": [
+          "bring",
+          "to",
+          "bear"
+        ],
+        "distractorChips": [
+          "withhold",
+          "waste"
+        ]
+      },
+      "context": "Tobi Lütke is reflecting on his own capacity for growth and the gap he feels between his potential and what he actually achieves. He expresses frustration with that gap and explains that it drives him to deliberately build new skills and keep pushing himself.",
+      "vocabulary": [
+        {
+          "word": "cultivate",
+          "meaning": "to deliberately develop or nurture a skill, habit, or quality over time",
+          "synonyms": [
+            "develop",
+            "foster",
+            "build"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Learning & Growth"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:09:33"
+    },
+    {
+      "id": "tobi-lutke-003",
+      "speakerId": "tobi-lutke",
+      "sentence": "If you are committed to following your curiosity as to the next step, and optimize for maximum amount of learning when you choose these steps, it takes you from one place to another",
+      "keyPhrase": {
+        "text": "follow one's curiosity",
+        "surface": "following your curiosity",
+        "meaning_ko": "정해진 계획 대신 진짜 궁금한 것을 나침반 삼아 커리어와 삶의 방향을 정하다",
+        "usageTip": "Use this when advising someone on career pivots or personal development, suggesting they trust interest-driven exploration over rigid goal-setting.",
+        "chips": [
+          "follow",
+          "one's",
+          "curiosity"
+        ],
+        "distractorChips": [
+          "suppress",
+          "plan"
+        ]
+      },
+      "context": "Tobi Lütke is explaining his philosophy for career and personal growth. He argues that letting curiosity — rather than a rigid plan — drive each next step, while also optimizing for learning at every choice point, is a reliable way to reach places you could not have planned for in advance.",
+      "vocabulary": [
+        {
+          "word": "optimize",
+          "meaning": "to make the best or most effective use of a situation or resource",
+          "synonyms": [
+            "maximize",
+            "fine-tune"
+          ]
+        }
+      ],
+      "topics": [
+        "Career Development",
+        "Learning & Growth"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:10:56"
+    },
+    {
+      "id": "tobi-lutke-004",
+      "speakerId": "tobi-lutke",
+      "sentence": "You follow that thread and you just find that there is no speed limit for personal growth.",
+      "keyPhrase": {
+        "text": "there is no speed limit",
+        "meaning_ko": "성장의 속도에는 상한선이 없다 — 스스로 제동을 걸지 않는 한",
+        "usageTip": "Use this as an encouraging statement in mentorship or team settings to challenge people to remove self-imposed limits on how quickly they can improve.",
+        "chips": [
+          "there",
+          "is",
+          "no",
+          "speed",
+          "limit"
+        ],
+        "distractorChips": [
+          "ceiling",
+          "pace"
+        ]
+      },
+      "context": "Tobi Lütke is describing what happens when you consistently pursue curiosity and optimize for learning. He uses the metaphor of a thread — one insight leading to the next — and concludes that this compounding process has no ceiling on the pace of personal development.",
+      "vocabulary": [],
+      "topics": [
+        "Learning & Growth",
+        "Career Development"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:10:56"
+    },
+    {
+      "id": "tobi-lutke-005",
+      "speakerId": "tobi-lutke",
+      "sentence": "But what isn't okay is skipping the exercise and doing the same thing everyone else does because that is again a abdication of product leadership.",
+      "keyPhrase": {
+        "text": "skip the exercise",
+        "surface": "skipping the exercise",
+        "meaning_ko": "마땅히 해야 할 사고와 분석 과정을 생략하고 남들 하는 대로 따라가다",
+        "usageTip": "Use this to call out situations where a team takes a shortcut through analysis or process, warning that bypassing the work leads to poor decisions.",
+        "chips": [
+          "skip",
+          "the",
+          "exercise"
+        ],
+        "distractorChips": [
+          "shortcut",
+          "copy"
+        ]
+      },
+      "context": "Tobi Lütke is discussing how product leaders should approach strategic decisions. He argues that copying what competitors or the industry does — without going through the rigorous reasoning yourself — is not acceptable, because it represents a failure to exercise genuine product leadership.",
+      "vocabulary": [
+        {
+          "word": "abdication",
+          "meaning": "the act of failing to fulfil a responsibility or duty that belongs to you",
+          "note": "Originally describes a monarch surrendering their throne; in business it means abandoning a role's core obligation.",
+          "synonyms": [
+            "abandonment",
+            "surrender",
+            "neglect"
+          ]
+        }
+      ],
+      "topics": [
+        "Product Management",
+        "Leadership & Management"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "00:30:56"
+    },
+    {
+      "id": "tobi-lutke-006",
+      "speakerId": "tobi-lutke",
+      "sentence": "We want people to be able to window-shop for a place where they can be enormously successful, because the place's set of beliefs just fits you like a glove.",
+      "keyPhrase": {
+        "text": "fit like a glove",
+        "surface": "fits you like a glove",
+        "meaning_ko": "가치관·스타일·필요가 딱 맞아떨어지다. 마치 손에 꼭 맞는 장갑처럼",
+        "usageTip": "Use this when describing how well a role, team, or company culture matches a candidate's personality and values — common in recruiting and career conversations.",
+        "chips": [
+          "fit",
+          "like",
+          "a",
+          "glove"
+        ],
+        "distractorChips": [
+          "clash",
+          "roughly"
+        ]
+      },
+      "context": "Tobi Lütke is explaining Shopify's approach to talent and company culture. He wants prospective employees to be able to explore and evaluate whether Shopify's values and ways of working are a natural match for them — so that those who join are aligned from day one.",
+      "vocabulary": [
+        {
+          "word": "enormously",
+          "meaning": "to an extremely great degree; far beyond the ordinary",
+          "synonyms": [
+            "vastly",
+            "tremendously",
+            "exceptionally"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Career Development"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "01:02:43"
+    },
+    {
+      "id": "tobi-lutke-007",
+      "speakerId": "tobi-lutke",
+      "sentence": "Try to inoculate business or your parts of a company from a sunk cost fallacy as much as possible because that allows you to just see better solutions and so on.",
+      "keyPhrase": {
+        "text": "inoculate from",
+        "surface": "inoculate business or your parts of a company from",
+        "meaning_ko": "조직이 특정 편향이나 잘못된 사고 습관에 물들지 않도록 미리 예방 접종하듯 내성을 길러두다",
+        "usageTip": "Use this when urging a team or company to build explicit processes or norms that protect against a known cognitive bias or bad habit.",
+        "chips": [
+          "inoculate",
+          "from"
+        ],
+        "distractorChips": [
+          "expose",
+          "succumb"
+        ]
+      },
+      "context": "Tobi Lütke is giving advice on decision-making inside companies. He borrows the medical term 'inoculate' to describe the idea of deliberately training a business to resist sunk cost thinking — the tendency to continue investing in a failing path simply because resources have already been spent on it.",
+      "vocabulary": [
+        {
+          "word": "inoculate",
+          "meaning": "to introduce a safeguard that builds resistance to a harmful agent — here used figuratively for a cognitive bias",
+          "note": "Literally a medical term for vaccination; in this business context it means deliberately building immunity against flawed thinking.",
+          "synonyms": [
+            "immunize",
+            "protect",
+            "guard"
+          ]
+        },
+        {
+          "word": "sunk cost fallacy",
+          "meaning": "the mistake of continuing a course of action because of past investment, even when continuing no longer makes rational sense",
+          "synonyms": [
+            "escalation of commitment"
+          ]
+        }
+      ],
+      "topics": [
+        "Decision Making",
+        "Strategy & Planning"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:50:48"
+    },
+    {
+      "id": "tobi-lutke-008",
+      "speakerId": "tobi-lutke",
+      "sentence": "I really like debate. I will play devil's advocate actively if everyone agrees on something.",
+      "keyPhrase": {
+        "text": "play devil's advocate",
+        "meaning_ko": "본심이 아니더라도 일부러 반대 입장을 취해 논리의 허점을 검증하다",
+        "usageTip": "Use this to signal that your counterargument is intentional and exploratory, not a personal objection — it invites stronger reasoning without signaling opposition.",
+        "chips": [
+          "play",
+          "devil's",
+          "advocate"
+        ],
+        "distractorChips": [
+          "comply",
+          "concede"
+        ]
+      },
+      "context": "Tobi Lütke is describing his personal leadership style in meetings and group discussions. He explains that when a room reaches quick consensus, he deliberately takes the opposing position to stress-test the idea and expose any weaknesses the group may have overlooked.",
+      "vocabulary": [],
+      "topics": [
+        "Communication Skills",
+        "Leadership & Management"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:57:24"
+    },
+    {
+      "id": "tobi-lutke-009",
+      "speakerId": "tobi-lutke",
+      "sentence": "The positional game is like, what is the territory on the map that you are taking? What role do you play? How much trust do you have of merchants?",
+      "keyPhrase": {
+        "text": "the positional game",
+        "meaning_ko": "단기 거래보다 시장 내 지형(영향력·신뢰·플랫폼 위치)을 선점하고 굳히는 데 집중하는 장기 전략",
+        "usageTip": "Use this in strategy discussions to distinguish between short-term tactical moves and long-term efforts to build structural advantage in your market.",
+        "chips": [
+          "the",
+          "positional",
+          "game"
+        ],
+        "distractorChips": [
+          "transactional",
+          "reactive"
+        ]
+      },
+      "context": "Tobi Lütke is explaining Shopify's competitive strategy using the metaphor of a board game or map. He frames strategy not as a single transaction or short-term win but as a question of what territory — market share, merchant trust, platform position — you are claiming and holding over time.",
+      "vocabulary": [
+        {
+          "word": "territory",
+          "meaning": "a defined area of influence, market share, or competitive space that a company seeks to own",
+          "note": "Used here as a strategic metaphor drawn from maps and board games.",
+          "synonyms": [
+            "domain",
+            "turf",
+            "market position"
+          ]
+        }
+      ],
+      "topics": [
+        "Strategy & Planning",
+        "Product Management"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "01:11:36"
+    },
+    {
+      "id": "tobi-lutke-010",
+      "speakerId": "tobi-lutke",
+      "sentence": "You have to have the team sits, look around corners that they don't see. You just have to understand this thing that's being done better than everyone else because that's a role.",
+      "keyPhrase": {
+        "text": "look around corners",
+        "meaning_ko": "남들이 아직 보지 못한 위험이나 기회를 미리 감지하다. 리더십의 핵심 역할",
+        "usageTip": "Use this in leadership or strategy contexts to describe the ability to anticipate market shifts, risks, or opportunities ahead of time rather than reacting to them.",
+        "chips": [
+          "look",
+          "around",
+          "corners"
+        ],
+        "distractorChips": [
+          "follow",
+          "react"
+        ]
+      },
+      "context": "Tobi Lütke is describing what he believes the role of senior leadership requires. He argues that a key function of leaders is to see around blind spots — to perceive emerging risks and opportunities that the rest of the team has not yet noticed — and to develop the deepest possible understanding of the work.",
+      "vocabulary": [],
+      "topics": [
+        "Leadership & Management",
+        "Strategy & Planning"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "01:38:04"
+    }
+  ],
+  "speaker": {
+    "id": "tobi-lutke",
+    "name": "Tobi Lütke",
+    "title": "Founder & CEO, Shopify",
+    "titleHistory": "Founder & CEO, Shopify",
+    "house": "founder",
+    "epithet": "The Sage of First Principles",
+    "motif": "a crystalline prism refracting light into new colors, set within a compass rose",
+    "introLine": "To build what others cannot see, you must first unlearn what you thought you knew—then follow your curiosity to the edge where growth knows no speed limit.",
+    "sealLine": "You have looked around corners with clear eyes and questioned the familiar; carry that habit forward, and the world will bend to your vision.",
+    "portrait": "/cards/tobi-lutke.png",
+    "episode": "Tobi Lütke on Lenny's Podcast",
+    "cardCount": 10
+  }
+}

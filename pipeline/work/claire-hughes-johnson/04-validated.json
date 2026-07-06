@@ -1,0 +1,338 @@
+{
+  "cards": [
+    {
+      "id": "claire-hughes-johnson-001",
+      "speakerId": "claire-hughes-johnson",
+      "sentence": "If anything I would say about advice to people generally is be a force for positive momentum, and it will be actually a real career maker.",
+      "keyPhrase": {
+        "text": "be a force for positive momentum",
+        "meaning_ko": "팀과 프로젝트를 앞으로 밀어붙이는 긍정적 추진력이 되다",
+        "usageTip": "Use this phrase when coaching a team member or describing the kind of colleague you want to be — someone who unblocks others and keeps work moving forward.",
+        "chips": [
+          "be",
+          "a",
+          "force",
+          "for",
+          "positive",
+          "momentum"
+        ],
+        "distractorChips": [
+          "passive",
+          "negative"
+        ]
+      },
+      "context": "Claire Hughes Johnson, former COO of Stripe, is answering a question about career advice. She argues that the single most impactful thing a professional can do is consistently push projects and teams forward with optimism and energy — rather than waiting for direction or adding friction.",
+      "vocabulary": [
+        {
+          "word": "momentum",
+          "meaning": "the force or energy that keeps a process moving forward",
+          "note": "In business contexts, maintaining momentum means preventing projects from stalling.",
+          "synonyms": [
+            "drive",
+            "impetus",
+            "traction"
+          ]
+        }
+      ],
+      "topics": [
+        "Career Development",
+        "Leadership & Management"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "01:18:52"
+    },
+    {
+      "id": "claire-hughes-johnson-002",
+      "speakerId": "claire-hughes-johnson",
+      "sentence": "And I think that's probably my biggest lesson from working with both of them, is how much it pays to seek out knowledge from others because we're all just learning all the time.",
+      "keyPhrase": {
+        "text": "seek out knowledge",
+        "meaning_ko": "타인의 지식과 경험을 능동적으로 찾아가 흡수하다",
+        "usageTip": "Use this phrase when describing a deliberate effort to learn from colleagues, mentors, or subject-matter experts rather than relying only on your own experience.",
+        "chips": [
+          "seek",
+          "out",
+          "knowledge"
+        ],
+        "distractorChips": [
+          "hoard",
+          "ignore"
+        ]
+      },
+      "context": "Claire Hughes Johnson is reflecting on the most valuable lesson she learned from working with two exceptional leaders. She emphasizes that proactively asking others for their knowledge — rather than waiting to stumble upon it — is one of the highest-return habits a professional can build.",
+      "vocabulary": [
+        {
+          "word": "pays",
+          "meaning": "yields a worthwhile return or benefit (used figuratively, not about money)",
+          "note": "'It pays to X' is a common English idiom meaning 'X is worth doing.'",
+          "synonyms": [
+            "benefits",
+            "rewards"
+          ]
+        }
+      ],
+      "topics": [
+        "Learning & Growth",
+        "Career Development"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:10:21"
+    },
+    {
+      "id": "claire-hughes-johnson-003",
+      "speakerId": "claire-hughes-johnson",
+      "sentence": "One of my favorite things to say is make the thing that's implicit explicit. Too many meetings are implicitly about something and not explicit enough.",
+      "keyPhrase": {
+        "text": "make the implicit explicit",
+        "surface": "make the thing that's implicit explicit",
+        "meaning_ko": "암묵적으로 전제된 것을 말로 꺼내 명확히 하다",
+        "usageTip": "Use this phrase to redirect a meeting or conversation that feels stuck, prompting everyone to name the actual issue on the table instead of dancing around it.",
+        "chips": [
+          "make",
+          "the",
+          "implicit",
+          "explicit"
+        ],
+        "distractorChips": [
+          "vague",
+          "ambiguous"
+        ]
+      },
+      "context": "Claire Hughes Johnson is sharing advice on how to run more effective meetings. She observes that many meetings fail because the real topic — a tension, a decision, or an unspoken concern — is never named directly, and she urges leaders to state that hidden agenda out loud.",
+      "vocabulary": [
+        {
+          "word": "implicit",
+          "meaning": "suggested or understood without being directly stated",
+          "note": "The opposite of explicit. In meetings, implicit agendas are assumed but never voiced.",
+          "synonyms": [
+            "implied",
+            "unstated",
+            "tacit"
+          ]
+        },
+        {
+          "word": "explicit",
+          "meaning": "stated clearly and in detail, leaving no room for confusion",
+          "synonyms": [
+            "clear",
+            "direct",
+            "overt"
+          ]
+        }
+      ],
+      "topics": [
+        "Communication Skills",
+        "Leadership & Management"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "01:16:16"
+    },
+    {
+      "id": "claire-hughes-johnson-004",
+      "speakerId": "claire-hughes-johnson",
+      "sentence": "And we had this expression, it was like, oh, and then I picked up the rock, and under that rock were some really ugly, creepy crawlies.",
+      "keyPhrase": {
+        "text": "pick up the rock",
+        "surface": "picked up the rock",
+        "meaning_ko": "겉으로 멀쩡해 보이는 것을 파헤쳐 숨겨진 문제를 끄집어내다",
+        "usageTip": "Use this phrase when discussing due diligence, post-mortems, or audits — situations where closer examination reveals uncomfortable truths that were swept under the surface.",
+        "chips": [
+          "pick",
+          "up",
+          "the",
+          "rock"
+        ],
+        "distractorChips": [
+          "smooth",
+          "spotless"
+        ]
+      },
+      "context": "Claire Hughes Johnson is describing the experience of auditing a team or process that looks acceptable on the surface. She uses the vivid image of literally lifting a rock to find insects beneath — a metaphor for digging into an organization or project and uncovering messy problems that were previously invisible.",
+      "vocabulary": [
+        {
+          "word": "creepy crawlies",
+          "meaning": "informal term for insects or small creatures; used figuratively for unpleasant hidden problems",
+          "note": "A colloquial British/Australian expression that Claire uses metaphorically to describe serious organizational issues.",
+          "synonyms": [
+            "bugs",
+            "problems",
+            "nasties"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Decision Making"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:52:02"
+    },
+    {
+      "id": "claire-hughes-johnson-005",
+      "speakerId": "claire-hughes-johnson",
+      "sentence": "But I would say I'm one of those people who has strong opinions that are pretty loosely held.",
+      "keyPhrase": {
+        "text": "strong opinions loosely held",
+        "surface": "strong opinions that are pretty loosely held",
+        "meaning_ko": "확고한 주장을 갖되 더 나은 근거 앞에서는 기꺼이 생각을 바꾸다",
+        "usageTip": "Use this phrase to signal intellectual honesty in a debate or team discussion — you're sharing a real conviction, not just brainstorming, but you're inviting pushback and data that could change your mind.",
+        "chips": [
+          "strong",
+          "opinions",
+          "loosely",
+          "held"
+        ],
+        "distractorChips": [
+          "rigid",
+          "stubborn"
+        ]
+      },
+      "context": "Claire Hughes Johnson is describing her intellectual and leadership style when asked how she approaches decisions or debates. She positions herself as someone who argues forcefully for a point of view but is not attached to being right — and will update her position when the evidence warrants it.",
+      "vocabulary": [
+        {
+          "word": "loosely held",
+          "meaning": "not rigidly attached to; willing to release or revise",
+          "note": "The full phrase 'strong opinions, loosely held' is widely attributed to tech culture; it encodes intellectual humility.",
+          "synonyms": [
+            "tentatively held",
+            "open to revision"
+          ]
+        }
+      ],
+      "topics": [
+        "Decision Making",
+        "Communication Skills"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:28:08"
+    },
+    {
+      "id": "claire-hughes-johnson-006",
+      "speakerId": "claire-hughes-johnson",
+      "sentence": "But what Fred says is, learn how to detoxify the left-hand column. I would say think about a way to say that thing that you think you can't say.",
+      "keyPhrase": {
+        "text": "detoxify the left-hand column",
+        "meaning_ko": "속으로만 삭히던 독한 생각을 다듬어 실제로 꺼낼 수 있는 말로 바꾸다",
+        "usageTip": "Use this phrase in a coaching or feedback context when someone is clearly holding back a difficult but important observation — it signals that the real thought needs to be surfaced and reframed, not buried.",
+        "chips": [
+          "detoxify",
+          "the",
+          "left-hand",
+          "column"
+        ],
+        "distractorChips": [
+          "amplify",
+          "suppress"
+        ]
+      },
+      "context": "Claire Hughes Johnson is explaining a framework from the book 'Difficult Conversations' in which you write two columns: what you actually said, and what you were secretly thinking. Fred Kofman, a leadership coach, calls the silent internal column the 'left-hand column.' Claire urges leaders to learn to express those hidden thoughts constructively rather than suppressing them.",
+      "vocabulary": [
+        {
+          "word": "detoxify",
+          "meaning": "to remove the harmful or destructive elements from something so it becomes safe to use",
+          "note": "Here used metaphorically: stripping the anger or blame from an internal thought so it can be stated productively.",
+          "synonyms": [
+            "neutralize",
+            "defuse",
+            "sanitize"
+          ]
+        }
+      ],
+      "topics": [
+        "Communication Skills",
+        "Leadership & Management"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:34:51"
+    },
+    {
+      "id": "claire-hughes-johnson-007",
+      "speakerId": "claire-hughes-johnson",
+      "sentence": "And they're going like, \"What?\" And you're all you're doing is holding up a mirror... And you have to own it.",
+      "keyPhrase": {
+        "text": "hold up a mirror",
+        "surface": "holding up a mirror",
+        "meaning_ko": "상대방의 말과 행동을 그대로 비춰 스스로 직면하게 하다",
+        "usageTip": "Use this phrase when describing honest feedback or a 360-degree review — it frames the feedback as objective reflection rather than personal criticism, which makes it easier for the recipient to hear.",
+        "chips": [
+          "hold",
+          "up",
+          "a",
+          "mirror"
+        ],
+        "distractorChips": [
+          "hide",
+          "deflect"
+        ]
+      },
+      "context": "Claire Hughes Johnson is describing the uncomfortable experience of giving feedback to a leader who is unaware of how they come across to their team. She explains that a good advisor or manager isn't attacking — they are simply showing that person an accurate reflection of their own conduct, making it impossible to ignore.",
+      "vocabulary": [],
+      "topics": [
+        "Leadership & Management",
+        "Communication Skills"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:39:11"
+    },
+    {
+      "id": "claire-hughes-johnson-008",
+      "speakerId": "claire-hughes-johnson",
+      "sentence": "You could hire a business ops leader and sort of say, \"Hey, build this team to help be the Swiss Army knife to help scale the company, and then maybe that turns into more.\"",
+      "keyPhrase": {
+        "text": "Swiss Army knife",
+        "meaning_ko": "다양한 상황에 두루 대응할 수 있는 만능 인재나 팀",
+        "usageTip": "Use this phrase to describe a generalist hire or a team that operates across functions — it signals breadth of capability and flexibility, and is common in startup and operations conversations.",
+        "chips": [
+          "Swiss",
+          "Army",
+          "knife"
+        ],
+        "distractorChips": [
+          "specialized",
+          "narrow"
+        ]
+      },
+      "context": "Claire Hughes Johnson is advising founders on how to staff the operational leadership layer of a fast-growing company. She suggests hiring a business operations leader whose team can tackle a wide variety of scaling challenges rather than solving only one narrow problem — the way a Swiss Army knife carries many different tools in one compact handle.",
+      "vocabulary": [
+        {
+          "word": "scale",
+          "meaning": "to grow a company's operations proportionally as the business expands",
+          "note": "In startup context, 'scale' often means growing without a proportional increase in cost or headcount.",
+          "synonyms": [
+            "expand",
+            "grow",
+            "build out"
+          ]
+        }
+      ],
+      "topics": [
+        "Starting a Company",
+        "Strategy & Planning"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "01:07:20"
+    }
+  ],
+  "speaker": {
+    "id": "claire-hughes-johnson",
+    "name": "Claire Hughes Johnson",
+    "title": "Former COO, Stripe; author of Scaling People",
+    "titleHistory": "Former COO, Stripe · Author of Scaling People",
+    "house": "operator",
+    "epithet": "The Sage of Alignment",
+    "motif": "a glowing mirror held between two palms, with threads of gold weaving outward",
+    "introLine": "In the spaces where thought becomes word, and intention becomes action, the mightiest organizations are built—seek clarity, and you shall find your greatest power.",
+    "sealLine": "You have learned that alignment is alchemy; now go forth and make the implicit explicit in all you do.",
+    "portrait": "/cards/claire-hughes-johnson.png",
+    "episode": "Claire Hughes Johnson on Lenny's Podcast",
+    "cardCount": 8
+  }
+}

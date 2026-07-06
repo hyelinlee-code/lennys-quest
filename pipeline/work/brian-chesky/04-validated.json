@@ -1,0 +1,397 @@
+{
+  "cards": [
+    {
+      "id": "brian-chesky-001",
+      "speakerId": "brian-chesky",
+      "sentence": "Because what everyone really wants is clarity. And what everyone really wants is to be able to row in the same direction really quickly.",
+      "keyPhrase": {
+        "text": "row in the same direction",
+        "meaning_ko": "팀 전체가 같은 목표를 향해 일사불란하게 움직이다",
+        "usageTip": "Use this phrase when emphasizing team alignment — especially in all-hands meetings, strategy decks, or offsites where you need everyone pulling toward a single goal.",
+        "chips": [
+          "row",
+          "in",
+          "the",
+          "same",
+          "direction"
+        ],
+        "distractorChips": [
+          "drift",
+          "push"
+        ]
+      },
+      "context": "Brian Chesky is explaining why clear leadership and company-wide alignment matter. He argues that when people understand the direction, they can coordinate their efforts and move together without friction.",
+      "vocabulary": [
+        {
+          "word": "clarity",
+          "meaning": "the quality of being clear and easy to understand; freedom from ambiguity",
+          "note": "In leadership contexts, 'clarity' often refers to a well-communicated strategy or direction.",
+          "synonyms": [
+            "transparency",
+            "lucidity"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Communication Skills"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:00:00"
+    },
+    {
+      "id": "brian-chesky-002",
+      "speakerId": "brian-chesky",
+      "sentence": "And there's this negative term called micromanagement. I think there's a difference between micromanagement, which is like telling people exactly what to do, and being in the details.",
+      "keyPhrase": {
+        "text": "be in the details",
+        "surface": "being in the details",
+        "meaning_ko": "세부 사항을 직접 파악하고 현장에 밀착해 관여하다. 마이크로매니지먼트(통제)와는 다른 주도적 디테일 감각",
+        "usageTip": "Use this phrase to describe a hands-on, thorough leadership style that should not be confused with controlling or undermining your team.",
+        "chips": [
+          "be",
+          "in",
+          "the",
+          "details"
+        ],
+        "distractorChips": [
+          "broad",
+          "vague"
+        ]
+      },
+      "context": "Brian Chesky is distinguishing between two leadership styles: micromanagement, which he views as counterproductive, and a detail-oriented approach that keeps leaders informed and effective. He argues that knowing the details is a sign of good leadership, not a character flaw.",
+      "vocabulary": [
+        {
+          "word": "micromanagement",
+          "meaning": "a management style where a leader closely controls every aspect of their team's work, leaving little autonomy",
+          "note": "Often used negatively; Chesky contrasts it with the more constructive 'being in the details.'",
+          "synonyms": [
+            "over-supervision",
+            "hand-holding"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Decision Making"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:00:00"
+    },
+    {
+      "id": "brian-chesky-003",
+      "speakerId": "brian-chesky",
+      "sentence": "We are a fairly purely functional model. They manage by influence. They do not have control.",
+      "keyPhrase": {
+        "text": "manage by influence",
+        "meaning_ko": "공식 권한이 아닌 신뢰와 설득력으로 사람을 움직여 성과를 이끌다",
+        "usageTip": "Use this phrase when describing how leaders in flat or matrix organizations get things done without formal reporting lines — common in tech companies and cross-functional teams.",
+        "chips": [
+          "manage",
+          "by",
+          "influence"
+        ],
+        "distractorChips": [
+          "authority",
+          "command"
+        ]
+      },
+      "context": "Brian Chesky is describing Airbnb's functional organizational model, where leaders such as department heads do not have command-and-control authority over cross-functional teams. Instead, they achieve outcomes by earning trust and persuading others.",
+      "vocabulary": [
+        {
+          "word": "functional model",
+          "meaning": "an organizational structure where employees are grouped by their specialty or function (e.g., engineering, design, marketing) rather than by product or business unit",
+          "note": "Airbnb's 'fairly purely functional model' means each function is centralized under one leader rather than embedded in separate product teams.",
+          "synonyms": [
+            "functional structure",
+            "functional organization"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Strategy & Planning"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:07:42"
+    },
+    {
+      "id": "brian-chesky-004",
+      "speakerId": "brian-chesky",
+      "sentence": "And then the pandemic occurred and we lost 80% of our business in eight weeks. And then suddenly we're like, oh my God. I remember basically staring into the abyss.",
+      "keyPhrase": {
+        "text": "stare into the abyss",
+        "surface": "staring into the abyss",
+        "meaning_ko": "끝이 보이지 않는 절체절명의 위기를 두려움에 떨며 마주하다",
+        "usageTip": "Use this vivid idiom when describing a pivotal, worst-case-scenario moment in a company or career — it signals honest vulnerability and is especially powerful in founder or investor storytelling.",
+        "chips": [
+          "stare",
+          "into",
+          "the",
+          "abyss"
+        ],
+        "distractorChips": [
+          "thriving",
+          "summit"
+        ]
+      },
+      "context": "Brian Chesky is recounting the early months of the COVID-19 pandemic, when travel came to a near-complete halt and Airbnb's revenue collapsed by 80% in just eight weeks. He uses this phrase to capture the existential terror he felt as the company's survival became uncertain.",
+      "vocabulary": [
+        {
+          "word": "abyss",
+          "meaning": "a deep, seemingly bottomless void; used figuratively to describe a crisis with no visible end or solution",
+          "note": "Derived from Greek 'abyssos' (bottomless). In business contexts, it signals existential threat.",
+          "synonyms": [
+            "void",
+            "chasm",
+            "precipice"
+          ]
+        }
+      ],
+      "topics": [
+        "Starting a Company",
+        "Decision Making"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:24:20"
+    },
+    {
+      "id": "brian-chesky-005",
+      "speakerId": "brian-chesky",
+      "sentence": "And that's what happened to our business. We had a near-death business experience and our business flashed before our eyes.",
+      "keyPhrase": {
+        "text": "near-death experience",
+        "surface": "near-death business experience",
+        "meaning_ko": "회사가 무너지기 직전까지 몰린 사활의 위기. 인생의 임사체험을 비즈니스에 빗댄 표현",
+        "usageTip": "Use 'near-death experience' (or 'near-death business experience') when recounting a company-threatening crisis that ultimately forced a major strategic pivot — a staple phrase in founder talks and post-mortems.",
+        "chips": [
+          "near-death",
+          "experience"
+        ],
+        "distractorChips": [
+          "thriving",
+          "surge"
+        ]
+      },
+      "context": "Brian Chesky is describing how the COVID-19 pandemic pushed Airbnb to the brink of collapse, with revenue evaporating almost overnight. He explains that this brush with failure became the turning point that made him completely rethink how he ran the company.",
+      "vocabulary": [
+        {
+          "word": "flashed before our eyes",
+          "meaning": "a rapid mental replay of key memories or events, commonly described by people who believe they are about to die; here used metaphorically for the company's history",
+          "note": "Chesky borrows from the idiom 'my life flashed before my eyes' to emphasize how close Airbnb came to total failure.",
+          "synonyms": [
+            "passed before us",
+            "replayed instantly"
+          ]
+        }
+      ],
+      "topics": [
+        "Starting a Company",
+        "Leadership & Management"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:24:20"
+    },
+    {
+      "id": "brian-chesky-006",
+      "speakerId": "brian-chesky",
+      "sentence": "As you know, there was a saying inside of Airbnb, it was add a zero. Add a zero at the end, which is to imagine something you order, imagine it bigger.",
+      "keyPhrase": {
+        "text": "add a zero",
+        "meaning_ko": "목표 숫자 끝에 0을 하나 더 붙이듯 야망의 스케일을 10배로 키우다",
+        "usageTip": "Use this phrase in brainstorming, product strategy, or fundraising conversations to push a team beyond linear thinking and toward 10x bets — particularly effective when challenging assumptions about market size or product ambition.",
+        "chips": [
+          "add",
+          "a",
+          "zero"
+        ],
+        "distractorChips": [
+          "halve",
+          "shrink"
+        ]
+      },
+      "context": "Brian Chesky is sharing one of Airbnb's internal mantras for ambitious thinking. The phrase means that whatever scale or quantity you are imagining, you should tack a zero onto it — 10 becomes 100, 1,000 becomes 10,000 — forcing you to reimagine scope entirely rather than just optimizing what already exists.",
+      "vocabulary": [],
+      "topics": [
+        "Strategy & Planning",
+        "Product Management"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "00:46:32"
+    },
+    {
+      "id": "brian-chesky-007",
+      "speakerId": "brian-chesky",
+      "sentence": "And fast decisions come from a bias of action. If we're in a meeting, we don't just say, \"Okay, let's circle back on this next week.\"",
+      "keyPhrase": {
+        "text": "bias for action",
+        "surface": "bias of action",
+        "meaning_ko": "완벽한 정보를 기다리기보다 지금 당장 결정하고 움직이는 것을 기본값으로 삼다",
+        "usageTip": "Use this phrase to describe (or advocate for) a culture that favors making imperfect decisions quickly over waiting for perfect information — widely used in startup culture and performance reviews.",
+        "chips": [
+          "bias",
+          "for",
+          "action"
+        ],
+        "distractorChips": [
+          "delay",
+          "hesitation"
+        ]
+      },
+      "context": "Brian Chesky is explaining how Airbnb maintains speed in its decision-making culture. He contrasts a bias for action with the common corporate habit of deferring decisions — the reflexive 'let's circle back' — arguing that decisive action in meetings is a competitive advantage.",
+      "vocabulary": [
+        {
+          "word": "circle back",
+          "meaning": "to return to a topic or decision at a later time, often used to defer rather than resolve",
+          "note": "A common corporate filler phrase; Chesky uses it here as an example of what a bias-for-action culture actively avoids.",
+          "synonyms": [
+            "revisit",
+            "follow up",
+            "table it"
+          ]
+        }
+      ],
+      "topics": [
+        "Decision Making",
+        "Leadership & Management"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:47:22"
+    },
+    {
+      "id": "brian-chesky-008",
+      "speakerId": "brian-chesky",
+      "sentence": "And we might call this first principle thinking. What are the foundational elements that comprise this problem and how can we reconstruct them?",
+      "keyPhrase": {
+        "text": "first principle thinking",
+        "meaning_ko": "기존 통념이나 전례를 배제하고 문제를 가장 근본적인 사실로 쪼갠 뒤 처음부터 해법을 구축하다",
+        "usageTip": "Use this phrase in strategy or product conversations when proposing to abandon assumptions and rethink a problem from scratch — it signals rigorous, original thinking and is a hallmark phrase in Silicon Valley discourse.",
+        "chips": [
+          "first",
+          "principle",
+          "thinking"
+        ],
+        "distractorChips": [
+          "imitation",
+          "assumption"
+        ]
+      },
+      "context": "Brian Chesky is describing the analytical method Airbnb uses to tackle complex strategic problems. Rather than copying how others have solved similar challenges, first principle thinking means identifying the irreducible building blocks of a problem and constructing a novel answer from those fundamentals.",
+      "vocabulary": [
+        {
+          "word": "foundational",
+          "meaning": "relating to the most basic, underlying principles or components upon which everything else is built",
+          "synonyms": [
+            "fundamental",
+            "elemental",
+            "core"
+          ]
+        },
+        {
+          "word": "reconstruct",
+          "meaning": "to build something again from its basic parts, often after analyzing what those parts are",
+          "note": "Here Chesky uses 'reconstruct' to mean designing a fresh solution from first principles rather than patching an existing one.",
+          "synonyms": [
+            "rebuild",
+            "reassemble",
+            "redesign"
+          ]
+        }
+      ],
+      "topics": [
+        "Decision Making",
+        "Strategy & Planning"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:46:32"
+    },
+    {
+      "id": "brian-chesky-009",
+      "speakerId": "brian-chesky",
+      "sentence": "And you pay it forward. I think that it's just one continuation of the valley of people helping one another, learning from one another. And I also feel like I learned by teaching as well.",
+      "keyPhrase": {
+        "text": "pay it forward",
+        "meaning_ko": "받은 도움을 베풀어준 사람에게 갚는 대신 다음 세대에게 베풀어 선의를 이어가다",
+        "usageTip": "Use this phrase when talking about mentorship, community building, or knowledge sharing — it signals a long-term, generous mindset that resonates strongly in founder and investor communities.",
+        "chips": [
+          "pay",
+          "it",
+          "forward"
+        ],
+        "distractorChips": [
+          "hoard",
+          "repay"
+        ]
+      },
+      "context": "Brian Chesky is reflecting on Silicon Valley's culture of mentorship and mutual support, noting that successful founders help the next generation of entrepreneurs — not as a transaction but as a tradition. He personally finds that teaching others also deepens his own learning.",
+      "vocabulary": [],
+      "topics": [
+        "Career Development",
+        "Learning & Growth"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "01:04:13"
+    },
+    {
+      "id": "brian-chesky-010",
+      "speakerId": "brian-chesky",
+      "sentence": "But I have this beginner's mindset that the bigger I get, the more a beginner I tend to feel. It's a weird feeling.",
+      "keyPhrase": {
+        "text": "beginner's mindset",
+        "meaning_ko": "깊은 경험을 쌓고도 초심자처럼 열린 호기심과 겸손함으로 세상을 바라보는 태도. 선불교의 초심(初心)과 맞닿아 있다",
+        "usageTip": "Use this phrase when talking about staying curious, avoiding overconfidence, or approaching an unfamiliar market with fresh eyes — it echoes the Zen concept of 'shoshin' and is widely cited in leadership and product thinking.",
+        "chips": [
+          "beginner's",
+          "mindset"
+        ],
+        "distractorChips": [
+          "overconfidence",
+          "mastery"
+        ]
+      },
+      "context": "Brian Chesky is sharing a paradox he experiences as a seasoned CEO: the more Airbnb grows and the more he learns, the more acutely aware he becomes of how much he still doesn't know. He frames this feeling of perpetual novice-hood not as a weakness but as a deliberate and valuable mental posture.",
+      "vocabulary": [
+        {
+          "word": "mindset",
+          "meaning": "a habitual or established attitude of mind that shapes how you interpret and respond to situations",
+          "note": "Chesky pairs 'beginner's' with 'mindset' to describe the deliberate mental posture of staying curious and humble regardless of experience level.",
+          "synonyms": [
+            "attitude",
+            "outlook",
+            "mental framework"
+          ]
+        }
+      ],
+      "topics": [
+        "Learning & Growth",
+        "Leadership & Management"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "00:58:46"
+    }
+  ],
+  "speaker": {
+    "id": "brian-chesky",
+    "name": "Brian Chesky",
+    "title": "Co-founder & CEO, Airbnb",
+    "titleHistory": "Co-founder & CEO, Airbnb",
+    "house": "founder",
+    "epithet": "The Sage of Scale",
+    "motif": "a rising spiral with a glowing compass at its center, radiating outward in infinite rings",
+    "introLine": "Welcome, seeker. I have built cities within cities, turning belonging into gravity. What begins small must be imagined ten times larger—this is the founder's first principle.",
+    "sealLine": "You have learned the art of scaling with intention. Go forth and pay it forward, for every scale begins with clarity of direction.",
+    "portrait": "/cards/brian-chesky.png",
+    "episode": "Brian Chesky on Lenny's Podcast",
+    "cardCount": 10
+  }
+}

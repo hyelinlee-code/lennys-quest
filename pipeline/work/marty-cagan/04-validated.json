@@ -1,0 +1,372 @@
+{
+  "cards": [
+    {
+      "id": "marty-cagan-001",
+      "speakerId": "marty-cagan",
+      "sentence": "Now it's worth double clicking on the product manager role because fundamentally, the designer and the engineering role are not hugely different.",
+      "keyPhrase": {
+        "text": "double-click on",
+        "surface": "double clicking on",
+        "meaning_ko": "특정 주제를 한 겹 더 파고들어 깊이 살펴보다",
+        "usageTip": "Use this in meetings or presentations when you want to signal that you're about to dig deeper into a specific topic — for example, 'Let's double-click on our retention numbers before we move on.'",
+        "chips": [
+          "double-click",
+          "on"
+        ],
+        "distractorChips": [
+          "zoom",
+          "skip"
+        ]
+      },
+      "context": "Marty Cagan is explaining why the product manager role deserves special scrutiny when comparing it to other roles on a product team. He argues that while design and engineering roles share many commonalities across organizations, the PM role varies far more dramatically depending on team structure.",
+      "vocabulary": [
+        {
+          "word": "fundamentally",
+          "meaning": "at the most basic or essential level",
+          "note": "Used to signal a core truth that underlies everything else being discussed.",
+          "synonyms": [
+            "essentially",
+            "at its core"
+          ]
+        }
+      ],
+      "topics": [
+        "Product Management",
+        "Communication Skills"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "09:49"
+    },
+    {
+      "id": "marty-cagan-002",
+      "speakerId": "marty-cagan",
+      "sentence": "in a feature team, the product manager is basically there to herd the cats to get it, and that's non-trivial, but they need to get stuff organized.",
+      "keyPhrase": {
+        "text": "herd the cats",
+        "meaning_ko": "제각각 튀는 사람들을 어르고 달래 한 방향으로 정렬시키다. 고양이 떼 몰기",
+        "usageTip": "Use this phrase to describe the challenge of aligning many independent-minded people around a shared goal — especially useful when discussing cross-functional projects or large organizations.",
+        "chips": [
+          "herd",
+          "the",
+          "cats"
+        ],
+        "distractorChips": [
+          "lead",
+          "chase"
+        ]
+      },
+      "context": "Marty Cagan is critiquing the limited scope of a product manager's role on a feature team, where the PM's primary job is to wrangle stakeholders and keep work moving rather than drive product strategy. He contrasts this with the more empowered PM role he advocates for.",
+      "vocabulary": [
+        {
+          "word": "non-trivial",
+          "meaning": "more difficult or complex than it might appear at first",
+          "note": "A subtle understatement often used in tech to acknowledge that something requires real skill or effort.",
+          "synonyms": [
+            "demanding",
+            "challenging"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Product Management"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "09:49"
+    },
+    {
+      "id": "marty-cagan-003",
+      "speakerId": "marty-cagan",
+      "sentence": "all four of those risks, if any one of them fails, you've got a failure of a product. So those are table stakes.",
+      "keyPhrase": {
+        "text": "table stakes",
+        "meaning_ko": "게임에 끼려면 반드시 갖춰야 할 최소 요건. '기본 중의 기본'",
+        "usageTip": "Use this when identifying baseline requirements that every competing solution must have — for example, 'Security and uptime are table stakes in the enterprise market; they won't even evaluate you without them.'",
+        "chips": [
+          "table",
+          "stakes"
+        ],
+        "distractorChips": [
+          "bonus",
+          "optional"
+        ]
+      },
+      "context": "Marty Cagan is discussing the four core product risks — value, usability, feasibility, and viability — and arguing that a product must successfully address all four to survive. He uses 'table stakes' to emphasize that passing each risk is not optional; failing even one means the product fails.",
+      "vocabulary": [],
+      "topics": [
+        "Product Management",
+        "Strategy & Planning"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "28:48"
+    },
+    {
+      "id": "marty-cagan-004",
+      "speakerId": "marty-cagan",
+      "sentence": "So you need to learn the techniques. That's the tools of the trade for a product manager.",
+      "keyPhrase": {
+        "text": "tools of the trade",
+        "meaning_ko": "해당 분야 전문가라면 으레 갖춰야 할 기술과 방법론. '본업의 연장통'",
+        "usageTip": "Use this to refer to the essential competencies or methods in your field when coaching someone new — for example, 'Data analysis and stakeholder communication are tools of the trade for any good PM.'",
+        "chips": [
+          "tools",
+          "of",
+          "the",
+          "trade"
+        ],
+        "distractorChips": [
+          "tricks",
+          "shortcuts"
+        ]
+      },
+      "context": "Marty Cagan is advising aspiring product managers that they must actively learn the craft of product management — specific techniques like discovery, prototyping, and customer interviews — rather than assuming good instincts alone are enough.",
+      "vocabulary": [
+        {
+          "word": "techniques",
+          "meaning": "specific, practiced methods used to accomplish a task effectively",
+          "synonyms": [
+            "methods",
+            "approaches"
+          ]
+        }
+      ],
+      "topics": [
+        "Product Management",
+        "Learning & Growth"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "42:38"
+    },
+    {
+      "id": "marty-cagan-005",
+      "speakerId": "marty-cagan",
+      "sentence": "that's the Netflix principle is push the decisions down to the people that actually have the knowledge to best solve the problem.",
+      "keyPhrase": {
+        "text": "push the decision down",
+        "surface": "push the decisions down",
+        "meaning_ko": "의사결정 권한을 문제에 가장 가까운 현장 팀에게 내려보내다",
+        "usageTip": "Use this when advocating for empowering frontline teams or engineers to make product and technical decisions rather than routing everything through leadership — common in discussions about scaling organizations.",
+        "chips": [
+          "push",
+          "the",
+          "decision",
+          "down"
+        ],
+        "distractorChips": [
+          "escalate",
+          "delay"
+        ]
+      },
+      "context": "Marty Cagan is describing Netflix's organizational philosophy of decentralized leadership, where senior management deliberately transfers decision-making power to the teams who possess the deepest contextual knowledge rather than concentrating control at the top.",
+      "vocabulary": [
+        {
+          "word": "principle",
+          "meaning": "a foundational rule or belief that guides decisions and behavior in an organization",
+          "synonyms": [
+            "tenet",
+            "doctrine"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Strategy & Planning"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "08:58"
+    },
+    {
+      "id": "marty-cagan-006",
+      "speakerId": "marty-cagan",
+      "sentence": "And they think that the job is, \"Yo, our job is to crank out features.\" And a lot of them don't even think twice because that's all they've ever known.",
+      "keyPhrase": {
+        "text": "crank out",
+        "surface": "crank out features",
+        "meaning_ko": "깊이 생각하지 않고 빠르게 대량으로 찍어내다",
+        "usageTip": "Use this to describe fast but mindless production of work — often with a negative connotation — for example, 'We've been cranking out features all quarter but our key metrics haven't moved.'",
+        "chips": [
+          "crank",
+          "out"
+        ],
+        "distractorChips": [
+          "plan",
+          "retire"
+        ]
+      },
+      "context": "Marty Cagan is criticizing feature teams whose product managers believe their primary job is simply to ship as many features as possible. He argues this output-focused mindset is deeply misguided and reflects a lack of exposure to more effective models of product development.",
+      "vocabulary": [
+        {
+          "word": "think twice",
+          "meaning": "to pause and reconsider before acting",
+          "note": "Usually appears in the negative ('don't think twice') to highlight someone acting on autopilot."
+        }
+      ],
+      "topics": [
+        "Product Management",
+        "Decision Making"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "06:15"
+    },
+    {
+      "id": "marty-cagan-007",
+      "speakerId": "marty-cagan",
+      "sentence": "if none of those companies are using it, I'm like, \"Don't bother me. It's either snake oil or it's not proven yet.\"",
+      "keyPhrase": {
+        "text": "snake oil",
+        "meaning_ko": "효능도 없으면서 대단한 척 포장된 사기성 제품·방법론. '만병통치약 사기'",
+        "usageTip": "Use this to call out an over-hyped product, framework, or strategy that lacks real evidence of results — for example, 'A lot of these AI productivity tools are still snake oil for enterprise workflows.'",
+        "chips": [
+          "snake",
+          "oil"
+        ],
+        "distractorChips": [
+          "genuine",
+          "tested"
+        ]
+      },
+      "context": "Marty Cagan is sharing his personal heuristic for evaluating new product management tools and methodologies: if top-tier technology companies are not actually using something, he dismisses it as either unproven or outright fraudulent — a useful filter in an industry full of hype.",
+      "vocabulary": [],
+      "topics": [
+        "Product Management",
+        "Decision Making"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "13:04"
+    },
+    {
+      "id": "marty-cagan-008",
+      "speakerId": "marty-cagan",
+      "sentence": "So the result is inadvertently, the blind leading the blind, and we have never had such a high proportion of completely unqualified product people.",
+      "keyPhrase": {
+        "text": "blind leading the blind",
+        "meaning_ko": "아무것도 모르는 사람이 똑같이 무지한 사람을 이끄는 상황. 무경험자가 무경험자를 가르치는 악순환",
+        "usageTip": "Use this to describe any situation where leadership or mentorship is being provided by people who lack the relevant expertise themselves — particularly effective when arguing for investing in experienced coaches or advisors.",
+        "chips": [
+          "blind",
+          "leading",
+          "the",
+          "blind"
+        ],
+        "distractorChips": [
+          "sighted",
+          "expert"
+        ]
+      },
+      "context": "Marty Cagan is warning about a systemic problem in the product industry: as demand for product managers has exploded, inexperienced PMs have been hired and are now being managed and mentored by other equally inexperienced PMs, creating a cycle where poor practices are normalized and spread.",
+      "vocabulary": [
+        {
+          "word": "inadvertently",
+          "meaning": "without intention; by accident",
+          "synonyms": [
+            "unintentionally",
+            "unknowingly"
+          ]
+        },
+        {
+          "word": "proportion",
+          "meaning": "a share or fraction of a total, used to describe relative scale",
+          "synonyms": [
+            "share",
+            "percentage"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Learning & Growth"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "49:39"
+    },
+    {
+      "id": "marty-cagan-009",
+      "speakerId": "marty-cagan",
+      "sentence": "But sometimes it becomes so much that there's just no time left for figuring out what should be billed next. It's just fighting fires every day.",
+      "keyPhrase": {
+        "text": "fight fires",
+        "surface": "fighting fires",
+        "meaning_ko": "전략적 일은 뒷전으로 밀리고 터지는 위기에만 하루 종일 대응하다",
+        "usageTip": "Use this to describe a reactive work environment where there is no space for proactive planning — for example, 'Our team has been fighting fires since the outage and we haven't had a proper roadmap conversation in weeks.'",
+        "chips": [
+          "fight",
+          "fires"
+        ],
+        "distractorChips": [
+          "plan",
+          "delegate"
+        ]
+      },
+      "context": "Marty Cagan is describing a common dysfunction where a product team is so overwhelmed by immediate problems, escalations, and requests that they never have the capacity to think ahead about what to build next. He frames this reactive mode as a sign of poor team health.",
+      "vocabulary": [],
+      "topics": [
+        "Leadership & Management",
+        "Product Management"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "54:29"
+    },
+    {
+      "id": "marty-cagan-010",
+      "speakerId": "marty-cagan",
+      "sentence": "even props to Spotify, they've been able to hold their own against Apple and Amazon for so many years.",
+      "keyPhrase": {
+        "text": "hold one's own",
+        "surface": "hold their own",
+        "meaning_ko": "훨씬 강한 상대 앞에서도 밀리지 않고 대등하게 버텨내다",
+        "usageTip": "Use this to acknowledge a company or individual who is performing creditably despite facing much larger or better-resourced competitors — for example, 'Our startup is holding its own against the incumbents, which tells us we have real product-market fit.'",
+        "chips": [
+          "hold",
+          "one's",
+          "own"
+        ],
+        "distractorChips": [
+          "surrender",
+          "dominate"
+        ]
+      },
+      "context": "Marty Cagan is giving credit to Spotify for successfully competing in the music streaming market against two of the largest technology companies in the world — Apple and Amazon — for an extended period, highlighting this as a remarkable product and business achievement.",
+      "vocabulary": [
+        {
+          "word": "props",
+          "meaning": "informal recognition or credit given to someone for an achievement",
+          "note": "Casual spoken English; equivalent to 'credit where it's due' or 'kudos.'",
+          "synonyms": [
+            "kudos",
+            "credit"
+          ]
+        }
+      ],
+      "topics": [
+        "Strategy & Planning",
+        "Product Management"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "14:03"
+    }
+  ],
+  "speaker": {
+    "id": "marty-cagan",
+    "name": "Marty Cagan",
+    "title": "Founder, Silicon Valley Product Group",
+    "titleHistory": "Founder, Silicon Valley Product Group · Author of Inspired",
+    "house": "operator",
+    "epithet": "The Product Sage",
+    "motif": "a glowing product roadmap scroll and a compass rose sigil",
+    "introLine": "Many build features; few understand the forces that shape a product's destiny—mastery lies not in the making, but in knowing what matters.",
+    "sealLine": "Your craft is now refined, and you have glimpsed the truths that separate the builders from the architects.",
+    "portrait": "/cards/marty-cagan.png",
+    "episode": "Marty Cagan on Lenny's Podcast",
+    "cardCount": 10
+  }
+}

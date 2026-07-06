@@ -1,0 +1,396 @@
+{
+  "cards": [
+    {
+      "id": "melanie-perkins-001",
+      "speakerId": "melanie-perkins",
+      "sentence": "But I think with a crazy big goal, then you want to work really hard to will it into existence.",
+      "keyPhrase": {
+        "text": "will into existence",
+        "surface": "will it into existence",
+        "meaning_ko": "강한 의지와 집념으로 없던 것을 현실로 만들어내다",
+        "usageTip": "Use this phrase when describing how a founder or leader achieved something through relentless focus rather than luck or resources — e.g., \"She willed that product launch into existence despite every obstacle.\"",
+        "chips": [
+          "will",
+          "into",
+          "existence"
+        ],
+        "distractorChips": [
+          "wish",
+          "force"
+        ]
+      },
+      "context": "Melanie Perkins is answering a question about how founders pursue audacious, seemingly impossible goals. She argues that having an outsized ambition is not a liability — it is the very force that drives you to work hard enough to make that goal real.",
+      "vocabulary": [
+        {
+          "word": "will",
+          "meaning": "to use one's willpower or determination to cause something to happen",
+          "note": "Used here as a verb (not the modal auxiliary), meaning to make happen by force of mind.",
+          "synonyms": [
+            "manifest",
+            "conjure"
+          ]
+        }
+      ],
+      "topics": [
+        "Starting a Company",
+        "Leadership & Management"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:16:02"
+    },
+    {
+      "id": "melanie-perkins-002",
+      "speakerId": "melanie-perkins",
+      "sentence": "And I think the thing that I love about a crazy big goal is that you feel completely inadequate before it.",
+      "keyPhrase": {
+        "text": "feel completely inadequate",
+        "surface": "feel completely inadequate before it",
+        "meaning_ko": "목표 앞에서 내가 한없이 부족하다고 느끼다",
+        "usageTip": "Use this phrase when normalizing the discomfort of tackling a stretch goal — it signals honesty about the challenge and builds credibility with your team or audience.",
+        "chips": [
+          "feel",
+          "completely",
+          "inadequate"
+        ],
+        "distractorChips": [
+          "confident",
+          "sufficient"
+        ]
+      },
+      "context": "Melanie Perkins is discussing the psychological experience of setting a truly ambitious goal. Far from treating the feeling of inadequacy as a warning sign, she reframes it as a positive signal that the goal is large enough to be worth pursuing.",
+      "vocabulary": [
+        {
+          "word": "inadequate",
+          "meaning": "not having the qualities or resources needed to meet a requirement or standard",
+          "synonyms": [
+            "unqualified",
+            "insufficient"
+          ]
+        }
+      ],
+      "topics": [
+        "Starting a Company",
+        "Learning & Growth"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "00:15:08"
+    },
+    {
+      "id": "melanie-perkins-003",
+      "speakerId": "melanie-perkins",
+      "sentence": "And so you can see how these big amorphous things that seem very outlandish, you can then just will into existence after continual investment for a decade and it compounds over time.",
+      "keyPhrase": {
+        "text": "compound over time",
+        "surface": "compounds over time",
+        "meaning_ko": "시간이 지날수록 이전 성과 위에 쌓여 기하급수적으로 불어나다. compound = 복리",
+        "usageTip": "Use this phrase when making the case for long-term investment — in a product, a skill, or a market — where the payoff is not linear but accelerating.",
+        "chips": [
+          "compound",
+          "over",
+          "time"
+        ],
+        "distractorChips": [
+          "stagnate",
+          "diminish"
+        ]
+      },
+      "context": "Melanie Perkins is explaining how Canva's decade-long journey from a vague idea to a global platform was possible. She uses the concept of compounding to show that sustained, consistent effort produces exponential results that are hard to foresee at the outset.",
+      "vocabulary": [
+        {
+          "word": "amorphous",
+          "meaning": "without a clearly defined shape, structure, or character; vague",
+          "synonyms": [
+            "shapeless",
+            "nebulous"
+          ]
+        },
+        {
+          "word": "outlandish",
+          "meaning": "looking or sounding bizarre or unfamiliar; far outside the norm",
+          "synonyms": [
+            "far-fetched",
+            "absurd"
+          ]
+        }
+      ],
+      "topics": [
+        "Strategy & Planning",
+        "Learning & Growth"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:17:47"
+    },
+    {
+      "id": "melanie-perkins-004",
+      "speakerId": "melanie-perkins",
+      "sentence": "if you're just trying to plod towards the top of the mountain always and you never take a little moment to pat yourself on the back, it would feel a little arduous.",
+      "keyPhrase": {
+        "text": "pat yourself on the back",
+        "meaning_ko": "스스로를 인정하고 작은 성취를 자축하다",
+        "usageTip": "Use this idiom in team retrospectives or one-on-ones to encourage people to recognize their own effort, especially after completing a difficult milestone.",
+        "chips": [
+          "pat",
+          "yourself",
+          "on",
+          "the",
+          "back"
+        ],
+        "distractorChips": [
+          "kick",
+          "blame"
+        ]
+      },
+      "context": "Melanie Perkins is advising founders on how to sustain motivation across a long company-building journey. She argues that celebrating incremental wins along the way is not self-indulgent — it is a necessary practice to prevent burnout on the road to a big goal.",
+      "vocabulary": [
+        {
+          "word": "plod",
+          "meaning": "to move or work slowly and steadily, often with little excitement",
+          "synonyms": [
+            "trudge",
+            "grind"
+          ]
+        },
+        {
+          "word": "arduous",
+          "meaning": "requiring great effort or endurance; physically or mentally demanding",
+          "synonyms": [
+            "grueling",
+            "strenuous"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Learning & Growth"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:20:18"
+    },
+    {
+      "id": "melanie-perkins-005",
+      "speakerId": "melanie-perkins",
+      "sentence": "At the start it was this idea and then through the copious amounts of rejection, the pitch deck got stronger and more refined.",
+      "keyPhrase": {
+        "text": "copious amounts of",
+        "surface": "copious amounts of rejection",
+        "meaning_ko": "엄청난 양의 ~. copious = 넘칠 만큼 풍부한",
+        "usageTip": "Use this phrase to add emphasis when describing an overwhelming volume of something — setbacks, data, feedback — in a way that sounds vivid without being hyperbolic.",
+        "chips": [
+          "copious",
+          "amounts",
+          "of"
+        ],
+        "distractorChips": [
+          "scant",
+          "sparse"
+        ]
+      },
+      "context": "Melanie Perkins is recounting the early fundraising days of Canva, during which she was turned down by more than a hundred investors. She reframes each rejection not as failure but as useful feedback that iteratively improved her pitch.",
+      "vocabulary": [
+        {
+          "word": "copious",
+          "meaning": "abundant in supply; more than enough",
+          "synonyms": [
+            "abundant",
+            "plentiful"
+          ]
+        },
+        {
+          "word": "refined",
+          "meaning": "improved and polished through repeated revision",
+          "synonyms": [
+            "honed",
+            "perfected"
+          ]
+        }
+      ],
+      "topics": [
+        "Fundraising",
+        "Starting a Company"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:27:53"
+    },
+    {
+      "id": "melanie-perkins-006",
+      "speakerId": "melanie-perkins",
+      "sentence": "I think it's important to find some people that do what you're trying to say and trying to do and kind of finding your tribe, I think.",
+      "keyPhrase": {
+        "text": "find your tribe",
+        "surface": "finding your tribe",
+        "meaning_ko": "같은 가치관과 목표를 공유하는 자신만의 동료 집단을 찾다",
+        "usageTip": "Use this phrase when advising someone to build a peer network around a niche interest or goal — common in founder communities, creative industries, and professional development conversations.",
+        "chips": [
+          "find",
+          "your",
+          "tribe"
+        ],
+        "distractorChips": [
+          "avoid",
+          "disperse"
+        ]
+      },
+      "context": "Melanie Perkins is offering advice to early-stage founders who often feel isolated by their unconventional ambitions. She encourages them to actively seek out peers who are pursuing similar paths, because belonging to a supportive community sustains you through the hard stretches.",
+      "vocabulary": [],
+      "topics": [
+        "Starting a Company",
+        "Career Development"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:29:48"
+    },
+    {
+      "id": "melanie-perkins-007",
+      "speakerId": "melanie-perkins",
+      "sentence": "and you kind of wear a hundred hats and then you have to be able to give away those hats to other people that can then do that way better than yourself.",
+      "keyPhrase": {
+        "text": "give away hats",
+        "surface": "give away those hats",
+        "meaning_ko": "혼자 도맡던 역할을 더 잘할 수 있는 사람에게 넘겨주다. 위임하다",
+        "usageTip": "Use this phrase when discussing delegation and organizational scaling — it captures both the difficulty of letting go and the necessity of doing so as a leader.",
+        "chips": [
+          "give",
+          "away",
+          "hats"
+        ],
+        "distractorChips": [
+          "hoard",
+          "keep"
+        ]
+      },
+      "context": "Melanie Perkins is describing the leadership transition that every scaling founder must make. In the early days a founder handles every function — \"wearing a hundred hats\" — but sustainable growth requires consciously handing those roles to specialists who can do them better.",
+      "vocabulary": [],
+      "topics": [
+        "Leadership & Management",
+        "Starting a Company"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:31:59"
+    },
+    {
+      "id": "melanie-perkins-008",
+      "speakerId": "melanie-perkins",
+      "sentence": "And I think there's a real authenticity in that for customers as well, is that you are actually doing the thing that you promised you do, and it all ladders up together.",
+      "keyPhrase": {
+        "text": "ladder up",
+        "surface": "ladders up together",
+        "meaning_ko": "개별 행동들이 한 단계씩 쌓여 큰 목표나 전략으로 연결되다",
+        "usageTip": "Use this phrase in strategy and planning discussions to show how individual initiatives or team goals connect to the company's top-level objective — e.g., \"Each of these OKRs ladders up to our core growth metric.\"",
+        "chips": [
+          "ladder",
+          "up"
+        ],
+        "distractorChips": [
+          "disconnect",
+          "fragment"
+        ]
+      },
+      "context": "Melanie Perkins is explaining how Canva's internal culture of living its own mission — using Canva to design everything at Canva — creates genuine credibility with customers. She argues that every action, no matter how small, contributes to and reinforces the company's overarching promise.",
+      "vocabulary": [
+        {
+          "word": "authenticity",
+          "meaning": "the quality of being genuine, trustworthy, and true to what one claims to be",
+          "synonyms": [
+            "genuineness",
+            "integrity"
+          ]
+        }
+      ],
+      "topics": [
+        "Strategy & Planning",
+        "Communication Skills"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:34:48"
+    },
+    {
+      "id": "melanie-perkins-009",
+      "speakerId": "melanie-perkins",
+      "sentence": "And what Canva really does is we're literally smack bang in the middle of that Venn diagram of creativity and productivity, rather than making our customers have to make a choice between those two suites.",
+      "keyPhrase": {
+        "text": "smack bang in the middle",
+        "meaning_ko": "두 영역의 한가운데, 정확히 그 교차점에 위치하다. 호주 영어 표현",
+        "usageTip": "Use this vivid idiom (originally Australian English) when emphasizing that something sits at the precise intersection of two markets, ideas, or groups — it adds color and confidence to a positioning statement.",
+        "chips": [
+          "smack",
+          "bang",
+          "in",
+          "the",
+          "middle"
+        ],
+        "distractorChips": [
+          "outside",
+          "periphery"
+        ]
+      },
+      "context": "Melanie Perkins is articulating Canva's unique market position when asked how it differentiates from both creative tools like Adobe and productivity tools like Microsoft Office. She argues that Canva wins by refusing to force customers to choose between the two categories.",
+      "vocabulary": [
+        {
+          "word": "Venn diagram",
+          "meaning": "a diagram using overlapping circles to show the relationship between two or more sets; here used metaphorically to describe market overlap",
+          "note": "Commonly used in business to describe the intersection of audiences, markets, or capabilities."
+        }
+      ],
+      "topics": [
+        "Product Management",
+        "Strategy & Planning"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:49:57"
+    },
+    {
+      "id": "melanie-perkins-010",
+      "speakerId": "melanie-perkins",
+      "sentence": "I think that kind of sets it up for success rather than be a problem or a solution looking for a problem.",
+      "keyPhrase": {
+        "text": "a solution looking for a problem",
+        "meaning_ko": "실제 필요가 없는데 기술부터 만들어놓고 끼워 맞출 문제를 찾는 제품",
+        "usageTip": "Use this phrase as a diagnostic when evaluating a new product idea or feature — if the team cannot articulate whose specific problem it solves, it may be \"a solution looking for a problem.\"",
+        "chips": [
+          "a",
+          "solution",
+          "looking",
+          "for",
+          "a",
+          "problem"
+        ],
+        "distractorChips": [
+          "answer",
+          "remedy"
+        ]
+      },
+      "context": "Melanie Perkins is reflecting on what separates products that succeed from those that fail. She argues that Canva worked because it started from a real, observed pain point — making design accessible — rather than reverse-engineering a need to justify technology that already existed.",
+      "vocabulary": [],
+      "topics": [
+        "Product Management",
+        "Starting a Company"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:51:12"
+    }
+  ],
+  "speaker": {
+    "id": "melanie-perkins",
+    "name": "Melanie Perkins",
+    "title": "Co-founder & CEO, Canva",
+    "titleHistory": "Co-founder & CEO of Canva",
+    "house": "founder",
+    "epithet": "The Sage of Amplitude",
+    "motif": "a quill and palette merging into a glowing sigil of infinite expansion",
+    "introLine": "I greet you, seeker. In this valley, we speak not of small ambitions—we speak of visions so vast they seem impossible, until they are not.",
+    "sealLine": "Go forth and will your dreams into existence, brick by brick, rejection by rejection, until the world recognizes what you always knew to be true.",
+    "portrait": "/cards/melanie-perkins.png",
+    "episode": "Melanie Perkins on Lenny's Podcast",
+    "cardCount": 10
+  }
+}

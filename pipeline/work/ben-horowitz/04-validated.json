@@ -1,0 +1,452 @@
+{
+  "cards": [
+    {
+      "id": "ben-horowitz-001",
+      "speakerId": "ben-horowitz",
+      "sentence": "the psychological muscle you have to build to be a great leader is to be able to look in the abyss and go, \"Okay, that way slightly better. We're going to go that way.",
+      "keyPhrase": {
+        "text": "look in the abyss",
+        "meaning_ko": "눈 앞의 심연(최악의 위기)을 외면하지 않고 똑바로 직시하다",
+        "usageTip": "Use this phrase when describing a leader or founder who has to acknowledge a catastrophic risk or crisis head-on, rather than avoiding or downplaying it.",
+        "chips": [
+          "look",
+          "in",
+          "the",
+          "abyss"
+        ],
+        "distractorChips": [
+          "mirror",
+          "void"
+        ]
+      },
+      "context": "Ben Horowitz is discussing the psychological demands of leadership, explaining that great leaders must be able to face the most dire and frightening scenarios without flinching — and still choose a direction forward.",
+      "vocabulary": [
+        {
+          "word": "abyss",
+          "meaning": "a deep, bottomless pit; metaphorically, an overwhelming crisis or point of no return",
+          "note": "Often used in business contexts to describe an existential threat or catastrophic failure scenario.",
+          "synonyms": [
+            "chasm",
+            "void",
+            "precipice"
+          ]
+        },
+        {
+          "word": "psychological",
+          "meaning": "relating to the mental and emotional dimensions of a person's behavior or experience",
+          "synonyms": [
+            "mental",
+            "emotional"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Decision Making"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:13:13"
+    },
+    {
+      "id": "ben-horowitz-002",
+      "speakerId": "ben-horowitz",
+      "sentence": "But if you don't do it, that's probably going to be much worse and that's why you have to run towards the pain in darkness.",
+      "keyPhrase": {
+        "text": "run towards the pain",
+        "meaning_ko": "고통스럽고 불편한 문제일수록 피하지 않고 정면으로 돌진하다",
+        "usageTip": "Use this phrase in leadership or strategy conversations to encourage tackling the most difficult challenge first, rather than delaying or hoping the problem resolves itself.",
+        "chips": [
+          "run",
+          "towards",
+          "the",
+          "pain"
+        ],
+        "distractorChips": [
+          "sprint",
+          "hide"
+        ]
+      },
+      "context": "Ben Horowitz is explaining that leaders who delay or avoid difficult decisions make problems worse — the only effective response is to face hardship directly and immediately, even when the outcome is uncertain.",
+      "vocabulary": [
+        {
+          "word": "darkness",
+          "meaning": "a state of uncertainty, fear, or lack of clarity about the path ahead",
+          "note": "Used metaphorically here to mean acting despite not having a clear or safe path.",
+          "synonyms": [
+            "uncertainty",
+            "ambiguity"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Decision Making"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:13:13"
+    },
+    {
+      "id": "ben-horowitz-003",
+      "speakerId": "ben-horowitz",
+      "sentence": "If you don't trust what you see and you don't run at it, then you're just not going to be good.",
+      "keyPhrase": {
+        "text": "trust what you see",
+        "meaning_ko": "자신의 눈으로 직접 파악한 것을 믿고 흔들리지 않고 행동하다",
+        "usageTip": "Use this phrase to encourage someone to act decisively on their own analysis rather than waiting for external validation or consensus.",
+        "chips": [
+          "trust",
+          "what",
+          "you",
+          "see"
+        ],
+        "distractorChips": [
+          "guess",
+          "assume"
+        ]
+      },
+      "context": "Ben Horowitz is explaining that effective leaders and investors must have the conviction to act on their own clear-eyed observations — hesitating or doubting your own read of a situation leads to poor outcomes.",
+      "vocabulary": [],
+      "topics": [
+        "Leadership & Management",
+        "Decision Making"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:14:23"
+    },
+    {
+      "id": "ben-horowitz-004",
+      "speakerId": "ben-horowitz",
+      "sentence": "in dealing at a company level in a context of you're on the board of somebody's company, you've got to be able to tell them what they don't want to hear.",
+      "keyPhrase": {
+        "text": "tell someone what they don't want to hear",
+        "surface": "tell them what they don't want to hear",
+        "meaning_ko": "상대가 듣기 싫어하는 불편한 진실을 용기 있게 전달하다",
+        "usageTip": "Use this phrase when discussing honest feedback, candid board conversations, or the courage it takes to raise difficult issues with a colleague or leader.",
+        "chips": [
+          "tell",
+          "someone",
+          "what",
+          "they",
+          "don't",
+          "want",
+          "to",
+          "hear"
+        ],
+        "distractorChips": [
+          "praise",
+          "flatter"
+        ]
+      },
+      "context": "Ben Horowitz is describing the responsibilities of board members and advisors, arguing that real value comes from delivering uncomfortable truths to founders and executives — not from telling them what they want to hear.",
+      "vocabulary": [
+        {
+          "word": "board",
+          "meaning": "a group of individuals elected or appointed to oversee the direction and major decisions of a company",
+          "note": "In a startup context, board members often include investors, founders, and independent directors.",
+          "synonyms": [
+            "board of directors",
+            "governing body"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Communication Skills"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:17:37"
+    },
+    {
+      "id": "ben-horowitz-005",
+      "speakerId": "ben-horowitz",
+      "sentence": "If everybody agrees with the decision, then you didn't add any value because they would've done that without you.",
+      "keyPhrase": {
+        "text": "add any value",
+        "meaning_ko": "없었어도 같은 결과였을 일을 넘어 실질적인 기여를 하다",
+        "usageTip": "Use this phrase to question whether a meeting, hire, or decision actually improved the outcome, or whether it was redundant with what the team would have done regardless.",
+        "chips": [
+          "add",
+          "any",
+          "value"
+        ],
+        "distractorChips": [
+          "create",
+          "generate"
+        ]
+      },
+      "context": "Ben Horowitz is challenging the notion that consensus equals good advising — if an advisor only validates decisions the team would have made anyway, they have contributed nothing; real value comes from changing the outcome.",
+      "vocabulary": [],
+      "topics": [
+        "Leadership & Management",
+        "Strategy & Planning"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:18:22"
+    },
+    {
+      "id": "ben-horowitz-006",
+      "speakerId": "ben-horowitz",
+      "sentence": "And then managerial leverage means it is very simple. It's okay. If I have the ideas about what your department should do next.",
+      "keyPhrase": {
+        "text": "managerial leverage",
+        "meaning_ko": "관리자가 팀을 통해 자신의 아이디어와 영향력을 증폭시키는 능력. leverage = 지렛대 효과",
+        "usageTip": "Use this term when discussing how managers should be evaluated — not by their personal output but by the amplified results they produce through their team.",
+        "chips": [
+          "managerial",
+          "leverage"
+        ],
+        "distractorChips": [
+          "authority",
+          "delegation"
+        ]
+      },
+      "context": "Ben Horowitz is explaining a core concept in management effectiveness: a manager's true output is not their own individual work but how well they channel their ideas and direction through the people and teams they lead.",
+      "vocabulary": [
+        {
+          "word": "leverage",
+          "meaning": "the ability to use a resource, relationship, or position to produce an outsized result or influence",
+          "note": "In management contexts, leverage refers specifically to how a manager's input is multiplied through team output.",
+          "synonyms": [
+            "amplification",
+            "influence",
+            "force multiplier"
+          ]
+        },
+        {
+          "word": "managerial",
+          "meaning": "relating to the role or responsibilities of a manager within an organization",
+          "synonyms": [
+            "supervisory",
+            "executive"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Strategy & Planning"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:27:08"
+    },
+    {
+      "id": "ben-horowitz-007",
+      "speakerId": "ben-horowitz",
+      "sentence": "depending on what's being emphasized, they'll get wrapped around the axle on if it's an enterprise company, well pitching to customers or I need to be really good with the press",
+      "keyPhrase": {
+        "text": "wrap around the axle",
+        "surface": "get wrapped around the axle",
+        "meaning_ko": "한 가지 사안에 지나치게 집착해 큰 그림을 놓치다. 터널 비전에 빠지다",
+        "usageTip": "Use this phrase to describe a team or leader who is over-optimizing on one thing at the expense of overall priorities — a warning against tunnel vision.",
+        "chips": [
+          "wrap",
+          "around",
+          "the",
+          "axle"
+        ],
+        "distractorChips": [
+          "spiral",
+          "stuck"
+        ]
+      },
+      "context": "Ben Horowitz is discussing how founders and executives can become overly obsessed with one particular competency — such as sales or press relations — based on what is currently being praised, rather than focusing on what their company actually needs most.",
+      "vocabulary": [
+        {
+          "word": "enterprise",
+          "meaning": "a large organization or business, often used to describe companies that sell software or services to other large businesses",
+          "note": "In startup contexts, 'enterprise company' typically contrasts with consumer-focused or SMB-focused businesses.",
+          "synonyms": [
+            "corporation",
+            "B2B company"
+          ]
+        },
+        {
+          "word": "pitching",
+          "meaning": "presenting or selling an idea, product, or service to a potential customer, investor, or partner",
+          "synonyms": [
+            "selling",
+            "presenting",
+            "proposing"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Strategy & Planning"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:43:07"
+    },
+    {
+      "id": "ben-horowitz-008",
+      "speakerId": "ben-horowitz",
+      "sentence": "one of the things we emphasize inside the firm is, look, we're investing in strength, not lack of weakness. I want to know how good, are they world-class?",
+      "keyPhrase": {
+        "text": "invest in strength, not lack of weakness",
+        "surface": "investing in strength, not lack of weakness",
+        "meaning_ko": "단점이 없는 사람보다 압도적인 강점을 가진 사람에 베팅하다",
+        "usageTip": "Use this principle when evaluating hires, investments, or partnerships — ask what someone is world-class at, not just whether they are a safe, well-rounded choice.",
+        "chips": [
+          "invest",
+          "in",
+          "strength",
+          "not",
+          "lack",
+          "of",
+          "weakness"
+        ],
+        "distractorChips": [
+          "mediocrity",
+          "balance"
+        ]
+      },
+      "context": "Ben Horowitz is describing how Andreessen Horowitz evaluates founders and investment opportunities — rather than looking for candidates who have no weaknesses, the firm looks for people who have an extraordinary strength that can create outsized success.",
+      "vocabulary": [
+        {
+          "word": "emphasize",
+          "meaning": "to give special importance or prominence to something, making it a central point of focus",
+          "synonyms": [
+            "stress",
+            "highlight",
+            "underscore"
+          ]
+        },
+        {
+          "word": "world-class",
+          "meaning": "of the highest quality or caliber in the world; operating at the top level of a field",
+          "synonyms": [
+            "elite",
+            "top-tier",
+            "best-in-class"
+          ]
+        }
+      ],
+      "topics": [
+        "Fundraising",
+        "Leadership & Management"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:54:42"
+    },
+    {
+      "id": "ben-horowitz-009",
+      "speakerId": "ben-horowitz",
+      "sentence": "if you can break psychologically, you can take the sunk cost, then that gets you out of a lot of bad paths.",
+      "keyPhrase": {
+        "text": "take the sunk cost",
+        "meaning_ko": "이미 쏟아부은 비용은 돌아오지 않는다고 인정하고, 그것이 앞날의 결정을 좌우하지 못하게 끊어내다",
+        "usageTip": "Use this phrase when advising someone to stop pursuing a failing strategy or product just because of what was already invested in it — frame it as the healthy choice to cut losses and redirect.",
+        "chips": [
+          "take",
+          "the",
+          "sunk",
+          "cost"
+        ],
+        "distractorChips": [
+          "loss",
+          "debt"
+        ]
+      },
+      "context": "Ben Horowitz is explaining how founders and leaders get trapped by past investments of time, money, or effort — the key psychological skill is being able to accept that a prior resource is gone and to move on, rather than throwing good resources after bad.",
+      "vocabulary": [
+        {
+          "word": "sunk cost",
+          "meaning": "money, time, or resources already spent that cannot be recovered, and which should not influence future decisions",
+          "note": "The 'sunk cost fallacy' is the mistake of continuing a bad path because of what was already invested rather than what is best going forward.",
+          "synonyms": [
+            "irrecoverable cost",
+            "past investment"
+          ]
+        },
+        {
+          "word": "psychologically",
+          "meaning": "in a way that relates to the mental or emotional state of a person",
+          "synonyms": [
+            "mentally",
+            "emotionally"
+          ]
+        }
+      ],
+      "topics": [
+        "Decision Making",
+        "Starting a Company"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:06:14"
+    },
+    {
+      "id": "ben-horowitz-010",
+      "speakerId": "ben-horowitz",
+      "sentence": "you kind of have to somehow climb the confidence and the competency curve together. It's very hard to do and particularly if you're an engineer and you're used to getting things right",
+      "keyPhrase": {
+        "text": "climb the confidence and competency curve",
+        "surface": "climb the confidence and the competency curve",
+        "meaning_ko": "자신감과 실력을 따로따로가 아닌 동시에 키워나가다. 준비될 때까지 기다리다가는 영원히 시작 못 한다",
+        "usageTip": "Use this phrase when coaching someone transitioning into a leadership role, to explain that confidence and competence must be built together — you cannot wait to feel ready before acting like a leader.",
+        "chips": [
+          "climb",
+          "the",
+          "confidence",
+          "and",
+          "competency",
+          "curve"
+        ],
+        "distractorChips": [
+          "plateau",
+          "descent"
+        ]
+      },
+      "context": "Ben Horowitz is discussing the unique challenge that technical founders face when growing into executive roles — unlike engineering, leadership requires developing self-assurance at the same pace as skill, and the two must reinforce each other rather than waiting for mastery before acting confidently.",
+      "vocabulary": [
+        {
+          "word": "competency",
+          "meaning": "the ability to perform a task or fulfill a role effectively, based on skill, knowledge, and experience",
+          "note": "Distinct from 'confidence' — competency is the actual capability, while confidence is the belief in that capability.",
+          "synonyms": [
+            "skill",
+            "proficiency",
+            "capability"
+          ]
+        },
+        {
+          "word": "confidence",
+          "meaning": "the belief in one's own ability to succeed or perform well in a given situation",
+          "synonyms": [
+            "self-assurance",
+            "conviction",
+            "certainty"
+          ]
+        }
+      ],
+      "topics": [
+        "Career Development",
+        "Leadership & Management"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:30:11"
+    }
+  ],
+  "speaker": {
+    "id": "ben-horowitz",
+    "name": "Ben Horowitz",
+    "title": "Co-founder, Andreessen Horowitz",
+    "titleHistory": "Co-founder, Andreessen Horowitz",
+    "house": "investor",
+    "epithet": "The Sage of Hard Truths",
+    "motif": "a mirror reflecting an abyss, surrounded by glowing runes of clarity and resolve",
+    "introLine": "Welcome, apprentice. In the abyss lies clarity — those who dare to look shall see paths others miss, and in seeing, master the art of choosing wisely.",
+    "sealLine": "You have learned to face what others flee; go forth and build strength from the truth, for that is the true leverage of leaders.",
+    "portrait": "/cards/ben-horowitz.png",
+    "episode": "Ben Horowitz on Lenny's Podcast",
+    "cardCount": 10
+  }
+}

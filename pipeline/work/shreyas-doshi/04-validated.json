@@ -1,0 +1,380 @@
+{
+  "cards": [
+    {
+      "id": "shreyas-doshi-001",
+      "speakerId": "shreyas-doshi",
+      "sentence": "Yeah, let's do this rapid fire style because you know me, I could spend an hour just talking about this topic.",
+      "keyPhrase": {
+        "text": "rapid fire style",
+        "meaning_ko": "질문과 답변을 빠르게 주고받는 속사포식 진행 방식",
+        "usageTip": "Use this in meetings or interviews to signal you want to move through a list of topics quickly without deep dives on each one.",
+        "chips": [
+          "rapid",
+          "fire",
+          "style"
+        ],
+        "distractorChips": [
+          "slow",
+          "casual"
+        ]
+      },
+      "context": "Shreyas Doshi is agreeing to a segment of Lenny's Podcast where he will answer multiple questions in quick succession. He acknowledges his tendency to go deep on topics and is choosing a faster, more disciplined format.",
+      "vocabulary": [],
+      "topics": [
+        "Communication Skills"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:12:53"
+    },
+    {
+      "id": "shreyas-doshi-002",
+      "speakerId": "shreyas-doshi",
+      "sentence": "my to-do list was endless and I wasn't able to make a dent on it, and I was also a little bit of a perfectionist",
+      "keyPhrase": {
+        "text": "make a dent",
+        "meaning_ko": "산더미 같은 일에 눈에 띄는 진척을 내다",
+        "usageTip": "Use this when acknowledging that a problem or task is large and you are beginning — or failing — to make meaningful progress on it.",
+        "chips": [
+          "make",
+          "a",
+          "dent"
+        ],
+        "distractorChips": [
+          "scratch",
+          "break"
+        ]
+      },
+      "context": "Shreyas Doshi is describing a period when he struggled with productivity and prioritization as a product manager. He had an overwhelming workload and his perfectionism made it harder to move forward at all.",
+      "vocabulary": [
+        {
+          "word": "perfectionist",
+          "meaning": "a person who refuses to accept anything less than perfect results",
+          "note": "Often used informally to explain why someone over-engineers or delays completing tasks.",
+          "synonyms": [
+            "idealist",
+            "stickler"
+          ]
+        }
+      ],
+      "topics": [
+        "Career Development",
+        "Learning & Growth"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:34:15"
+    },
+    {
+      "id": "shreyas-doshi-003",
+      "speakerId": "shreyas-doshi",
+      "sentence": "Now, let's work backwards from there and ask ourselves what went wrong, what could have contributed to this utter failure.",
+      "keyPhrase": {
+        "text": "work backwards from",
+        "meaning_ko": "원하는 최종 결과를 먼저 상정한 뒤 역순으로 필요한 단계를 짚어나가다",
+        "usageTip": "Use this in planning sessions to anchor your analysis on a concrete outcome and then identify the actions or decisions required to reach it.",
+        "chips": [
+          "work",
+          "backwards",
+          "from"
+        ],
+        "distractorChips": [
+          "forward",
+          "sideways"
+        ]
+      },
+      "context": "Shreyas Doshi is explaining how to run a pre-mortem — a planning technique where a team imagines a project has already failed and then reasons backward to identify what caused the failure. This reverse-engineering mindset helps uncover risks before they happen.",
+      "vocabulary": [
+        {
+          "word": "utter",
+          "meaning": "complete and total (used for emphasis, often with negative outcomes)",
+          "note": "\"Utter failure\" is a common fixed phrase in business post-mortems to signal a serious outcome without hedging.",
+          "synonyms": [
+            "complete",
+            "total",
+            "absolute"
+          ]
+        }
+      ],
+      "topics": [
+        "Decision Making",
+        "Strategy & Planning"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:24:50"
+    },
+    {
+      "id": "shreyas-doshi-004",
+      "speakerId": "shreyas-doshi",
+      "sentence": "So a pre-mortem setting gives everybody the license to actually think about what can go wrong. So, that psychological safety is a big, big factor in why a pre-mortem works.",
+      "keyPhrase": {
+        "text": "psychological safety",
+        "meaning_ko": "비판이나 실수를 털어놓아도 불이익 없이 안전하다고 느끼는 팀 분위기. '심리적 안전감'",
+        "usageTip": "Use this term when discussing how to create an environment where team members openly share risks, mistakes, or unpopular opinions.",
+        "chips": [
+          "psychological",
+          "safety"
+        ],
+        "distractorChips": [
+          "emotional",
+          "physical"
+        ]
+      },
+      "context": "Shreyas Doshi is explaining why the pre-mortem technique is effective in team settings. A pre-mortem — where the team imagines a future failure and diagnoses its causes — only works when everyone feels free to voice concerns that might otherwise seem too negative or contrarian to say aloud.",
+      "vocabulary": [
+        {
+          "word": "license",
+          "meaning": "permission or freedom to do something that might otherwise feel risky or inappropriate",
+          "note": "Here used metaphorically — not a legal document, but social permission to speak candidly.",
+          "synonyms": [
+            "permission",
+            "latitude",
+            "freedom"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Communication Skills"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:25:47"
+    },
+    {
+      "id": "shreyas-doshi-005",
+      "speakerId": "shreyas-doshi",
+      "sentence": "So this is a seeming threat that others might be worried about, but you're not worried about. So that's the paper tiger.",
+      "keyPhrase": {
+        "text": "paper tiger",
+        "meaning_ko": "겉만 위협적으로 보일 뿐 실제로는 무해한 허수아비 위협. '종이 호랑이'",
+        "usageTip": "Use this to diplomatically dismiss a concern that sounds serious but lacks real substance, especially when colleagues or stakeholders are overreacting to it.",
+        "chips": [
+          "paper",
+          "tiger"
+        ],
+        "distractorChips": [
+          "real",
+          "steel"
+        ]
+      },
+      "context": "Shreyas Doshi is walking through a pre-mortem framework that categorizes risks a team might surface. A paper tiger is a risk that sounds alarming to outsiders but is actually not a real threat — knowing which risks fall into this category helps a team avoid wasting time on non-issues.",
+      "vocabulary": [
+        {
+          "word": "seeming",
+          "meaning": "appearing to be something but not necessarily being so in reality",
+          "note": "Often signals a contrast between perception and truth, as in \"a seeming advantage that is actually a weakness.\"",
+          "synonyms": [
+            "apparent",
+            "ostensible"
+          ]
+        }
+      ],
+      "topics": [
+        "Decision Making",
+        "Strategy & Planning"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "00:27:51"
+    },
+    {
+      "id": "shreyas-doshi-006",
+      "speakerId": "shreyas-doshi",
+      "sentence": "That's the elephant in the room that nobody is talking about that, again, this gives you that psychological safety to bring it up.",
+      "keyPhrase": {
+        "text": "elephant in the room",
+        "meaning_ko": "모두가 알면서도 차마 입 밖에 내지 못하는 불편한 진실",
+        "usageTip": "Use this to signal you are about to raise a sensitive or uncomfortable topic that the group has been avoiding.",
+        "chips": [
+          "elephant",
+          "in",
+          "the",
+          "room"
+        ],
+        "distractorChips": [
+          "mouse",
+          "hidden"
+        ]
+      },
+      "context": "Shreyas Doshi is describing another category of risk in his pre-mortem framework — the issue that is clearly on everyone's mind but remains unspoken because people feel uncomfortable raising it. The pre-mortem structure gives team members explicit permission to name these uncomfortable truths.",
+      "vocabulary": [],
+      "topics": [
+        "Communication Skills",
+        "Leadership & Management"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:27:51"
+    },
+    {
+      "id": "shreyas-doshi-007",
+      "speakerId": "shreyas-doshi",
+      "sentence": "We litigate the minutiae of whatever issue we are discussing, but we never really recognize that it's because we are default thinking at different levels.",
+      "keyPhrase": {
+        "text": "litigate the minutiae",
+        "meaning_ko": "정작 핵심 쟁점은 놔둔 채 사소한 세부사항을 놓고 법정 다투듯 끝없이 논쟁하다",
+        "usageTip": "Use this to call out a meeting or discussion that has gotten bogged down in minor details when the real disagreement is about strategy or framing.",
+        "chips": [
+          "litigate",
+          "the",
+          "minutiae"
+        ],
+        "distractorChips": [
+          "celebrate",
+          "ignore"
+        ]
+      },
+      "context": "Shreyas Doshi is explaining why product teams often get stuck in unproductive debates. He argues that the real cause of conflict is usually that team members are operating at different levels of abstraction — strategic vs. tactical — rather than genuinely disagreeing on the details themselves.",
+      "vocabulary": [
+        {
+          "word": "litigate",
+          "meaning": "to argue or dispute something at length, as if in a courtroom",
+          "note": "Borrowed from legal language; in business contexts it means to over-debate rather than resolve.",
+          "synonyms": [
+            "argue",
+            "contest",
+            "dispute"
+          ]
+        },
+        {
+          "word": "minutiae",
+          "meaning": "the small, precise, or trivial details of something",
+          "note": "Pronounced \"min-YOO-shee-ee\"; often used to describe detail-level debates that miss the bigger picture.",
+          "synonyms": [
+            "trivialities",
+            "fine points",
+            "nitty-gritty"
+          ]
+        }
+      ],
+      "topics": [
+        "Communication Skills",
+        "Leadership & Management"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:48:46"
+    },
+    {
+      "id": "shreyas-doshi-008",
+      "speakerId": "shreyas-doshi",
+      "sentence": "a sure far way of identifying those is when you put on a bandaid and the bandaid falls.",
+      "keyPhrase": {
+        "text": "put on a bandaid",
+        "meaning_ko": "근본 원인은 건드리지 않고 임시방편으로 대충 때우다",
+        "usageTip": "Use this to argue against short-term tactical fixes when the team needs to invest in a more fundamental, lasting solution.",
+        "chips": [
+          "put",
+          "on",
+          "a",
+          "bandaid"
+        ],
+        "distractorChips": [
+          "surgery",
+          "cure"
+        ]
+      },
+      "context": "Shreyas Doshi is explaining how to recognize whether a problem is a symptom or the true root cause. His diagnostic test: if you implement a fix and the problem immediately returns or worsens, you only treated the surface — meaning a deeper underlying issue still exists.",
+      "vocabulary": [],
+      "topics": [
+        "Decision Making",
+        "Product Management"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "01:01:18"
+    },
+    {
+      "id": "shreyas-doshi-009",
+      "speakerId": "shreyas-doshi",
+      "sentence": "they just either push through in the face of adverse conditions or often they manage to reverse the adverse conditions to achieve their goals.",
+      "keyPhrase": {
+        "text": "push through",
+        "meaning_ko": "악조건 앞에서도 굴하지 않고 끝까지 밀고 나가다",
+        "usageTip": "Use this to praise or encourage someone who continues making progress despite setbacks, resource constraints, or organizational friction.",
+        "chips": [
+          "push",
+          "through"
+        ],
+        "distractorChips": [
+          "give",
+          "collapse"
+        ]
+      },
+      "context": "Shreyas Doshi is describing what distinguishes high-agency individuals from others. When faced with unfavorable conditions, these people do not wait for things to improve — they either endure and press forward anyway, or they actively change the situation to their advantage.",
+      "vocabulary": [
+        {
+          "word": "adverse",
+          "meaning": "unfavorable, harmful, or working against one's interests",
+          "note": "Common in business and strategy to describe headwinds, market downturns, or internal obstacles.",
+          "synonyms": [
+            "unfavorable",
+            "hostile",
+            "difficult"
+          ]
+        }
+      ],
+      "topics": [
+        "Career Development",
+        "Leadership & Management"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "01:11:55"
+    },
+    {
+      "id": "shreyas-doshi-010",
+      "speakerId": "shreyas-doshi",
+      "sentence": "high agency is about finding a way to get what you want without waiting for conditions to be perfect or otherwise blaming the circumstances.",
+      "keyPhrase": {
+        "text": "high agency",
+        "meaning_ko": "여건이 갖춰질 때까지 기다리거나 환경 탓을 하는 대신 스스로 길을 찾아 움직이는 주도적 태도. '고(高)에이전시'",
+        "usageTip": "Use this in hiring, performance reviews, or career conversations to describe someone who consistently finds ways to make things happen rather than waiting for permission or ideal circumstances.",
+        "chips": [
+          "high",
+          "agency"
+        ],
+        "distractorChips": [
+          "passive",
+          "dependent"
+        ]
+      },
+      "context": "Shreyas Doshi is defining one of his most widely cited concepts in product and career development. High agency is the mindset of acting on your goals regardless of imperfect conditions — the opposite of learned helplessness or circumstantial blame.",
+      "vocabulary": [
+        {
+          "word": "agency",
+          "meaning": "the capacity to act independently and make one's own choices",
+          "note": "In psychology and business, \"agency\" contrasts with being controlled by external forces; \"high agency\" people are self-directed and proactive.",
+          "synonyms": [
+            "autonomy",
+            "initiative",
+            "self-determination"
+          ]
+        }
+      ],
+      "topics": [
+        "Career Development",
+        "Learning & Growth"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "01:11:55"
+    }
+  ],
+  "speaker": {
+    "id": "shreyas-doshi",
+    "name": "Shreyas Doshi",
+    "title": "Product leader (Stripe, Twitter, Google)",
+    "titleHistory": "Product leader at Stripe, Twitter, and Google",
+    "house": "operator",
+    "epithet": "The Sage of First Principles",
+    "motif": "a luminous pyramid with layers of light, each revealing a deeper truth",
+    "introLine": "Products are forged not in wishes, but in the clarity of what can truly bend—learn to see beneath the surface, and you shall remake the world around you.",
+    "sealLine": "You have mastered the art of asking the right questions and seeing what others overlook; go forth and shape your world with intent.",
+    "portrait": "/cards/shreyas-doshi.png",
+    "episode": "Shreyas Doshi on Lenny's Podcast",
+    "cardCount": 10
+  }
+}

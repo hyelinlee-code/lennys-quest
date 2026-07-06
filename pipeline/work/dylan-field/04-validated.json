@@ -1,0 +1,355 @@
+{
+  "cards": [
+    {
+      "id": "dylan-field-001",
+      "speakerId": "dylan-field",
+      "sentence": "I think intuition is like a hypothesis generator and you're constantly generating these hypotheses and others are generating hypotheses as well.",
+      "keyPhrase": {
+        "text": "hypothesis generator",
+        "meaning_ko": "직관을 끊임없이 가설을 쏟아내는 엔진으로 보는 관점. 막연한 느낌이 아니라 검증 가능한 후보들을 자동 생성하는 사고 과정",
+        "usageTip": "Use this phrase in product or strategy discussions to elevate intuition from 'gut feel' to a rigorous, testable process — e.g., 'Think of your intuition as a hypothesis generator; now let's find the data to validate it.'",
+        "chips": [
+          "hypothesis",
+          "generator"
+        ],
+        "distractorChips": [
+          "random",
+          "bias"
+        ]
+      },
+      "context": "Dylan Field is reframing what intuition actually is, arguing that it isn't mystical gut feeling but rather a systematic mental process. He explains that our minds continuously produce candidate explanations — hypotheses — that we and our colleagues then test against evidence.",
+      "vocabulary": [
+        {
+          "word": "intuition",
+          "meaning": "the ability to understand something immediately, without conscious reasoning",
+          "note": "Here used to describe a subconscious pattern-matching process rather than mere guesswork.",
+          "synonyms": [
+            "instinct",
+            "gut feel"
+          ]
+        },
+        {
+          "word": "hypotheses",
+          "meaning": "plural of hypothesis; proposed explanations made on the basis of limited evidence, used as a starting point for further investigation",
+          "synonyms": [
+            "assumptions",
+            "conjectures"
+          ]
+        }
+      ],
+      "topics": [
+        "Decision Making",
+        "Product Management"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "11:19"
+    },
+    {
+      "id": "dylan-field-002",
+      "speakerId": "dylan-field",
+      "sentence": "I also ask a lot of questions and I try to get to root problems and understand where people are coming from and what are they actually trying to solve.",
+      "keyPhrase": {
+        "text": "get to root problems",
+        "meaning_ko": "겉으로 드러난 증상이 아니라 문제의 본질적 원인까지 파고들다",
+        "usageTip": "Use this phrase in 1-on-1s or stakeholder meetings when you want to signal that you're not just fixing symptoms — e.g., 'Before we jump to solutions, I'd like to get to root problems first.'",
+        "chips": [
+          "get",
+          "to",
+          "root",
+          "problems"
+        ],
+        "distractorChips": [
+          "surface",
+          "obvious"
+        ]
+      },
+      "context": "Dylan Field is describing his personal leadership style when working through difficult challenges with his team. He emphasizes that asking probing questions is essential to move beyond the stated problem and uncover what people truly need.",
+      "vocabulary": [],
+      "topics": [
+        "Leadership & Management",
+        "Communication Skills"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "12:00"
+    },
+    {
+      "id": "dylan-field-003",
+      "speakerId": "dylan-field",
+      "sentence": "And you try to find data to support them or negate them. And then you winnow it down into what is our working hypothesis?",
+      "keyPhrase": {
+        "text": "winnow down",
+        "surface": "winnow it down",
+        "meaning_ko": "여러 후보를 논쟁과 검증으로 걸러내어 하나의 유력 가설로 추려내다. winnow = 곡식에서 쭉정이를 바람으로 날려 보내다",
+        "usageTip": "Use this phrase during prioritization sessions or roadmap reviews to describe the filtering process — e.g., 'We started with twenty ideas; now we need to winnow it down to the three we'll actually build.'",
+        "chips": [
+          "winnow",
+          "down"
+        ],
+        "distractorChips": [
+          "expand",
+          "broad"
+        ]
+      },
+      "context": "Dylan Field is describing Figma's internal decision-making process for forming strategic bets. After generating multiple competing hypotheses, the team debates and tests each one, then progressively eliminates weaker options until a single working hypothesis remains.",
+      "vocabulary": [
+        {
+          "word": "winnow",
+          "meaning": "to separate and remove weaker or less desirable elements from a larger group",
+          "note": "Originally refers to separating grain from chaff by wind; used metaphorically in business for filtering ideas.",
+          "synonyms": [
+            "narrow down",
+            "sift",
+            "filter"
+          ]
+        },
+        {
+          "word": "negate",
+          "meaning": "to nullify or disprove; to show that something is false or invalid",
+          "synonyms": [
+            "refute",
+            "invalidate"
+          ]
+        }
+      ],
+      "topics": [
+        "Decision Making",
+        "Strategy & Planning"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "11:19"
+    },
+    {
+      "id": "dylan-field-004",
+      "speakerId": "dylan-field",
+      "sentence": "And I just think that it's important though to just really understand something from first principles for a lot of decisions.",
+      "keyPhrase": {
+        "text": "from first principles",
+        "meaning_ko": "기존 통념이나 관행에 기대지 않고 가장 근본적인 사실에서부터 논리를 쌓아 올려 사고하다",
+        "usageTip": "Use this phrase in strategy or product discussions to signal rigorous, assumption-free thinking — e.g., 'Let's approach the pricing model from first principles instead of copying what competitors charge.'",
+        "chips": [
+          "from",
+          "first",
+          "principles"
+        ],
+        "distractorChips": [
+          "shortcuts",
+          "assumptions"
+        ]
+      },
+      "context": "Dylan Field is making the case that deep, foundational understanding matters for sound decision-making. He argues that instead of relying on conventional wisdom or copying competitors, leaders should reason up from basic truths to arrive at better answers.",
+      "vocabulary": [],
+      "topics": [
+        "Decision Making",
+        "Strategy & Planning"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "15:05"
+    },
+    {
+      "id": "dylan-field-005",
+      "speakerId": "dylan-field",
+      "sentence": "And maybe it's just a perfectionist quality repeated over time, I think it leads to good outcomes as long as you make sure it's not bottle-necking the organization.",
+      "keyPhrase": {
+        "text": "bottle neck",
+        "surface": "bottle-necking",
+        "meaning_ko": "한 사람이나 프로세스가 병목이 되어 조직 전체의 속도를 잡아당기다",
+        "usageTip": "Use this verb in operational or product-delivery discussions to flag when one person or process is constraining the whole team — e.g., 'The approval process is bottle-necking our releases; we need to delegate.'",
+        "chips": [
+          "bottle",
+          "neck"
+        ],
+        "distractorChips": [
+          "accelerate",
+          "scale"
+        ]
+      },
+      "context": "Dylan Field is reflecting on his own perfectionist tendencies and how they can be both an asset and a liability. He acknowledges that high standards produce good outcomes, but warns that a leader's perfectionism becomes dangerous when it slows the entire organization's ability to move forward.",
+      "vocabulary": [
+        {
+          "word": "perfectionist",
+          "meaning": "a person who refuses to accept any standard short of perfection",
+          "note": "In a leadership context, perfectionism can be a double-edged trait — driving quality but risking slowdowns.",
+          "synonyms": [
+            "stickler",
+            "idealist"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Strategy & Planning"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "15:05"
+    },
+    {
+      "id": "dylan-field-006",
+      "speakerId": "dylan-field",
+      "sentence": "One essay that Evan, my co-founder, introduced me to early on in famous history, I think from Stevie's [inaudible 00:23:06] grants or something like that, contains the term irreducible complexity.",
+      "keyPhrase": {
+        "text": "irreducible complexity",
+        "meaning_ko": "더 이상 단순하게 만들면 시스템 자체가 작동하지 않는, 줄일 수 없는 최소한의 복잡성",
+        "usageTip": "Use this phrase when defending design or product decisions that might look over-engineered — e.g., 'This workflow has irreducible complexity; removing any step would break the user's mental model.'",
+        "chips": [
+          "irreducible",
+          "complexity"
+        ],
+        "distractorChips": [
+          "trivial",
+          "optional"
+        ]
+      },
+      "context": "Dylan Field is crediting an influential essay that his co-founder Evan shared with him during Figma's early days. The concept of irreducible complexity gave them a framework for understanding which parts of a product's design cannot be made simpler without breaking the experience entirely.",
+      "vocabulary": [
+        {
+          "word": "irreducible",
+          "meaning": "impossible to make simpler or smaller; at its minimum viable form",
+          "synonyms": [
+            "indivisible",
+            "essential"
+          ]
+        }
+      ],
+      "topics": [
+        "Product Management",
+        "Strategy & Planning"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "22:41"
+    },
+    {
+      "id": "dylan-field-007",
+      "speakerId": "dylan-field",
+      "sentence": "And I think another quote that is not mine but is a really a good one is \"Keep the simple things simple. Make the complex things possible.\"",
+      "keyPhrase": {
+        "text": "keep the simple things simple",
+        "meaning_ko": "쉬운 것은 쉽게 유지하고, 복잡한 것은 가능하게 만들어라 — 접근성과 확장성을 동시에 추구하는 제품 설계 원칙",
+        "usageTip": "Use this phrase to articulate product design priorities to your team — e.g., 'Our onboarding should keep the simple things simple; new users shouldn't have to configure anything to get started.'",
+        "chips": [
+          "keep",
+          "the",
+          "simple",
+          "things",
+          "simple"
+        ],
+        "distractorChips": [
+          "complicate",
+          "restrict"
+        ]
+      },
+      "context": "Dylan Field is sharing a product design philosophy that guides Figma's approach to building software. The principle draws a clear line between two goals: removing friction for common tasks while not sacrificing power for sophisticated users who need more.",
+      "vocabulary": [],
+      "topics": [
+        "Product Management",
+        "Communication Skills"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "25:46"
+    },
+    {
+      "id": "dylan-field-008",
+      "speakerId": "dylan-field",
+      "sentence": "The faster you get it out, the more feedback you get. That is a positive thing. And now I index on that when we try to build.",
+      "keyPhrase": {
+        "text": "index on",
+        "meaning_ko": "특정 지표나 가치를 의사결정의 기준점으로 삼아 그쪽으로 우선순위를 맞추다",
+        "usageTip": "Use this phrase in team discussions to articulate what metric or value should guide a decision — e.g., 'For this quarter, we're going to index on user retention over new feature launches.'",
+        "chips": [
+          "index",
+          "on"
+        ],
+        "distractorChips": [
+          "ignore",
+          "avoid"
+        ]
+      },
+      "context": "Dylan Field is explaining how his mental model for building products has shifted over time. After recognizing that shipping faster produces more feedback loops, he deliberately orients his decision-making around shipping speed as the primary value to optimize for.",
+      "vocabulary": [],
+      "topics": [
+        "Product Management",
+        "Decision Making"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "27:49"
+    },
+    {
+      "id": "dylan-field-009",
+      "speakerId": "dylan-field",
+      "sentence": "But I think you have to know when you're introducing a new thing, what it's going to take and then to make that minimally awesome product.",
+      "keyPhrase": {
+        "text": "minimally awesome product",
+        "meaning_ko": "'그냥 작동하는 수준'이 아니라, 최소한의 범위 안에서도 사용자가 진심으로 감탄할 만한 경험을 내는 제품. MVP의 'viable'을 'awesome'으로 올린 기준",
+        "usageTip": "Use this phrase during product scoping discussions to push back on cutting too many corners — e.g., 'A minimally awesome product means we can trim scope, but the core experience still has to delight users on day one.'",
+        "chips": [
+          "minimally",
+          "awesome",
+          "product"
+        ],
+        "distractorChips": [
+          "viable",
+          "mediocre"
+        ]
+      },
+      "context": "Dylan Field is challenging the conventional MVP (minimum viable product) concept, arguing that 'viable' is too low a bar for new launches. Instead, he proposes that each new thing shipped must reach a threshold of being truly impressive — not just functional — to earn user trust and adoption.",
+      "vocabulary": [],
+      "topics": [
+        "Product Management",
+        "Starting a Company"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "29:32"
+    },
+    {
+      "id": "dylan-field-010",
+      "speakerId": "dylan-field",
+      "sentence": "So you really have to have a ready mindset and just always be ready to absorb new information, I think.",
+      "keyPhrase": {
+        "text": "have a ready mindset",
+        "meaning_ko": "기존 신념에 집착하지 않고 새로운 정보를 언제든 흡수해 사고를 갱신할 준비가 된 열린 마음가짐을 유지하다",
+        "usageTip": "Use this phrase in leadership or team-culture conversations to describe the attitude required in fast-moving environments — e.g., 'To thrive in this role, you need to have a ready mindset and treat every customer call as new signal.'",
+        "chips": [
+          "have",
+          "a",
+          "ready",
+          "mindset"
+        ],
+        "distractorChips": [
+          "rigid",
+          "fixed"
+        ]
+      },
+      "context": "Dylan Field is offering advice on how to operate effectively in an environment of rapid change, particularly in the early stages of a company. He argues that clinging to existing beliefs is dangerous and that the willingness to update one's thinking continuously is a core leadership skill.",
+      "vocabulary": [],
+      "topics": [
+        "Learning & Growth",
+        "Leadership & Management"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "39:51"
+    }
+  ],
+  "speaker": {
+    "id": "dylan-field",
+    "name": "Dylan Field",
+    "title": "Co-founder & CEO, Figma",
+    "titleHistory": "Co-founder & CEO, Figma",
+    "house": "founder",
+    "epithet": "The Sage of First Principles",
+    "motif": "a glowing venn diagram converging into a crystal, surrounded by feathered hypotheses that solidify into stone",
+    "introLine": "Welcome, seeker. In a world of noise, the wise test their intuitions against reality itself—generating hypotheses, gathering data, stripping away layers until the root truth emerges.",
+    "sealLine": "You have learned to think with clarity and rigor. Go forth and build with both simplicity and care.",
+    "portrait": "/cards/dylan-field.png",
+    "episode": "Dylan Field on Lenny's Podcast",
+    "cardCount": 10
+  }
+}

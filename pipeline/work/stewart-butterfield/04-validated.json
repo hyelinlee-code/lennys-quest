@@ -1,0 +1,424 @@
+{
+  "cards": [
+    {
+      "id": "stewart-butterfield-001",
+      "speakerId": "stewart-butterfield",
+      "sentence": "you can create a real advantage for yourself, for your product, for your company by leaning into it because most people don't have good taste and don't invest.",
+      "keyPhrase": {
+        "text": "lean into",
+        "surface": "leaning into",
+        "meaning_ko": "강점을 더욱 적극적으로 밀어붙이다. 피하지 않고 오히려 깊이 파고들다",
+        "usageTip": "Use this when encouraging a team to double down on a strength or unique quality rather than diluting focus — e.g., 'We should lean into our deep customer relationships instead of chasing feature parity.'",
+        "chips": [
+          "lean",
+          "into"
+        ],
+        "distractorChips": [
+          "push",
+          "step"
+        ]
+      },
+      "context": "Stewart Butterfield is arguing that having good taste in design and product is a rare and undervalued skill. He explains that doubling down on aesthetic quality can become a genuine competitive edge precisely because so few companies bother to invest in it.",
+      "vocabulary": [
+        {
+          "word": "advantage",
+          "meaning": "a condition or circumstance that puts one in a favorable position over others",
+          "synonyms": [
+            "edge",
+            "upper hand"
+          ]
+        }
+      ],
+      "topics": [
+        "Strategy & Planning",
+        "Leadership & Management"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:15:49"
+    },
+    {
+      "id": "stewart-butterfield-002",
+      "speakerId": "stewart-butterfield",
+      "sentence": "You're probably familiar with, again, Jeff Bezos line, your margin is my opportunity and pretty obvious what he meant by that.",
+      "keyPhrase": {
+        "text": "your margin is my opportunity",
+        "meaning_ko": "경쟁자가 폭리를 취하는 곳이 곧 내 진입 기회다. 상대의 배짱 마진이 나의 무기",
+        "usageTip": "Use this in competitive strategy discussions to highlight an incumbents' pricing vulnerability — e.g., when justifying a lower-cost or higher-value go-to-market approach against an established player.",
+        "chips": [
+          "your",
+          "margin",
+          "is",
+          "my",
+          "opportunity"
+        ],
+        "distractorChips": [
+          "loss",
+          "risk"
+        ]
+      },
+      "context": "Stewart Butterfield invokes Jeff Bezos's famous strategic maxim while discussing how incumbents with bloated margins leave themselves vulnerable. The phrase captures a core principle of competitive disruption: where a rival is extracting excessive profit, there is room to undercut them and win customers.",
+      "vocabulary": [
+        {
+          "word": "margin",
+          "meaning": "the difference between the cost of producing something and the price at which it is sold; profit margin",
+          "note": "In this context it refers to profit margin, not page margin or a small difference.",
+          "synonyms": [
+            "profit",
+            "markup"
+          ]
+        }
+      ],
+      "topics": [
+        "Strategy & Planning",
+        "Starting a Company"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:15:49"
+    },
+    {
+      "id": "stewart-butterfield-003",
+      "speakerId": "stewart-butterfield",
+      "sentence": "Shouldn't ascribe to malice that which can be ascribed to ignorance so that probably is the explanation for a tiny, tiny, tiny percentage of people.",
+      "keyPhrase": {
+        "text": "ascribe to malice",
+        "surface": "ascribe to malice that which can be ascribed to ignorance",
+        "meaning_ko": "누군가 해를 끼쳤을 때, 나쁜 의도보다 무지나 실수를 먼저 의심하라. '핸런의 면도날'",
+        "usageTip": "Use this when coaching a team not to assume bad faith in difficult stakeholder or customer situations — it defuses blame and keeps focus on education and process improvement.",
+        "chips": [
+          "ascribe",
+          "to",
+          "malice"
+        ],
+        "distractorChips": [
+          "kindness",
+          "intent"
+        ]
+      },
+      "context": "Stewart Butterfield is addressing how to interpret frustrating or harmful behavior from users or colleagues. He cites this classic principle — often called Hanlon's Razor — to argue that most negative outcomes stem from people not knowing better, not from deliberate ill will.",
+      "vocabulary": [
+        {
+          "word": "ascribe",
+          "meaning": "to attribute something to a particular cause or source",
+          "synonyms": [
+            "attribute",
+            "assign",
+            "chalk up"
+          ]
+        },
+        {
+          "word": "malice",
+          "meaning": "the intention to do evil or cause harm to another person",
+          "synonyms": [
+            "spite",
+            "ill will"
+          ]
+        },
+        {
+          "word": "ignorance",
+          "meaning": "lack of knowledge or awareness about something",
+          "synonyms": [
+            "unawareness",
+            "inexperience"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Communication Skills"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:17:54"
+    },
+    {
+      "id": "stewart-butterfield-004",
+      "speakerId": "stewart-butterfield",
+      "sentence": "but it was, I don't know, I guess tragedy of the commons. It's not quite exactly the same thing, but it was this real dynamic that happened over and over again.",
+      "keyPhrase": {
+        "text": "tragedy of the commons",
+        "meaning_ko": "각자가 합리적으로 행동하는데 그 결과 공유 자원이 망가지는 집단적 딜레마. '공유지의 비극'",
+        "usageTip": "Use this phrase in product, policy, or organizational discussions when a shared resource — bandwidth, team attention, a shared codebase — is being degraded because no single person bears full responsibility for protecting it.",
+        "chips": [
+          "tragedy",
+          "of",
+          "the",
+          "commons"
+        ],
+        "distractorChips": [
+          "triumph",
+          "blessing"
+        ]
+      },
+      "context": "Stewart Butterfield is describing a recurring destructive pattern he observed — where individual actors each behaving rationally in their own interest collectively produced an outcome that was bad for everyone. He reaches for the economic concept 'tragedy of the commons' as the closest analogy, even while acknowledging it's not a perfect fit.",
+      "vocabulary": [
+        {
+          "word": "dynamic",
+          "meaning": "a force or pattern of behavior that shapes how a situation develops over time",
+          "synonyms": [
+            "pattern",
+            "force",
+            "mechanism"
+          ]
+        }
+      ],
+      "topics": [
+        "Strategy & Planning",
+        "Decision Making"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:23:41"
+    },
+    {
+      "id": "stewart-butterfield-005",
+      "speakerId": "stewart-butterfield",
+      "sentence": "And if there is one mantra that I would use to replace that it's, Don't Make Me Think, I don't know if you remember that book.",
+      "keyPhrase": {
+        "text": "don't make me think",
+        "meaning_ko": "사용자가 고민하게 만드는 순간 디자인은 실패다. 인지 부담 없는 경험을 만들라는 UX 원칙",
+        "usageTip": "Use this as a shorthand in design reviews or product critiques to flag any interaction that adds unnecessary cognitive load — e.g., 'This onboarding step violates Don't Make Me Think; let's simplify the choice.'",
+        "chips": [
+          "don't",
+          "make",
+          "me",
+          "think"
+        ],
+        "distractorChips": [
+          "distract",
+          "confuse"
+        ]
+      },
+      "context": "Stewart Butterfield is sharing his core product design philosophy. He references Steve Krug's classic usability book of the same name to articulate a guiding principle: if users have to stop and figure out what to do next, the design has already failed.",
+      "vocabulary": [
+        {
+          "word": "mantra",
+          "meaning": "a statement or slogan repeated frequently to encapsulate a core belief or principle",
+          "synonyms": [
+            "motto",
+            "maxim",
+            "guiding principle"
+          ]
+        }
+      ],
+      "topics": [
+        "Product Management",
+        "Communication Skills"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:36:11"
+    },
+    {
+      "id": "stewart-butterfield-006",
+      "speakerId": "stewart-butterfield",
+      "sentence": "And that maxim, like if you want something done, give it to a busy person. The inverse is also true that like, if you're not that busy, wow, basic things take a really long time.",
+      "keyPhrase": {
+        "text": "give it to a busy person",
+        "meaning_ko": "바쁜 사람일수록 일을 더 잘 처리한다. 여유가 넘치면 오히려 간단한 일도 질질 늘어진다",
+        "usageTip": "Use this to explain why high-performers are often given additional responsibility, or to motivate structured time constraints — e.g., when setting tighter deadlines to prevent scope creep on a low-urgency project.",
+        "chips": [
+          "give",
+          "it",
+          "to",
+          "a",
+          "busy",
+          "person"
+        ],
+        "distractorChips": [
+          "idle",
+          "slow"
+        ]
+      },
+      "context": "Stewart Butterfield is reflecting on the relationship between busyness and execution speed. He invokes this well-known proverb to make the point that high workload sharpens prioritization, and then extends it: when someone lacks that pressure, even simple tasks expand to fill all available time.",
+      "vocabulary": [
+        {
+          "word": "maxim",
+          "meaning": "a short, widely accepted statement expressing a general truth or practical rule",
+          "synonyms": [
+            "adage",
+            "proverb",
+            "saying"
+          ]
+        },
+        {
+          "word": "inverse",
+          "meaning": "the opposite or reverse of something",
+          "synonyms": [
+            "opposite",
+            "converse"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Decision Making"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:54:31"
+    },
+    {
+      "id": "stewart-butterfield-007",
+      "speakerId": "stewart-butterfield",
+      "sentence": "And the reason I say you have to be coldly rational about it is because it's fucking humiliating.",
+      "keyPhrase": {
+        "text": "be coldly rational",
+        "surface": "coldly rational",
+        "meaning_ko": "감정과 자존심을 완전히 걷어내고 냉정한 논리로만 판단하다. 아무리 뼈아파도 숫자 앞에 솔직하다",
+        "usageTip": "Use this when urging a team to make a data-driven call despite emotional attachment — e.g., deprecating a feature users love but metrics show isn't driving retention.",
+        "chips": [
+          "be",
+          "coldly",
+          "rational"
+        ],
+        "distractorChips": [
+          "emotional",
+          "warm"
+        ]
+      },
+      "context": "Stewart Butterfield is discussing the emotional difficulty of pivoting a failing product. He argues that founders must suppress pride and embarrassment and analyze the situation with unsentimental clarity — because letting ego influence the decision leads to staying on a doomed path.",
+      "vocabulary": [
+        {
+          "word": "humiliating",
+          "meaning": "causing a strong feeling of shame or loss of dignity",
+          "synonyms": [
+            "degrading",
+            "embarrassing"
+          ]
+        }
+      ],
+      "topics": [
+        "Decision Making",
+        "Leadership & Management"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:01:20"
+    },
+    {
+      "id": "stewart-butterfield-008",
+      "speakerId": "stewart-butterfield",
+      "sentence": "Obviously in this case, it worked out great and there's survivorship bias and that doesn't mean that everyone should pivot all the time.",
+      "keyPhrase": {
+        "text": "survivorship bias",
+        "meaning_ko": "성공한 사례만 눈에 띄어 그것이 전부인 양 착각하는 오류. 실패한 쪽은 애초에 보이지 않는다. '생존자 편향'",
+        "usageTip": "Use this to challenge pattern-matching on famous success stories — e.g., in strategy meetings when someone argues 'it worked for Airbnb/Slack/Apple, so we should do it too.'",
+        "chips": [
+          "survivorship",
+          "bias"
+        ],
+        "distractorChips": [
+          "selection",
+          "recency"
+        ]
+      },
+      "context": "Stewart Butterfield is cautioning against drawing overly broad lessons from his own successful pivot to Slack. He acknowledges that because his story ended well, it gets heard and celebrated — but the many founders who pivoted and failed are invisible, which makes the strategy look safer than it actually is.",
+      "vocabulary": [
+        {
+          "word": "survivorship",
+          "meaning": "the state of having survived or outlasted others, used here to describe those whose stories are visible precisely because they succeeded",
+          "note": "'Survivorship bias' is a well-established term in statistics and business; learn it as a fixed phrase."
+        },
+        {
+          "word": "pivot",
+          "meaning": "to shift a startup's product, business model, or strategy based on new information or failure of the current approach",
+          "synonyms": [
+            "shift",
+            "redirect",
+            "change course"
+          ]
+        }
+      ],
+      "topics": [
+        "Decision Making",
+        "Strategy & Planning"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "01:16:46"
+    },
+    {
+      "id": "stewart-butterfield-009",
+      "speakerId": "stewart-butterfield",
+      "sentence": "You're not just responsible for creating the product, but also, to a certain degree, creating the market.",
+      "keyPhrase": {
+        "text": "create the market",
+        "surface": "creating the market",
+        "meaning_ko": "제품만 만드는 것이 아니라 그 제품이 필요한 시장 자체를 새로 만들어내다",
+        "usageTip": "Use this when discussing go-to-market strategy for a category-defining product — it signals that the challenge is not just selling but shaping how buyers think about and describe their own need.",
+        "chips": [
+          "create",
+          "the",
+          "market"
+        ],
+        "distractorChips": [
+          "corner",
+          "serve"
+        ]
+      },
+      "context": "Stewart Butterfield is reflecting on what it takes to launch a genuinely new type of product — something like Slack, which had no obvious predecessor. He observes that the work of a founder extends beyond building the product itself to educating potential customers that the category exists and why they need it.",
+      "vocabulary": [],
+      "topics": [
+        "Starting a Company",
+        "Growth & Marketing"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "01:10:28"
+    },
+    {
+      "id": "stewart-butterfield-010",
+      "speakerId": "stewart-butterfield",
+      "sentence": "And you could put effort into pointing it out to them and demonstrating that you have created this value and stuff like that, but there's no substitute for actually having created it.",
+      "keyPhrase": {
+        "text": "no substitute for",
+        "meaning_ko": "말과 포장으로는 결코 대신할 수 없다. 실제로 해낸 것만이 진짜 증거다",
+        "usageTip": "Use this to emphasize that execution or direct experience cannot be replaced by talking about it — e.g., 'There's no substitute for getting on a call with ten customers before designing the feature.'",
+        "chips": [
+          "no",
+          "substitute",
+          "for"
+        ],
+        "distractorChips": [
+          "shortcut",
+          "workaround"
+        ]
+      },
+      "context": "Stewart Butterfield is talking about the relationship between founders and investors during fundraising. He is making the point that storytelling and framing can help, but ultimately investors respond to real, demonstrable value — and no amount of narrative skill can substitute for having actually built something meaningful.",
+      "vocabulary": [
+        {
+          "word": "substitute",
+          "meaning": "a person or thing that takes the place of another; a replacement",
+          "synonyms": [
+            "replacement",
+            "alternative",
+            "stand-in"
+          ]
+        }
+      ],
+      "topics": [
+        "Communication Skills",
+        "Fundraising"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "01:22:48"
+    }
+  ],
+  "speaker": {
+    "id": "stewart-butterfield",
+    "name": "Stewart Butterfield",
+    "title": "Co-founder, Slack & Flickr",
+    "titleHistory": "Co-founder, Slack & Flickr",
+    "house": "founder",
+    "epithet": "The Architect Sage",
+    "motif": "a glowing blueprint with an iris aperture sigil, representing design vision and the framing of human experience",
+    "introLine": "I have learned that taste and intention, applied with patience and rigor, shape not only products but the markets they will inhabit.",
+    "sealLine": "Go now and build with clarity of purpose—for in a world of noise, simplicity itself becomes a form of magic.",
+    "portrait": "/cards/stewart-butterfield.png",
+    "episode": "Stewart Butterfield on Lenny's Podcast",
+    "cardCount": 10
+  }
+}

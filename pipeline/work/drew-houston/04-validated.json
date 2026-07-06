@@ -1,0 +1,401 @@
+{
+  "cards": [
+    {
+      "id": "drew-houston-001",
+      "speakerId": "drew-houston",
+      "sentence": "some of the most memorable things were the moments where Dropbox really felt like it was taking on a life of its own",
+      "keyPhrase": {
+        "text": "take on a life of its own",
+        "surface": "taking on a life of its own",
+        "meaning_ko": "만든 사람의 손을 떠나 스스로 자라고 퍼져나가다",
+        "usageTip": "Use this when a project, campaign, or community has grown far beyond its original scope and is now driven by its own momentum rather than deliberate effort.",
+        "chips": [
+          "take",
+          "on",
+          "a",
+          "life",
+          "of",
+          "its",
+          "own"
+        ],
+        "distractorChips": [
+          "grow",
+          "develop"
+        ]
+      },
+      "context": "Drew Houston is reflecting on the most memorable moments in Dropbox's early growth. He describes the feeling of watching the product spread organically — beyond what the team had deliberately engineered — as one of the most exciting experiences of building the company.",
+      "vocabulary": [
+        {
+          "word": "memorable",
+          "meaning": "worth remembering; making a strong and lasting impression",
+          "synonyms": [
+            "unforgettable",
+            "remarkable"
+          ]
+        }
+      ],
+      "topics": [
+        "Starting a Company",
+        "Growth & Marketing"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:07:14"
+    },
+    {
+      "id": "drew-houston-002",
+      "speakerId": "drew-houston",
+      "sentence": "It sort of worked backwards from thinking about, \"What does Paul Graham do all day?\" And my hypothesis was that he just hits refresh on Hacker News like everyone else.",
+      "keyPhrase": {
+        "text": "work backwards from",
+        "surface": "worked backwards from",
+        "meaning_ko": "원하는 결과나 대상에서 출발해 거꾸로 전략을 짜다",
+        "usageTip": "Use this in product or strategy meetings when you begin with the end user's behavior or the desired result and design your approach from there.",
+        "chips": [
+          "work",
+          "backwards",
+          "from"
+        ],
+        "distractorChips": [
+          "forward",
+          "ahead"
+        ]
+      },
+      "context": "Drew Houston is describing his early marketing strategy for Dropbox, explaining how he identified where his target early adopters — technical founders and developers — spent their time online. By first understanding that audience's habits, he reasoned backward to figure out where to place Dropbox's initial launch content.",
+      "vocabulary": [
+        {
+          "word": "hypothesis",
+          "meaning": "a proposed explanation or assumption made as a starting point for further investigation",
+          "synonyms": [
+            "assumption",
+            "theory"
+          ]
+        }
+      ],
+      "topics": [
+        "Strategy & Planning",
+        "Product Management"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:07:14"
+    },
+    {
+      "id": "drew-houston-003",
+      "speakerId": "drew-houston",
+      "sentence": "When, later, I would learn it's more of a boa constrictor. But the end of that first chapter really culminated in us recognizing",
+      "keyPhrase": {
+        "text": "boa constrictor",
+        "meaning_ko": "당장은 느슨해 보여도 서서히 죄어오다 결국 숨통을 끊는 위협. '보아뱀형 경쟁자'",
+        "usageTip": "Use this in strategic discussions to warn about a competitor or market force that seems manageable today but will slowly and inevitably constrain your options if left unaddressed.",
+        "chips": [
+          "boa",
+          "constrictor"
+        ],
+        "distractorChips": [
+          "predator",
+          "python"
+        ]
+      },
+      "context": "Drew Houston is describing the nature of a major competitive or strategic threat that Dropbox faced early on. He uses the boa constrictor as a metaphor to contrast with something that seemed minor at first — explaining that the real danger was not a sudden attack but a slow, inevitable squeeze that tightened over time.",
+      "vocabulary": [
+        {
+          "word": "culminated",
+          "meaning": "reached the highest point or final result after a period of development",
+          "synonyms": [
+            "concluded",
+            "peaked"
+          ]
+        }
+      ],
+      "topics": [
+        "Strategy & Planning",
+        "Decision Making"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:16:06"
+    },
+    {
+      "id": "drew-houston-004",
+      "speakerId": "drew-houston",
+      "sentence": "And so they just totally nuked our business model in ways that were bad enough in terms of just their obvious impact, but even worse because it was so easily anticipated.",
+      "keyPhrase": {
+        "text": "nuke a business model",
+        "surface": "nuked our business model",
+        "meaning_ko": "경쟁사의 한 방으로 비즈니스 모델 자체를 날려버리다",
+        "usageTip": "Use this informally in founder or executive conversations to describe a competitive action — such as a platform bundling your product for free — that renders your existing pricing or go-to-market strategy unworkable overnight.",
+        "chips": [
+          "nuke",
+          "a",
+          "business",
+          "model"
+        ],
+        "distractorChips": [
+          "damaged",
+          "disrupted"
+        ]
+      },
+      "context": "Drew Houston is recounting a period when a major competitor — likely a large tech platform — made a move that fundamentally undermined the way Dropbox was making money. He emphasizes that the damage was compounded by the fact that the threat had been foreseeable, making the failure to prepare all the more painful.",
+      "vocabulary": [
+        {
+          "word": "anticipated",
+          "meaning": "expected or predicted in advance",
+          "synonyms": [
+            "foreseen",
+            "predicted"
+          ]
+        }
+      ],
+      "topics": [
+        "Strategy & Planning",
+        "Starting a Company"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:20:24"
+    },
+    {
+      "id": "drew-houston-005",
+      "speakerId": "drew-houston",
+      "sentence": "a lot of our wounds were self-inflicted in that we were struggling to keep scaling and launching all these products.",
+      "keyPhrase": {
+        "text": "self-inflicted wound",
+        "surface": "self-inflicted",
+        "meaning_ko": "외부 요인이 아닌 자신의 판단 실수로 스스로 자초한 피해",
+        "usageTip": "Use this in post-mortems or leadership retrospectives to own up to failures that stemmed from internal decisions — spreading too thin, poor prioritization, or premature scaling — rather than market conditions.",
+        "chips": [
+          "self-inflicted",
+          "wound"
+        ],
+        "distractorChips": [
+          "external",
+          "accidental"
+        ]
+      },
+      "context": "Drew Houston is reflecting on a turbulent phase at Dropbox when the company was overextending by trying to scale multiple product lines simultaneously. He acknowledges that many of the company's setbacks during this period were not caused by external forces but by the team's own strategic choices.",
+      "vocabulary": [
+        {
+          "word": "scaling",
+          "meaning": "growing a business's operations, revenue, or user base at an accelerating rate",
+          "synonyms": [
+            "expanding",
+            "growing"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Decision Making"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:32:24"
+    },
+    {
+      "id": "drew-houston-006",
+      "speakerId": "drew-houston",
+      "sentence": "It's like, well, basically the root causes of being on the treadmills, I was too busy firing to aim, and then I thought I would do my aiming on vacations and things like that.",
+      "keyPhrase": {
+        "text": "too busy firing to aim",
+        "meaning_ko": "실행에만 치여 정작 방향이 맞는지 멈춰 생각할 틈도 없는 상태",
+        "usageTip": "Use this in leadership or coaching conversations to describe — or call out — a pattern of relentless busyness that substitutes activity for strategic thinking.",
+        "chips": [
+          "too",
+          "busy",
+          "firing",
+          "to",
+          "aim"
+        ],
+        "distractorChips": [
+          "shooting",
+          "missing"
+        ]
+      },
+      "context": "Drew Houston is diagnosing the personal leadership trap he found himself in as Dropbox scaled rapidly. He describes a pattern of being perpetually stuck in reactive, operational mode — always executing without ever carving out time to reflect on whether the company's direction was correct.",
+      "vocabulary": [
+        {
+          "word": "treadmills",
+          "meaning": "a metaphor for relentless, exhausting work that produces little forward progress",
+          "note": "Used figuratively here to describe being stuck in an endless operational cycle",
+          "synonyms": [
+            "grind",
+            "hamster wheel"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Decision Making"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "00:40:35"
+    },
+    {
+      "id": "drew-houston-007",
+      "speakerId": "drew-houston",
+      "sentence": "Or as Mark Twain put it, \"Put all your eggs in one basket, and watch that basket.\" And I was like, \"All right.",
+      "keyPhrase": {
+        "text": "put all your eggs in one basket",
+        "meaning_ko": "분산하지 않고 한 곳에 모든 자원을 집중적으로 쏟아붓다",
+        "usageTip": "Use this when arguing for deep focus over diversification in a product, investment, or career strategy discussion — especially when paired with the commitment to watch that basket closely.",
+        "chips": [
+          "put",
+          "all",
+          "your",
+          "eggs",
+          "in",
+          "one",
+          "basket"
+        ],
+        "distractorChips": [
+          "spread",
+          "scatter"
+        ]
+      },
+      "context": "Drew Houston is recounting a pivotal strategic decision to focus Dropbox's resources on a single core product rather than diversifying. He invokes this well-known Mark Twain maxim — which reframes conventional wisdom about diversification — to explain the philosophy that ultimately justified Dropbox's concentrated bet.",
+      "vocabulary": [],
+      "topics": [
+        "Strategy & Planning",
+        "Decision Making"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:26:10"
+    },
+    {
+      "id": "drew-houston-008",
+      "speakerId": "drew-houston",
+      "sentence": "most of the entrepreneurs that are my heroes had various periods of wandering in the desert. Those things instead of just being problems were probably the crucible that forged the people that they became.",
+      "keyPhrase": {
+        "text": "wander in the desert",
+        "surface": "wandering in the desert",
+        "meaning_ko": "성공 전에 방향도 빛도 보이지 않는 긴 혼돈의 시간을 헤매다",
+        "usageTip": "Use this when mentoring founders or teams who are going through a difficult, directionless stretch — to reframe the struggle as a necessary part of the journey rather than a sign of failure.",
+        "chips": [
+          "wander",
+          "in",
+          "the",
+          "desert"
+        ],
+        "distractorChips": [
+          "struggle",
+          "journey"
+        ]
+      },
+      "context": "Drew Houston is reframing the difficult mid-stage of building a company — when things feel unclear and progress stalls — by drawing on the life stories of the founders he most admires. He argues that these disorienting periods are not detours from the path to success but formative experiences that shape the character and judgment of great entrepreneurs.",
+      "vocabulary": [
+        {
+          "word": "crucible",
+          "meaning": "a severe test or trial that forces a transformation in those who endure it",
+          "note": "Originally a heat-resistant vessel used to melt metals; used figuratively for formative hardship",
+          "synonyms": [
+            "trial",
+            "ordeal"
+          ]
+        },
+        {
+          "word": "forged",
+          "meaning": "shaped or formed through intense pressure or hardship",
+          "synonyms": [
+            "shaped",
+            "tempered"
+          ]
+        }
+      ],
+      "topics": [
+        "Learning & Growth",
+        "Starting a Company"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:34:42"
+    },
+    {
+      "id": "drew-houston-009",
+      "speakerId": "drew-houston",
+      "sentence": "the single most useful, or at least important to me piece of advice I could give is you have to figure out how to keep your personal growth curve ahead of the company's growth curve.",
+      "keyPhrase": {
+        "text": "keep one's personal growth curve ahead of",
+        "surface": "keep your personal growth curve ahead of the company's growth curve",
+        "meaning_ko": "회사가 크는 속도보다 리더 본인의 성장 속도가 앞서도록 유지하다",
+        "usageTip": "Use this with founders or executives to articulate the imperative of investing in their own development — through coaching, reading, or deliberate reflection — not as a luxury but as a competitive necessity for the company.",
+        "chips": [
+          "keep",
+          "one's",
+          "personal",
+          "growth",
+          "curve",
+          "ahead",
+          "of"
+        ],
+        "distractorChips": [
+          "plateau",
+          "stagnate"
+        ]
+      },
+      "context": "Drew Houston is distilling his most hard-won lesson from scaling Dropbox into one of the world's largest SaaS companies. He argues that the single most important challenge for any founder is ensuring that their own rate of personal development — in leadership, judgment, and self-awareness — outpaces the speed at which the business is scaling.",
+      "vocabulary": [
+        {
+          "word": "curve",
+          "meaning": "a trajectory of growth or change plotted over time, often used in business to describe rates of improvement",
+          "synonyms": [
+            "trajectory",
+            "arc"
+          ]
+        }
+      ],
+      "topics": [
+        "Leadership & Management",
+        "Learning & Growth"
+      ],
+      "difficulty": "advanced",
+      "rarity": "rare",
+      "timestamp": "01:34:10"
+    },
+    {
+      "id": "drew-houston-010",
+      "speakerId": "drew-houston",
+      "sentence": "I think an important part of being a founder is learning to run towards that feeling not away from it.",
+      "keyPhrase": {
+        "text": "run towards discomfort",
+        "surface": "run towards that feeling not away from it",
+        "meaning_ko": "불편하고 두려운 상황일수록 피하지 않고 정면으로 뛰어들다",
+        "usageTip": "Use this in leadership coaching or founder discussions to challenge someone who is procrastinating on a hard conversation, a strategic pivot, or any decision they have been avoiding because it feels risky or uncomfortable.",
+        "chips": [
+          "run",
+          "towards",
+          "discomfort"
+        ],
+        "distractorChips": [
+          "flee",
+          "retreat"
+        ]
+      },
+      "context": "Drew Houston is offering advice on the mindset required to be an effective founder. He argues that the instinct to avoid uncomfortable situations — difficult conversations, uncertain decisions, or personal blind spots — is one of the biggest obstacles to growth, and that the best founders train themselves to deliberately move toward that discomfort.",
+      "vocabulary": [],
+      "topics": [
+        "Learning & Growth",
+        "Leadership & Management"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "01:38:23"
+    }
+  ],
+  "speaker": {
+    "id": "drew-houston",
+    "name": "Drew Houston",
+    "title": "Co-founder & CEO, Dropbox",
+    "titleHistory": "Co-founder & CEO, Dropbox",
+    "house": "founder",
+    "epithet": "The Visionary Sage",
+    "motif": "a glowing compass spinning between a desert and a fortress, with a growth spiral winding upward",
+    "introLine": "Greetings, apprentice. I have built empires by learning to grow faster than the companies I lead—run toward the discomfort that shapes you.",
+    "sealLine": "You have glimpsed the path: focus your vision, endure the desert, and keep your spirit's ascent ahead of all else.",
+    "portrait": "/cards/drew-houston.png",
+    "episode": "Drew Houston on Lenny's Podcast",
+    "cardCount": 10
+  }
+}
