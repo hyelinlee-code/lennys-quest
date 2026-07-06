@@ -14,16 +14,16 @@
     "cardCount": 9,
     "overlayZones": {
       "banner": {
-        "left": 22,
-        "right": 22,
+        "left": 22.0,
+        "right": 22.0,
         "top": 6.3,
         "height": 5.6
       },
       "scroll": {
-        "left": 18,
-        "right": 18,
-        "top": 86,
-        "height": 8
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
       }
     },
     "youtubeId": "qImgGtnNbx0"
@@ -43,14 +43,14 @@
     "cardCount": 10,
     "overlayZones": {
       "banner": {
-        "left": 21,
-        "right": 21,
+        "left": 21.0,
+        "right": 21.0,
         "top": 6.2,
-        "height": 6
+        "height": 6.0
       },
       "scroll": {
-        "left": 17,
-        "right": 17,
+        "left": 17.0,
+        "right": 17.0,
         "top": 85.5,
         "height": 8.5
       }
@@ -72,16 +72,16 @@
     "cardCount": 10,
     "overlayZones": {
       "banner": {
-        "left": 22,
-        "right": 22,
+        "left": 22.0,
+        "right": 22.0,
         "top": 6.3,
         "height": 5.6
       },
       "scroll": {
-        "left": 18,
-        "right": 18,
-        "top": 86,
-        "height": 8
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
       }
     },
     "youtubeId": "4ef0juAMqoE"
@@ -101,16 +101,16 @@
     "cardCount": 10,
     "overlayZones": {
       "banner": {
-        "left": 22,
-        "right": 22,
+        "left": 22.0,
+        "right": 22.0,
         "top": 6.3,
         "height": 5.6
       },
       "scroll": {
-        "left": 18,
-        "right": 18,
-        "top": 86,
-        "height": 8
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
       }
     },
     "youtubeId": "egdYKLBswgk"
@@ -130,16 +130,16 @@
     "cardCount": 10,
     "overlayZones": {
       "banner": {
-        "left": 22,
-        "right": 22,
+        "left": 22.0,
+        "right": 22.0,
         "top": 6.3,
         "height": 5.6
       },
       "scroll": {
-        "left": 18,
-        "right": 18,
-        "top": 86,
-        "height": 8
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
       }
     },
     "youtubeId": "yJQYBjto41s"
@@ -159,16 +159,16 @@
     "cardCount": 10,
     "overlayZones": {
       "banner": {
-        "left": 22,
-        "right": 22,
+        "left": 22.0,
+        "right": 22.0,
         "top": 6.3,
         "height": 5.6
       },
       "scroll": {
-        "left": 18,
-        "right": 18,
-        "top": 86,
-        "height": 8
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
       }
     },
     "youtubeId": "tq6vdDJQXvs"
@@ -188,16 +188,16 @@
     "cardCount": 10,
     "overlayZones": {
       "banner": {
-        "left": 22,
-        "right": 22,
+        "left": 22.0,
+        "right": 22.0,
         "top": 6.3,
         "height": 5.6
       },
       "scroll": {
-        "left": 18,
-        "right": 18,
-        "top": 86,
-        "height": 8
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
       }
     },
     "youtubeId": "-LywX3T5Scc"
@@ -217,16 +217,16 @@
     "cardCount": 10,
     "overlayZones": {
       "banner": {
-        "left": 22,
-        "right": 22,
+        "left": 22.0,
+        "right": 22.0,
         "top": 6.3,
         "height": 5.6
       },
       "scroll": {
-        "left": 18,
-        "right": 18,
-        "top": 86,
-        "height": 8
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
       }
     },
     "youtubeId": "kLe-zy5r0Mk"
@@ -248,14 +248,14 @@
       "banner": {
         "left": 21.5,
         "right": 21.5,
-        "top": 6,
+        "top": 6.0,
         "height": 5.8
       },
       "scroll": {
-        "left": 18,
-        "right": 18,
-        "top": 86,
-        "height": 8
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
       }
     },
     "youtubeId": "KPxTekxQjzc"
@@ -277,14 +277,14 @@
       "banner": {
         "left": 21.5,
         "right": 21.5,
-        "top": 6,
+        "top": 6.0,
         "height": 5.8
       },
       "scroll": {
-        "left": 18,
-        "right": 18,
-        "top": 86,
-        "height": 8
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
       }
     },
     "youtubeId": "H9g4pzcz6Tk"
@@ -306,14 +306,14 @@
       "banner": {
         "left": 21.5,
         "right": 21.5,
-        "top": 6,
+        "top": 6.0,
         "height": 5.8
       },
       "scroll": {
-        "left": 18,
-        "right": 18,
-        "top": 86,
-        "height": 8
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
       }
     },
     "youtubeId": "h9o6gPQA6LA"
@@ -333,14 +333,14 @@
     "cardCount": 10,
     "overlayZones": {
       "banner": {
-        "left": 21,
-        "right": 21,
+        "left": 21.0,
+        "right": 21.0,
         "top": 6.2,
-        "height": 6
+        "height": 6.0
       },
       "scroll": {
-        "left": 17,
-        "right": 17,
+        "left": 17.0,
+        "right": 17.0,
         "top": 85.5,
         "height": 8.5
       }
@@ -362,14 +362,14 @@
     "cardCount": 10,
     "overlayZones": {
       "banner": {
-        "left": 21,
-        "right": 21,
+        "left": 21.0,
+        "right": 21.0,
         "top": 6.2,
-        "height": 6
+        "height": 6.0
       },
       "scroll": {
-        "left": 17,
-        "right": 17,
+        "left": 17.0,
+        "right": 17.0,
         "top": 85.5,
         "height": 8.5
       }
@@ -391,18 +391,308 @@
     "cardCount": 8,
     "overlayZones": {
       "banner": {
-        "left": 21,
-        "right": 21,
+        "left": 21.0,
+        "right": 21.0,
         "top": 6.2,
-        "height": 6
+        "height": 6.0
       },
       "scroll": {
-        "left": 17,
-        "right": 17,
+        "left": 17.0,
+        "right": 17.0,
         "top": 85.5,
         "height": 8.5
       }
     },
     "youtubeId": "Mv0o9o4MRh0"
+  },
+  {
+    "id": "marc-benioff",
+    "name": "Marc Benioff",
+    "title": "Co-founder & CEO, Salesforce",
+    "titleHistory": "Co-founder & CEO of Salesforce",
+    "house": "founder",
+    "epithet": "The Sage of Agile Conquest",
+    "motif": "a spinning mandala overlaid with interlocking gears, each rotating at different speeds yet creating harmonious motion",
+    "introLine": "Welcome, seeker. I have built mountains from dreams, and I have razed them down again. Through meditation and chaos alike, I learned that the true art is orchestrating the whole symphony—knowing when to throw boldly and when to listen deeply to what sticks.",
+    "sealLine": "Remember: the entrepreneurial path is never a perfect line upward, but a rock-and-roll journey. Master the beginner's mind, and you will turn each tactic into timeless strategy.",
+    "portrait": "/cards/marc-benioff.png",
+    "episode": "Marc Benioff on Lenny's Podcast",
+    "cardCount": 10,
+    "youtubeId": "tOGK1nlHdFo",
+    "overlayZones": {
+      "banner": {
+        "left": 22.0,
+        "right": 22.0,
+        "top": 6.3,
+        "height": 5.6
+      },
+      "scroll": {
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
+      }
+    }
+  },
+  {
+    "id": "dharmesh-shah",
+    "name": "Dharmesh Shah",
+    "title": "Co-founder & CTO, HubSpot",
+    "titleHistory": "Co-founder & CTO, HubSpot",
+    "house": "founder",
+    "epithet": "The Builder's Sage",
+    "motif": "a glowing blueprint intertwined with a sprouting seed, casting both clarity and growth",
+    "introLine": "The truest magic lies not in what you build, but in how you build it—culture is the foundation upon which empires of simplicity are raised.",
+    "sealLine": "Go forth knowing that every high-conviction bet, every refusal to love the wrong problem, and every culture you nurture becomes a self-fulfilling prophecy of your own making.",
+    "portrait": "/cards/dharmesh-shah.png",
+    "episode": "Dharmesh Shah on Lenny's Podcast",
+    "cardCount": 10,
+    "youtubeId": "NPTbdmXrG2k",
+    "overlayZones": {
+      "banner": {
+        "left": 22.0,
+        "right": 22.0,
+        "top": 6.3,
+        "height": 5.6
+      },
+      "scroll": {
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
+      }
+    }
+  },
+  {
+    "id": "amjad-masad",
+    "name": "Amjad Masad",
+    "title": "Co-founder & CEO, Replit",
+    "titleHistory": "Co-founder & CEO of Replit",
+    "house": "founder",
+    "epithet": "The Sage of Activation",
+    "motif": "a glowing infinity symbol intertwined with cascading code blocks",
+    "introLine": "I have learned that the true art of creation lies not in talent alone, but in the activation energy you provide—lower the barriers, and a thousand builders will emerge.",
+    "sealLine": "Remember: the compounding effect of access will reshape what humanity can build.",
+    "portrait": "/cards/amjad-masad.png",
+    "episode": "Amjad Masad on Lenny's Podcast",
+    "cardCount": 10,
+    "youtubeId": "Bp_h674oIhw",
+    "overlayZones": {
+      "banner": {
+        "left": 22.0,
+        "right": 22.0,
+        "top": 6.3,
+        "height": 5.6
+      },
+      "scroll": {
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
+      }
+    }
+  },
+  {
+    "id": "mike-krieger",
+    "name": "Mike Krieger",
+    "title": "Co-founder, Instagram; CPO, Anthropic",
+    "titleHistory": "Co-founder of Instagram · Chief Product Officer, Anthropic",
+    "house": "founder",
+    "epithet": "The Sage of Velocity",
+    "motif": "a glowing infinity loop intertwining with a camera lens, crackling with electric energy",
+    "introLine": "When chaos threatens to overwhelm the builder, it is not process alone that saves the work—it is the courage to remake the very foundation while the tower still stands.",
+    "sealLine": "May you recognize the lightning when it arrives, and have the clarity to ride it before others see the storm.",
+    "portrait": "/cards/mike-krieger.png",
+    "episode": "Mike Krieger on Lenny's Podcast",
+    "cardCount": 8,
+    "youtubeId": "DKrBGOFs0GY",
+    "overlayZones": {
+      "banner": {
+        "left": 22.0,
+        "right": 22.0,
+        "top": 6.3,
+        "height": 5.6
+      },
+      "scroll": {
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
+      }
+    }
+  },
+  {
+    "id": "sam-lessin",
+    "name": "Sam Lessin",
+    "title": "General Partner, Slow Ventures",
+    "titleHistory": "VP of Product at Facebook · Two-time founder · General Partner, Slow Ventures",
+    "house": "investor",
+    "epithet": "The Sage of Social Capital",
+    "motif": "a slowburning lantern and an open palm sigil",
+    "introLine": "Every room you enter is a negotiation — the question is whether you know it.",
+    "sealLine": "Go forth with a low heart rate, and the room will come to you.",
+    "portrait": "/cards/sam-lessin.png",
+    "episode": "Sam Lessin on Lenny's Podcast",
+    "cardCount": 10,
+    "youtubeId": "KtKJ3A6DWTs",
+    "overlayZones": {
+      "banner": {
+        "left": 21.5,
+        "right": 21.5,
+        "top": 6.0,
+        "height": 5.8
+      },
+      "scroll": {
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
+      }
+    }
+  },
+  {
+    "id": "andrew-wilkinson",
+    "name": "Andrew Wilkinson",
+    "title": "Co-founder, Tiny",
+    "titleHistory": "Co-founder of Tiny · Investor · Builder of bootstrapped companies",
+    "house": "investor",
+    "epithet": "The Sage of Bootstrapped Empires",
+    "motif": "a compass needle pointing inward and a fortress built from coin and conviction",
+    "introLine": "Those who master the art of building without outside voices will shape empires that move to their own rhythm.",
+    "sealLine": "Remember: the freedom to build is won not by raising capital, but by choosing focus over chasing every glimmer.",
+    "portrait": "/cards/andrew-wilkinson.png",
+    "episode": "Andrew Wilkinson on Lenny's Podcast",
+    "cardCount": 9,
+    "youtubeId": "VxAwUb86MUE",
+    "overlayZones": {
+      "banner": {
+        "left": 21.5,
+        "right": 21.5,
+        "top": 6.0,
+        "height": 5.8
+      },
+      "scroll": {
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
+      }
+    }
+  },
+  {
+    "id": "scott-belsky",
+    "name": "Scott Belsky",
+    "title": "Founder of Behance, former Adobe CPO, investor",
+    "titleHistory": "Founder of Behance · Former Chief Product Officer at Adobe · Investor",
+    "house": "investor",
+    "epithet": "The Sage of Design Intent",
+    "motif": "a glowing design grid with a spark igniting at its center, radiating outward into flowing brushstrokes",
+    "introLine": "Design is not merely decoration—it is the bridge between vision and action, and those who master this craft shape markets.",
+    "sealLine": "You have learned that true product leadership flows from empowering design as a strategic force, not an afterthought.",
+    "portrait": "/cards/scott-belsky.png",
+    "episode": "Scott Belsky on Lenny's Podcast",
+    "cardCount": 10,
+    "youtubeId": "HCKosdV1J-8",
+    "overlayZones": {
+      "banner": {
+        "left": 21.5,
+        "right": 21.5,
+        "top": 6.0,
+        "height": 5.8
+      },
+      "scroll": {
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
+      }
+    }
+  },
+  {
+    "id": "seth-godin",
+    "name": "Seth Godin",
+    "title": "Author, founder of altMBA",
+    "titleHistory": "Author and founder of altMBA · Pioneering voice on marketing and product design",
+    "house": "operator",
+    "epithet": "The Sage of Resonance",
+    "motif": "a quill inscribing a ripple through water, surrounded by a brand-mark sigil",
+    "introLine": "Welcome, apprentice. In a world of noise, those who craft something the world didn't expect—yet is glad to see—become the makers of meaning.",
+    "sealLine": "You have learned the art of bringing something true into the world. Go forth, and let your work be of service.",
+    "portrait": "/cards/seth-godin.png",
+    "episode": "Seth Godin on Lenny's Podcast",
+    "cardCount": 10,
+    "youtubeId": "UyWTDmDjNy4",
+    "overlayZones": {
+      "banner": {
+        "left": 21.0,
+        "right": 21.0,
+        "top": 6.2,
+        "height": 6.0
+      },
+      "scroll": {
+        "left": 17.0,
+        "right": 17.0,
+        "top": 85.5,
+        "height": 8.5
+      }
+    }
+  },
+  {
+    "id": "naomi-gleit",
+    "name": "Naomi Gleit",
+    "title": "Head of Product, Meta",
+    "titleHistory": "Head of Product, Meta · Early employee (employee #29)",
+    "house": "operator",
+    "epithet": "The Sage of Alignment",
+    "motif": "a compass rose glowing with interconnected threads, binding disparate paths into one true direction",
+    "introLine": "Greetings, young scholar. In my years building the largest platforms on earth, I learned that most struggles are not of strategy, but of clarity—when teams speak past each other, the mightiest vision crumbles.",
+    "sealLine": "You have studied the art of unity and truth-telling. May you lead with the courage to stand into your fear, and the wisdom to know when your organization has truly begun to speak as one.",
+    "portrait": "/cards/naomi-gleit.png",
+    "episode": "Naomi Gleit on Lenny's Podcast",
+    "cardCount": 10,
+    "youtubeId": "sTYuKgzZoL8",
+    "overlayZones": {
+      "banner": {
+        "left": 21.0,
+        "right": 21.0,
+        "top": 6.2,
+        "height": 6.0
+      },
+      "scroll": {
+        "left": 17.0,
+        "right": 17.0,
+        "top": 85.5,
+        "height": 8.5
+      }
+    }
+  },
+  {
+    "id": "elena-verna",
+    "name": "Elena Verna",
+    "title": "Head of Growth, Lovable",
+    "titleHistory": "Head of Growth at Lovable · Former growth leader at Dropbox, Amplitude, and SurveyMonkey",
+    "house": "operator",
+    "epithet": "The Sage of Growth",
+    "motif": "a rising tide within an hourglass, with golden channels of momentum flowing outward",
+    "introLine": "Growth is the art of turning friction into momentum—expose possibility, remove barriers, and watch the river flow where it wishes to go.",
+    "sealLine": "You have learned that growth lives not in the hustle, but in the clarity born from chaos and the discipline to keep the signal steady.",
+    "portrait": "/cards/elena-verna.png",
+    "episode": "Elena Verna on Lenny's Podcast",
+    "cardCount": 10,
+    "youtubeId": "6qAB6aUMIeA",
+    "overlayZones": {
+      "banner": {
+        "left": 21.0,
+        "right": 21.0,
+        "top": 6.2,
+        "height": 6.0
+      },
+      "scroll": {
+        "left": 17.0,
+        "right": 17.0,
+        "top": 85.5,
+        "height": 8.5
+      }
+    }
   }
 ]

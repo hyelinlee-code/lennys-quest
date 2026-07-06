@@ -5169,5 +5169,3546 @@
     "difficulty": "intermediate",
     "rarity": "rare",
     "timestamp": "01:07:20"
+  },
+  {
+    "id": "marc-benioff-001",
+    "speakerId": "marc-benioff",
+    "sentence": "I'm throwing everything against the wall. I'm looking at what's going to stick. I am looking to try to find the winning tactic and turn it into a winning strategy.",
+    "keyPhrase": {
+      "text": "throw everything against the wall",
+      "surface": "throwing everything against the wall",
+      "meaning_ko": "될 때까지 닥치는 대로 다 시도해 보다. '안 되면 말고' 식으로 여러 방법을 동시에 던져보는 것",
+      "usageTip": "Use this phrase when describing a rapid, multi-pronged approach to a launch, campaign, or sales push where the team hasn't yet identified the single winning method.",
+      "chips": [
+        "throw",
+        "everything",
+        "against",
+        "the",
+        "wall"
+      ],
+      "distractorChips": [
+        "something",
+        "sticky"
+      ]
+    },
+    "context": "Marc Benioff is describing his aggressive, experimental go-to-market approach when launching Agentforce — Salesforce's AI agent platform. Rather than committing to a single strategy upfront, he tests many tactics simultaneously to discover what resonates with customers.",
+    "vocabulary": [
+      {
+        "word": "tactic",
+        "meaning": "a specific action or method used to achieve a short-term goal",
+        "note": "Distinguished from 'strategy,' which is the broader plan; tactics are the individual moves within that plan.",
+        "synonyms": [
+          "maneuver",
+          "technique"
+        ]
+      }
+    ],
+    "topics": [
+      "Strategy & Planning",
+      "Growth & Marketing"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "00:09"
+  },
+  {
+    "id": "marc-benioff-002",
+    "speakerId": "marc-benioff",
+    "sentence": "I introduced it at our Dreamforce Conference, and that was one way to break through, which was I took our conference and said, \"It's just going to be about Agentforce.\"",
+    "keyPhrase": {
+      "text": "break through",
+      "meaning_ko": "소음 속에서 치고 나가 대중의 주목을 확실히 사로잡다",
+      "usageTip": "Use this phrase when describing a pivotal moment — a launch event, announcement, or campaign — that finally gave a product or idea the visibility it needed.",
+      "chips": [
+        "break",
+        "through"
+      ],
+      "distractorChips": [
+        "blend",
+        "conform"
+      ]
+    },
+    "context": "Marc Benioff is explaining how he used Salesforce's annual Dreamforce conference as a platform to generate massive awareness for Agentforce, the company's new AI product. By dedicating the entire event to a single product, he found a way to stand out in a crowded market.",
+    "vocabulary": [],
+    "topics": [
+      "Growth & Marketing",
+      "Communication Skills"
+    ],
+    "difficulty": "beginner",
+    "rarity": "common",
+    "timestamp": "18:42"
+  },
+  {
+    "id": "marc-benioff-003",
+    "speakerId": "marc-benioff",
+    "sentence": "I'm trying to think about, \"What are all the things I need to do to get my company 100% on Agentforce, my customers, everyone?\" because I know I have a window of opportunity here.",
+    "keyPhrase": {
+      "text": "window of opportunity",
+      "meaning_ko": "지금만 열려 있는 기회의 창. 놓치면 닫혀버리는 호기(好機)",
+      "usageTip": "Use this phrase in pitches, strategy discussions, or board updates to convey that a competitive advantage or market timing is real but time-limited.",
+      "chips": [
+        "window",
+        "of",
+        "opportunity"
+      ],
+      "distractorChips": [
+        "moment",
+        "gap"
+      ]
+    },
+    "context": "Marc Benioff is describing the urgency he feels around adopting AI agents across Salesforce. He believes the company is in a defining moment where early, all-in commitment to the technology will determine who wins the next era of enterprise software.",
+    "vocabulary": [],
+    "topics": [
+      "Strategy & Planning",
+      "Decision Making"
+    ],
+    "difficulty": "beginner",
+    "rarity": "common",
+    "timestamp": "18:42"
+  },
+  {
+    "id": "marc-benioff-004",
+    "speakerId": "marc-benioff",
+    "sentence": "I am looking to try to find the winning tactic and turn it into a winning strategy.",
+    "keyPhrase": {
+      "text": "turn a tactic into a strategy",
+      "surface": "find the winning tactic and turn it into a winning strategy",
+      "meaning_ko": "효과가 증명된 단발 전술 하나를 골라 반복 가능한 전략 체계로 키워내다",
+      "usageTip": "Use this phrase in strategy or post-mortem discussions when the team has found early proof of something working and needs to shift from experimentation to systematic execution.",
+      "chips": [
+        "turn",
+        "a",
+        "tactic",
+        "into",
+        "a",
+        "strategy"
+      ],
+      "distractorChips": [
+        "fail",
+        "improvise"
+      ]
+    },
+    "context": "Marc Benioff is discussing his product-launch philosophy for Agentforce: he intentionally experiments with many individual moves — events, messaging angles, partnerships — to find the one that gets traction, then builds the entire go-to-market motion around it.",
+    "vocabulary": [
+      {
+        "word": "tactic",
+        "meaning": "a specific action or method used to achieve a short-term goal",
+        "note": "Contrasted here with 'strategy,' the broader repeatable plan built from proven tactics.",
+        "synonyms": [
+          "maneuver",
+          "move"
+        ]
+      }
+    ],
+    "topics": [
+      "Strategy & Planning",
+      "Product Management"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "20:58"
+  },
+  {
+    "id": "marc-benioff-005",
+    "speakerId": "marc-benioff",
+    "sentence": "I have a pretty deep meditation practice for three, four decades which is we have to be cultivating our beginner's mind.",
+    "keyPhrase": {
+      "text": "cultivate a beginner's mind",
+      "surface": "cultivating our beginner's mind",
+      "meaning_ko": "기존의 고정관념과 경험을 의도적으로 비워, 처음 맞닥뜨리는 사람처럼 열린 자세를 갖추다. '초심(初心)을 기르다'",
+      "usageTip": "Use this phrase in leadership, innovation, or coaching conversations to encourage a team to set aside entrenched assumptions and approach a problem with fresh eyes.",
+      "chips": [
+        "cultivate",
+        "a",
+        "beginner's",
+        "mind"
+      ],
+      "distractorChips": [
+        "expert",
+        "closed"
+      ]
+    },
+    "context": "Marc Benioff is sharing the mental discipline he draws from decades of meditation practice. He argues that leaders must actively unlearn assumptions and approach fast-changing situations — like the AI revolution — without being anchored to past playbooks.",
+    "vocabulary": [
+      {
+        "word": "cultivating",
+        "meaning": "deliberately developing or nurturing a quality over time through consistent practice",
+        "synonyms": [
+          "fostering",
+          "developing"
+        ]
+      }
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Learning & Growth"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "23:15"
+  },
+  {
+    "id": "marc-benioff-006",
+    "speakerId": "marc-benioff",
+    "sentence": "You want to be playing the whole symphony, and you want to get everyone running. That symphony is sales, service, marketing, product.",
+    "keyPhrase": {
+      "text": "play the whole symphony",
+      "surface": "playing the whole symphony",
+      "meaning_ko": "회사의 모든 기능(영업·마케팅·제품 등)을 빠짐없이 한 박자로 움직이게 조율하다",
+      "usageTip": "Use this metaphor in all-hands meetings, QBRs, or strategy sessions to emphasize cross-functional alignment and warn against siloed execution.",
+      "chips": [
+        "play",
+        "the",
+        "whole",
+        "symphony"
+      ],
+      "distractorChips": [
+        "solo",
+        "tune"
+      ]
+    },
+    "context": "Marc Benioff is advising founders not to over-index on one function — such as product or sales — but to align every part of the company simultaneously. He uses the metaphor of a symphony orchestra to illustrate that every instrument (department) must play in concert for the company to perform at its best.",
+    "vocabulary": [
+      {
+        "word": "symphony",
+        "meaning": "an elaborate musical composition for a full orchestra; here used metaphorically for a complex, coordinated business effort",
+        "synonyms": [
+          "orchestration",
+          "ensemble"
+        ]
+      }
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Strategy & Planning"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "45:20"
+  },
+  {
+    "id": "marc-benioff-007",
+    "speakerId": "marc-benioff",
+    "sentence": "If you're going to narrowcast yourself, you're doing a disservice not just to yourself, but to everybody else as well.",
+    "keyPhrase": {
+      "text": "narrowcast yourself",
+      "meaning_ko": "리더로서의 역할을 한 영역에만 가둬 스스로 영향력을 좁혀버리다",
+      "usageTip": "Use this term to challenge leaders who are overindexing on one area (e.g., only product, only sales) and avoiding the full scope of their responsibilities.",
+      "chips": [
+        "narrowcast",
+        "yourself"
+      ],
+      "distractorChips": [
+        "broadcast",
+        "amplify"
+      ]
+    },
+    "context": "Marc Benioff is warning founders and executives against becoming specialists who only manage one domain. In his view, a CEO who focuses exclusively on product — or any single function — fails both their team and the company by neglecting the full system of leadership.",
+    "vocabulary": [
+      {
+        "word": "narrowcast",
+        "meaning": "to transmit or direct something to a small, specific audience; here adapted metaphorically to mean constraining one's leadership reach",
+        "note": "Originally a media term (opposite of 'broadcast'); Benioff uses it as a leadership metaphor.",
+        "synonyms": [
+          "restrict",
+          "limit"
+        ]
+      },
+      {
+        "word": "disservice",
+        "meaning": "an action that harms or fails someone who deserved better",
+        "synonyms": [
+          "injustice",
+          "harm"
+        ]
+      }
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Communication Skills"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "45:20"
+  },
+  {
+    "id": "marc-benioff-008",
+    "speakerId": "marc-benioff",
+    "sentence": "Then, when we did the layoff, then I'm trying to overcommunicate. I'm having all employee meetings. It's a complete dumpster fire.",
+    "keyPhrase": {
+      "text": "dumpster fire",
+      "meaning_ko": "손 쓸 수 없을 만큼 완전히 엉망이 된 상황. 재앙에 가까운 혼돈",
+      "usageTip": "Use this informal phrase in candid retrospectives or post-mortems to describe a period when multiple things went wrong at once and the situation felt unmanageable.",
+      "chips": [
+        "dumpster",
+        "fire"
+      ],
+      "distractorChips": [
+        "campfire",
+        "burnout"
+      ]
+    },
+    "context": "Marc Benioff is recounting the turbulent period at Salesforce following major layoffs. Despite his efforts to communicate openly with employees through all-hands meetings, the internal atmosphere was one of overwhelming disorder and morale collapse.",
+    "vocabulary": [
+      {
+        "word": "overcommunicate",
+        "meaning": "to communicate far more frequently and thoroughly than might feel necessary, often to prevent confusion during a crisis",
+        "synonyms": [
+          "over-explain",
+          "repeat consistently"
+        ]
+      }
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Communication Skills"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "47:58"
+  },
+  {
+    "id": "marc-benioff-009",
+    "speakerId": "marc-benioff",
+    "sentence": "There's no up-and-to-the-right perfect chart where it's just one line. I don't care who you are. Apple doesn't have one. No one has one.",
+    "keyPhrase": {
+      "text": "up and to the right",
+      "surface": "up-and-to-the-right",
+      "meaning_ko": "끊김 없이 우상향하는 완벽한 성장 곡선. 현실에선 누구도 갖지 못하는 이상적 그래프",
+      "usageTip": "Use this phrase in investor updates, team retrospectives, or leadership talks to reset expectations and normalize the non-linear reality of building a company.",
+      "chips": [
+        "up",
+        "and",
+        "to",
+        "the",
+        "right"
+      ],
+      "distractorChips": [
+        "flat",
+        "sideways"
+      ]
+    },
+    "context": "Marc Benioff is pushing back against the myth of flawless, linear company growth. He argues that every company — even Apple — experiences downturns, pivots, and setbacks, and that expecting a perfectly smooth growth curve is an unrealistic and unhealthy standard.",
+    "vocabulary": [],
+    "topics": [
+      "Starting a Company",
+      "Decision Making"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "49:39"
+  },
+  {
+    "id": "marc-benioff-010",
+    "speakerId": "marc-benioff",
+    "sentence": "the entrepreneurial life is a rock-and-roll roller coaster, and you get ready because it's going to be pounding you all the time.",
+    "keyPhrase": {
+      "text": "rock-and-roll roller coaster",
+      "meaning_ko": "창업의 여정은 극단적인 부침이 쉼 없이 몰아치는 롤러코스터라는 것. 쾌감과 고통이 번갈아 강타한다",
+      "usageTip": "Use this phrase in founder talks, investor pitches, or mentorship conversations to honestly frame the emotional and operational intensity of building a company.",
+      "chips": [
+        "rock-and-roll",
+        "roller",
+        "coaster"
+      ],
+      "distractorChips": [
+        "smooth",
+        "cruise"
+      ]
+    },
+    "context": "Marc Benioff is offering a candid reality check to aspiring founders: entrepreneurship is not a steady climb but a relentless, exhilarating, and often brutal ride. He draws on his own decades at Salesforce to frame volatility and pressure as inherent features of the path, not signs of failure.",
+    "vocabulary": [
+      {
+        "word": "entrepreneurial",
+        "meaning": "relating to the activity of setting up and running a business, accepting financial risk in the hope of profit",
+        "synonyms": [
+          "founder-driven",
+          "startup"
+        ]
+      }
+    ],
+    "topics": [
+      "Starting a Company",
+      "Leadership & Management"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "49:39"
+  },
+  {
+    "id": "dharmesh-shah-001",
+    "speakerId": "dharmesh-shah",
+    "sentence": "One of the kind of tricks of the trade in humor, and you learned this particularly in stand-up comedy, but just any comedy.",
+    "keyPhrase": {
+      "text": "tricks of the trade",
+      "meaning_ko": "그 분야 고수만 아는 실전 비법. trade = 직업·업계",
+      "usageTip": "Use this phrase when sharing an insider method or shortcut that only experienced practitioners know — especially in mentorship, training sessions, or onboarding conversations.",
+      "chips": [
+        "tricks",
+        "of",
+        "the",
+        "trade"
+      ],
+      "distractorChips": [
+        "secrets",
+        "skills"
+      ]
+    },
+    "context": "Dharmesh Shah is discussing how certain professional skills transfer across domains, using humor and stand-up comedy as an example. He is explaining that seasoned practitioners develop insider techniques that are rarely written down but prove highly effective in practice.",
+    "vocabulary": [],
+    "topics": [
+      "Communication Skills",
+      "Learning & Growth"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "00:11:56"
+  },
+  {
+    "id": "dharmesh-shah-002",
+    "speakerId": "dharmesh-shah",
+    "sentence": "I had promised her that I would not do start... I had to hang up the proverbial entrepreneurial hat. Best laid plans and all that.",
+    "keyPhrase": {
+      "text": "hang up the hat",
+      "surface": "hang up the proverbial entrepreneurial hat",
+      "meaning_ko": "(특히 오랜 역할이나 커리어에서) 완전히 손을 떼다. 모자를 벗어 걸어두는 이미지",
+      "usageTip": "Use this phrase when someone is formally stepping back from a role or stopping a major activity — often with a sense of finality or nostalgia, in conversations about career transitions.",
+      "chips": [
+        "hang",
+        "up",
+        "the",
+        "hat"
+      ],
+      "distractorChips": [
+        "remove",
+        "lift"
+      ]
+    },
+    "context": "Dharmesh Shah is recounting a promise he made to his wife to step away from founding startups, describing how personal commitments can shape a founder's career decisions. He adds \"best laid plans and all that\" as a wry acknowledgment that things didn't go quite as promised.",
+    "vocabulary": [
+      {
+        "word": "proverbial",
+        "meaning": "so well known that it is referenced like a proverb; used to signal a phrase is figurative",
+        "note": "Signals the speaker knows the phrase is a cliché but is using it deliberately",
+        "synonyms": [
+          "figurative",
+          "so-called"
+        ]
+      }
+    ],
+    "topics": [
+      "Starting a Company",
+      "Career Development"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "rare",
+    "timestamp": "00:06:05"
+  },
+  {
+    "id": "dharmesh-shah-003",
+    "speakerId": "dharmesh-shah",
+    "sentence": "So what I think of is high conviction, low consensus bets. So high conviction is, \"We really, really believe this,\" and low consensus is that most other people don't.",
+    "keyPhrase": {
+      "text": "high conviction, low consensus",
+      "meaning_ko": "우리는 강하게 믿지만 시장 다수는 아직 동의하지 않는 역발상 베팅",
+      "usageTip": "Use this phrase in strategy meetings or investor conversations to describe a contrarian decision where you have done the research and are betting against prevailing market opinion.",
+      "chips": [
+        "high",
+        "conviction",
+        "low",
+        "consensus"
+      ],
+      "distractorChips": [
+        "moderate",
+        "popular"
+      ]
+    },
+    "context": "Dharmesh Shah is explaining how HubSpot decides which big strategic moves to make, arguing that the most valuable opportunities are ones where your team has strong internal belief but the broader market has not yet converged on the same view. He defines both terms explicitly so the listener can apply the framework immediately.",
+    "vocabulary": [
+      {
+        "word": "conviction",
+        "meaning": "a firmly held belief or opinion, strong enough to act on",
+        "synonyms": [
+          "certainty",
+          "confidence"
+        ]
+      },
+      {
+        "word": "consensus",
+        "meaning": "general agreement among a group of people",
+        "synonyms": [
+          "agreement",
+          "alignment"
+        ]
+      }
+    ],
+    "topics": [
+      "Strategy & Planning",
+      "Decision Making"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "00:28:23"
+  },
+  {
+    "id": "dharmesh-shah-004",
+    "speakerId": "dharmesh-shah",
+    "sentence": "we fall in love with the solution instead of falling in love with the actual problem, and you need to fall in love with the problem",
+    "keyPhrase": {
+      "text": "fall in love with the problem",
+      "surface": "fall in love with the solution instead of falling in love with the actual problem",
+      "meaning_ko": "솔루션이 아니라 문제 자체에 집착하다. 고객의 진짜 고통을 끝까지 놓지 않는 태도",
+      "usageTip": "Use this phrase during product reviews or customer discovery discussions to redirect the team away from premature solution bias and back toward understanding the root problem.",
+      "chips": [
+        "fall",
+        "in",
+        "love",
+        "with",
+        "the",
+        "problem"
+      ],
+      "distractorChips": [
+        "fixated",
+        "attached"
+      ]
+    },
+    "context": "Dharmesh Shah is describing one of the most common mistakes product builders make — becoming so invested in their own solution that they stop questioning whether it actually addresses the real problem. He is urging founders and PMs to keep the customer's core pain front and center throughout the building process.",
+    "vocabulary": [],
+    "topics": [
+      "Product Management",
+      "Starting a Company"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "00:54:37"
+  },
+  {
+    "id": "dharmesh-shah-005",
+    "speakerId": "dharmesh-shah",
+    "sentence": "And because of this reverse gravity, almost every company winds up being, every successful software company, ends up being an enterprise software company over the full list of time.",
+    "keyPhrase": {
+      "text": "reverse gravity",
+      "meaning_ko": "성장할수록 의도와 무관하게 엔터프라이즈 시장으로 끌려 올라가는 구조적 인력(引力)",
+      "usageTip": "Use this term in go-to-market or pricing discussions to name the market dynamic that pushes growing SaaS companies toward enterprise sales — helpful for anticipating organizational and pricing changes before they become crises.",
+      "chips": [
+        "reverse",
+        "gravity"
+      ],
+      "distractorChips": [
+        "momentum",
+        "friction"
+      ]
+    },
+    "context": "Dharmesh Shah is explaining a structural pattern he has observed in the software industry: as companies grow and revenue pressure increases, they are pulled toward larger contracts and enterprise deals regardless of where they originally intended to focus. He calls this force \"reverse gravity\" because it acts against the founders' initial downmarket or consumer instincts.",
+    "vocabulary": [
+      {
+        "word": "winds up",
+        "meaning": "ends up in a particular state or situation, often unintentionally",
+        "synonyms": [
+          "ends up",
+          "turns out"
+        ]
+      }
+    ],
+    "topics": [
+      "Strategy & Planning",
+      "Growth & Marketing"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "00:49:27"
+  },
+  {
+    "id": "dharmesh-shah-006",
+    "speakerId": "dharmesh-shah",
+    "sentence": "And the biggest mistake, and we used to make this much more than we make now, is, and Amazon has stated this really well, theirs is called disagree and commit.",
+    "keyPhrase": {
+      "text": "disagree and commit",
+      "meaning_ko": "반대 의견을 명확히 말한 뒤, 결정이 내려지면 뒤에서 딴짓 없이 전력으로 따르다",
+      "usageTip": "Use this phrase to establish a healthy meeting culture — after debate, expect everyone to either raise a final objection or commit fully, eliminating silent non-compliance.",
+      "chips": [
+        "disagree",
+        "and",
+        "commit"
+      ],
+      "distractorChips": [
+        "oppose",
+        "resist"
+      ]
+    },
+    "context": "Dharmesh Shah is discussing one of the most damaging organizational failure modes he has seen: team members who stay silent during a decision, then undermine it later. He credits Amazon for naming this principle explicitly and shares that HubSpot had to learn the same lesson through hard experience.",
+    "vocabulary": [],
+    "topics": [
+      "Leadership & Management",
+      "Decision Making"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "01:03:41"
+  },
+  {
+    "id": "dharmesh-shah-007",
+    "speakerId": "dharmesh-shah",
+    "sentence": "And we have a thing that are part of our culture and guiding principles around what I call \"fight for simplicity.\" It's literally those three words.",
+    "keyPhrase": {
+      "text": "fight for simplicity",
+      "meaning_ko": "단순함은 저절로 오지 않는다. 복잡해지려는 관성에 맞서 능동적으로 싸워내다",
+      "usageTip": "Use this phrase when pushing back on feature bloat, complicated processes, or convoluted communication — it frames simplicity as an active discipline, not a passive state.",
+      "chips": [
+        "fight",
+        "for",
+        "simplicity"
+      ],
+      "distractorChips": [
+        "embrace",
+        "accept"
+      ]
+    },
+    "context": "Dharmesh Shah is describing a core cultural value at HubSpot — treating simplicity not as a default outcome but as something that requires deliberate, continuous effort to preserve. He emphasizes that the phrase is enshrined verbatim in HubSpot's guiding principles because simplicity tends to erode unless people actively protect it.",
+    "vocabulary": [
+      {
+        "word": "guiding principles",
+        "meaning": "a set of foundational beliefs that direct an organization's decisions and behavior",
+        "synonyms": [
+          "core values",
+          "operating principles"
+        ]
+      }
+    ],
+    "topics": [
+      "Product Management",
+      "Leadership & Management"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "rare",
+    "timestamp": "00:39:38"
+  },
+  {
+    "id": "dharmesh-shah-008",
+    "speakerId": "dharmesh-shah",
+    "sentence": "The third thing is what I think of is either passion or proximity. Do you care about this actual thing that you can actually bring to bear?",
+    "keyPhrase": {
+      "text": "bring to bear",
+      "meaning_ko": "자신의 기술·경험·자원을 특정 상황에 효과적으로 집중 투입하다",
+      "usageTip": "Use this phrase in leadership or strategy contexts when talking about applying existing strengths, relationships, or expertise to a new challenge — slightly more formal than \"use\" or \"apply.\"",
+      "chips": [
+        "bring",
+        "to",
+        "bear"
+      ],
+      "distractorChips": [
+        "present",
+        "offer"
+      ]
+    },
+    "context": "Dharmesh Shah is outlining his framework for evaluating whether a founder has the right fit for their specific startup idea, listing passion and proximity as the two key lenses. Here, \"bring to bear\" refers to whether a founder can actually deploy their unique knowledge or experience in a way that gives them an advantage.",
+    "vocabulary": [
+      {
+        "word": "proximity",
+        "meaning": "closeness to something, here meaning direct experience with or deep knowledge of a problem",
+        "synonyms": [
+          "closeness",
+          "familiarity"
+        ]
+      }
+    ],
+    "topics": [
+      "Starting a Company",
+      "Career Development"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "01:12:22"
+  },
+  {
+    "id": "dharmesh-shah-009",
+    "speakerId": "dharmesh-shah",
+    "sentence": "culture is a product, period, and that every company builds two products, one is the product they build for their customers, and the other is a product they build for their team.",
+    "keyPhrase": {
+      "text": "culture is a product",
+      "meaning_ko": "조직 문화도 제품처럼 의도적으로 설계하고, 측정하고, 반복 개선해야 한다는 관점",
+      "usageTip": "Use this phrase when advocating for a systematic, data-informed approach to company culture — it reframes HR and culture work as product work, which resonates strongly with engineering and product-minded leaders.",
+      "chips": [
+        "culture",
+        "is",
+        "a",
+        "product"
+      ],
+      "distractorChips": [
+        "asset",
+        "policy"
+      ]
+    },
+    "context": "Dharmesh Shah is sharing one of the rare frameworks he considers genuinely original, arguing that most companies treat culture as an accidental byproduct of hiring decisions. His claim is that founders who apply product-thinking — defining outcomes, collecting feedback, shipping updates — build far more durable and intentional cultures.",
+    "vocabulary": [],
+    "topics": [
+      "Leadership & Management",
+      "Starting a Company"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "01:21:17"
+  },
+  {
+    "id": "dharmesh-shah-010",
+    "speakerId": "dharmesh-shah",
+    "sentence": "It's like yeah, but then one of the other lessons is cultures over time become self-fulfilling prophecies.",
+    "keyPhrase": {
+      "text": "self-fulfilling prophecy",
+      "surface": "self-fulfilling prophecies",
+      "meaning_ko": "믿음이 행동을 바꾸고, 그 행동이 믿음을 실제로 현실로 만드는 자기강화 고리",
+      "usageTip": "Use this phrase in discussions about culture, reputation, or team dynamics to describe a reinforcing feedback loop — where an expectation or belief shapes behavior in a way that makes the expectation come true.",
+      "chips": [
+        "self-fulfilling",
+        "prophecy"
+      ],
+      "distractorChips": [
+        "outcome",
+        "paradox"
+      ]
+    },
+    "context": "Dharmesh Shah is explaining how company cultures compound over time: the norms and behaviors a culture establishes begin attracting people who match those norms, which in turn reinforces the culture further. He uses this phrase to show why early cultural choices have disproportionate long-term consequences.",
+    "vocabulary": [
+      {
+        "word": "prophecies",
+        "meaning": "plural of prophecy; predictions or beliefs about what will happen in the future",
+        "synonyms": [
+          "predictions",
+          "forecasts"
+        ]
+      }
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Learning & Growth"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "01:28:04"
+  },
+  {
+    "id": "amjad-masad-001",
+    "speakerId": "amjad-masad",
+    "sentence": "Typically, you're bottlenecked where your ideas are not fitting in because they need to be made and they need to be made quickly.",
+    "keyPhrase": {
+      "text": "be bottlenecked by",
+      "surface": "bottlenecked where",
+      "meaning_ko": "특정 지점에서 막혀 전체 흐름이 지체되다",
+      "usageTip": "Use this in product or engineering discussions to identify where a team's throughput is being constrained — e.g., 'We're bottlenecked by our QA cycle, not our engineers.'",
+      "chips": [
+        "be",
+        "bottlenecked",
+        "by"
+      ],
+      "distractorChips": [
+        "blocked",
+        "slowed"
+      ]
+    },
+    "context": "Amjad Masad, CEO of Replit, is explaining why most builders struggle to ship their ideas: the constraint isn't creativity but execution speed. He argues that when ideas can't be built fast enough, the creative process itself stalls.",
+    "vocabulary": [
+      {
+        "word": "bottlenecked",
+        "meaning": "restricted or slowed at a particular point in a process",
+        "note": "Derived from the narrow neck of a bottle that limits flow; commonly used in operations and engineering contexts.",
+        "synonyms": [
+          "constrained",
+          "throttled"
+        ]
+      }
+    ],
+    "topics": [
+      "Product Management",
+      "Decision Making"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "00:00:27"
+  },
+  {
+    "id": "amjad-masad-002",
+    "speakerId": "amjad-masad",
+    "sentence": "because the activation energy is lower than going to hire developer, whether Upwork or other places, I'm building a lot more ideas that otherwise I wouldn't have built.",
+    "keyPhrase": {
+      "text": "activation energy",
+      "meaning_ko": "무언가를 시작하는 데 필요한 최소한의 노력·비용·허들. 화학의 활성화 에너지에서 온 비즈니스 표현",
+      "usageTip": "Use this in startup or product strategy conversations to describe how removing barriers (cost, complexity, time) encourages more experimentation — e.g., 'Lowering the activation energy for sign-up increased our conversion rate.'",
+      "chips": [
+        "activation",
+        "energy"
+      ],
+      "distractorChips": [
+        "momentum",
+        "threshold"
+      ]
+    },
+    "context": "Amjad Masad is discussing how AI coding tools like Replit have dramatically reduced the cost of starting a software project. He borrowed the chemistry term 'activation energy' — the minimum energy needed to start a reaction — to describe how lower friction unlocks more ideas being built.",
+    "vocabulary": [
+      {
+        "word": "activation energy",
+        "meaning": "borrowed from chemistry: the minimum effort or cost required to initiate a process or action",
+        "note": "In chemistry, it is the energy needed to start a reaction; in business, it metaphorically means the friction that must be overcome to begin a task.",
+        "synonyms": [
+          "barrier to entry",
+          "friction"
+        ]
+      }
+    ],
+    "topics": [
+      "Starting a Company",
+      "Product Management"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "00:23:17"
+  },
+  {
+    "id": "amjad-masad-003",
+    "speakerId": "amjad-masad",
+    "sentence": "Let's go actually put it on the roadmap and build it into the actual product.",
+    "keyPhrase": {
+      "text": "put it on the roadmap",
+      "meaning_ko": "아이디어를 공식 개발 계획에 올려 정식 우선순위로 확정하다",
+      "usageTip": "Use this in product meetings to signal that an idea has been approved and will be officially planned — e.g., 'The team loved the concept, so we decided to put it on the roadmap for Q3.'",
+      "chips": [
+        "put",
+        "it",
+        "on",
+        "the",
+        "roadmap"
+      ],
+      "distractorChips": [
+        "backlog",
+        "schedule"
+      ]
+    },
+    "context": "Amjad Masad is recounting how an internal prototype or idea was validated and then officially committed to as part of Replit's product plan. The phrase captures the moment a concept moves from exploration to a committed development priority.",
+    "vocabulary": [],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty": "beginner",
+    "rarity": "common",
+    "timestamp": "00:26:35"
+  },
+  {
+    "id": "amjad-masad-004",
+    "speakerId": "amjad-masad",
+    "sentence": "I said it's going to be society of models, like products will be made of a lot of different models, and it's quite a heavy engineering project.",
+    "keyPhrase": {
+      "text": "society of models",
+      "meaning_ko": "하나의 거대 모델 대신 역할별로 특화된 여러 AI 모델이 협업하는 제품 구조",
+      "usageTip": "Use this in AI product or engineering discussions to describe multi-model architectures — e.g., 'We're moving toward a society of models where routing, retrieval, and generation are handled by separate specialized models.'",
+      "chips": [
+        "society",
+        "of",
+        "models"
+      ],
+      "distractorChips": [
+        "ensemble",
+        "network"
+      ]
+    },
+    "context": "Amjad Masad is sharing an early prediction he made about how AI-powered software products would be structured. Rather than relying on a single large language model, he foresaw that complex products would need to orchestrate many purpose-built models, each handling different tasks — an architecture he called a 'society of models.'",
+    "vocabulary": [
+      {
+        "word": "engineering",
+        "meaning": "the discipline of designing, building, and managing complex systems or software",
+        "note": "Amjad uses 'heavy engineering project' to signal that orchestrating many AI models is technically demanding work, not just a product decision.",
+        "synonyms": [
+          "architecture",
+          "implementation"
+        ]
+      }
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "00:32:51"
+  },
+  {
+    "id": "amjad-masad-005",
+    "speakerId": "amjad-masad",
+    "sentence": "And everyone feels that pain of, we have low bandwidth communication, which is language and then text on Slack and Zoom calls.",
+    "keyPhrase": {
+      "text": "low-bandwidth communication",
+      "surface": "low bandwidth communication",
+      "meaning_ko": "한 번의 교환으로 전달할 수 있는 정보량이 적은 소통 방식. Slack 문자나 Zoom 통화처럼 맥락과 뉘앙스가 많이 소실되는 채널",
+      "usageTip": "Use this in discussions about collaboration or team productivity to contrast high-context tools (shared documents, demos, code) with low-context ones (emails, chats) — e.g., 'Async video demos are higher-bandwidth than long Slack threads.'",
+      "chips": [
+        "low-bandwidth",
+        "communication"
+      ],
+      "distractorChips": [
+        "narrow",
+        "limited"
+      ]
+    },
+    "context": "Amjad Masad is arguing that language-based tools like Slack messages and Zoom calls are inefficient compared to working directly in code. He uses the networking term 'bandwidth' — the amount of data that can be transmitted — to highlight how much context and nuance is lost when collaborators can only communicate through text and speech instead of shared artifacts like code.",
+    "vocabulary": [
+      {
+        "word": "bandwidth",
+        "meaning": "the capacity of a channel to transmit information; in business, it also refers to a person's available time and attention",
+        "note": "Originally a networking term; widely adopted in business to describe both communication richness and personal capacity.",
+        "synonyms": [
+          "capacity",
+          "throughput"
+        ]
+      }
+    ],
+    "topics": [
+      "Communication Skills",
+      "Leadership & Management"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "00:41:08"
+  },
+  {
+    "id": "amjad-masad-006",
+    "speakerId": "amjad-masad",
+    "sentence": "Ultimately in software tech companies, everything that we're talking about need to eventually flush out in terms of code.",
+    "keyPhrase": {
+      "text": "flush out in terms of",
+      "surface": "flush out in terms of code",
+      "meaning_ko": "추상적인 논의나 계획이 결국 구체적인 결과물로 완전히 구현되다",
+      "usageTip": "Use this to push discussions toward tangible outputs — e.g., 'This strategy needs to flush out in terms of a feature spec and timeline before we can commit resources.'",
+      "chips": [
+        "flush",
+        "out",
+        "in",
+        "terms",
+        "of"
+      ],
+      "distractorChips": [
+        "wash",
+        "clarify"
+      ]
+    },
+    "context": "Amjad Masad is making the point that in software companies, abstract ideas and conversations only have real impact when they are translated into working code. He argues that regardless of how much you plan or discuss, the ultimate test is whether those ideas can be implemented.",
+    "vocabulary": [],
+    "topics": [
+      "Product Management",
+      "Communication Skills"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "00:42:30"
+  },
+  {
+    "id": "amjad-masad-007",
+    "speakerId": "amjad-masad",
+    "sentence": "being generative, being more generative, being able to generate new ideas quickly, because you can think about it as a factory line.",
+    "keyPhrase": {
+      "text": "be generative",
+      "surface": "being generative",
+      "meaning_ko": "새로운 아이디어를 빠르고 풍부하게 쏟아내는 능력을 갖추다. AI 시대에 더욱 희귀해지는 인간 역량",
+      "usageTip": "Use this in career or leadership conversations to describe a key creative capability — e.g., 'The best PMs I've worked with are incredibly generative; they never walk into a meeting without three fresh angles to explore.'",
+      "chips": [
+        "be",
+        "generative"
+      ],
+      "distractorChips": [
+        "productive",
+        "creative"
+      ]
+    },
+    "context": "Amjad Masad is discussing the skills that matter most as AI takes over more execution tasks. He argues that being generative — consistently producing a large quantity of novel ideas — is a skill that becomes more valuable, not less, in an AI-assisted world, because humans still need to supply the creative direction.",
+    "vocabulary": [
+      {
+        "word": "generative",
+        "meaning": "capable of producing a large quantity of new ideas, solutions, or creative output",
+        "note": "Distinct from 'generative AI' — here it describes a human cognitive trait: the ability to originate ideas freely and prolifically.",
+        "synonyms": [
+          "inventive",
+          "prolific"
+        ]
+      }
+    ],
+    "topics": [
+      "Learning & Growth",
+      "Career Development"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "00:44:25"
+  },
+  {
+    "id": "amjad-masad-008",
+    "speakerId": "amjad-masad",
+    "sentence": "And I have this that's been called not by me, dubbed as Amjad's Law, which is the return on investment for learn to code is doubling every six months.",
+    "keyPhrase": {
+      "text": "return on investment",
+      "meaning_ko": "투입한 비용·노력 대비 얻은 이익의 비율. 줄여서 ROI",
+      "usageTip": "Use ROI to justify initiatives by quantifying value gained versus resources spent — e.g., 'The return on investment for developer tooling improvements is hard to measure but shows up clearly in shipping velocity.'",
+      "chips": [
+        "return",
+        "on",
+        "investment"
+      ],
+      "distractorChips": [
+        "payback",
+        "profit"
+      ]
+    },
+    "context": "Amjad Masad is explaining a principle he observed, later nicknamed 'Amjad's Law' by others: that the payoff from knowing how to code is increasing at an exponential rate as AI tools amplify what a single developer can build. He frames learning to code as an investment whose returns are compounding.",
+    "vocabulary": [
+      {
+        "word": "dubbed",
+        "meaning": "informally named or nicknamed",
+        "note": "Used when a label is coined by others rather than officially assigned.",
+        "synonyms": [
+          "nicknamed",
+          "christened"
+        ]
+      }
+    ],
+    "topics": [
+      "Career Development",
+      "Learning & Growth"
+    ],
+    "difficulty": "beginner",
+    "rarity": "common",
+    "timestamp": "00:47:09"
+  },
+  {
+    "id": "amjad-masad-009",
+    "speakerId": "amjad-masad",
+    "sentence": "If my law is directionally correct, even if the months are not, I'm not exactly right that the duration is correct, you're going to see a compounding effect of the power.",
+    "keyPhrase": {
+      "text": "compounding effect",
+      "meaning_ko": "이전 성과가 다음 성과의 토대가 되어 시간이 갈수록 성장이 가속되는 복리 효과",
+      "usageTip": "Use this to make the case for long-term investments in skills, systems, or habits — e.g., 'The compounding effect of consistent content publishing means your tenth post gets ten times more reach than your first.'",
+      "chips": [
+        "compounding",
+        "effect"
+      ],
+      "distractorChips": [
+        "multiplying",
+        "cascading"
+      ]
+    },
+    "context": "Amjad Masad is defending his prediction that the value of coding skills will grow exponentially with AI. Even if his specific timeline is off, he argues the direction is correct: each improvement in AI amplifies the one before it, creating a compounding effect that makes the skill increasingly powerful.",
+    "vocabulary": [
+      {
+        "word": "directionally",
+        "meaning": "correct in terms of overall trend or trajectory, even if not precise in specific details",
+        "note": "Common in forecasting and strategy discussions to acknowledge approximate rather than exact accuracy.",
+        "synonyms": [
+          "broadly",
+          "roughly"
+        ]
+      }
+    ],
+    "topics": [
+      "Learning & Growth",
+      "Strategy & Planning"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "00:51:06"
+  },
+  {
+    "id": "amjad-masad-010",
+    "speakerId": "amjad-masad",
+    "sentence": "And so when the Anthropic drop the computer use set of capability, we slaughtered our roadmap because we don't really have an explicit roadmap.",
+    "keyPhrase": {
+      "text": "slaughter the roadmap",
+      "surface": "slaughtered our roadmap",
+      "meaning_ko": "외부의 판도 변화에 맞서 기존 로드맵을 가차 없이 통째로 폐기하다",
+      "usageTip": "Use this to describe a bold, reactive pivot where a team discards its existing plan entirely in response to a market shift — e.g., 'When GPT-4 launched, we effectively slaughtered our roadmap and rebuilt our feature set around AI integration.'",
+      "chips": [
+        "slaughter",
+        "the",
+        "roadmap"
+      ],
+      "distractorChips": [
+        "revised",
+        "shelved"
+      ]
+    },
+    "context": "Amjad Masad is describing how Replit responded when Anthropic released its computer-use AI capabilities — a development so significant that it made their existing plans obsolete. He uses the vivid phrase 'slaughtered our roadmap' to convey how decisively and completely they scrapped their prior priorities to pursue the new opportunity.",
+    "vocabulary": [
+      {
+        "word": "explicit",
+        "meaning": "clearly and directly stated or defined, leaving nothing implied",
+        "note": "Amjad uses it to note that Replit's roadmap was informal — making it easier to discard when circumstances changed.",
+        "synonyms": [
+          "defined",
+          "formal"
+        ]
+      }
+    ],
+    "topics": [
+      "Strategy & Planning",
+      "Decision Making"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "00:56:43"
+  },
+  {
+    "id": "mike-krieger-001",
+    "speakerId": "mike-krieger",
+    "sentence": "We had to completely re-architect it because so much more code was being written and so many more pull requests were being submitted that it just completely blew out the expectations of it.",
+    "keyPhrase": {
+      "text": "blow out the expectations",
+      "surface": "blew out the expectations",
+      "meaning_ko": "예상치를 훌쩍 뛰어넘어 기존 계획이나 시스템이 감당하지 못할 지경이 되다",
+      "usageTip": "Use this when actual results or demand have so dramatically exceeded a forecast that the original plan is no longer viable — common in engineering postmortems and growth reviews.",
+      "chips": [
+        "blow",
+        "out",
+        "the",
+        "expectations"
+      ],
+      "distractorChips": [
+        "meet",
+        "miss"
+      ]
+    },
+    "context": "Mike Krieger is describing how Anthropic's internal AI coding tools scaled so rapidly that the supporting infrastructure couldn't keep up. The sheer volume of AI-generated code and pull requests completely overwhelmed the system's original design.",
+    "vocabulary": [
+      {
+        "word": "re-architect",
+        "meaning": "to redesign the fundamental structure of a system from the ground up",
+        "note": "Common in software engineering when incremental fixes are no longer sufficient.",
+        "synonyms": [
+          "restructure",
+          "redesign",
+          "rebuild"
+        ]
+      }
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "rare",
+    "timestamp": "00:12:57"
+  },
+  {
+    "id": "mike-krieger-002",
+    "speakerId": "mike-krieger",
+    "sentence": "We really rapidly became bottlenecked on other things like our merge queue, which is the get in line to get your change accepted by the system that then deploys into production.",
+    "keyPhrase": {
+      "text": "bottleneck on",
+      "surface": "became bottlenecked on",
+      "meaning_ko": "특정 단계가 발목을 잡아 전체 흐름이 꽉 막히다",
+      "usageTip": "Use this to identify a specific stage that is slowing your entire pipeline or team — essential vocabulary for engineering, operations, and product scaling conversations.",
+      "chips": [
+        "bottleneck",
+        "on"
+      ],
+      "distractorChips": [
+        "sped",
+        "unblocked"
+      ]
+    },
+    "context": "Mike Krieger is explaining how Anthropic's engineering workflow hit a ceiling after AI dramatically increased code output. Even after addressing one constraint, new chokepoints like the merge queue — the line of code changes waiting to be approved and deployed — quickly emerged.",
+    "vocabulary": [
+      {
+        "word": "merge queue",
+        "meaning": "a system that manages the order in which code changes are integrated into the main codebase before deployment",
+        "note": "Used in software engineering to prevent conflicts when many contributors submit changes simultaneously."
+      },
+      {
+        "word": "production",
+        "meaning": "the live environment where software runs for real users, as opposed to a test or staging environment",
+        "note": "Deploying to production means releasing changes to actual users.",
+        "synonyms": [
+          "live environment",
+          "prod"
+        ]
+      }
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "00:12:57"
+  },
+  {
+    "id": "mike-krieger-003",
+    "speakerId": "mike-krieger",
+    "sentence": "I think maybe two things are true. One is consumer adoption is really lightning in a bottle and we saw it at Instagram.",
+    "keyPhrase": {
+      "text": "lightning in a bottle",
+      "meaning_ko": "다시 잡으려 해도 잡을 수 없는, 단 한 번뿐인 기적 같은 순간이나 현상",
+      "usageTip": "Use this when describing a product breakthrough or growth moment that succeeded due to a unique, unrepeatable combination of timing, market, and luck — often in fundraising or strategy discussions.",
+      "chips": [
+        "lightning",
+        "in",
+        "a",
+        "bottle"
+      ],
+      "distractorChips": [
+        "predictable",
+        "routine"
+      ]
+    },
+    "context": "Mike Krieger is reflecting on what drives explosive consumer product success, drawing on his experience building Instagram. He argues that the kind of viral consumer adoption Instagram achieved is an extraordinarily rare phenomenon that can't simply be engineered on demand.",
+    "vocabulary": [],
+    "topics": [
+      "Growth & Marketing",
+      "Starting a Company"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "00:43:50"
+  },
+  {
+    "id": "mike-krieger-004",
+    "speakerId": "mike-krieger",
+    "sentence": "look yourself in the mirror and embrace who you are and what you could be rather than who others are",
+    "keyPhrase": {
+      "text": "look yourself in the mirror",
+      "meaning_ko": "남과 비교하지 않고 자기 자신을 있는 그대로 직시하다",
+      "usageTip": "Use this in leadership or strategy conversations to call for honest self-assessment instead of reactive comparison to competitors.",
+      "chips": [
+        "look",
+        "yourself",
+        "in",
+        "the",
+        "mirror"
+      ],
+      "distractorChips": [
+        "deflect",
+        "imitate"
+      ]
+    },
+    "context": "Mike Krieger is offering advice on how founders and companies should approach competitive strategy. Rather than benchmarking obsessively against rivals, he advocates for deep self-awareness — understanding your own unique strengths and building from there.",
+    "vocabulary": [],
+    "topics": [
+      "Leadership & Management",
+      "Decision Making"
+    ],
+    "difficulty": "beginner",
+    "rarity": "common",
+    "timestamp": "00:43:50"
+  },
+  {
+    "id": "mike-krieger-005",
+    "speakerId": "mike-krieger",
+    "sentence": "finding that balance is really key, which is what are the times to engage? I like to say internally, Claude has no chill.",
+    "keyPhrase": {
+      "text": "have no chill",
+      "surface": "has no chill",
+      "meaning_ko": "분위기 파악 없이 나댈 때와 빠질 때를 구분하지 못하다",
+      "usageTip": "Use this in casual or semi-formal business conversation to describe someone (or a system) that consistently misjudges how much to engage — helpful when discussing AI behavior, team dynamics, or communication style.",
+      "chips": [
+        "have",
+        "no",
+        "chill"
+      ],
+      "distractorChips": [
+        "reserved",
+        "composed"
+      ]
+    },
+    "context": "Mike Krieger is describing the challenge of deploying AI models like Claude in collaborative social settings such as Slack. Without careful tuning, AI tends to either over-contribute or go silent — it has no intuitive sense of when to speak and when to stay quiet.",
+    "vocabulary": [],
+    "topics": [
+      "Communication Skills",
+      "Product Management"
+    ],
+    "difficulty": "beginner",
+    "rarity": "common",
+    "timestamp": "00:59:44"
+  },
+  {
+    "id": "mike-krieger-006",
+    "speakerId": "mike-krieger",
+    "sentence": "\"Yeah, I probably would've taken this thing on for another six months, but saw what you guys did, realized we were barking up the wrong tree, made the call.\"",
+    "keyPhrase": {
+      "text": "bark up the wrong tree",
+      "surface": "barking up the wrong tree",
+      "meaning_ko": "애초에 잘못된 방향을 향해 헛된 노력을 쏟다",
+      "usageTip": "Use this to diplomatically signal that an effort, strategy, or assumption is fundamentally misdirected — useful in feedback conversations, pivots, or competitive analysis.",
+      "chips": [
+        "bark",
+        "up",
+        "the",
+        "wrong",
+        "tree"
+      ],
+      "distractorChips": [
+        "right",
+        "track"
+      ]
+    },
+    "context": "Mike Krieger is recounting conversations with other founders who reconsidered their own paths after watching Anthropic make a difficult, high-profile strategic decision. Seeing a comparable company change course helped them recognize sooner that their own approach was heading in the wrong direction.",
+    "vocabulary": [],
+    "topics": [
+      "Decision Making",
+      "Leadership & Management"
+    ],
+    "difficulty": "beginner",
+    "rarity": "common",
+    "timestamp": "00:41:19"
+  },
+  {
+    "id": "mike-krieger-007",
+    "speakerId": "mike-krieger",
+    "sentence": "One is pushing the frontier of the models and then having a repeatable process. This actually goes back to our summit conversation repeatable way to evaluate how well your product is serving those use cases",
+    "keyPhrase": {
+      "text": "push the frontier",
+      "surface": "pushing the frontier",
+      "meaning_ko": "해당 분야에서 현재 가능한 것의 한계를 의도적으로 밀어 넓히다",
+      "usageTip": "Use this in product or R&D conversations to describe intentional, ongoing efforts to advance beyond current industry benchmarks — often paired with a discussion of how progress will be measured.",
+      "chips": [
+        "push",
+        "the",
+        "frontier"
+      ],
+      "distractorChips": [
+        "maintain",
+        "retreat"
+      ]
+    },
+    "context": "Mike Krieger is outlining Anthropic's two-part product strategy: continuously advancing the capability of its AI models while also building systematic evaluation processes to ensure those improvements actually translate into better user outcomes.",
+    "vocabulary": [
+      {
+        "word": "repeatable",
+        "meaning": "capable of being executed consistently and reliably across different iterations or teams",
+        "note": "In product and engineering contexts, a repeatable process is one that can be systematized rather than depending on one-off heroics.",
+        "synonyms": [
+          "scalable",
+          "systematic",
+          "consistent"
+        ]
+      }
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "rare",
+    "timestamp": "00:52:29"
+  },
+  {
+    "id": "mike-krieger-008",
+    "speakerId": "mike-krieger",
+    "sentence": "or do we call it and see that it's run its course and try to find a home for it, et cetera.",
+    "keyPhrase": {
+      "text": "call it",
+      "meaning_ko": "더 이상 미루지 않고 끝났음을 선언하며 마침표를 찍다",
+      "usageTip": "Use this when a leadership team needs to make a firm, final decision to stop a project, end a strategy, or close a chapter — it conveys decisiveness without blame.",
+      "chips": [
+        "call",
+        "it"
+      ],
+      "distractorChips": [
+        "extend",
+        "revisit"
+      ]
+    },
+    "context": "Mike Krieger is walking through the difficult internal debate around shutting down a product or initiative that has stopped showing a clear path forward. The question is whether to keep investing resources in hope of a turnaround or to make the hard call to wind it down while there is still time to find alternatives.",
+    "vocabulary": [],
+    "topics": [
+      "Decision Making",
+      "Leadership & Management"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "rare",
+    "timestamp": "00:39:26"
+  },
+  {
+    "id": "sam-lessin-001",
+    "speakerId": "sam-lessin",
+    "sentence": "it's very hard to cut through the noise these days. So you need humor is a great way to cut through it, but humor just for the sake of being funny is not that useful.",
+    "keyPhrase": {
+      "text": "cut through the noise",
+      "meaning_ko": "정보가 넘쳐나는 환경에서 메시지를 돋보이게 해 주목을 끌어내다",
+      "usageTip": "Use this when describing the challenge of standing out in a competitive market or getting your pitch, product, or message noticed amid endless alternatives.",
+      "chips": [
+        "cut",
+        "through",
+        "the",
+        "noise"
+      ],
+      "distractorChips": [
+        "remove",
+        "filter"
+      ]
+    },
+    "context": "Sam Lessin is discussing how founders can communicate effectively in an era of information overload. He argues that getting your message noticed requires more than just good content — you need deliberate strategies like humor, but only when it serves a real purpose.",
+    "vocabulary": [],
+    "topics": [
+      "Communication Skills",
+      "Starting a Company"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "00:05:01"
+  },
+  {
+    "id": "sam-lessin-002",
+    "speakerId": "sam-lessin",
+    "sentence": "There's a rule, you always want to just double down in life. And so I'd say why etiquette? Look, there's a serious real narrative to why etiquette matters in 2025 for founders, almost 2026.",
+    "keyPhrase": {
+      "text": "double down",
+      "meaning_ko": "의심을 받더라도 기존 방향에 더 강하게 베팅하다. '판돈을 두 배로 올리다'",
+      "usageTip": "Use this in business or strategy discussions when you or your team decide to invest more resources or commitment into a course of action rather than pulling back.",
+      "chips": [
+        "double",
+        "down"
+      ],
+      "distractorChips": [
+        "retreat",
+        "reconsider"
+      ]
+    },
+    "context": "Sam Lessin is explaining his personal philosophy of leaning harder into decisions rather than hedging. He uses this principle to justify his unconventional focus on etiquette as a serious topic for modern founders.",
+    "vocabulary": [
+      {
+        "word": "narrative",
+        "meaning": "the story or reasoning used to explain and justify a position or strategy",
+        "note": "In business, 'narrative' often refers to the compelling story a founder tells about why their company or idea matters.",
+        "synonyms": [
+          "story",
+          "rationale",
+          "framing"
+        ]
+      }
+    ],
+    "topics": [
+      "Decision Making",
+      "Leadership & Management"
+    ],
+    "difficulty": "beginner",
+    "rarity": "common",
+    "timestamp": "00:05:42"
+  },
+  {
+    "id": "sam-lessin-003",
+    "speakerId": "sam-lessin",
+    "sentence": "Understanding how to meet people, where they're at, build trust, mirror kind of expected behaviors. These are all tools.",
+    "keyPhrase": {
+      "text": "meet people where they're at",
+      "surface": "meet people, where they're at",
+      "meaning_ko": "상대의 현재 상황·감정·관점에 맞춰 내 방식을 조율하다. 내 기준을 강요하지 않고 상대 눈높이로 내려가다",
+      "usageTip": "Use this when discussing stakeholder management, sales, or leadership — it signals empathy and adaptability, showing you tailor your communication style to your audience.",
+      "chips": [
+        "meet",
+        "people",
+        "where",
+        "they're",
+        "at"
+      ],
+      "distractorChips": [
+        "challenge",
+        "confront"
+      ]
+    },
+    "context": "Sam Lessin is making the case that social and interpersonal skills are practical tools for founders. He frames meeting people where they are — adapting to their perspective rather than imposing your own — as a core competency in building trust and influencing others.",
+    "vocabulary": [
+      {
+        "word": "mirror",
+        "meaning": "to subtly reflect or match another person's communication style, tone, or behavior to build rapport",
+        "note": "In negotiation and leadership contexts, mirroring is a deliberate technique to make others feel understood.",
+        "synonyms": [
+          "reflect",
+          "match",
+          "emulate"
+        ]
+      }
+    ],
+    "topics": [
+      "Communication Skills",
+      "Leadership & Management"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "00:06:06"
+  },
+  {
+    "id": "sam-lessin-004",
+    "speakerId": "sam-lessin",
+    "sentence": "there's a bunch of people around and the more you can be inclusive and low heart rate, it's not a scarcity mindset, it's an abundance mindset.",
+    "keyPhrase": {
+      "text": "scarcity mindset",
+      "meaning_ko": "기회와 성공이 한정돼 있다는 결핍 믿음. 나눠주면 내 몫이 줄어든다는 제로섬 심리",
+      "usageTip": "Use this in leadership or culture discussions to describe behavior driven by fear of losing out; pair it with 'abundance mindset' to frame the healthier alternative.",
+      "chips": [
+        "scarcity",
+        "mindset"
+      ],
+      "distractorChips": [
+        "surplus",
+        "generous"
+      ]
+    },
+    "context": "Sam Lessin is contrasting two fundamental ways founders approach relationships and opportunities. He argues that staying calm and inclusive signals confidence, while anxious or exclusive behavior reflects a scarcity mindset — the belief that there is not enough to go around.",
+    "vocabulary": [
+      {
+        "word": "inclusive",
+        "meaning": "deliberately welcoming and making room for a wide range of people or perspectives",
+        "synonyms": [
+          "open",
+          "welcoming"
+        ]
+      },
+      {
+        "word": "abundance",
+        "meaning": "the belief that there is more than enough opportunity or success for everyone, enabling a generous and collaborative approach",
+        "synonyms": [
+          "plenty",
+          "generosity"
+        ]
+      }
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Decision Making"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "00:16:25"
+  },
+  {
+    "id": "sam-lessin-005",
+    "speakerId": "sam-lessin",
+    "sentence": "Yeah, I think you're creating an unnecessary uphill battery for yourself. I'd also say that, look, this goes back to technical differentiation where things are at.",
+    "keyPhrase": {
+      "text": "uphill battle",
+      "surface": "uphill battery",
+      "meaning_ko": "애초에 피할 수 있었던 장애물 때문에 훨씬 더 힘든 싸움을 하게 되다. 스스로 불리한 판을 만들다",
+      "usageTip": "Use this when explaining to a team or investor why a current approach is inefficient or unnecessarily difficult, and you are advocating for a smarter path.",
+      "chips": [
+        "uphill",
+        "battle"
+      ],
+      "distractorChips": [
+        "smooth",
+        "downhill"
+      ]
+    },
+    "context": "Sam Lessin is advising founders not to make their path to success harder than necessary. He warns that ignoring fundamentals like social skills or positioning creates avoidable obstacles — an uphill battle that drains energy better spent elsewhere.",
+    "vocabulary": [
+      {
+        "word": "differentiation",
+        "meaning": "the features or qualities that make a product, company, or approach meaningfully distinct from competitors",
+        "synonyms": [
+          "distinction",
+          "edge",
+          "uniqueness"
+        ]
+      }
+    ],
+    "topics": [
+      "Starting a Company",
+      "Strategy & Planning"
+    ],
+    "difficulty": "beginner",
+    "rarity": "common",
+    "timestamp": "00:08:39"
+  },
+  {
+    "id": "sam-lessin-006",
+    "speakerId": "sam-lessin",
+    "sentence": "I do think there's, again, leave them wanting more, I think is important. And that is partially about knowing when to excuse yourself gracefully as much as it is about when to enter.",
+    "keyPhrase": {
+      "text": "leave them wanting more",
+      "meaning_ko": "상대가 완전히 만족하기 전에 자리를 마무리해 다음 만남을 기대하게 만들다. '더 보고 싶다'는 여운을 남기다",
+      "usageTip": "Use this in sales, pitching, or networking contexts to describe the deliberate choice to end a meeting or presentation before exhausting your audience's interest.",
+      "chips": [
+        "leave",
+        "them",
+        "wanting",
+        "more"
+      ],
+      "distractorChips": [
+        "satisfy",
+        "bore"
+      ]
+    },
+    "context": "Sam Lessin is sharing etiquette advice for founders navigating social and professional events. He argues that knowing when to exit a conversation is just as strategically important as knowing how to enter one — ending on a high note makes people eager for the next interaction.",
+    "vocabulary": [
+      {
+        "word": "gracefully",
+        "meaning": "in a smooth, poised, and socially skillful manner, without causing awkwardness or offense",
+        "synonyms": [
+          "elegantly",
+          "tactfully"
+        ]
+      }
+    ],
+    "topics": [
+      "Communication Skills",
+      "Strategy & Planning"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "00:19:25"
+  },
+  {
+    "id": "sam-lessin-007",
+    "speakerId": "sam-lessin",
+    "sentence": "there are lots of scenarios where I think an Irish goodbye is the best goodbye where you just kind of disappear.",
+    "keyPhrase": {
+      "text": "Irish goodbye",
+      "meaning_ko": "파티나 모임에서 인사 없이 조용히 사라지다. 작별 인사를 생략하고 자연스럽게 자리를 뜨다",
+      "usageTip": "Use this in casual conversation to describe a strategic or discreet exit from a social or professional situation; it lightens the mood while conveying deliberate social awareness.",
+      "chips": [
+        "Irish",
+        "goodbye"
+      ],
+      "distractorChips": [
+        "entrance",
+        "announcement"
+      ]
+    },
+    "context": "Sam Lessin is giving tactical advice on how to exit conversations and events gracefully. He makes the counterintuitive argument that sometimes the cleanest social move is a silent departure — the Irish goodbye — rather than a drawn-out farewell that creates awkwardness.",
+    "vocabulary": [],
+    "topics": [
+      "Communication Skills",
+      "Decision Making"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "01:07:03"
+  },
+  {
+    "id": "sam-lessin-008",
+    "speakerId": "sam-lessin",
+    "sentence": "the key is to give them plausible deniability to themselves and the community effectively that we've wound down this conversation. So you have to look for the signs.",
+    "keyPhrase": {
+      "text": "plausible deniability",
+      "meaning_ko": "상대가 체면을 잃지 않고 물러설 수 있는 그럴듯한 명분을 만들어주다. '부인할 수 있는 여지'를 남겨 퇴로를 열어주다",
+      "usageTip": "Use this in negotiation, conflict resolution, or organizational contexts when describing how to give someone a face-saving way to change their position or exit a situation without losing credibility.",
+      "chips": [
+        "plausible",
+        "deniability"
+      ],
+      "distractorChips": [
+        "accountability",
+        "confession"
+      ]
+    },
+    "context": "Sam Lessin is teaching the social skill of gracefully ending conversations. He argues that simply walking away is not enough — a skilled communicator creates an off-ramp that lets the other person feel the conversation ended naturally, protecting their reputation and ego in the process.",
+    "vocabulary": [
+      {
+        "word": "plausible",
+        "meaning": "seeming reasonable and believable, even if not fully verified",
+        "synonyms": [
+          "credible",
+          "convincing",
+          "believable"
+        ]
+      },
+      {
+        "word": "wound down",
+        "meaning": "gradually brought to a close or conclusion in a calm, natural way",
+        "synonyms": [
+          "wrapped up",
+          "concluded",
+          "tapered off"
+        ]
+      }
+    ],
+    "topics": [
+      "Communication Skills",
+      "Leadership & Management"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "00:48:55"
+  },
+  {
+    "id": "sam-lessin-009",
+    "speakerId": "sam-lessin",
+    "sentence": "It's like they're too capital. If they work, they're too capital intensive. Seed investing does not work in highly capital intensive businesses, so that's not going to happen.",
+    "keyPhrase": {
+      "text": "capital intensive",
+      "meaning_ko": "성과를 내기 전에 막대한 초기 자금이 필요한. 자본 소모가 큰",
+      "usageTip": "Use this in fundraising or strategy discussions to flag that a business model requires substantial upfront financial resources, which affects what kind of investors or funding structures are appropriate.",
+      "chips": [
+        "capital",
+        "intensive"
+      ],
+      "distractorChips": [
+        "lean",
+        "bootstrapped"
+      ]
+    },
+    "context": "Sam Lessin is explaining why certain technology categories are poorly suited for seed-stage investing. He argues that even if the business model works in theory, the sheer amount of capital required before a startup can prove itself makes it a bad match for early-stage funds.",
+    "vocabulary": [
+      {
+        "word": "seed investing",
+        "meaning": "providing early-stage funding to startups, typically before they have a fully proven product or revenue, in exchange for equity",
+        "note": "Seed investors take on the highest risk and typically invest smaller amounts than later-stage venture funds.",
+        "synonyms": [
+          "early-stage investment",
+          "pre-series A funding"
+        ]
+      }
+    ],
+    "topics": [
+      "Fundraising",
+      "Starting a Company"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "rare",
+    "timestamp": "01:13:31"
+  },
+  {
+    "id": "sam-lessin-010",
+    "speakerId": "sam-lessin",
+    "sentence": "you're going to win because of something else, and AI is going to be a propellant to it.",
+    "keyPhrase": {
+      "text": "be a propellant",
+      "surface": "a propellant",
+      "meaning_ko": "이미 갖고 있는 강점을 더 빠르고 강하게 밀어붙이는 추진제. 로켓 연료처럼 기존 우위를 폭발적으로 가속하는 요소",
+      "usageTip": "Use this as a vivid metaphor when describing how a technology, trend, or resource multiplies an existing strength rather than being the core strategy itself.",
+      "chips": [
+        "be",
+        "a",
+        "propellant"
+      ],
+      "distractorChips": [
+        "anchor",
+        "barrier"
+      ]
+    },
+    "context": "Sam Lessin is sharing his view on AI's role in startup success. He argues that AI alone is not a sustainable competitive advantage — instead, founders win based on unique insights, relationships, or distribution, and AI simply accelerates whatever edge they already have.",
+    "vocabulary": [
+      {
+        "word": "propellant",
+        "meaning": "something that drives rapid forward movement; here used metaphorically to mean a powerful accelerant for business growth",
+        "note": "Literally, a propellant is the fuel in a rocket engine. The metaphor positions AI as rocket fuel for a startup's existing competitive advantage.",
+        "synonyms": [
+          "accelerant",
+          "catalyst",
+          "multiplier"
+        ]
+      }
+    ],
+    "topics": [
+      "Strategy & Planning",
+      "Starting a Company"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "01:15:52"
+  },
+  {
+    "id": "andrew-wilkinson-001",
+    "speakerId": "andrew-wilkinson",
+    "sentence": "I wouldn't say that's anything to brag about because I've been an inch deep in a mile wide.",
+    "keyPhrase": {
+      "text": "be an inch deep and a mile wide",
+      "surface": "been an inch deep in a mile wide",
+      "meaning_ko": "여러 분야에 걸쳐 있지만 어느 하나도 깊이 파고들지 못한 상태. '넓고 얕은 T자 역의 반대'",
+      "usageTip": "Use this in business discussions to humbly signal that you have broad exposure to a topic but lack deep specialist knowledge — it preempts criticism and sets honest expectations.",
+      "chips": [
+        "be",
+        "an",
+        "inch",
+        "deep",
+        "and",
+        "a",
+        "mile",
+        "wide"
+      ],
+      "distractorChips": [
+        "narrow",
+        "hollow"
+      ]
+    },
+    "context": "Andrew Wilkinson is reflecting on his own track record as a serial entrepreneur and investor. Rather than claiming deep expertise in any single domain, he acknowledges that his portfolio spans many industries without him having mastered any one of them.",
+    "vocabulary": [
+      {
+        "word": "brag",
+        "meaning": "to boast or speak with excessive pride about one's achievements",
+        "note": "Used informally; 'brag about' is the common colocation in American English.",
+        "synonyms": [
+          "boast",
+          "gloat"
+        ]
+      }
+    ],
+    "topics": [
+      "Career Development",
+      "Learning & Growth"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "00:04:51"
+  },
+  {
+    "id": "andrew-wilkinson-002",
+    "speakerId": "andrew-wilkinson",
+    "sentence": "So it's just not that exciting to them, which again, going back to fish where the fish are, you don't want to be fighting against the commercial fishermen.",
+    "keyPhrase": {
+      "text": "fish where the fish are",
+      "meaning_ko": "반응할 가능성이 높은 시장과 고객에 자원을 집중하다. 싸워 이기기 어려운 곳에서 힘 낭비하지 않기",
+      "usageTip": "Use this in strategy or sales conversations to argue for focusing resources on the most receptive channels or customer segments instead of fighting for market share where competition is brutal.",
+      "chips": [
+        "fish",
+        "where",
+        "the",
+        "fish",
+        "are"
+      ],
+      "distractorChips": [
+        "ocean",
+        "bait"
+      ]
+    },
+    "context": "Andrew Wilkinson is advising on how to find the right customers or investors for your business. He argues that targeting the people who are naturally aligned with what you offer — rather than trying to convince skeptics — is the key to efficient growth.",
+    "vocabulary": [
+      {
+        "word": "commercial",
+        "meaning": "relating to large-scale profit-driven operations, often implying dominant market players",
+        "note": "In the fishing metaphor, 'commercial fishermen' represents entrenched, well-resourced competitors.",
+        "synonyms": [
+          "industrial",
+          "large-scale"
+        ]
+      }
+    ],
+    "topics": [
+      "Growth & Marketing",
+      "Strategy & Planning"
+    ],
+    "difficulty": "beginner",
+    "rarity": "common",
+    "timestamp": "00:30:21"
+  },
+  {
+    "id": "andrew-wilkinson-003",
+    "speakerId": "andrew-wilkinson",
+    "sentence": "And I think they really need to lean into what I call lazy leadership, which is how do I get away from the things I hate as quickly as humanly possible?",
+    "keyPhrase": {
+      "text": "lean into lazy leadership",
+      "surface": "lean into what I call lazy leadership",
+      "meaning_ko": "하기 싫은 일을 최대한 빠르게 위임·제거해 자신이 가장 잘하는 일에만 집중하는 리더십 철학. '게으른 리더십'",
+      "usageTip": "Use this when advising leaders on delegation: frame offloading draining tasks as intentional design, not laziness, to unlock higher-leverage work.",
+      "chips": [
+        "lean",
+        "into",
+        "lazy",
+        "leadership"
+      ],
+      "distractorChips": [
+        "grind",
+        "micromanage"
+      ]
+    },
+    "context": "Andrew Wilkinson is coaching founders who find themselves buried in operational work they dread. He introduces his own management philosophy — 'lazy leadership' — which reframes delegation not as avoidance but as a strategic tool for concentrating your energy where you add the most value.",
+    "vocabulary": [
+      {
+        "word": "humanly",
+        "meaning": "within the limits of what a person can possibly do; used to emphasize urgency or effort",
+        "note": "Always appears in the phrase 'as quickly as humanly possible' to add dramatic emphasis.",
+        "synonyms": [
+          "conceivably",
+          "possibly"
+        ]
+      }
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Decision Making"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "00:11:26"
+  },
+  {
+    "id": "andrew-wilkinson-004",
+    "speakerId": "andrew-wilkinson",
+    "sentence": "then you can have a wonderful life and build a wonderful company that can scale into the hundreds of millions of dollars if you play your cards right without ever raising money.",
+    "keyPhrase": {
+      "text": "play your cards right",
+      "meaning_ko": "기회와 자원을 영리하게 활용해 원하는 결과를 이끌어내다. 타이밍과 판단력이 핵심",
+      "usageTip": "Use this in pitches or planning discussions to signal confidence in a plan — it implies that success is within reach as long as execution is disciplined.",
+      "chips": [
+        "play",
+        "your",
+        "cards",
+        "right"
+      ],
+      "distractorChips": [
+        "wrong",
+        "gamble"
+      ]
+    },
+    "context": "Andrew Wilkinson is making the case that raising venture capital is not the only path to building a large, successful company. He argues that founders who manage their resources wisely and execute deliberately can reach significant scale entirely on their own terms.",
+    "vocabulary": [
+      {
+        "word": "scale",
+        "meaning": "to grow a business to a significantly larger size, especially in revenue",
+        "note": "Used here as a verb; 'scale into the hundreds of millions' means reaching that revenue level.",
+        "synonyms": [
+          "expand",
+          "grow"
+        ]
+      }
+    ],
+    "topics": [
+      "Starting a Company",
+      "Fundraising"
+    ],
+    "difficulty": "beginner",
+    "rarity": "common",
+    "timestamp": "00:27:12"
+  },
+  {
+    "id": "andrew-wilkinson-005",
+    "speakerId": "andrew-wilkinson",
+    "sentence": "And there's this great saying, \"To a man with a hammer, everything looks like a nail.\"",
+    "keyPhrase": {
+      "text": "everything looks like a nail",
+      "meaning_ko": "아는 방법이 하나뿐이면 모든 문제를 그 방법으로만 해결하려 든다. 도구의 편향이 사고를 가린다",
+      "usageTip": "Use this in meetings to caution against cognitive bias toward a favorite solution — it signals intellectual humility and opens the floor to alternatives.",
+      "chips": [
+        "everything",
+        "looks",
+        "like",
+        "a",
+        "nail"
+      ],
+      "distractorChips": [
+        "wrench",
+        "fix"
+      ]
+    },
+    "context": "Andrew Wilkinson cites this proverb while warning against the tendency to default to a single solution — such as always raising venture capital or always building software — simply because it is the approach you already know. The saying encourages seeking the genuinely right tool for each situation.",
+    "vocabulary": [],
+    "topics": [
+      "Decision Making",
+      "Strategy & Planning"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "00:39:39"
+  },
+  {
+    "id": "andrew-wilkinson-006",
+    "speakerId": "andrew-wilkinson",
+    "sentence": "If I tell them an idea in a board meeting and I say, \"I really need you to try this,\" it never works because usually they sandbag it, right?",
+    "keyPhrase": {
+      "text": "sandbag it",
+      "meaning_ko": "맡긴 일을 대놓고 거부하지 않고 최소한의 노력만 투입해 슬그머니 망쳐버리다. 소극적 저항의 한 형태",
+      "usageTip": "Use this in leadership or management discussions to describe the hidden cost of mandating ideas rather than generating genuine buy-in from your team.",
+      "chips": [
+        "sandbag",
+        "it"
+      ],
+      "distractorChips": [
+        "boost",
+        "sprint"
+      ]
+    },
+    "context": "Andrew Wilkinson is explaining why pushing his portfolio company CEOs to execute his ideas from the top down backfires. When leaders feel forced into a direction they do not own, they carry it out half-heartedly — sabotaging results not through open refusal but through lackluster effort.",
+    "vocabulary": [
+      {
+        "word": "board meeting",
+        "meaning": "a formal gathering of a company's board of directors or key stakeholders to discuss strategy and performance",
+        "synonyms": [
+          "board session",
+          "directors' meeting"
+        ]
+      }
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Communication Skills"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "00:41:15"
+  },
+  {
+    "id": "andrew-wilkinson-007",
+    "speakerId": "andrew-wilkinson",
+    "sentence": "And I also love DJing and I was able to analyze the business and luck comes to the prepared mind and it worked out.",
+    "keyPhrase": {
+      "text": "luck comes to the prepared mind",
+      "meaning_ko": "행운은 준비된 사람에게 찾아온다. 남이 '운이 좋았다'고 부르는 것은 대부분 치밀한 사전 분석의 결과",
+      "usageTip": "Use this to reframe a success story in a pitch or retrospective: it signals to investors or partners that your wins are repeatable because they are built on preparation, not chance.",
+      "chips": [
+        "luck",
+        "comes",
+        "to",
+        "the",
+        "prepared",
+        "mind"
+      ],
+      "distractorChips": [
+        "chance",
+        "random"
+      ]
+    },
+    "context": "Andrew Wilkinson recounts how his passion for DJing led him to deeply study the economics of the nightclub business before investing in it. What others might call a lucky break, he attributes to having analyzed the opportunity thoroughly in advance — so when the moment arose, he was positioned to seize it.",
+    "vocabulary": [
+      {
+        "word": "analyze",
+        "meaning": "to examine something in detail in order to understand it or draw conclusions from it",
+        "synonyms": [
+          "assess",
+          "evaluate",
+          "dissect"
+        ]
+      }
+    ],
+    "topics": [
+      "Decision Making",
+      "Learning & Growth"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "rare",
+    "timestamp": "00:36:14"
+  },
+  {
+    "id": "andrew-wilkinson-008",
+    "speakerId": "andrew-wilkinson",
+    "sentence": "one was reframing money to some degree to have it be something that wasn't just about feathering my own nest and making it better.",
+    "keyPhrase": {
+      "text": "feather one's own nest",
+      "surface": "feathering my own nest",
+      "meaning_ko": "자기 이익만을 위해 부와 특권을 쌓다. 종종 타인의 희생을 발판 삼는다는 뉘앙스 포함",
+      "usageTip": "Use this in leadership or culture conversations to flag self-serving behavior, or to contrast it with mission-driven thinking that puts the team or customer first.",
+      "chips": [
+        "feather",
+        "one's",
+        "own",
+        "nest"
+      ],
+      "distractorChips": [
+        "donate",
+        "share"
+      ]
+    },
+    "context": "Andrew Wilkinson is describing a personal mindset shift around money and motivation. He realized that his drive to earn had been mostly self-serving, and he wanted to reframe wealth as a tool for creating value beyond his own comfort — connecting financial success to a larger purpose.",
+    "vocabulary": [
+      {
+        "word": "reframing",
+        "meaning": "consciously changing the way you think about or interpret a concept in order to shift your emotional response or behavior",
+        "note": "A term popular in psychology and coaching; 'reframe' as a verb means to deliberately adopt a new perspective.",
+        "synonyms": [
+          "reconceptualizing",
+          "repositioning"
+        ]
+      }
+    ],
+    "topics": [
+      "Career Development",
+      "Starting a Company"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "01:10:28"
+  },
+  {
+    "id": "andrew-wilkinson-009",
+    "speakerId": "andrew-wilkinson",
+    "sentence": "Because when I was starting out, I would go down every rabbit trail, every infomercial idea I had I would think was genius.",
+    "keyPhrase": {
+      "text": "go down every rabbit trail",
+      "meaning_ko": "번뜩이는 아이디어마다 쫓아다니며 본래 목표에서 자꾸 샛길로 빠지다. 초기 창업자의 흔한 집중력 함정",
+      "usageTip": "Use this in retrospectives or mentoring conversations to describe the trap of chasing too many ideas at once — it signals self-awareness and the value of strategic focus.",
+      "chips": [
+        "go",
+        "down",
+        "every",
+        "rabbit",
+        "trail"
+      ],
+      "distractorChips": [
+        "tunnel",
+        "ignore"
+      ]
+    },
+    "context": "Andrew Wilkinson is reflecting on his early days as an entrepreneur, when his lack of focus led him to pursue any shiny idea that caught his attention. He uses this phrase to contrast his unfocused younger self with the more disciplined, opportunity-filtering approach he developed over time.",
+    "vocabulary": [
+      {
+        "word": "infomercial",
+        "meaning": "a long-form television advertisement designed to look like a regular program, typically promoting a novelty product",
+        "note": "Used humorously here to imply the kind of low-quality, get-rich-quick ideas that seem exciting but rarely pan out.",
+        "synonyms": [
+          "pitch",
+          "advertisement"
+        ]
+      }
+    ],
+    "topics": [
+      "Starting a Company",
+      "Decision Making"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "00:18:20"
+  },
+  {
+    "id": "scott-belsky-001",
+    "speakerId": "scott-belsky",
+    "sentence": "And for those people, I'm like, \"You know what? You're just in the messy middle. Stick with it. This is par for the course.\"",
+    "keyPhrase": {
+      "text": "par for the course",
+      "meaning_ko": "이 상황에서 으레 겪게 되는, 지극히 정상적인 일",
+      "usageTip": "Use this phrase to normalize setbacks or difficulties, signaling to a team or colleague that what they are experiencing is a predictable and expected part of the process.",
+      "chips": [
+        "par",
+        "for",
+        "the",
+        "course"
+      ],
+      "distractorChips": [
+        "standard",
+        "unusual"
+      ]
+    },
+    "context": "Scott Belsky is reassuring founders who are feeling overwhelmed in the difficult middle stages of building a company. He explains that the chaos and uncertainty they feel is not a sign of failure — it is simply what this stage of the journey looks like for everyone.",
+    "vocabulary": [
+      {
+        "word": "messy middle",
+        "meaning": "the difficult, unglamorous stretch between a project's exciting start and its eventual success",
+        "note": "A term Scott Belsky popularized in his book 'The Messy Middle' to describe the sustained grind of building.",
+        "synonyms": [
+          "the hard slog",
+          "the long haul"
+        ]
+      }
+    ],
+    "topics": [
+      "Starting a Company",
+      "Leadership & Management"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "00:00:31"
+  },
+  {
+    "id": "scott-belsky-002",
+    "speakerId": "scott-belsky",
+    "sentence": "Well, the most humbling moments for me as a product leader have always been shoulder to shoulder to customers.",
+    "keyPhrase": {
+      "text": "shoulder to shoulder",
+      "meaning_ko": "나란히 붙어 함께 일하다; 현장에서 직접 맞대며 협력하다",
+      "usageTip": "Use this phrase to emphasize hands-on collaboration or direct proximity with another group, particularly when contrasting it with a more distant or data-mediated relationship.",
+      "chips": [
+        "shoulder",
+        "to",
+        "shoulder"
+      ],
+      "distractorChips": [
+        "remote",
+        "distant"
+      ]
+    },
+    "context": "Scott Belsky is reflecting on what has kept him grounded as a product leader throughout his career. He describes the experience of working directly with customers — not through reports or data, but in close, in-person contact — as consistently the most humbling and clarifying moments in his work.",
+    "vocabulary": [
+      {
+        "word": "humbling",
+        "meaning": "causing a reduction in one's sense of importance or overconfidence, in a revealing and instructive way",
+        "note": "Used here positively — the humility gained from direct customer contact is framed as a strength, not a weakness.",
+        "synonyms": [
+          "sobering",
+          "grounding"
+        ]
+      }
+    ],
+    "topics": [
+      "Product Management",
+      "Leadership & Management"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "00:13:41"
+  },
+  {
+    "id": "scott-belsky-003",
+    "speakerId": "scott-belsky",
+    "sentence": "I'm very long the experience economy because I think that there will be some people liberated to focus more on the non-scalable things that really move the needle for experiences for customers.",
+    "keyPhrase": {
+      "text": "move the needle",
+      "meaning_ko": "눈에 띄는 변화를 만들어내다; 지표를 실질적으로 움직이다",
+      "usageTip": "Use this phrase in business discussions when distinguishing between activities that produce real, measurable impact versus those that are busy work or marginal in effect.",
+      "chips": [
+        "move",
+        "the",
+        "needle"
+      ],
+      "distractorChips": [
+        "shift",
+        "drop"
+      ]
+    },
+    "context": "Scott Belsky is arguing that as AI handles more scalable, automated tasks, humans will become more valuable for delivering high-touch, non-scalable experiences. He believes investing in the experience economy is smart precisely because it is the human-driven, hard-to-replicate work that produces the most meaningful results for customers.",
+    "vocabulary": [
+      {
+        "word": "non-scalable",
+        "meaning": "describing activities or approaches that cannot be easily expanded or automated to serve more people without proportionally more effort or cost",
+        "synonyms": [
+          "labor-intensive",
+          "high-touch"
+        ]
+      },
+      {
+        "word": "experience economy",
+        "meaning": "a business environment in which companies compete by delivering memorable, personalized experiences rather than just goods or services",
+        "note": "A concept popularized by Pine and Gilmore (1999) and increasingly relevant in an AI-augmented world."
+      }
+    ],
+    "topics": [
+      "Strategy & Planning",
+      "Product Management"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "00:28:38"
+  },
+  {
+    "id": "scott-belsky-004",
+    "speakerId": "scott-belsky",
+    "sentence": "I feel like this is where the best teams are going to build that muscle, that are going to go the distance.",
+    "keyPhrase": {
+      "text": "go the distance",
+      "meaning_ko": "끝까지 버티며 완주하다; 긴 싸움에서 끝내 살아남다",
+      "usageTip": "Use this phrase when discussing long-term commitment or stamina in a project or competitive context, especially to praise or motivate a team facing a prolonged challenge.",
+      "chips": [
+        "go",
+        "the",
+        "distance"
+      ],
+      "distractorChips": [
+        "sprint",
+        "quit"
+      ]
+    },
+    "context": "Scott Belsky is making the case that teams who develop the capacity to respond resourcefully to crises — rather than relying purely on abundant resources — are the ones who will endure and ultimately win. He frames this resilience as a competitive muscle that separates teams capable of long-term success from those that are not.",
+    "vocabulary": [
+      {
+        "word": "muscle",
+        "meaning": "a capability or strength developed through repeated practice and deliberate effort",
+        "note": "Used metaphorically here — 'build that muscle' means to deliberately develop a skill or organizational capacity over time.",
+        "synonyms": [
+          "capability",
+          "resilience"
+        ]
+      }
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Starting a Company"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "00:51:11"
+  },
+  {
+    "id": "scott-belsky-005",
+    "speakerId": "scott-belsky",
+    "sentence": "happen. But in terms of the half, the half-half, I learned this the hard way.",
+    "keyPhrase": {
+      "text": "learn the hard way",
+      "surface": "learned this the hard way",
+      "meaning_ko": "호되게 직접 겪으며 깨닫다",
+      "usageTip": "Use this phrase when sharing a hard-won personal insight to lend credibility and signal that the lesson comes from direct experience, not just theoretical knowledge.",
+      "chips": [
+        "learn",
+        "the",
+        "hard",
+        "way"
+      ],
+      "distractorChips": [
+        "easily",
+        "quickly"
+      ]
+    },
+    "context": "Scott Belsky is sharing a lesson about how to allocate a team's time between shipping new features and improving existing product quality. He acknowledges that the right balance — roughly splitting effort between the two — was not something he understood from the start, but rather a truth he had to discover through his own costly mistakes as a product leader.",
+    "vocabulary": [],
+    "topics": [
+      "Learning & Growth",
+      "Product Management"
+    ],
+    "difficulty": "beginner",
+    "rarity": "common",
+    "timestamp": "00:22:16"
+  },
+  {
+    "id": "scott-belsky-006",
+    "speakerId": "scott-belsky",
+    "sentence": "And so there's a lot of research around progress, be getting progress and how progress is a source of motivation. And so as product leaders, we have to merchandise progress.",
+    "keyPhrase": {
+      "text": "merchandise progress",
+      "meaning_ko": "진척 상황을 팀과 이해관계자에게 적극적으로 가시화해 동기를 부여하다. merchandise = 상품을 진열·홍보하다에서 온 표현",
+      "usageTip": "Use this phrase when discussing internal communications, team morale, or stakeholder updates — especially to argue for making intermediate milestones visible rather than only celebrating final launches.",
+      "chips": [
+        "merchandise",
+        "progress"
+      ],
+      "distractorChips": [
+        "hide",
+        "delay"
+      ]
+    },
+    "context": "Scott Belsky is drawing on research showing that the perception of progress is itself a powerful motivator. He argues that product leaders must go beyond simply making progress — they have a responsibility to present and highlight that progress clearly to their teams, because people need to feel momentum to stay engaged during long development cycles.",
+    "vocabulary": [
+      {
+        "word": "merchandise",
+        "meaning": "to actively promote and make something visible in order to maximize its perceived value — here used as a verb to mean strategically showcasing progress",
+        "note": "An unconventional use of the word: borrowed from retail (to 'merchandise' a product means to display it attractively), applied here to abstract internal communication.",
+        "synonyms": [
+          "showcase",
+          "surface",
+          "highlight"
+        ]
+      }
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Product Management"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "00:43:39"
+  },
+  {
+    "id": "scott-belsky-007",
+    "speakerId": "scott-belsky",
+    "sentence": "And so, we basically went on a killing spree. And we just started killing things.",
+    "keyPhrase": {
+      "text": "go on a killing spree",
+      "surface": "went on a killing spree",
+      "meaning_ko": "기능이나 프로젝트를 거침없이 대거 쳐내다; 망설임 없이 연달아 잘라버리다",
+      "usageTip": "Use this vivid phrase in informal or startup contexts to describe a rapid, decisive wave of cuts — whether eliminating product features, reducing a roadmap, or cutting low-value meetings and processes.",
+      "chips": [
+        "go",
+        "on",
+        "a",
+        "killing",
+        "spree"
+      ],
+      "distractorChips": [
+        "launching",
+        "building"
+      ]
+    },
+    "context": "Scott Belsky is describing a decisive period of ruthless product pruning at a company. Faced with an overgrown feature set that was dragging down the product, the team made an aggressive decision to rapidly cut a large number of things at once rather than incrementally trimming — treating the act of elimination as a bold, coordinated effort.",
+    "vocabulary": [
+      {
+        "word": "spree",
+        "meaning": "a period of unrestrained, rapid activity of a particular kind, usually done in quick succession",
+        "note": "Originally used in contexts like 'shopping spree' or 'crime spree'; here repurposed darkly-humorously to describe aggressive product simplification.",
+        "synonyms": [
+          "binge",
+          "wave",
+          "streak"
+        ]
+      }
+    ],
+    "topics": [
+      "Product Management",
+      "Decision Making"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "00:23:33"
+  },
+  {
+    "id": "scott-belsky-008",
+    "speakerId": "scott-belsky",
+    "sentence": "So my point number one is capitalize on the crisis, everyone. If resources are carbs, resourcefulness is like muscle.",
+    "keyPhrase": {
+      "text": "capitalize on the crisis",
+      "meaning_ko": "위기를 기회로 전환해 이득을 취하다; 어려운 상황을 역으로 이용해 도약하다",
+      "usageTip": "Use this phrase when making the case that a setback, funding cut, or market downturn can be reframed as a forcing function for innovation and efficiency, especially when addressing a leadership team or investors.",
+      "chips": [
+        "capitalize",
+        "on",
+        "the",
+        "crisis"
+      ],
+      "distractorChips": [
+        "surrender",
+        "avoid"
+      ]
+    },
+    "context": "Scott Belsky is sharing his first key piece of advice for teams navigating a period of scarcity or constraint. He argues that crises, rather than being purely negative, force teams to develop genuine resourcefulness — and that this resourcefulness, built under pressure, becomes a lasting competitive strength.",
+    "vocabulary": [
+      {
+        "word": "resourcefulness",
+        "meaning": "the ability to find creative, effective solutions with limited or constrained resources",
+        "note": "Belsky contrasts it with 'resources' (external inputs like money) using an extended metaphor: resources are carbs (quick fuel) while resourcefulness is muscle (built strength).",
+        "synonyms": [
+          "ingenuity",
+          "adaptability"
+        ]
+      }
+    ],
+    "topics": [
+      "Strategy & Planning",
+      "Starting a Company"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "00:51:33"
+  },
+  {
+    "id": "scott-belsky-009",
+    "speakerId": "scott-belsky",
+    "sentence": "In fact, that's probably been the cheat code of my career as a product leader, has just been disproportionately empowering design throughout the process.",
+    "keyPhrase": {
+      "text": "cheat code",
+      "meaning_ko": "남들이 모르는 결정적 비기(秘技); 적은 노력으로 압도적인 결과를 내는 숨겨진 공략법. 비디오게임의 치트 코드에서 온 표현",
+      "usageTip": "Use this phrase informally to describe an insight, habit, or practice that gives you an asymmetric edge — it signals both insider knowledge and a slightly playful tone, making it effective in pitch decks, conference talks, or team kick-offs.",
+      "chips": [
+        "cheat",
+        "code"
+      ],
+      "distractorChips": [
+        "obstacle",
+        "burden"
+      ]
+    },
+    "context": "Scott Belsky is explaining what he considers his single most effective career lever as a product leader. He argues that giving design a disproportionately influential role — beyond what most organizations do — has been the strategic move that has consistently unlocked better product outcomes than any other approach he has used.",
+    "vocabulary": [
+      {
+        "word": "disproportionately",
+        "meaning": "to a degree that is significantly greater than what is typical or expected relative to the whole",
+        "note": "Key word here: Belsky is not just saying he values design, but that he invests in it at a level that is deliberately out of proportion to the norm.",
+        "synonyms": [
+          "inordinately",
+          "far more than usual"
+        ]
+      }
+    ],
+    "topics": [
+      "Product Management",
+      "Career Development"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "rare",
+    "timestamp": "00:35:57"
+  },
+  {
+    "id": "scott-belsky-010",
+    "speakerId": "scott-belsky",
+    "sentence": "I think experienced product thinkers with that golden gut of, \"Oh my gosh. Wait, reduction of cognitive load.\"",
+    "keyPhrase": {
+      "text": "golden gut",
+      "meaning_ko": "수년의 경험으로 단련된, 데이터 없이도 정확히 맞아떨어지는 황금 직관",
+      "usageTip": "Use this phrase to acknowledge or praise the earned intuition of a senior colleague, or to argue for the irreplaceable value of experienced judgment in product and design decisions — especially in contrast to purely data-driven approaches.",
+      "chips": [
+        "golden",
+        "gut"
+      ],
+      "distractorChips": [
+        "instinct",
+        "logic"
+      ]
+    },
+    "context": "Scott Belsky is arguing that experienced product thinkers possess a form of intuition that AI cannot easily replicate. He uses the phrase 'golden gut' to describe the deep, pattern-recognition-based instinct that allows a veteran product leader to instantly recognize — without needing data — when a design is adding too much cognitive load on a user.",
+    "vocabulary": [
+      {
+        "word": "cognitive load",
+        "meaning": "the total amount of mental effort required to process information or complete a task",
+        "note": "A core concept in UX design: reducing cognitive load means making a product easier to understand and use without overwhelming the user's attention.",
+        "synonyms": [
+          "mental effort",
+          "mental overhead"
+        ]
+      }
+    ],
+    "topics": [
+      "Product Management",
+      "Decision Making"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "00:37:39"
+  },
+  {
+    "id": "seth-godin-001",
+    "speakerId": "seth-godin",
+    "sentence": "For a product person, these are the critical choices and you probably have glossed over them.",
+    "keyPhrase": {
+      "text": "gloss over",
+      "surface": "glossed over",
+      "meaning_ko": "중요한 사안을 대충 훑고 그냥 넘어가다",
+      "usageTip": "Use this when calling out that someone skipped over important details in a plan, proposal, or strategy — e.g., 'We glossed over the distribution model in the last meeting.'",
+      "chips": [
+        "gloss",
+        "over"
+      ],
+      "distractorChips": [
+        "skipped",
+        "ignored"
+      ]
+    },
+    "context": "Seth Godin is discussing the strategic decisions that define a product — choices like pricing, audience, and positioning. He warns product managers that the most consequential decisions are often the ones they rush past without deliberate thought.",
+    "vocabulary": [
+      {
+        "word": "critical",
+        "meaning": "extremely important; decisive",
+        "note": "In business, 'critical choices' are the ones that determine success or failure — not merely difficult ones.",
+        "synonyms": [
+          "pivotal",
+          "crucial"
+        ]
+      }
+    ],
+    "topics": [
+      "Product Management",
+      "Decision Making"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "23:31"
+  },
+  {
+    "id": "seth-godin-002",
+    "speakerId": "seth-godin",
+    "sentence": "people, whether they're jazz musicians or fabric designers are seen as having good taste when they bring something to the world that the world didn't necessarily expect but is glad to see.",
+    "keyPhrase": {
+      "text": "bring something to the world",
+      "meaning_ko": "세상이 미처 기대하지 못했지만 반기게 될 무언가를 세상에 내놓다",
+      "usageTip": "Use this in pitches or vision statements to describe the aspiration of launching something that adds new value — e.g., 'Our goal is to bring something to the world that simplifies how teams collaborate.'",
+      "chips": [
+        "bring",
+        "something",
+        "to",
+        "the",
+        "world"
+      ],
+      "distractorChips": [
+        "offer",
+        "present"
+      ]
+    },
+    "context": "Seth Godin is explaining what distinguishes creators who are considered to have 'good taste' — they contribute something surprising yet welcome, whether in art, design, or products. He uses jazz musicians and fabric designers as examples to show that taste is about delighting people beyond their expectations.",
+    "vocabulary": [
+      {
+        "word": "necessarily",
+        "meaning": "as an unavoidable result; inevitably",
+        "note": "Here used in the negative — 'didn't necessarily expect' means the audience had no specific prior demand for it.",
+        "synonyms": [
+          "inevitably",
+          "inherently"
+        ]
+      }
+    ],
+    "topics": [
+      "Strategy & Planning",
+      "Product Management"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "rare",
+    "timestamp": "05:54"
+  },
+  {
+    "id": "seth-godin-003",
+    "speakerId": "seth-godin",
+    "sentence": "Quality means meeting spec, and if you meet spec, you're done. If you don't think the spec is good enough, make a better spec.",
+    "keyPhrase": {
+      "text": "meet spec",
+      "meaning_ko": "정해진 사양(spec)을 충족하다. 품질이란 막연한 완벽함이 아니라 약속한 기준을 정확히 채우는 것",
+      "usageTip": "Use this in engineering or product conversations to anchor quality discussions to concrete requirements — e.g., 'The feature meets spec as written; if this isn't good enough, we need to revise the spec first.'",
+      "chips": [
+        "meet",
+        "spec"
+      ],
+      "distractorChips": [
+        "exceed",
+        "ignore"
+      ]
+    },
+    "context": "Seth Godin is redefining what 'quality' really means for product builders. He argues that quality is not a vague pursuit of perfection — it is the precise act of fulfilling the specification you committed to. If the outcome feels inadequate, the real problem is an insufficient spec, not a quality failure.",
+    "vocabulary": [
+      {
+        "word": "spec",
+        "meaning": "short for specification; a detailed description of requirements a product or feature must satisfy",
+        "note": "In product and engineering contexts, 'spec' is a binding document — meeting it means the work is complete by definition.",
+        "synonyms": [
+          "specification",
+          "requirement",
+          "standard"
+        ]
+      }
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "rare",
+    "timestamp": "06:46"
+  },
+  {
+    "id": "seth-godin-004",
+    "speakerId": "seth-godin",
+    "sentence": "Maybe I got seven, but I'll try to do them off the top of my head.",
+    "keyPhrase": {
+      "text": "off the top of one's head",
+      "surface": "off the top of my head",
+      "meaning_ko": "메모나 준비 없이 즉석에서 기억을 더듬어",
+      "usageTip": "Use this to signal a spontaneous but informed response in meetings — e.g., 'Off the top of my head, I can think of three reasons why that would fail.'",
+      "chips": [
+        "off",
+        "the",
+        "top",
+        "of",
+        "one's",
+        "head"
+      ],
+      "distractorChips": [
+        "roughly",
+        "written"
+      ]
+    },
+    "context": "Seth Godin is about to list several strategic dimensions of product design from memory during a podcast conversation. He uses this phrase to signal that his forthcoming list is drawn from deep internalized knowledge rather than a prepared script.",
+    "vocabulary": [],
+    "topics": [
+      "Communication Skills"
+    ],
+    "difficulty": "beginner",
+    "rarity": "common",
+    "timestamp": "14:26"
+  },
+  {
+    "id": "seth-godin-005",
+    "speakerId": "seth-godin",
+    "sentence": "if you don't build the network effect into what you are making, you are almost certainly going to fail.",
+    "keyPhrase": {
+      "text": "build a network effect into",
+      "surface": "build the network effect into",
+      "meaning_ko": "제품 설계 단계부터 네트워크 효과를 구조 안에 심다. 나중에 기능으로 얹는 게 아니라 처음부터 설계에 내장하는 것",
+      "usageTip": "Use this when evaluating product strategy or startup viability — e.g., 'We need to build the network effect into the core loop before we scale, not after.'",
+      "chips": [
+        "build",
+        "a",
+        "network",
+        "effect",
+        "into"
+      ],
+      "distractorChips": [
+        "viral",
+        "launch"
+      ]
+    },
+    "context": "Seth Godin is explaining one of the core product strategy dimensions that founders and PMs must deliberately plan from the start. He argues that without engineering network effects into the product's structure — not adding them later as a feature — the product is almost certain to lose out to competitors who do.",
+    "vocabulary": [
+      {
+        "word": "network effect",
+        "meaning": "a phenomenon where a product or service gains additional value as more people use it",
+        "note": "Classic examples include telephone networks, social platforms, and marketplaces — each new user makes the product more useful for all existing users.",
+        "synonyms": [
+          "demand-side scale",
+          "viral loop"
+        ]
+      }
+    ],
+    "topics": [
+      "Product Management",
+      "Growth & Marketing"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "15:14"
+  },
+  {
+    "id": "seth-godin-006",
+    "speakerId": "seth-godin",
+    "sentence": "if you want to build a brand, you got to stand for something and you got to say what you don't do.",
+    "keyPhrase": {
+      "text": "stand for something",
+      "meaning_ko": "뚜렷한 가치관이나 신념을 대표하다. 브랜드에서는 '우리가 하지 않는 것'을 선언하는 것도 포함",
+      "usageTip": "Use this in brand strategy and positioning discussions — e.g., 'Our company needs to stand for something specific, or we'll be invisible in a crowded market.'",
+      "chips": [
+        "stand",
+        "for",
+        "something"
+      ],
+      "distractorChips": [
+        "compete",
+        "sell"
+      ]
+    },
+    "context": "Seth Godin is explaining the foundation of building a durable brand. He argues that a brand must have a defined identity — not just a list of features — and that just as important as stating what you stand for is explicitly naming what you refuse to do, which creates trust and clarity with your audience.",
+    "vocabulary": [],
+    "topics": [
+      "Growth & Marketing",
+      "Strategy & Planning"
+    ],
+    "difficulty": "beginner",
+    "rarity": "common",
+    "timestamp": "16:26"
+  },
+  {
+    "id": "seth-godin-007",
+    "speakerId": "seth-godin",
+    "sentence": "ChatGPT's reputation with me is not good because it regularly over promises and under delivers and it does it without kindness or humility.",
+    "keyPhrase": {
+      "text": "overpromise and underdeliver",
+      "surface": "over promises and under delivers",
+      "meaning_ko": "장담은 크게 해 놓고 결과는 못 따라가다. 기대치를 부풀려 신뢰를 갉아먹는 패턴",
+      "usageTip": "Use this as a warning in product or sales contexts — e.g., 'We have to be careful not to overpromise and underdeliver in the beta launch messaging.'",
+      "chips": [
+        "overpromise",
+        "and",
+        "underdeliver"
+      ],
+      "distractorChips": [
+        "mislead",
+        "boast"
+      ]
+    },
+    "context": "Seth Godin is critiquing AI tools — specifically ChatGPT — for a recurring pattern that damages trust: setting high expectations through confident outputs, then falling short, all without acknowledging the gap. He frames it as a reputational failure rooted in a lack of humility.",
+    "vocabulary": [
+      {
+        "word": "humility",
+        "meaning": "the quality of being modest and not overstating one's abilities or certainty",
+        "note": "In product and business contexts, humility means acknowledging limitations openly rather than projecting false confidence.",
+        "synonyms": [
+          "modesty",
+          "candor"
+        ]
+      }
+    ],
+    "topics": [
+      "Communication Skills",
+      "Growth & Marketing"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "18:15"
+  },
+  {
+    "id": "seth-godin-008",
+    "speakerId": "seth-godin",
+    "sentence": "You can cross the chasm if you're someone like Tesla. And instead, they decide to pull a stunt, and that's not okay.",
+    "keyPhrase": {
+      "text": "cross the chasm",
+      "meaning_ko": "얼리어답터 틈새를 넘어 대중 시장으로 진입하다. Geoffrey Moore의 캐즘 이론에서 온 표현",
+      "usageTip": "Use this in go-to-market or growth strategy conversations — e.g., 'We've nailed the early adopter segment; the real challenge now is figuring out how to cross the chasm.'",
+      "chips": [
+        "cross",
+        "the",
+        "chasm"
+      ],
+      "distractorChips": [
+        "bridge",
+        "jump"
+      ]
+    },
+    "context": "Seth Godin is discussing the classic product diffusion challenge — the gap between winning over enthusiastic early adopters and reaching the larger mainstream market. He suggests that a brand with Tesla's credibility and track record had the standing to make that leap, making it all the more disappointing when they chose a gimmicky move instead.",
+    "vocabulary": [
+      {
+        "word": "chasm",
+        "meaning": "a deep gap or divide; in product strategy, the difficult transition between niche early adopters and the mass market",
+        "note": "Popularized by Geoffrey Moore's 'Crossing the Chasm' — a foundational text in startup and product strategy.",
+        "synonyms": [
+          "gap",
+          "divide"
+        ]
+      }
+    ],
+    "topics": [
+      "Growth & Marketing",
+      "Strategy & Planning"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "41:56"
+  },
+  {
+    "id": "seth-godin-009",
+    "speakerId": "seth-godin",
+    "sentence": "You can cross the chasm if you're someone like Tesla. And instead, they decide to pull a stunt, and that's not okay.",
+    "keyPhrase": {
+      "text": "pull a stunt",
+      "meaning_ko": "실속 없이 눈길만 끌려고 요란한 짓을 벌이다. 쌓아 온 신뢰를 소비하는 퍼포먼스성 행동",
+      "usageTip": "Use this critically in leadership or communications contexts — e.g., 'Announcing a half-baked feature just to make headlines is pulling a stunt, not building trust.'",
+      "chips": [
+        "pull",
+        "a",
+        "stunt"
+      ],
+      "distractorChips": [
+        "gamble",
+        "trick"
+      ]
+    },
+    "context": "Seth Godin is criticizing a move by Tesla — a brand with enough credibility to earn mainstream market trust — for choosing a showy, gimmicky action rather than taking a principled step forward. In his view, pulling a stunt means wasting hard-earned brand equity and signals a lack of integrity.",
+    "vocabulary": [],
+    "topics": [
+      "Leadership & Management",
+      "Communication Skills"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "41:56"
+  },
+  {
+    "id": "seth-godin-010",
+    "speakerId": "seth-godin",
+    "sentence": "What we can do is be of service. We can open the door to help people get to where they always wanted to go.",
+    "keyPhrase": {
+      "text": "be of service",
+      "meaning_ko": "상대가 이미 가고 싶었던 곳에 다다를 수 있도록 진심으로 돕다. 자기 의제가 아닌 상대의 목적에 복무하는 것",
+      "usageTip": "Use this in mission, values, or leadership conversations to articulate a service-oriented mindset — e.g., 'Our job is to be of service to our users, not to optimize for engagement metrics.'",
+      "chips": [
+        "be",
+        "of",
+        "service"
+      ],
+      "distractorChips": [
+        "helpful",
+        "useful"
+      ]
+    },
+    "context": "Seth Godin is reflecting on the deeper purpose of building products, brands, or businesses. Rather than focusing on extraction or self-promotion, he argues that the most powerful thing creators can do is genuinely serve their audience — helping people reach goals they already had, without imposing a new agenda.",
+    "vocabulary": [],
+    "topics": [
+      "Leadership & Management",
+      "Career Development"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "rare",
+    "timestamp": "43:25"
+  },
+  {
+    "id": "naomi-gleit-001",
+    "speakerId": "naomi-gleit",
+    "sentence": "Mark got on board or saw the value in it and was a huge proponent of it, but I'm not sure it necessarily originated with him.",
+    "keyPhrase": {
+      "text": "get on board",
+      "surface": "got on board",
+      "meaning_ko": "(처음엔 미온적이던 사람이) 편에 서서 지지하게 되다",
+      "usageTip": "Use 'get on board' when describing a stakeholder, executive, or colleague who was initially neutral or skeptical but ultimately aligned with and supported your initiative.",
+      "chips": [
+        "get",
+        "on",
+        "board"
+      ],
+      "distractorChips": [
+        "aside",
+        "along"
+      ]
+    },
+    "context": "Naomi Gleit is describing how Facebook's growth team came to be and how CEO Mark Zuckerberg ultimately embraced the initiative. She explains that leadership buy-in was not always where new ideas started — sometimes teams built proof first and executives came around later.",
+    "vocabulary": [
+      {
+        "word": "proponent",
+        "meaning": "a person who actively supports or advocates for something",
+        "note": "Stronger than 'supporter' — implies vocal, ongoing advocacy.",
+        "synonyms": [
+          "advocate",
+          "champion",
+          "backer"
+        ]
+      }
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Product Management"
+    ],
+    "difficulty": "beginner",
+    "rarity": "common",
+    "timestamp": "00:25:00"
+  },
+  {
+    "id": "naomi-gleit-002",
+    "speakerId": "naomi-gleit",
+    "sentence": "And so I think small group is characterized by a lot of disagreeable givers and I think that's really important for an organization.",
+    "keyPhrase": {
+      "text": "disagreeable giver",
+      "surface": "disagreeable givers",
+      "meaning_ko": "조직에 진심으로 헌신하면서도 듣기 싫은 말을 서슴없이 하는 사람. '쓴소리 기여자'",
+      "usageTip": "Use 'disagreeable giver' when discussing team composition, hiring values, or performance reviews to highlight someone who prioritizes organizational health over social comfort.",
+      "chips": [
+        "disagreeable",
+        "giver"
+      ],
+      "distractorChips": [
+        "taker",
+        "pleaser"
+      ]
+    },
+    "context": "Naomi Gleit is explaining what kinds of people are most valuable inside a large organization like Meta. She draws on Adam Grant's giver/taker framework to argue that the rarest and most prized employee type is someone who combines genuine helpfulness with the courage to push back and voice disagreement.",
+    "vocabulary": [
+      {
+        "word": "disagreeable",
+        "meaning": "willing to disagree or challenge others, even when it causes friction",
+        "note": "Used here in a positive, technical sense borrowed from organizational psychology — not simply 'unpleasant.'",
+        "synonyms": [
+          "contrarian",
+          "challenging"
+        ]
+      }
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Career Development"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "00:21:52"
+  },
+  {
+    "id": "naomi-gleit-003",
+    "speakerId": "naomi-gleit",
+    "sentence": "I've been in a lot of situations where people are using the same or different words to describe the same or different things, which results in talking past each other.",
+    "keyPhrase": {
+      "text": "talk past each other",
+      "surface": "talking past each other",
+      "meaning_ko": "서로 다른 얘기를 하면서 대화가 엇나가다. 겉으론 소통하는 것 같지만 실은 각자의 벽에 대고 말하는 상태",
+      "usageTip": "Use 'talk past each other' to name the dynamic in a meeting where two parties seem to be arguing but are actually addressing different questions — it signals the need to align on definitions before continuing.",
+      "chips": [
+        "talk",
+        "past",
+        "each",
+        "other"
+      ],
+      "distractorChips": [
+        "around",
+        "over"
+      ]
+    },
+    "context": "Naomi Gleit is discussing a common breakdown in cross-functional or strategic conversations at large companies like Meta. She points out that misalignment often stems not from bad intentions but from undefined terms — people assume they share a definition when they do not.",
+    "vocabulary": [],
+    "topics": [
+      "Communication Skills",
+      "Strategy & Planning"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "00:50:07"
+  },
+  {
+    "id": "naomi-gleit-004",
+    "speakerId": "naomi-gleit",
+    "sentence": "So at every step, and I talked about the growth team, the projects that we were working on were really at a high level around removing barriers.",
+    "keyPhrase": {
+      "text": "remove barriers",
+      "surface": "removing barriers",
+      "meaning_ko": "사용자가 막히는 지점을 없애다. 진입과 전환을 가로막는 걸림돌을 제거하다",
+      "usageTip": "Use 'remove barriers' in product or growth discussions to describe work that reduces friction in the user journey — onboarding flows, signup steps, permission prompts, and similar conversion blockers.",
+      "chips": [
+        "remove",
+        "barriers"
+      ],
+      "distractorChips": [
+        "walls",
+        "limits"
+      ]
+    },
+    "context": "Naomi Gleit is summarizing the core mission of Meta's early growth team, which she helped build. She explains that regardless of the specific project, the team's unifying principle was reducing friction so that new users could experience the product's value as quickly and easily as possible.",
+    "vocabulary": [],
+    "topics": [
+      "Growth & Marketing",
+      "Product Management"
+    ],
+    "difficulty": "beginner",
+    "rarity": "common",
+    "timestamp": "00:39:23"
+  },
+  {
+    "id": "naomi-gleit-005",
+    "speakerId": "naomi-gleit",
+    "sentence": "I think it's very important to have a single-threaded owner. We used to call this a directly responsible individual or a throat to choke. We obviously don't say that anymore.",
+    "keyPhrase": {
+      "text": "single-threaded owner",
+      "meaning_ko": "다른 업무와 나눠 갖지 않고 한 프로젝트에만 전적으로 책임지는 단독 오너",
+      "usageTip": "Use 'single-threaded owner' when advocating for clear accountability on a project — especially when a committee structure or shared ownership is causing slow decisions or diffused responsibility.",
+      "chips": [
+        "single-threaded",
+        "owner"
+      ],
+      "distractorChips": [
+        "shared",
+        "delegated"
+      ]
+    },
+    "context": "Naomi Gleit is making the case for clear ownership structures inside large organizations. She traces the concept through multiple names it has carried at different companies — including the now-retired 'throat to choke' — to illustrate that the underlying principle (one owner, full accountability) remains constant even as the language evolves.",
+    "vocabulary": [
+      {
+        "word": "single-threaded",
+        "meaning": "focused on one task or responsibility without splitting attention across multiple demands",
+        "note": "Borrowed from computing, where a single-threaded process handles one task at a time. In business, it means one person owns the initiative exclusively.",
+        "synonyms": [
+          "dedicated",
+          "undivided"
+        ]
+      }
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Decision Making"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "00:54:05"
+  },
+  {
+    "id": "naomi-gleit-006",
+    "speakerId": "naomi-gleit",
+    "sentence": "I sometimes think that maybe some of our efforts were really more on the margin of a bigger trend around product-market fit.",
+    "keyPhrase": {
+      "text": "on the margin",
+      "meaning_ko": "큰 흐름의 주된 원인이 아니라 미미한 부가 효과에 그치다. 변방의 작은 기여에 불과하다",
+      "usageTip": "Use 'on the margin' in retrospectives or strategy discussions when distinguishing between a factor that had a small incremental effect versus a structural force that drove the bulk of an outcome.",
+      "chips": [
+        "on",
+        "the",
+        "margin"
+      ],
+      "distractorChips": [
+        "core",
+        "center"
+      ]
+    },
+    "context": "Naomi Gleit is reflecting honestly on the actual impact of Meta's early growth work. Even after years of high-profile growth experiments, she acknowledges that the biggest gains may have come from Facebook achieving genuine product-market fit rather than from the team's tactical optimizations — a candid, intellectually humble assessment.",
+    "vocabulary": [
+      {
+        "word": "product-market fit",
+        "meaning": "the degree to which a product satisfies strong market demand, making growth feel organic and self-sustaining",
+        "note": "A foundational concept in startup strategy, popularized by Marc Andreessen. Achieving it is typically the single biggest driver of early growth.",
+        "synonyms": [
+          "PMF"
+        ]
+      }
+    ],
+    "topics": [
+      "Growth & Marketing",
+      "Strategy & Planning"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "00:42:27"
+  },
+  {
+    "id": "naomi-gleit-007",
+    "speakerId": "naomi-gleit",
+    "sentence": "And so oftentimes I'm just really trying to lead from behind and help them be as successful as possible.",
+    "keyPhrase": {
+      "text": "lead from behind",
+      "meaning_ko": "앞에서 지시하는 대신 뒤에서 받쳐주며 팀원이 빛나도록 이끌다. 서번트 리더십",
+      "usageTip": "Use 'lead from behind' to describe a servant-leadership approach where a manager's role is to enable expert contributors rather than to dictate decisions — especially effective with senior or specialized teams.",
+      "chips": [
+        "lead",
+        "from",
+        "behind"
+      ],
+      "distractorChips": [
+        "above",
+        "forward"
+      ]
+    },
+    "context": "Naomi Gleit is describing her leadership philosophy when working with domain experts on her team at Meta. Because her direct reports often know their specific area more deeply than she does, she deliberately steps back from telling them what to do and instead focuses on removing obstacles and amplifying their work.",
+    "vocabulary": [],
+    "topics": [
+      "Leadership & Management",
+      "Career Development"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "rare",
+    "timestamp": "01:18:39"
+  },
+  {
+    "id": "naomi-gleit-008",
+    "speakerId": "naomi-gleit",
+    "sentence": "In terms of how I prioritize it, it's a non-negotiable or table stakes, every morning I have to work out.",
+    "keyPhrase": {
+      "text": "table stakes",
+      "meaning_ko": "게임에 끼려면 반드시 갖춰야 할 최소 조건. 타협의 여지 없는 기본 전제",
+      "usageTip": "Use 'table stakes' in product, business, or personal productivity conversations to describe a feature, behavior, or condition that is the absolute baseline — without it, you are not even in the game.",
+      "chips": [
+        "table",
+        "stakes"
+      ],
+      "distractorChips": [
+        "optional",
+        "bonus"
+      ]
+    },
+    "context": "Naomi Gleit is discussing how she protects her morning workout habit despite a demanding schedule at Meta. She frames daily exercise not as a nice-to-have preference but as an unconditional baseline — the same way a poker player must put chips on the table just to be dealt in.",
+    "vocabulary": [
+      {
+        "word": "non-negotiable",
+        "meaning": "an item or condition that cannot be compromised or traded away under any circumstances",
+        "synonyms": [
+          "mandatory",
+          "must-have",
+          "absolute"
+        ]
+      }
+    ],
+    "topics": [
+      "Decision Making",
+      "Communication Skills"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "01:13:28"
+  },
+  {
+    "id": "naomi-gleit-009",
+    "speakerId": "naomi-gleit",
+    "sentence": "Instead, the best thing that you can actually do in that situation is stand up into your fear, is to ride the wave. That is the safest thing you can do.",
+    "keyPhrase": {
+      "text": "stand up into your fear",
+      "meaning_ko": "두려움에서 도망치지 않고 정면으로 파고들다. 물결을 거스르지 않고 올라타듯 공포 속으로 몸을 세우다",
+      "usageTip": "Use 'stand up into your fear' in coaching, mentorship, or motivational contexts when encouraging someone to engage directly with a difficult conversation, a stretch assignment, or a high-stakes decision instead of avoiding it.",
+      "chips": [
+        "stand",
+        "up",
+        "into",
+        "your",
+        "fear"
+      ],
+      "distractorChips": [
+        "avoid",
+        "retreat"
+      ]
+    },
+    "context": "Naomi Gleit is offering advice about how to handle moments of anxiety or uncertainty, using an extended metaphor of ocean swimming. She argues that the instinct to pull back or escape from fear is counterproductive — engaging directly with the challenge, like a surfer riding a wave rather than fighting it, is both safer and more effective.",
+    "vocabulary": [
+      {
+        "word": "ride the wave",
+        "meaning": "to move with a situation's momentum rather than resisting it, allowing the force to carry you through",
+        "note": "A surfing metaphor used here to contrast with the impulse to fight or flee a difficult situation.",
+        "synonyms": [
+          "go with the flow",
+          "lean in"
+        ]
+      }
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Learning & Growth"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "01:34:58"
+  },
+  {
+    "id": "naomi-gleit-010",
+    "speakerId": "naomi-gleit",
+    "sentence": "They can also be scheduling my chief of staff and my head of data to bounce ideas off of as a sounding board because that is the process that I know best for me",
+    "keyPhrase": {
+      "text": "bounce ideas off",
+      "surface": "bounce ideas off of",
+      "meaning_ko": "아직 정제되지 않은 아이디어를 상대에게 던져 반응을 보며 생각을 다듬다",
+      "usageTip": "Use 'bounce ideas off' when describing an informal consultation with a colleague where the goal is not a decision but a reality check — it signals collaborative thinking rather than seeking approval.",
+      "chips": [
+        "bounce",
+        "ideas",
+        "off"
+      ],
+      "distractorChips": [
+        "pitch",
+        "present"
+      ]
+    },
+    "context": "Naomi Gleit is explaining her personal decision-making and thinking process as an executive at Meta. Rather than relying solely on her own analysis, she deliberately schedules time with trusted colleagues — her chief of staff and head of data — to test half-formed ideas and sharpen her perspective before committing to a direction.",
+    "vocabulary": [
+      {
+        "word": "sounding board",
+        "meaning": "a person used as a test audience for ideas, whose reactions help the speaker think more clearly",
+        "note": "Metaphor from acoustics: a surface that reflects and amplifies sound. Here it means a trusted person who reflects your thinking back at you.",
+        "synonyms": [
+          "thought partner",
+          "advisor"
+        ]
+      }
+    ],
+    "topics": [
+      "Communication Skills",
+      "Decision Making"
+    ],
+    "difficulty": "beginner",
+    "rarity": "common",
+    "timestamp": "01:23:28"
+  },
+  {
+    "id": "elena-verna-001",
+    "speakerId": "elena-verna",
+    "sentence": "It's their hobby. They love to work. They have fire in their belly. This is not a paycheck for them, they want to do this for some ulterior reason.",
+    "keyPhrase": {
+      "text": "fire in their belly",
+      "meaning_ko": "뱃속에서 타오르는 열정과 강렬한 내적 동기를 지니다",
+      "usageTip": "Use this phrase when praising a candidate's or team member's relentless enthusiasm — especially in a pitch or hiring conversation where you want to signal someone is self-driven, not just competent.",
+      "chips": [
+        "fire",
+        "in",
+        "their",
+        "belly"
+      ],
+      "distractorChips": [
+        "spark",
+        "heart"
+      ]
+    },
+    "context": "Elena Verna is describing the mindset of people who are uniquely suited to work at an early-stage AI startup. She explains that for these individuals, work is not merely a job but a deep personal calling fueled by intrinsic motivation.",
+    "vocabulary": [
+      {
+        "word": "ulterior",
+        "meaning": "existing beyond what is openly stated; hidden or secondary",
+        "note": "Here used positively — the 'ulterior reason' is a deeper personal mission, not a deceptive motive.",
+        "synonyms": [
+          "underlying",
+          "deeper"
+        ]
+      }
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Career Development"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "00:38:59"
+  },
+  {
+    "id": "elena-verna-002",
+    "speakerId": "elena-verna",
+    "sentence": "The only way to create a word of mouth loop is just to blow their socks off when they actually experience your product.",
+    "keyPhrase": {
+      "text": "blow someone's socks off",
+      "surface": "blow their socks off",
+      "meaning_ko": "완전히 압도하여 넋을 잃게 만들다. 만족을 넘어 열광하게 하다",
+      "usageTip": "Use this in a growth or product review meeting to emphasize that the benchmark for success is not satisfaction but genuine delight — the kind that makes customers spontaneously recommend you.",
+      "chips": [
+        "blow",
+        "someone's",
+        "socks",
+        "off"
+      ],
+      "distractorChips": [
+        "knock",
+        "amaze"
+      ]
+    },
+    "context": "Elena Verna is explaining how organic word-of-mouth growth is earned at the product level. She argues that no amount of marketing can substitute for a product experience so outstanding that users are compelled to tell others about it.",
+    "vocabulary": [
+      {
+        "word": "loop",
+        "meaning": "a self-reinforcing cycle where an output feeds back into the input",
+        "note": "In growth, a 'word of mouth loop' means happy users recruit new users, who can become happy users, and so on.",
+        "synonyms": [
+          "cycle",
+          "flywheel"
+        ]
+      }
+    ],
+    "topics": [
+      "Growth & Marketing",
+      "Product Management"
+    ],
+    "difficulty": "beginner",
+    "rarity": "common",
+    "timestamp": "00:33:01"
+  },
+  {
+    "id": "elena-verna-003",
+    "speakerId": "elena-verna",
+    "sentence": "And to be ahead of them is not optimization of the problem, it's reinvention of the solution.",
+    "keyPhrase": {
+      "text": "reinvention of the solution",
+      "meaning_ko": "기존 방식을 개선하는 대신 해결책 자체를 근본부터 다시 발명하다",
+      "usageTip": "Use this phrase in a strategy or roadmap meeting to challenge a team that is stuck in incremental thinking — it signals the need to step back and question core assumptions about how the problem is being solved.",
+      "chips": [
+        "reinvention",
+        "of",
+        "the",
+        "solution"
+      ],
+      "distractorChips": [
+        "improvement",
+        "evolution"
+      ]
+    },
+    "context": "Elena Verna is discussing how AI-era companies can stay ahead of competitors. She draws a sharp distinction between iterating on an existing solution — which competitors can copy — and rethinking the solution from the ground up in a way that renders the old approach obsolete.",
+    "vocabulary": [
+      {
+        "word": "optimization",
+        "meaning": "the process of making something as effective or functional as possible within existing constraints",
+        "note": "Contrasted here with 'reinvention' to highlight the difference between incremental improvement and transformational change.",
+        "synonyms": [
+          "refinement",
+          "improvement"
+        ]
+      }
+    ],
+    "topics": [
+      "Strategy & Planning",
+      "Product Management"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "00:19:54"
+  },
+  {
+    "id": "elena-verna-004",
+    "speakerId": "elena-verna",
+    "sentence": "we're also in really fast moving waters, and the demand that is coming to us, we need to capture it mostly, we don't need to generate a lot of it yet.",
+    "keyPhrase": {
+      "text": "fast moving waters",
+      "meaning_ko": "급변하고 예측 불가능한 시장 환경. 빠른 물살처럼 흘러가는 상황",
+      "usageTip": "Use this metaphor in leadership or investor conversations to acknowledge market volatility while framing it as an opportunity — it signals strategic awareness without catastrophizing.",
+      "chips": [
+        "fast",
+        "moving",
+        "waters"
+      ],
+      "distractorChips": [
+        "turbulent",
+        "shifting"
+      ]
+    },
+    "context": "Elena Verna is describing the current state of the AI market and what it means for growth strategy at Lovable. She argues that because demand for AI products is already surging, the company's primary job is to convert inbound interest efficiently rather than spending heavily on demand generation.",
+    "vocabulary": [
+      {
+        "word": "capture",
+        "meaning": "to successfully attract and convert existing demand into customers or revenue",
+        "note": "Distinct from 'generate' — capturing demand means harvesting interest that already exists rather than creating new awareness.",
+        "synonyms": [
+          "convert",
+          "harvest"
+        ]
+      }
+    ],
+    "topics": [
+      "Strategy & Planning",
+      "Growth & Marketing"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "rare",
+    "timestamp": "00:17:16"
+  },
+  {
+    "id": "elena-verna-005",
+    "speakerId": "elena-verna",
+    "sentence": "You fundamentally have to flip the script and say, \"I need to expose to people of what is possible and I need to remove the monetization friction out of it.\"",
+    "keyPhrase": {
+      "text": "flip the script",
+      "meaning_ko": "기존의 공식을 완전히 뒤집어 정반대로 접근하다",
+      "usageTip": "Use this phrase to signal a bold strategic pivot in a leadership or product meeting — it conveys that the team is not tweaking tactics but reconsidering the foundational logic of a strategy.",
+      "chips": [
+        "flip",
+        "the",
+        "script"
+      ],
+      "distractorChips": [
+        "change",
+        "rewrite"
+      ]
+    },
+    "context": "Elena Verna is challenging the traditional freemium model and arguing that AI products require a different monetization philosophy. She contends that rather than restricting access to drive conversions, companies should first maximize exposure to what the product can do — then remove barriers to payment.",
+    "vocabulary": [
+      {
+        "word": "monetization",
+        "meaning": "the process of converting a product or audience into a revenue stream",
+        "note": "'Monetization friction' refers to any obstacle — paywalls, sign-up gates, limited trial windows — that slows a user's path to paying.",
+        "synonyms": [
+          "revenue generation",
+          "commercialization"
+        ]
+      }
+    ],
+    "topics": [
+      "Strategy & Planning",
+      "Growth & Marketing"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "01:00:09"
+  },
+  {
+    "id": "elena-verna-006",
+    "speakerId": "elena-verna",
+    "sentence": "Now, I think every AI company is on this product-market fit treadmill. Hopefully that treadmill speed slows down.",
+    "keyPhrase": {
+      "text": "product-market fit treadmill",
+      "meaning_ko": "멈추는 순간 뒤처지는 러닝머신 위에 올라탄 것처럼, PMF를 계속 다시 증명해야 하는 상황",
+      "usageTip": "Use this phrase in a board or all-hands to articulate why the team can't coast on a past win — it reframes exhausting constant iteration as a structural market reality rather than internal dysfunction.",
+      "chips": [
+        "product-market",
+        "fit",
+        "treadmill"
+      ],
+      "distractorChips": [
+        "escalator",
+        "cycle"
+      ]
+    },
+    "context": "Elena Verna is reflecting on the unique challenge facing AI companies in 2024–2025, where model breakthroughs arrive so frequently that what counts as a great product changes every few months. She likens this to a treadmill: companies must keep running just to stay in place, because standing still means falling behind.",
+    "vocabulary": [
+      {
+        "word": "treadmill",
+        "meaning": "here used figuratively: a situation requiring constant effort just to maintain the current position, with no forward progress unless you run faster",
+        "note": "The treadmill metaphor emphasizes that stopping — i.e., not iterating — means losing ground, not merely pausing.",
+        "synonyms": [
+          "rat race",
+          "hamster wheel"
+        ]
+      }
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "01:04:26"
+  },
+  {
+    "id": "elena-verna-007",
+    "speakerId": "elena-verna",
+    "sentence": "So that we have a cheat code to it, because we have... Most of the time when we reach out to somebody, they say, \"Yeah, I would love to explore.\"",
+    "keyPhrase": {
+      "text": "cheat code",
+      "meaning_ko": "남들보다 훨씬 쉽게 앞서갈 수 있는 불공평할 정도의 구조적 이점",
+      "usageTip": "Use this phrase informally in team or investor conversations to highlight a genuine competitive moat — it signals confidence without sounding boastful, framing the advantage as an earned asset.",
+      "chips": [
+        "cheat",
+        "code"
+      ],
+      "distractorChips": [
+        "shortcut",
+        "hack"
+      ]
+    },
+    "context": "Elena Verna is explaining how Lovable's strong brand and community reputation make enterprise outreach significantly easier. Because the company is well-known in its niche, cold outreach converts at a higher rate than average — giving the sales motion an inherent structural advantage.",
+    "vocabulary": [],
+    "topics": [
+      "Growth & Marketing",
+      "Starting a Company"
+    ],
+    "difficulty": "beginner",
+    "rarity": "common",
+    "timestamp": "00:41:10"
+  },
+  {
+    "id": "elena-verna-008",
+    "speakerId": "elena-verna",
+    "sentence": "is to maintain noise in the market. And that noise in the market happens by us shipping every day, every other day, multiple times per day and just talking about it constantly.",
+    "keyPhrase": {
+      "text": "maintain noise in the market",
+      "meaning_ko": "시장에서 끊임없이 존재감을 드러내 경쟁자와 잠재 고객이 항상 인지하게 하다",
+      "usageTip": "Use this phrase in a marketing or comms strategy discussion to argue for shipping velocity over polished launch events — it positions frequent releases as a deliberate awareness strategy, not just an engineering habit.",
+      "chips": [
+        "maintain",
+        "noise",
+        "in",
+        "the",
+        "market"
+      ],
+      "distractorChips": [
+        "buzz",
+        "signal"
+      ]
+    },
+    "context": "Elena Verna is describing Lovable's growth-through-shipping philosophy. She argues that in a crowded AI market, continuous public product releases serve a dual purpose: they signal momentum to potential customers and they crowd out competitors in the attention economy.",
+    "vocabulary": [
+      {
+        "word": "shipping",
+        "meaning": "releasing new product features, updates, or improvements to users",
+        "note": "In tech, 'shipping' is the act of making a change publicly available — used as a near-synonym for 'launching' or 'deploying.'",
+        "synonyms": [
+          "releasing",
+          "launching",
+          "deploying"
+        ]
+      }
+    ],
+    "topics": [
+      "Growth & Marketing",
+      "Strategy & Planning"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "rare",
+    "timestamp": "00:25:40"
+  },
+  {
+    "id": "elena-verna-009",
+    "speakerId": "elena-verna",
+    "sentence": "they fundamentally create a step function change in that product market fit as a whole. And that is a retention strategy I can get behind any day and all day.",
+    "keyPhrase": {
+      "text": "step function change",
+      "meaning_ko": "점진적 개선이 아닌, 성능이나 역량이 단번에 불연속적으로 도약하는 변화",
+      "usageTip": "Use this in a roadmap or investor update when describing a planned initiative expected to produce a qualitative, non-linear improvement — it sets expectations that the goal is a category shift, not marginal gains.",
+      "chips": [
+        "step",
+        "function",
+        "change"
+      ],
+      "distractorChips": [
+        "gradual",
+        "incremental"
+      ]
+    },
+    "context": "Elena Verna is previewing an upcoming product initiative at Lovable that the team believes will substantially shift who the product serves and how well it fits that audience. She frames it not as an incremental update but as a discontinuous breakthrough — borrowed from mathematics, where a step function jumps abruptly to a new value.",
+    "vocabulary": [
+      {
+        "word": "step function",
+        "meaning": "a mathematical concept describing a function that changes abruptly from one constant value to another; used in business to mean a sudden, non-linear jump in performance",
+        "note": "The term is borrowed from mathematics and signal processing; in business contexts it emphasizes discontinuity — there is no smooth ramp, just a jump.",
+        "synonyms": [
+          "quantum leap",
+          "inflection point"
+        ]
+      }
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty": "advanced",
+    "rarity": "rare",
+    "timestamp": "00:26:03"
+  },
+  {
+    "id": "elena-verna-010",
+    "speakerId": "elena-verna",
+    "sentence": "in that messy middle and really comfortable of converting chaos into clarity for you and those around you, then yeah, AI company is a wonderful place for you",
+    "keyPhrase": {
+      "text": "convert chaos into clarity",
+      "surface": "converting chaos into clarity",
+      "meaning_ko": "뒤죽박죽인 혼돈 속에서 구조와 방향을 잡아내다",
+      "usageTip": "Use this in a hiring interview or leadership discussion to articulate what kind of problem-solving mindset you value — it signals that you prize structured thinking under pressure over comfort with process.",
+      "chips": [
+        "convert",
+        "chaos",
+        "into",
+        "clarity"
+      ],
+      "distractorChips": [
+        "order",
+        "structure"
+      ]
+    },
+    "context": "Elena Verna is advising listeners on who thrives at an AI startup versus who struggles. She describes 'the messy middle' — the period between initial excitement and stable product — as one that rewards people who can make sense of ambiguity and help their teams navigate it rather than waiting for direction from above.",
+    "vocabulary": [
+      {
+        "word": "messy middle",
+        "meaning": "the difficult, uncertain phase of a project or company between early momentum and eventual stability",
+        "note": "A common startup idiom — the 'messy middle' is where most companies struggle or fail because the initial energy fades before sustainable systems are in place.",
+        "synonyms": [
+          "uncertain phase",
+          "ambiguous period"
+        ]
+      }
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Career Development"
+    ],
+    "difficulty": "intermediate",
+    "rarity": "common",
+    "timestamp": "01:09:13"
   }
 ]
