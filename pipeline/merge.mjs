@@ -37,6 +37,13 @@ for (const card of cards) {
   }
 }
 
+// stamp the YouTube episode id when we have one collected (pipeline/youtube-ids.json)
+const ytPath = join(ROOT, 'pipeline', 'youtube-ids.json');
+if (existsSync(ytPath)) {
+  const ids = JSON.parse(readFileSync(ytPath, 'utf8'));
+  if (ids[speaker.id]) speaker.youtubeId = ids[speaker.id];
+}
+
 // upsert speaker by id (keep an existing portrait path if one was set manually)
 const spIdx = allSpeakers.findIndex((s) => s.id === speaker.id);
 if (spIdx >= 0) {

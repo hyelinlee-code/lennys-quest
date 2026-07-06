@@ -14,18 +14,19 @@
     "cardCount": 9,
     "overlayZones": {
       "banner": {
-        "left": 22.0,
-        "right": 22.0,
+        "left": 22,
+        "right": 22,
         "top": 6.3,
         "height": 5.6
       },
       "scroll": {
-        "left": 18.0,
-        "right": 18.0,
-        "top": 86.0,
-        "height": 8.0
+        "left": 18,
+        "right": 18,
+        "top": 86,
+        "height": 8
       }
-    }
+    },
+    "youtubeId": "qImgGtnNbx0"
   },
   {
     "id": "wes-kao",
@@ -42,18 +43,19 @@
     "cardCount": 10,
     "overlayZones": {
       "banner": {
-        "left": 21.0,
-        "right": 21.0,
+        "left": 21,
+        "right": 21,
         "top": 6.2,
-        "height": 6.0
+        "height": 6
       },
       "scroll": {
-        "left": 17.0,
-        "right": 17.0,
+        "left": 17,
+        "right": 17,
         "top": 85.5,
         "height": 8.5
       }
-    }
+    },
+    "youtubeId": "4jtGsyz4jLs"
   },
   {
     "id": "brian-chesky",
@@ -70,18 +72,19 @@
     "cardCount": 10,
     "overlayZones": {
       "banner": {
-        "left": 22.0,
-        "right": 22.0,
+        "left": 22,
+        "right": 22,
         "top": 6.3,
         "height": 5.6
       },
       "scroll": {
-        "left": 18.0,
-        "right": 18.0,
-        "top": 86.0,
-        "height": 8.0
+        "left": 18,
+        "right": 18,
+        "top": 86,
+        "height": 8
       }
-    }
+    },
+    "youtubeId": "4ef0juAMqoE"
   },
   {
     "id": "drew-houston",
@@ -98,18 +101,19 @@
     "cardCount": 10,
     "overlayZones": {
       "banner": {
-        "left": 22.0,
-        "right": 22.0,
+        "left": 22,
+        "right": 22,
         "top": 6.3,
         "height": 5.6
       },
       "scroll": {
-        "left": 18.0,
-        "right": 18.0,
-        "top": 86.0,
-        "height": 8.0
+        "left": 18,
+        "right": 18,
+        "top": 86,
+        "height": 8
       }
-    }
+    },
+    "youtubeId": "egdYKLBswgk"
   },
   {
     "id": "dylan-field",
@@ -126,18 +130,19 @@
     "cardCount": 10,
     "overlayZones": {
       "banner": {
-        "left": 22.0,
-        "right": 22.0,
+        "left": 22,
+        "right": 22,
         "top": 6.3,
         "height": 5.6
       },
       "scroll": {
-        "left": 18.0,
-        "right": 18.0,
-        "top": 86.0,
-        "height": 8.0
+        "left": 18,
+        "right": 18,
+        "top": 86,
+        "height": 8
       }
-    }
+    },
+    "youtubeId": "yJQYBjto41s"
   },
   {
     "id": "tobi-lutke",
@@ -154,18 +159,19 @@
     "cardCount": 10,
     "overlayZones": {
       "banner": {
-        "left": 22.0,
-        "right": 22.0,
+        "left": 22,
+        "right": 22,
         "top": 6.3,
         "height": 5.6
       },
       "scroll": {
-        "left": 18.0,
-        "right": 18.0,
-        "top": 86.0,
-        "height": 8.0
+        "left": 18,
+        "right": 18,
+        "top": 86,
+        "height": 8
       }
-    }
+    },
+    "youtubeId": "tq6vdDJQXvs"
   },
   {
     "id": "melanie-perkins",
@@ -182,18 +188,19 @@
     "cardCount": 10,
     "overlayZones": {
       "banner": {
-        "left": 22.0,
-        "right": 22.0,
+        "left": 22,
+        "right": 22,
         "top": 6.3,
         "height": 5.6
       },
       "scroll": {
-        "left": 18.0,
-        "right": 18.0,
-        "top": 86.0,
-        "height": 8.0
+        "left": 18,
+        "right": 18,
+        "top": 86,
+        "height": 8
       }
-    }
+    },
+    "youtubeId": "-LywX3T5Scc"
   },
   {
     "id": "stewart-butterfield",
@@ -210,18 +217,19 @@
     "cardCount": 10,
     "overlayZones": {
       "banner": {
-        "left": 22.0,
-        "right": 22.0,
+        "left": 22,
+        "right": 22,
         "top": 6.3,
         "height": 5.6
       },
       "scroll": {
-        "left": 18.0,
-        "right": 18.0,
-        "top": 86.0,
-        "height": 8.0
+        "left": 18,
+        "right": 18,
+        "top": 86,
+        "height": 8
       }
-    }
+    },
+    "youtubeId": "kLe-zy5r0Mk"
   },
   {
     "id": "ben-horowitz",
@@ -240,16 +248,17 @@
       "banner": {
         "left": 21.5,
         "right": 21.5,
-        "top": 6.0,
+        "top": 6,
         "height": 5.8
       },
       "scroll": {
-        "left": 18.0,
-        "right": 18.0,
-        "top": 86.0,
-        "height": 8.0
+        "left": 18,
+        "right": 18,
+        "top": 86,
+        "height": 8
       }
-    }
+    },
+    "youtubeId": "KPxTekxQjzc"
   },
   {
     "id": "sarah-tavel",
@@ -268,16 +277,17 @@
       "banner": {
         "left": 21.5,
         "right": 21.5,
-        "top": 6.0,
+        "top": 6,
         "height": 5.8
       },
       "scroll": {
-        "left": 18.0,
-        "right": 18.0,
-        "top": 86.0,
-        "height": 8.0
+        "left": 18,
+        "right": 18,
+        "top": 86,
+        "height": 8
       }
-    }
+    },
+    "youtubeId": "H9g4pzcz6Tk"
   },
   {
     "id": "mike-maples-jr",
@@ -296,16 +306,17 @@
       "banner": {
         "left": 21.5,
         "right": 21.5,
-        "top": 6.0,
+        "top": 6,
         "height": 5.8
       },
       "scroll": {
-        "left": 18.0,
-        "right": 18.0,
-        "top": 86.0,
-        "height": 8.0
+        "left": 18,
+        "right": 18,
+        "top": 86,
+        "height": 8
       }
-    }
+    },
+    "youtubeId": "h9o6gPQA6LA"
   },
   {
     "id": "marty-cagan",
@@ -322,18 +333,19 @@
     "cardCount": 10,
     "overlayZones": {
       "banner": {
-        "left": 21.0,
-        "right": 21.0,
+        "left": 21,
+        "right": 21,
         "top": 6.2,
-        "height": 6.0
+        "height": 6
       },
       "scroll": {
-        "left": 17.0,
-        "right": 17.0,
+        "left": 17,
+        "right": 17,
         "top": 85.5,
         "height": 8.5
       }
-    }
+    },
+    "youtubeId": "h-KVGHoQ_98"
   },
   {
     "id": "shreyas-doshi",
@@ -350,18 +362,19 @@
     "cardCount": 10,
     "overlayZones": {
       "banner": {
-        "left": 21.0,
-        "right": 21.0,
+        "left": 21,
+        "right": 21,
         "top": 6.2,
-        "height": 6.0
+        "height": 6
       },
       "scroll": {
-        "left": 17.0,
-        "right": 17.0,
+        "left": 17,
+        "right": 17,
         "top": 85.5,
         "height": 8.5
       }
-    }
+    },
+    "youtubeId": "YP_QghPLG-8"
   },
   {
     "id": "claire-hughes-johnson",
@@ -378,17 +391,18 @@
     "cardCount": 8,
     "overlayZones": {
       "banner": {
-        "left": 21.0,
-        "right": 21.0,
+        "left": 21,
+        "right": 21,
         "top": 6.2,
-        "height": 6.0
+        "height": 6
       },
       "scroll": {
-        "left": 17.0,
-        "right": 17.0,
+        "left": 17,
+        "right": 17,
         "top": 85.5,
         "height": 8.5
       }
-    }
+    },
+    "youtubeId": "Mv0o9o4MRh0"
   }
 ]
