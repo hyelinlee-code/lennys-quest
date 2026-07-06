@@ -44,7 +44,42 @@ function findRef(slug) {
   return null;
 }
 
-function buildPrompt(houseColor, motif) {
+// Deterministic per-speaker variety: pose / garment / backdrop picked by slug hash,
+// and the speaker's motif becomes the FOCAL conjured artifact (not a hidden sigil).
+// Frame, style, palette system stay locked — variety lives inside the oval only.
+const POSES = [
+  'holding the conjured artifact aloft in one raised hand, gaze steady at the viewer',
+  'studying the artifact as it floats above an open palm at chest height',
+  'conjuring the artifact between both hands, threads of light connecting the fingers',
+  'turned three-quarter with the artifact hovering beside their shoulder',
+  'arms crossed confidently while the artifact orbits slowly above',
+  'writing in a small floating tome while the artifact glows above the page',
+];
+const GARMENTS = [
+  'a high-collared arcane robe',
+  "a scholar's layered coat with a leather satchel strap",
+  'a hooded mantle worn back off the head',
+  'an embroidered vest over rolled shirt-sleeves',
+  'a ceremonial cloak fastened with a single metal clasp',
+  'a simple traveling robe with a craftsman\'s tool belt',
+];
+const BACKDROPS = [
+  'a candlelit observatory with brass instruments',
+  'endless library shelves fading into darkness',
+  'an alchemical workshop with glowing glassware',
+  'a starlit tower balcony overlooking a luminous city of spires',
+];
+
+function hashPick(slug, arr, salt) {
+  let h = salt;
+  for (const ch of slug) h = (h * 31 + ch.charCodeAt(0)) >>> 0;
+  return arr[h % arr.length];
+}
+
+function buildPrompt(houseColor, motif, slug) {
+  const pose = hashPick(slug, POSES, 7);
+  const garment = hashPick(slug, GARMENTS, 13);
+  const backdrop = hashPick(slug, BACKDROPS, 29);
   return `The FIRST attached image is a reference caricature of a specific person (the official illustrated version used by a newsletter). The SECOND attached image is my anchor reference card — match its exact frame construction, palette treatment, and rendering style; change ONLY the character, the set color, and the motif details.
 
 RESTYLE the person from the first image into an ornate collectible "wizard card" for a card-collecting study app.
@@ -52,10 +87,16 @@ RESTYLE the person from the first image into an ornate collectible "wizard card"
 IDENTITY — preserve from the first attached reference: Keep the person clearly recognizable. Preserve their facial features, hairstyle, distinguishing traits, and overall likeness from the reference. This must still read as the SAME person — just redrawn in a new artistic style. Do not invent a different face.
 
 RESTYLE INTO THIS STYLE (lock exactly — identical on every card)
-Antique illuminated trading-card illustration. Painterly oil-portrait finish with fine engraved linework, the look of a vintage arcane collectible. Rich, museum-like, slightly aged. Dignified, not cartoonish. Reimagine the person as a learned alchemist-sage: composed, intelligent expression, holding a small glowing orb of light.
+Antique illuminated trading-card illustration. Painterly oil-portrait finish with fine engraved linework, the look of a vintage arcane collectible. Rich, museum-like, slightly aged. Dignified, not cartoonish. Reimagine the person as a learned alchemist-sage with a composed, intelligent expression.
+
+THIS CARD'S UNIQUE STAGING (varies per card — this is what makes each sage distinct)
+The sage's signature conjured artifact, rendered as a small luminous magical manifestation: ${motif}. NOT a generic glowing orb — the artifact's shape must clearly express this description.
+Pose: ${pose}.
+Attire: ${garment}, in the dominant set color with gold trim.
+Behind the subject inside the oval: ${backdrop}, softly lit and atmospheric.
 
 FRAME & LAYOUT (lock exactly — match the anchor card's ornate density)
-Place the restyled head-and-shoulders portrait inside an arched oval window. Around it, an ELABORATE, DENSELY LAYERED gilded baroque filigree frame — thick sculpted gold scrollwork with multiple nested border bands, exactly as rich and dimensional as the second attached anchor card. Ornate corner flourishes, two small round side medallions at mid-height, and abundant mystical detail (constellations, arcane sigils, fine engraved starfields) filling the space between borders. Weave in a subtle modern "tech wizard" nod: thin circuitry traced into the gold filigree, plus ${motif} worked into the side medallions and sigils. Inside the oval behind the subject: a deep atmospheric background dense with glowing constellations, alchemical apparatus silhouettes, and a faint luminous city of spires — richly detailed like the anchor, never flat or empty. Reserve TWO completely BLANK zones for later text overlay (no letters in them): a slim banner plaque across the TOP, and a blank scroll / cartouche across the BOTTOM THIRD.
+Place the restyled head-and-shoulders portrait inside an arched oval window. Around it, an ELABORATE, DENSELY LAYERED gilded baroque filigree frame — thick sculpted gold scrollwork with multiple nested border bands, exactly as rich and dimensional as the second attached anchor card. Ornate corner flourishes, two small round side medallions at mid-height, and abundant mystical detail (constellations, arcane sigils, fine engraved starfields) filling the space between borders. Weave in a subtle modern "tech wizard" nod: thin circuitry traced into the gold filigree, plus a miniature emblem of the sage's artifact worked into the two side medallions. Reserve TWO completely BLANK zones for later text overlay (no letters in them): a slim banner plaque across the TOP, and a blank scroll / cartouche across the BOTTOM THIRD.
 
 PALETTE / LIGHT
 Candlelit chiaroscuro, warm gold-leaf accents, jewel tones. Dominant set color: ${houseColor}.
@@ -98,7 +139,7 @@ async function generate(slug, apiKey, force) {
   console.log(`🎨 ${slug}: house=${house}, motif="${motif}"`);
   const form = new FormData();
   form.append('model', 'gpt-image-1');
-  form.append('prompt', buildPrompt(houseColor, motif));
+  form.append('prompt', buildPrompt(houseColor, motif, slug));
   form.append('size', '1024x1536');
   form.append('quality', 'high');
   form.append('n', '1');
