@@ -1,0 +1,698 @@
+[
+  {
+    "id": "bret-taylor",
+    "name": "Bret Taylor",
+    "title": "Co-founder & CEO, Sierra",
+    "titleHistory": "Former co-CEO of Salesforce · CTO of Meta · Chair of the OpenAI board",
+    "house": "founder",
+    "epithet": "The Architect Sage",
+    "motif": "a glowing map-pin and a heart-shaped like sigil",
+    "introLine": "I drew the maps, raised the castles, and set out again. Now — what would you ask of me?",
+    "sealLine": "You have inscribed all my teachings. Take my seal, apprentice.",
+    "portrait": "/cards/bret-taylor.png",
+    "episode": "Bret Taylor on Lenny's Podcast",
+    "cardCount": 9,
+    "overlayZones": {
+      "banner": {
+        "left": 22.0,
+        "right": 22.0,
+        "top": 6.3,
+        "height": 5.6
+      },
+      "scroll": {
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
+      }
+    },
+    "youtubeId": "qImgGtnNbx0"
+  },
+  {
+    "id": "wes-kao",
+    "name": "Wes Kao",
+    "title": "Co-founder, Maven",
+    "titleHistory": "Co-founded altMBA with Seth Godin · Co-founder of Maven",
+    "house": "operator",
+    "epithet": "The Sage of Delivery",
+    "motif": "a shimmering quill with crystalline words spiraling around it and a seal carved from organizational charts",
+    "introLine": "Words move companies. Master the subtle craft of delivery, and rooms will move for you.",
+    "sealLine": "You've mastered the craft of delivery. Now go — lead with your words.",
+    "portrait": "/cards/wes-kao.png",
+    "episode": "Wes Kao on Lenny's Podcast",
+    "cardCount": 10,
+    "overlayZones": {
+      "banner": {
+        "left": 21.0,
+        "right": 21.0,
+        "top": 6.2,
+        "height": 6.0
+      },
+      "scroll": {
+        "left": 17.0,
+        "right": 17.0,
+        "top": 85.5,
+        "height": 8.5
+      }
+    },
+    "youtubeId": "4jtGsyz4jLs"
+  },
+  {
+    "id": "brian-chesky",
+    "name": "Brian Chesky",
+    "title": "Co-founder & CEO, Airbnb",
+    "titleHistory": "Co-founder & CEO, Airbnb",
+    "house": "founder",
+    "epithet": "The Sage of Scale",
+    "motif": "a rising spiral with a glowing compass at its center, radiating outward in infinite rings",
+    "introLine": "Welcome, seeker. I have built cities within cities, turning belonging into gravity. What begins small must be imagined ten times larger—this is the founder's first principle.",
+    "sealLine": "You have learned the art of scaling with intention. Go forth and pay it forward, for every scale begins with clarity of direction.",
+    "portrait": "/cards/brian-chesky.png",
+    "episode": "Brian Chesky on Lenny's Podcast",
+    "cardCount": 10,
+    "overlayZones": {
+      "banner": {
+        "left": 22.0,
+        "right": 22.0,
+        "top": 6.3,
+        "height": 5.6
+      },
+      "scroll": {
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
+      }
+    },
+    "youtubeId": "4ef0juAMqoE"
+  },
+  {
+    "id": "drew-houston",
+    "name": "Drew Houston",
+    "title": "Co-founder & CEO, Dropbox",
+    "titleHistory": "Co-founder & CEO, Dropbox",
+    "house": "founder",
+    "epithet": "The Visionary Sage",
+    "motif": "a glowing compass spinning between a desert and a fortress, with a growth spiral winding upward",
+    "introLine": "Greetings, apprentice. I have built empires by learning to grow faster than the companies I lead—run toward the discomfort that shapes you.",
+    "sealLine": "You have glimpsed the path: focus your vision, endure the desert, and keep your spirit's ascent ahead of all else.",
+    "portrait": "/cards/drew-houston.png",
+    "episode": "Drew Houston on Lenny's Podcast",
+    "cardCount": 10,
+    "overlayZones": {
+      "banner": {
+        "left": 22.0,
+        "right": 22.0,
+        "top": 6.3,
+        "height": 5.6
+      },
+      "scroll": {
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
+      }
+    },
+    "youtubeId": "egdYKLBswgk"
+  },
+  {
+    "id": "dylan-field",
+    "name": "Dylan Field",
+    "title": "Co-founder & CEO, Figma",
+    "titleHistory": "Co-founder & CEO, Figma",
+    "house": "founder",
+    "epithet": "The Sage of First Principles",
+    "motif": "a glowing venn diagram converging into a crystal, surrounded by feathered hypotheses that solidify into stone",
+    "introLine": "Welcome, seeker. In a world of noise, the wise test their intuitions against reality itself—generating hypotheses, gathering data, stripping away layers until the root truth emerges.",
+    "sealLine": "You have learned to think with clarity and rigor. Go forth and build with both simplicity and care.",
+    "portrait": "/cards/dylan-field.png",
+    "episode": "Dylan Field on Lenny's Podcast",
+    "cardCount": 10,
+    "overlayZones": {
+      "banner": {
+        "left": 22.0,
+        "right": 22.0,
+        "top": 6.3,
+        "height": 5.6
+      },
+      "scroll": {
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
+      }
+    },
+    "youtubeId": "yJQYBjto41s"
+  },
+  {
+    "id": "tobi-lutke",
+    "name": "Tobi Lütke",
+    "title": "Founder & CEO, Shopify",
+    "titleHistory": "Founder & CEO, Shopify",
+    "house": "founder",
+    "epithet": "The Sage of First Principles",
+    "motif": "a crystalline prism refracting light into new colors, set within a compass rose",
+    "introLine": "To build what others cannot see, you must first unlearn what you thought you knew—then follow your curiosity to the edge where growth knows no speed limit.",
+    "sealLine": "You have looked around corners with clear eyes and questioned the familiar; carry that habit forward, and the world will bend to your vision.",
+    "portrait": "/cards/tobi-lutke.png",
+    "episode": "Tobi Lütke on Lenny's Podcast",
+    "cardCount": 10,
+    "overlayZones": {
+      "banner": {
+        "left": 22.0,
+        "right": 22.0,
+        "top": 6.3,
+        "height": 5.6
+      },
+      "scroll": {
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
+      }
+    },
+    "youtubeId": "tq6vdDJQXvs"
+  },
+  {
+    "id": "melanie-perkins",
+    "name": "Melanie Perkins",
+    "title": "Co-founder & CEO, Canva",
+    "titleHistory": "Co-founder & CEO of Canva",
+    "house": "founder",
+    "epithet": "The Sage of Amplitude",
+    "motif": "a quill and palette merging into a glowing sigil of infinite expansion",
+    "introLine": "I greet you, seeker. In this valley, we speak not of small ambitions—we speak of visions so vast they seem impossible, until they are not.",
+    "sealLine": "Go forth and will your dreams into existence, brick by brick, rejection by rejection, until the world recognizes what you always knew to be true.",
+    "portrait": "/cards/melanie-perkins.png",
+    "episode": "Melanie Perkins on Lenny's Podcast",
+    "cardCount": 10,
+    "overlayZones": {
+      "banner": {
+        "left": 22.0,
+        "right": 22.0,
+        "top": 6.3,
+        "height": 5.6
+      },
+      "scroll": {
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
+      }
+    },
+    "youtubeId": "-LywX3T5Scc"
+  },
+  {
+    "id": "stewart-butterfield",
+    "name": "Stewart Butterfield",
+    "title": "Co-founder, Slack & Flickr",
+    "titleHistory": "Co-founder, Slack & Flickr",
+    "house": "founder",
+    "epithet": "The Architect Sage",
+    "motif": "a glowing blueprint with an iris aperture sigil, representing design vision and the framing of human experience",
+    "introLine": "I have learned that taste and intention, applied with patience and rigor, shape not only products but the markets they will inhabit.",
+    "sealLine": "Go now and build with clarity of purpose—for in a world of noise, simplicity itself becomes a form of magic.",
+    "portrait": "/cards/stewart-butterfield.png",
+    "episode": "Stewart Butterfield on Lenny's Podcast",
+    "cardCount": 10,
+    "overlayZones": {
+      "banner": {
+        "left": 22.0,
+        "right": 22.0,
+        "top": 6.3,
+        "height": 5.6
+      },
+      "scroll": {
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
+      }
+    },
+    "youtubeId": "kLe-zy5r0Mk"
+  },
+  {
+    "id": "ben-horowitz",
+    "name": "Ben Horowitz",
+    "title": "Co-founder, Andreessen Horowitz",
+    "titleHistory": "Co-founder, Andreessen Horowitz",
+    "house": "investor",
+    "epithet": "The Sage of Hard Truths",
+    "motif": "a mirror reflecting an abyss, surrounded by glowing runes of clarity and resolve",
+    "introLine": "Welcome, apprentice. In the abyss lies clarity — those who dare to look shall see paths others miss, and in seeing, master the art of choosing wisely.",
+    "sealLine": "You have learned to face what others flee; go forth and build strength from the truth, for that is the true leverage of leaders.",
+    "portrait": "/cards/ben-horowitz.png",
+    "episode": "Ben Horowitz on Lenny's Podcast",
+    "cardCount": 10,
+    "overlayZones": {
+      "banner": {
+        "left": 21.5,
+        "right": 21.5,
+        "top": 6.0,
+        "height": 5.8
+      },
+      "scroll": {
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
+      }
+    },
+    "youtubeId": "KPxTekxQjzc"
+  },
+  {
+    "id": "sarah-tavel",
+    "name": "Sarah Tavel",
+    "title": "General Partner, Benchmark",
+    "titleHistory": "General Partner, Benchmark",
+    "house": "investor",
+    "epithet": "The Sage of Ambition",
+    "motif": "a glowing laser beam striking a small target within concentric circles, with threads of gold radiating outward",
+    "introLine": "The ambitious founder's eye is sharpened by the market they choose—focus that ambition like a laser beam on what others overlook, and the path to enduring growth reveals itself.",
+    "sealLine": "You have learned the secrets that separate the builders from the dreamers: focus, patience, and the wisdom to know which battles to win.",
+    "portrait": "/cards/sarah-tavel.png",
+    "episode": "Sarah Tavel on Lenny's Podcast",
+    "cardCount": 10,
+    "overlayZones": {
+      "banner": {
+        "left": 21.5,
+        "right": 21.5,
+        "top": 6.0,
+        "height": 5.8
+      },
+      "scroll": {
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
+      }
+    },
+    "youtubeId": "H9g4pzcz6Tk"
+  },
+  {
+    "id": "mike-maples-jr",
+    "name": "Mike Maples, Jr.",
+    "title": "Co-founder, Floodgate",
+    "titleHistory": "Co-founder, Floodgate",
+    "house": "investor",
+    "epithet": "The Sage of Asymmetric Advantage",
+    "motif": "a glowing magnifying glass revealing hidden pathways, set against a dimly-lit landscape",
+    "introLine": "Most investors chase consensus, but the greatest fortunes belong to those who see what others cannot—and act when the world still doubts.",
+    "sealLine": "You have learned that every inflection toward the future begins with a secret the crowd has yet to discover.",
+    "portrait": "/cards/mike-maples-jr.png",
+    "episode": "Mike Maples Jr. on Lenny's Podcast",
+    "cardCount": 10,
+    "overlayZones": {
+      "banner": {
+        "left": 21.5,
+        "right": 21.5,
+        "top": 6.0,
+        "height": 5.8
+      },
+      "scroll": {
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
+      }
+    },
+    "youtubeId": "h9o6gPQA6LA"
+  },
+  {
+    "id": "marty-cagan",
+    "name": "Marty Cagan",
+    "title": "Founder, Silicon Valley Product Group",
+    "titleHistory": "Founder, Silicon Valley Product Group · Author of Inspired",
+    "house": "operator",
+    "epithet": "The Product Sage",
+    "motif": "a glowing product roadmap scroll and a compass rose sigil",
+    "introLine": "Many build features; few understand the forces that shape a product's destiny—mastery lies not in the making, but in knowing what matters.",
+    "sealLine": "Your craft is now refined, and you have glimpsed the truths that separate the builders from the architects.",
+    "portrait": "/cards/marty-cagan.png",
+    "episode": "Marty Cagan on Lenny's Podcast",
+    "cardCount": 10,
+    "overlayZones": {
+      "banner": {
+        "left": 21.0,
+        "right": 21.0,
+        "top": 6.2,
+        "height": 6.0
+      },
+      "scroll": {
+        "left": 17.0,
+        "right": 17.0,
+        "top": 85.5,
+        "height": 8.5
+      }
+    },
+    "youtubeId": "h-KVGHoQ_98"
+  },
+  {
+    "id": "shreyas-doshi",
+    "name": "Shreyas Doshi",
+    "title": "Product leader (Stripe, Twitter, Google)",
+    "titleHistory": "Product leader at Stripe, Twitter, and Google",
+    "house": "operator",
+    "epithet": "The Sage of First Principles",
+    "motif": "a luminous pyramid with layers of light, each revealing a deeper truth",
+    "introLine": "Products are forged not in wishes, but in the clarity of what can truly bend—learn to see beneath the surface, and you shall remake the world around you.",
+    "sealLine": "You have mastered the art of asking the right questions and seeing what others overlook; go forth and shape your world with intent.",
+    "portrait": "/cards/shreyas-doshi.png",
+    "episode": "Shreyas Doshi on Lenny's Podcast",
+    "cardCount": 10,
+    "overlayZones": {
+      "banner": {
+        "left": 21.0,
+        "right": 21.0,
+        "top": 6.2,
+        "height": 6.0
+      },
+      "scroll": {
+        "left": 17.0,
+        "right": 17.0,
+        "top": 85.5,
+        "height": 8.5
+      }
+    },
+    "youtubeId": "YP_QghPLG-8"
+  },
+  {
+    "id": "claire-hughes-johnson",
+    "name": "Claire Hughes Johnson",
+    "title": "Former COO, Stripe; author of Scaling People",
+    "titleHistory": "Former COO, Stripe · Author of Scaling People",
+    "house": "operator",
+    "epithet": "The Sage of Alignment",
+    "motif": "a glowing mirror held between two palms, with threads of gold weaving outward",
+    "introLine": "In the spaces where thought becomes word, and intention becomes action, the mightiest organizations are built—seek clarity, and you shall find your greatest power.",
+    "sealLine": "You have learned that alignment is alchemy; now go forth and make the implicit explicit in all you do.",
+    "portrait": "/cards/claire-hughes-johnson.png",
+    "episode": "Claire Hughes Johnson on Lenny's Podcast",
+    "cardCount": 8,
+    "overlayZones": {
+      "banner": {
+        "left": 21.0,
+        "right": 21.0,
+        "top": 6.2,
+        "height": 6.0
+      },
+      "scroll": {
+        "left": 17.0,
+        "right": 17.0,
+        "top": 85.5,
+        "height": 8.5
+      }
+    },
+    "youtubeId": "Mv0o9o4MRh0"
+  },
+  {
+    "id": "marc-benioff",
+    "name": "Marc Benioff",
+    "title": "Co-founder & CEO, Salesforce",
+    "titleHistory": "Co-founder & CEO of Salesforce",
+    "house": "founder",
+    "epithet": "The Sage of Agile Conquest",
+    "motif": "a spinning mandala overlaid with interlocking gears, each rotating at different speeds yet creating harmonious motion",
+    "introLine": "Welcome, seeker. I have built mountains from dreams, and I have razed them down again. Through meditation and chaos alike, I learned that the true art is orchestrating the whole symphony—knowing when to throw boldly and when to listen deeply to what sticks.",
+    "sealLine": "Remember: the entrepreneurial path is never a perfect line upward, but a rock-and-roll journey. Master the beginner's mind, and you will turn each tactic into timeless strategy.",
+    "portrait": "/cards/marc-benioff.png",
+    "episode": "Marc Benioff on Lenny's Podcast",
+    "cardCount": 10,
+    "youtubeId": "tOGK1nlHdFo",
+    "overlayZones": {
+      "banner": {
+        "left": 22.0,
+        "right": 22.0,
+        "top": 6.3,
+        "height": 5.6
+      },
+      "scroll": {
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
+      }
+    }
+  },
+  {
+    "id": "dharmesh-shah",
+    "name": "Dharmesh Shah",
+    "title": "Co-founder & CTO, HubSpot",
+    "titleHistory": "Co-founder & CTO, HubSpot",
+    "house": "founder",
+    "epithet": "The Builder's Sage",
+    "motif": "a glowing blueprint intertwined with a sprouting seed, casting both clarity and growth",
+    "introLine": "The truest magic lies not in what you build, but in how you build it—culture is the foundation upon which empires of simplicity are raised.",
+    "sealLine": "Go forth knowing that every high-conviction bet, every refusal to love the wrong problem, and every culture you nurture becomes a self-fulfilling prophecy of your own making.",
+    "portrait": "/cards/dharmesh-shah.png",
+    "episode": "Dharmesh Shah on Lenny's Podcast",
+    "cardCount": 10,
+    "youtubeId": "NPTbdmXrG2k",
+    "overlayZones": {
+      "banner": {
+        "left": 22.0,
+        "right": 22.0,
+        "top": 6.3,
+        "height": 5.6
+      },
+      "scroll": {
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
+      }
+    }
+  },
+  {
+    "id": "amjad-masad",
+    "name": "Amjad Masad",
+    "title": "Co-founder & CEO, Replit",
+    "titleHistory": "Co-founder & CEO of Replit",
+    "house": "founder",
+    "epithet": "The Sage of Activation",
+    "motif": "a glowing infinity symbol intertwined with cascading code blocks",
+    "introLine": "I have learned that the true art of creation lies not in talent alone, but in the activation energy you provide—lower the barriers, and a thousand builders will emerge.",
+    "sealLine": "Remember: the compounding effect of access will reshape what humanity can build.",
+    "portrait": "/cards/amjad-masad.png",
+    "episode": "Amjad Masad on Lenny's Podcast",
+    "cardCount": 10,
+    "youtubeId": "Bp_h674oIhw",
+    "overlayZones": {
+      "banner": {
+        "left": 22.0,
+        "right": 22.0,
+        "top": 6.3,
+        "height": 5.6
+      },
+      "scroll": {
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
+      }
+    }
+  },
+  {
+    "id": "mike-krieger",
+    "name": "Mike Krieger",
+    "title": "Co-founder, Instagram; CPO, Anthropic",
+    "titleHistory": "Co-founder of Instagram · Chief Product Officer, Anthropic",
+    "house": "founder",
+    "epithet": "The Sage of Velocity",
+    "motif": "a glowing infinity loop intertwining with a camera lens, crackling with electric energy",
+    "introLine": "When chaos threatens to overwhelm the builder, it is not process alone that saves the work—it is the courage to remake the very foundation while the tower still stands.",
+    "sealLine": "May you recognize the lightning when it arrives, and have the clarity to ride it before others see the storm.",
+    "portrait": "/cards/mike-krieger.png",
+    "episode": "Mike Krieger on Lenny's Podcast",
+    "cardCount": 8,
+    "youtubeId": "DKrBGOFs0GY",
+    "overlayZones": {
+      "banner": {
+        "left": 22.0,
+        "right": 22.0,
+        "top": 6.3,
+        "height": 5.6
+      },
+      "scroll": {
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
+      }
+    }
+  },
+  {
+    "id": "sam-lessin",
+    "name": "Sam Lessin",
+    "title": "General Partner, Slow Ventures",
+    "titleHistory": "VP of Product at Facebook · Two-time founder · General Partner, Slow Ventures",
+    "house": "investor",
+    "epithet": "The Sage of Social Capital",
+    "motif": "a slowburning lantern and an open palm sigil",
+    "introLine": "Every room you enter is a negotiation — the question is whether you know it.",
+    "sealLine": "Go forth with a low heart rate, and the room will come to you.",
+    "portrait": "/cards/sam-lessin.png",
+    "episode": "Sam Lessin on Lenny's Podcast",
+    "cardCount": 10,
+    "youtubeId": "KtKJ3A6DWTs",
+    "overlayZones": {
+      "banner": {
+        "left": 21.5,
+        "right": 21.5,
+        "top": 6.0,
+        "height": 5.8
+      },
+      "scroll": {
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
+      }
+    }
+  },
+  {
+    "id": "andrew-wilkinson",
+    "name": "Andrew Wilkinson",
+    "title": "Co-founder, Tiny",
+    "titleHistory": "Co-founder of Tiny · Investor · Builder of bootstrapped companies",
+    "house": "investor",
+    "epithet": "The Sage of Bootstrapped Empires",
+    "motif": "a compass needle pointing inward and a fortress built from coin and conviction",
+    "introLine": "Those who master the art of building without outside voices will shape empires that move to their own rhythm.",
+    "sealLine": "Remember: the freedom to build is won not by raising capital, but by choosing focus over chasing every glimmer.",
+    "portrait": "/cards/andrew-wilkinson.png",
+    "episode": "Andrew Wilkinson on Lenny's Podcast",
+    "cardCount": 9,
+    "youtubeId": "VxAwUb86MUE",
+    "overlayZones": {
+      "banner": {
+        "left": 21.5,
+        "right": 21.5,
+        "top": 6.0,
+        "height": 5.8
+      },
+      "scroll": {
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
+      }
+    }
+  },
+  {
+    "id": "scott-belsky",
+    "name": "Scott Belsky",
+    "title": "Founder of Behance, former Adobe CPO, investor",
+    "titleHistory": "Founder of Behance · Former Chief Product Officer at Adobe · Investor",
+    "house": "investor",
+    "epithet": "The Sage of Design Intent",
+    "motif": "a glowing design grid with a spark igniting at its center, radiating outward into flowing brushstrokes",
+    "introLine": "Design is not merely decoration—it is the bridge between vision and action, and those who master this craft shape markets.",
+    "sealLine": "You have learned that true product leadership flows from empowering design as a strategic force, not an afterthought.",
+    "portrait": "/cards/scott-belsky.png",
+    "episode": "Scott Belsky on Lenny's Podcast",
+    "cardCount": 10,
+    "youtubeId": "HCKosdV1J-8",
+    "overlayZones": {
+      "banner": {
+        "left": 21.5,
+        "right": 21.5,
+        "top": 6.0,
+        "height": 5.8
+      },
+      "scroll": {
+        "left": 18.0,
+        "right": 18.0,
+        "top": 86.0,
+        "height": 8.0
+      }
+    }
+  },
+  {
+    "id": "seth-godin",
+    "name": "Seth Godin",
+    "title": "Author, founder of altMBA",
+    "titleHistory": "Author and founder of altMBA · Pioneering voice on marketing and product design",
+    "house": "operator",
+    "epithet": "The Sage of Resonance",
+    "motif": "a quill inscribing a ripple through water, surrounded by a brand-mark sigil",
+    "introLine": "Welcome, apprentice. In a world of noise, those who craft something the world didn't expect—yet is glad to see—become the makers of meaning.",
+    "sealLine": "You have learned the art of bringing something true into the world. Go forth, and let your work be of service.",
+    "portrait": "/cards/seth-godin.png",
+    "episode": "Seth Godin on Lenny's Podcast",
+    "cardCount": 10,
+    "youtubeId": "UyWTDmDjNy4",
+    "overlayZones": {
+      "banner": {
+        "left": 21.0,
+        "right": 21.0,
+        "top": 6.2,
+        "height": 6.0
+      },
+      "scroll": {
+        "left": 17.0,
+        "right": 17.0,
+        "top": 85.5,
+        "height": 8.5
+      }
+    }
+  },
+  {
+    "id": "naomi-gleit",
+    "name": "Naomi Gleit",
+    "title": "Head of Product, Meta",
+    "titleHistory": "Head of Product, Meta · Early employee (employee #29)",
+    "house": "operator",
+    "epithet": "The Sage of Alignment",
+    "motif": "a compass rose glowing with interconnected threads, binding disparate paths into one true direction",
+    "introLine": "Greetings, young scholar. In my years building the largest platforms on earth, I learned that most struggles are not of strategy, but of clarity—when teams speak past each other, the mightiest vision crumbles.",
+    "sealLine": "You have studied the art of unity and truth-telling. May you lead with the courage to stand into your fear, and the wisdom to know when your organization has truly begun to speak as one.",
+    "portrait": "/cards/naomi-gleit.png",
+    "episode": "Naomi Gleit on Lenny's Podcast",
+    "cardCount": 10,
+    "youtubeId": "sTYuKgzZoL8",
+    "overlayZones": {
+      "banner": {
+        "left": 21.0,
+        "right": 21.0,
+        "top": 6.2,
+        "height": 6.0
+      },
+      "scroll": {
+        "left": 17.0,
+        "right": 17.0,
+        "top": 85.5,
+        "height": 8.5
+      }
+    }
+  },
+  {
+    "id": "elena-verna",
+    "name": "Elena Verna",
+    "title": "Head of Growth, Lovable",
+    "titleHistory": "Head of Growth at Lovable · Former growth leader at Dropbox, Amplitude, and SurveyMonkey",
+    "house": "operator",
+    "epithet": "The Sage of Growth",
+    "motif": "a rising tide within an hourglass, with golden channels of momentum flowing outward",
+    "introLine": "Growth is the art of turning friction into momentum—expose possibility, remove barriers, and watch the river flow where it wishes to go.",
+    "sealLine": "You have learned that growth lives not in the hustle, but in the clarity born from chaos and the discipline to keep the signal steady.",
+    "portrait": "/cards/elena-verna.png",
+    "episode": "Elena Verna on Lenny's Podcast",
+    "cardCount": 10,
+    "youtubeId": "6qAB6aUMIeA",
+    "overlayZones": {
+      "banner": {
+        "left": 21.0,
+        "right": 21.0,
+        "top": 6.2,
+        "height": 6.0
+      },
+      "scroll": {
+        "left": 17.0,
+        "right": 17.0,
+        "top": 85.5,
+        "height": 8.5
+      }
+    }
+  }
+]
