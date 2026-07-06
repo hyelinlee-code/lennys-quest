@@ -17,6 +17,7 @@ export function freshSave(): SaveGameV1 {
     reviewQueue: [],
     streak: { current: 0, best: 0, lastActiveDate: '' },
     story: { scenesSeen: [], unlockedSpeakers: [] },
+    favorites: [],
   };
 }
 
@@ -24,8 +25,11 @@ function migrate(raw: unknown): SaveGame {
   if (!raw || typeof raw !== 'object' || !('version' in raw)) return freshSave();
   const save = raw as { version: number };
   switch (save.version) {
-    case 1:
-      return raw as SaveGameV1;
+    case 1: {
+      const v1 = raw as SaveGameV1;
+      // fields added after the v1 launch — backfill on saves created before them
+      return { ...v1, favorites: v1.favorites ?? [] };
+    }
     // future: case 2 migration goes here (post-MVP SRS fields)
     default:
       return freshSave();

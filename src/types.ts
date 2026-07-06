@@ -65,6 +65,8 @@ export interface Speaker {
   cardCount: number;
   /** Per-image plaque positions; falls back to the default CSS zones when absent */
   overlayZones?: { banner: Zone; scroll: Zone };
+  /** Lenny's Podcast episode video on YouTube — enables timestamp deep links */
+  youtubeId?: string;
 }
 
 // ---------- Runtime save state (localStorage only) ----------
@@ -85,6 +87,8 @@ export interface SaveGameV1 {
   reviewQueue: string[];
   streak: { current: number; best: number; lastActiveDate: string };
   story: { scenesSeen: string[]; unlockedSpeakers: string[] };
+  /** Favorited card ids (added post-v1; loadSave backfills [] on old saves) */
+  favorites: string[];
 }
 
 export type SaveGame = SaveGameV1;

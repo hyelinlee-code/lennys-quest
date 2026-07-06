@@ -6,7 +6,7 @@ import { ProgressBars } from '../components/ProgressBars';
 import { TiltCard, shortExcerpt } from '../components/TiltCard';
 import { HOUSES, type Card, type House } from '../types';
 
-type Tab = 'all' | House;
+type Tab = 'all' | 'fav' | House;
 
 export function DexScreen({ focusCardId }: { focusCardId?: string }) {
   const { state, dispatch } = useGame();
@@ -18,10 +18,11 @@ export function DexScreen({ focusCardId }: { focusCardId?: string }) {
   );
 
   const speakerHouse = useMemo(() => new Map(speakers.map((s) => [s.id, s.house])), [speakers]);
-  const visible = useMemo(
-    () => (tab === 'all' ? cards : cards.filter((c) => speakerHouse.get(c.speakerId) === tab)),
-    [cards, tab, speakerHouse],
-  );
+  const visible = useMemo(() => {
+    if (tab === 'all') return cards;
+    if (tab === 'fav') return cards.filter((c) => save.favorites.includes(c.id));
+    return cards.filter((c) => speakerHouse.get(c.speakerId) === tab);
+  }, [cards, tab, speakerHouse, save.favorites]);
 
   const captured = visible.filter((c) => cardMastery(save, c.id) >= 1).length;
   const mastered = visible.filter((c) => cardMastery(save, c.id) >= 2).length;
@@ -46,7 +47,7 @@ export function DexScreen({ focusCardId }: { focusCardId?: string }) {
         </div>
         <ProgressBars captured={captured} mastered={mastered} total={visible.length} />
         <div className="flex flex-wrap gap-2">
-          {(['all', 'founder', 'investor', 'operator'] as Tab[]).map((t) => (
+          {(['all', 'fav', 'founder', 'investor', 'operator'] as Tab[]).map((t) => (
             <button
               key={t}
               onClick={() => setTab(t)}
@@ -56,7 +57,7 @@ export function DexScreen({ focusCardId }: { focusCardId?: string }) {
                   : 'border-[rgba(220,200,150,0.2)] bg-transparent text-[#9c8a6a] hover:text-[#e2d3b2]'
               }`}
             >
-              {t === 'all' ? 'All' : HOUSES[t].name}
+              {t === 'all' ? 'All' : t === 'fav' ? `♥ Favorites (${save.favorites.length})` : HOUSES[t].name}
             </button>
           ))}
         </div>
@@ -110,6 +111,15 @@ export function DexScreen({ focusCardId }: { focusCardId?: string }) {
                   {selMastery === 2 ? '★★' : selMastery === 1 ? '★☆' : '☆☆'}
                 </span>
                 {selDue && <span className="text-[11px] italic text-[#cbb7de]">ink fading</span>}
+                <button
+                  className="cursor-pointer border-none bg-transparent text-[19px] leading-none"
+                  style={{ color: save.favorites.includes(selected.id) ? '#e0698a' : '#6f6450' }}
+                  onClick={() => dispatch({ type: 'TOGGLE_FAVORITE', cardId: selected.id })}
+                  aria-label="Favorite"
+                  title="Favorite"
+                >
+                  {save.favorites.includes(selected.id) ? '♥' : '♡'}
+                </button>
               </div>
               <h2 className="font-cinzel m-0 text-2xl font-bold lowercase text-[#f0e2c2]">
                 {selMastery === 0 ? '? ? ?' : selected.keyPhrase.text}

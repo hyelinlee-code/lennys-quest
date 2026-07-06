@@ -14,6 +14,7 @@ type Action =
   | { type: 'SET_NAME'; name: string }
   | { type: 'SCENE_SEEN'; sceneId: string }
   | { type: 'UNLOCK_SPEAKER'; speakerId: string }
+  | { type: 'TOGGLE_FAVORITE'; cardId: string }
   | { type: 'QUIZ_PASSED'; cardId: string; mode: 'capture' | 'master' }
   | { type: 'QUIZ_FAILED'; cardId: string }
   | { type: 'NEXT_DAY' }
@@ -46,6 +47,18 @@ function reducer(state: GameState, action: Action): GameState {
             ...state.save.story,
             unlockedSpeakers: [...state.save.story.unlockedSpeakers, action.speakerId],
           },
+        },
+      };
+    }
+    case 'TOGGLE_FAVORITE': {
+      const has = state.save.favorites.includes(action.cardId);
+      return {
+        ...state,
+        save: {
+          ...state.save,
+          favorites: has
+            ? state.save.favorites.filter((id) => id !== action.cardId)
+            : [...state.save.favorites, action.cardId],
         },
       };
     }

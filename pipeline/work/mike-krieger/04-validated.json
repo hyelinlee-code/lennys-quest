@@ -1,0 +1,288 @@
+{
+  "cards": [
+    {
+      "id": "mike-krieger-001",
+      "speakerId": "mike-krieger",
+      "sentence": "We had to completely re-architect it because so much more code was being written and so many more pull requests were being submitted that it just completely blew out the expectations of it.",
+      "keyPhrase": {
+        "text": "blow out the expectations",
+        "surface": "blew out the expectations",
+        "meaning_ko": "예상치를 훌쩍 뛰어넘어 기존 계획이나 시스템이 감당하지 못할 지경이 되다",
+        "usageTip": "Use this when actual results or demand have so dramatically exceeded a forecast that the original plan is no longer viable — common in engineering postmortems and growth reviews.",
+        "chips": [
+          "blow",
+          "out",
+          "the",
+          "expectations"
+        ],
+        "distractorChips": [
+          "meet",
+          "miss"
+        ]
+      },
+      "context": "Mike Krieger is describing how Anthropic's internal AI coding tools scaled so rapidly that the supporting infrastructure couldn't keep up. The sheer volume of AI-generated code and pull requests completely overwhelmed the system's original design.",
+      "vocabulary": [
+        {
+          "word": "re-architect",
+          "meaning": "to redesign the fundamental structure of a system from the ground up",
+          "note": "Common in software engineering when incremental fixes are no longer sufficient.",
+          "synonyms": [
+            "restructure",
+            "redesign",
+            "rebuild"
+          ]
+        }
+      ],
+      "topics": [
+        "Product Management",
+        "Strategy & Planning"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "00:12:57"
+    },
+    {
+      "id": "mike-krieger-002",
+      "speakerId": "mike-krieger",
+      "sentence": "We really rapidly became bottlenecked on other things like our merge queue, which is the get in line to get your change accepted by the system that then deploys into production.",
+      "keyPhrase": {
+        "text": "bottleneck on",
+        "surface": "became bottlenecked on",
+        "meaning_ko": "특정 단계가 발목을 잡아 전체 흐름이 꽉 막히다",
+        "usageTip": "Use this to identify a specific stage that is slowing your entire pipeline or team — essential vocabulary for engineering, operations, and product scaling conversations.",
+        "chips": [
+          "bottleneck",
+          "on"
+        ],
+        "distractorChips": [
+          "sped",
+          "unblocked"
+        ]
+      },
+      "context": "Mike Krieger is explaining how Anthropic's engineering workflow hit a ceiling after AI dramatically increased code output. Even after addressing one constraint, new chokepoints like the merge queue — the line of code changes waiting to be approved and deployed — quickly emerged.",
+      "vocabulary": [
+        {
+          "word": "merge queue",
+          "meaning": "a system that manages the order in which code changes are integrated into the main codebase before deployment",
+          "note": "Used in software engineering to prevent conflicts when many contributors submit changes simultaneously."
+        },
+        {
+          "word": "production",
+          "meaning": "the live environment where software runs for real users, as opposed to a test or staging environment",
+          "note": "Deploying to production means releasing changes to actual users.",
+          "synonyms": [
+            "live environment",
+            "prod"
+          ]
+        }
+      ],
+      "topics": [
+        "Product Management",
+        "Strategy & Planning"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:12:57"
+    },
+    {
+      "id": "mike-krieger-003",
+      "speakerId": "mike-krieger",
+      "sentence": "I think maybe two things are true. One is consumer adoption is really lightning in a bottle and we saw it at Instagram.",
+      "keyPhrase": {
+        "text": "lightning in a bottle",
+        "meaning_ko": "다시 잡으려 해도 잡을 수 없는, 단 한 번뿐인 기적 같은 순간이나 현상",
+        "usageTip": "Use this when describing a product breakthrough or growth moment that succeeded due to a unique, unrepeatable combination of timing, market, and luck — often in fundraising or strategy discussions.",
+        "chips": [
+          "lightning",
+          "in",
+          "a",
+          "bottle"
+        ],
+        "distractorChips": [
+          "predictable",
+          "routine"
+        ]
+      },
+      "context": "Mike Krieger is reflecting on what drives explosive consumer product success, drawing on his experience building Instagram. He argues that the kind of viral consumer adoption Instagram achieved is an extraordinarily rare phenomenon that can't simply be engineered on demand.",
+      "vocabulary": [],
+      "topics": [
+        "Growth & Marketing",
+        "Starting a Company"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "common",
+      "timestamp": "00:43:50"
+    },
+    {
+      "id": "mike-krieger-004",
+      "speakerId": "mike-krieger",
+      "sentence": "look yourself in the mirror and embrace who you are and what you could be rather than who others are",
+      "keyPhrase": {
+        "text": "look yourself in the mirror",
+        "meaning_ko": "남과 비교하지 않고 자기 자신을 있는 그대로 직시하다",
+        "usageTip": "Use this in leadership or strategy conversations to call for honest self-assessment instead of reactive comparison to competitors.",
+        "chips": [
+          "look",
+          "yourself",
+          "in",
+          "the",
+          "mirror"
+        ],
+        "distractorChips": [
+          "deflect",
+          "imitate"
+        ]
+      },
+      "context": "Mike Krieger is offering advice on how founders and companies should approach competitive strategy. Rather than benchmarking obsessively against rivals, he advocates for deep self-awareness — understanding your own unique strengths and building from there.",
+      "vocabulary": [],
+      "topics": [
+        "Leadership & Management",
+        "Decision Making"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:43:50"
+    },
+    {
+      "id": "mike-krieger-005",
+      "speakerId": "mike-krieger",
+      "sentence": "finding that balance is really key, which is what are the times to engage? I like to say internally, Claude has no chill.",
+      "keyPhrase": {
+        "text": "have no chill",
+        "surface": "has no chill",
+        "meaning_ko": "분위기 파악 없이 나댈 때와 빠질 때를 구분하지 못하다",
+        "usageTip": "Use this in casual or semi-formal business conversation to describe someone (or a system) that consistently misjudges how much to engage — helpful when discussing AI behavior, team dynamics, or communication style.",
+        "chips": [
+          "have",
+          "no",
+          "chill"
+        ],
+        "distractorChips": [
+          "reserved",
+          "composed"
+        ]
+      },
+      "context": "Mike Krieger is describing the challenge of deploying AI models like Claude in collaborative social settings such as Slack. Without careful tuning, AI tends to either over-contribute or go silent — it has no intuitive sense of when to speak and when to stay quiet.",
+      "vocabulary": [],
+      "topics": [
+        "Communication Skills",
+        "Product Management"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:59:44"
+    },
+    {
+      "id": "mike-krieger-006",
+      "speakerId": "mike-krieger",
+      "sentence": "\"Yeah, I probably would've taken this thing on for another six months, but saw what you guys did, realized we were barking up the wrong tree, made the call.\"",
+      "keyPhrase": {
+        "text": "bark up the wrong tree",
+        "surface": "barking up the wrong tree",
+        "meaning_ko": "애초에 잘못된 방향을 향해 헛된 노력을 쏟다",
+        "usageTip": "Use this to diplomatically signal that an effort, strategy, or assumption is fundamentally misdirected — useful in feedback conversations, pivots, or competitive analysis.",
+        "chips": [
+          "bark",
+          "up",
+          "the",
+          "wrong",
+          "tree"
+        ],
+        "distractorChips": [
+          "right",
+          "track"
+        ]
+      },
+      "context": "Mike Krieger is recounting conversations with other founders who reconsidered their own paths after watching Anthropic make a difficult, high-profile strategic decision. Seeing a comparable company change course helped them recognize sooner that their own approach was heading in the wrong direction.",
+      "vocabulary": [],
+      "topics": [
+        "Decision Making",
+        "Leadership & Management"
+      ],
+      "difficulty": "beginner",
+      "rarity": "common",
+      "timestamp": "00:41:19"
+    },
+    {
+      "id": "mike-krieger-007",
+      "speakerId": "mike-krieger",
+      "sentence": "One is pushing the frontier of the models and then having a repeatable process. This actually goes back to our summit conversation repeatable way to evaluate how well your product is serving those use cases",
+      "keyPhrase": {
+        "text": "push the frontier",
+        "surface": "pushing the frontier",
+        "meaning_ko": "해당 분야에서 현재 가능한 것의 한계를 의도적으로 밀어 넓히다",
+        "usageTip": "Use this in product or R&D conversations to describe intentional, ongoing efforts to advance beyond current industry benchmarks — often paired with a discussion of how progress will be measured.",
+        "chips": [
+          "push",
+          "the",
+          "frontier"
+        ],
+        "distractorChips": [
+          "maintain",
+          "retreat"
+        ]
+      },
+      "context": "Mike Krieger is outlining Anthropic's two-part product strategy: continuously advancing the capability of its AI models while also building systematic evaluation processes to ensure those improvements actually translate into better user outcomes.",
+      "vocabulary": [
+        {
+          "word": "repeatable",
+          "meaning": "capable of being executed consistently and reliably across different iterations or teams",
+          "note": "In product and engineering contexts, a repeatable process is one that can be systematized rather than depending on one-off heroics.",
+          "synonyms": [
+            "scalable",
+            "systematic",
+            "consistent"
+          ]
+        }
+      ],
+      "topics": [
+        "Product Management",
+        "Strategy & Planning"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "00:52:29"
+    },
+    {
+      "id": "mike-krieger-008",
+      "speakerId": "mike-krieger",
+      "sentence": "or do we call it and see that it's run its course and try to find a home for it, et cetera.",
+      "keyPhrase": {
+        "text": "call it",
+        "meaning_ko": "더 이상 미루지 않고 끝났음을 선언하며 마침표를 찍다",
+        "usageTip": "Use this when a leadership team needs to make a firm, final decision to stop a project, end a strategy, or close a chapter — it conveys decisiveness without blame.",
+        "chips": [
+          "call",
+          "it"
+        ],
+        "distractorChips": [
+          "extend",
+          "revisit"
+        ]
+      },
+      "context": "Mike Krieger is walking through the difficult internal debate around shutting down a product or initiative that has stopped showing a clear path forward. The question is whether to keep investing resources in hope of a turnaround or to make the hard call to wind it down while there is still time to find alternatives.",
+      "vocabulary": [],
+      "topics": [
+        "Decision Making",
+        "Leadership & Management"
+      ],
+      "difficulty": "intermediate",
+      "rarity": "rare",
+      "timestamp": "00:39:26"
+    }
+  ],
+  "speaker": {
+    "id": "mike-krieger",
+    "name": "Mike Krieger",
+    "title": "Co-founder, Instagram; CPO, Anthropic",
+    "titleHistory": "Co-founder of Instagram · Chief Product Officer, Anthropic",
+    "house": "founder",
+    "epithet": "The Sage of Velocity",
+    "motif": "a glowing infinity loop intertwining with a camera lens, crackling with electric energy",
+    "introLine": "When chaos threatens to overwhelm the builder, it is not process alone that saves the work—it is the courage to remake the very foundation while the tower still stands.",
+    "sealLine": "May you recognize the lightning when it arrives, and have the clarity to ride it before others see the storm.",
+    "portrait": "/cards/mike-krieger.png",
+    "episode": "Mike Krieger on Lenny's Podcast",
+    "cardCount": 8
+  }
+}

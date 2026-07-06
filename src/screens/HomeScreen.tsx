@@ -37,6 +37,22 @@ export function HomeScreen() {
     }
   }
 
+  /** I feel lucky: due review > fresh teaching > random re-study. */
+  function feelingLucky() {
+    if (cards.length === 0) return;
+    const pick = <T,>(arr: T[]) => arr[Math.floor(Math.random() * arr.length)];
+    const due = save.reviewQueue.filter((id) => (save.cards[id]?.mastery ?? 0) === 1);
+    if (due.length > 0) {
+      dispatch({ type: 'TOAST', message: '🎲 The ink calls you back…' });
+      dispatch({ type: 'GOTO', screen: { name: 'quiz', cardId: pick(due), mode: 'master', from: 'audience' } });
+      return;
+    }
+    const fresh = cards.filter((c) => (save.cards[c.id]?.mastery ?? 0) === 0);
+    const pool = fresh.length > 0 ? fresh : cards;
+    dispatch({ type: 'TOAST', message: fresh.length > 0 ? '🎲 A new teaching finds you!' : '🎲 Worth a second look…' });
+    dispatch({ type: 'GOTO', screen: { name: 'study', cardId: pick(pool).id, from: 'audience' } });
+  }
+
   const questLabel =
     reviews > 0
       ? `Today's Quest (${reviews} review · ${newRemaining} new)`
@@ -84,6 +100,9 @@ export function HomeScreen() {
           </button>
           <button className="btn-ghost bg-[rgba(8,6,13,0.55)] py-3.5" onClick={() => dispatch({ type: 'GOTO', screen: { name: 'dex' } })}>
             My Grimoire
+          </button>
+          <button className="btn-ghost bg-[rgba(8,6,13,0.55)] py-3" onClick={feelingLucky} disabled={loading}>
+            🎲 I feel lucky
           </button>
         </div>
       </div>

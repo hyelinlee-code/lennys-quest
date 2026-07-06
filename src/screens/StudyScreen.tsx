@@ -3,6 +3,12 @@ import { useGame } from '../game/GameProvider';
 import { useCards } from '../hooks/useCards';
 import type { Card } from '../types';
 
+/** "MM:SS" or "HH:MM:SS" → seconds for YouTube deep links */
+function toSeconds(ts: string): number {
+  const parts = ts.split(':').map(Number);
+  return parts.reduce((acc, p) => acc * 60 + p, 0);
+}
+
 /** Split the sentence around the key phrase occurrence for highlighting. */
 function splitSentence(card: Card): { before: string; match: string; after: string } | null {
   const { sentence } = card;
@@ -40,6 +46,16 @@ export function StudyScreen({ cardId, from }: { cardId: string; from: 'audience'
     <div className="mx-auto min-h-screen max-w-2xl px-4 py-8">
       <div className="mb-6 flex items-center justify-between">
         <span className="text-[13px] italic text-[#b98b46]">A teaching from {speaker?.name ?? card.speakerId}</span>
+        <div className="flex items-center gap-2">
+        <button
+          className="cursor-pointer border-none bg-transparent text-[22px] leading-none"
+          style={{ color: state.save.favorites.includes(card.id) ? '#e0698a' : '#6f6450' }}
+          onClick={() => dispatch({ type: 'TOGGLE_FAVORITE', cardId: card.id })}
+          aria-label="Favorite"
+          title="Favorite"
+        >
+          {state.save.favorites.includes(card.id) ? '♥' : '♡'}
+        </button>
         <button
           className="btn-ghost"
           onClick={() =>
@@ -54,6 +70,7 @@ export function StudyScreen({ cardId, from }: { cardId: string; from: 'audience'
         >
           ← Back
         </button>
+        </div>
       </div>
 
       {/* full sentence with highlighted key phrase */}
@@ -72,9 +89,22 @@ export function StudyScreen({ cardId, from }: { cardId: string; from: 'audience'
         )}
         ”
       </blockquote>
-      <div className="font-cinzel mb-6 text-[11px] uppercase tracking-[1.5px] text-[#b98b46]">
-        — {speaker?.name ?? card.speakerId}
-        {card.timestamp ? ` · ${card.timestamp}` : ''}
+      <div className="font-cinzel mb-6 flex items-center gap-3 text-[11px] uppercase tracking-[1.5px] text-[#b98b46]">
+        <span>
+          — {speaker?.name ?? card.speakerId}
+          {card.timestamp ? ` · ${card.timestamp}` : ''}
+        </span>
+        {speaker?.youtubeId && card.timestamp && (
+          <a
+            className="btn-ghost px-3 py-1.5 normal-case tracking-normal no-underline"
+            href={`https://www.youtube.com/watch?v=${speaker.youtubeId}&t=${toSeconds(card.timestamp)}s`}
+            target="_blank"
+            rel="noreferrer"
+            title="May be off by a few seconds (episode intros/ads)"
+          >
+            ▶ Listen on YouTube
+          </a>
+        )}
       </div>
 
       {/* key phrase card — meaning_ko is the one Korean element in the app */}
